@@ -1,0 +1,1576 @@
+{
+ "meta": {
+  "generated": "2026-11-24",
+  "method": "60 web searches; values taken from search-result summaries only (no pages were opened), so every value should be spot-checked in game. Source URLs are the pages the summaries attributed the statement to; where attribution was ambiguous the candidate pages are listed.",
+  "field_notes": {
+   "area": "Copied from the input file to disambiguate duplicate names.",
+   "basis": "exact = statement about this specific vehicle/spawn; model = statement about the base model in a database or guide, not a scan of this specific spawn.",
+   "verified": "true only when every non-null access/security/tracker value (or, if all three are null, the price value) is backed by two independent sources or by a structured database entry for that exact vehicle/model.",
+   "verified_fields": "Which individual fields meet that bar.",
+   "register_cost": "0 = registered for free; null = not stated or cannot be registered."
+  }
+ },
+ "rules": [
+  {
+   "rule_ru": "Скан WAiNK показывает пять полей: Access (Unlocked / Locked / Key Cloner), Security (None / Alarmed / Deactivated), Tracker (None / Standard = жёлтый значок / Advanced = красный значок), Sell Value и Cost to Register. Цена продажи и регистрации появляются в скане со 2-й главы.",
+   "rule_en": "The WAiNK scan reports five fields: Access, Security, Tracker (None / Standard = yellow icon / Advanced = red icon), Sell Value and Cost to Register; the two money fields appear from Chapter 2.",
+   "sources": [
+    "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles",
+    "https://tech.yahoo.com/gaming/articles/dont-steal-another-gta-6-162152473.html",
+    "https://libertycity.net/guides/gta-6/10610-gta-6-waink-scanner-guide-how-to-check.html",
+    "https://meowdb.com/gta6/owning-cars",
+    "https://space4games.com/en/games-en/gta-6-remove-tracker-register-car-guide/"
+   ],
+   "agree": true
+  },
+  {
+   "rule_ru": "Уровень трекера в основном зависит от класса/цены машины: дешёвые машины обычно без трекера, средний сегмент — Standard, суперкары и дорогие спорткары — Advanced. Это тенденция, а не жёсткое правило (в трафике встречаются среднеценовые спорткары без трекера).",
+   "rule_en": "Tracker tier mostly follows how high-end the vehicle is: cheap cars usually None, mid-range Standard, supercars/expensive sports cars Advanced. A tendency, not a hard rule (some mid-range performance cars in traffic have none).",
+   "sources": [
+    "https://gta.tech4gamers.com/gta-6/guides/vehicle-trackers/",
+    "https://vicemissions.com/guides/car-trackers",
+    "https://gamedaily.com/games/gta-6-how-to-beat-vehicle-trackers",
+    "https://game8.co/games/GTA-6/archives/639138"
+   ],
+   "agree": true
+  },
+  {
+   "rule_ru": "Старые машины вскрываются и заводятся проводами (Slim Jim со 2-й главы); современные бесключевые машины требуют Key Cloner (выдаёт Рэнди в миссии 3-й главы «Clonin' Keys, Makin' Gs» — угон Zorrusso), разбитое окно двигатель не заведёт. Advanced-трекеры стоят в основном на тех же бесключевых суперкарах, которым нужен Key Cloner.",
+   "rule_en": "Older cars can be broken into and hotwired (Slim Jim from Chapter 2); modern keyless cars need the Key Cloner (from Randy in the Chapter 3 mission 'Clonin' Keys, Makin' Gs'), smashing a window will not start them. Advanced trackers are mostly found on the same keyless supercars that need the Key Cloner.",
+   "sources": [
+    "https://www.keengamer.com/articles/guides/gta-6-how-to-steal-any-car-key-cloner-slim-jim-trackers/",
+    "https://www.gtaboom.com/gta-6-vehicle-theft-security-13aa",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/",
+    "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "agree": true
+  },
+  {
+   "rule_ru": "Список желаний Рэнди: почти все машины угоняются только с Key Cloner и почти все с трекером. Один гайд пишет, что у всех машин списка Advanced-трекер, другой — что встречаются и Standard, и Advanced (например, скан Benefactor Dubsta на MeowDB: Key Cloner / Alarmed / Standard). То есть «всё у Рэнди = Key Cloner + Advanced» подтверждается лишь частично.",
+   "rule_en": "Randy's Wish List: almost every car needs the Key Cloner and almost every car has a tracker. One guide says every list car carries an Advanced tracker, another says both Standard and Advanced occur (e.g. MeowDB's Benefactor Dubsta scan: Key Cloner / Alarmed / Standard). So 'all Randy cars = Key Cloner + Advanced' is only partly supported.",
+   "sources": [
+    "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+    "https://neoncoast.org/randys-wish-list",
+    "https://outputlag.com/guides/gta-6-randy-wishlist-cars/",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+    "https://meowdb.com/gta6/vehicles/benefactor-dubsta"
+   ],
+   "agree": false
+  },
+  {
+   "rule_ru": "Что делает трекер и где регистрировать: без трекера — у Мозеса (Порт-Геллхорн, со 2-й главы) или в любом Pay 'n' Spray с 3-й главы; Standard — машину нельзя тюнинговать до регистрации, регистрируется/продаётся в Pay 'n' Spray с начала 3-й главы; Advanced — сообщает полиции местоположение, когда вы едете медленно или стоите, регистрация открывается только после прохождения цепочки Рэнди, такие машины покупает Рэнди (Бальсеро). Мозес не берёт машины с трекером и угнанные рядом с его гаражом.",
+   "rule_en": "Tracker effects and where to register: None -> Moses (Port Gellhorn, Chapter 2) or any Pay 'n' Spray from Chapter 3; Standard -> cannot be modified until registered, register/sell at Pay 'n' Spray from early Chapter 3; Advanced -> reports your position to police while you drive slowly or stop, registration only after finishing Randy's questline, Randy (Balsero) buys them. Moses refuses tracked cars and cars stolen near his garage. (Sources differ on whether a Standard tracker also reveals where the car was stolen.)",
+   "sources": [
+    "https://www.shacknews.com/article/151426/stealing-cars-explained-gta6",
+    "https://vicemissions.com/guides/car-trackers",
+    "https://metaforge.app/gta-6/gta-6-how-to-sell-register-cars-trackers",
+    "https://www.gtabase.com/gta-6/articles/gta-6-fence-locations-all-fences-what-they-buy",
+    "https://game8.co/games/GTA-6/archives/639138",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+    "https://www.slashgear.com/2323394/how-to-register-car-gta-6/",
+    "https://dotesports.com/gta/guides/gta-6-steal-cars-register-as-own"
+   ],
+   "agree": true
+  },
+  {
+   "rule_ru": "Стоимость регистрации: первая регистрация у Мозеса бесплатна, дальше платится Cost to Register из скана. GTABase: регистрация стоит примерно в 2–3 раза больше цены продажи; другой гайд насчитал 6–7 раз. Sell Value зависит от состояния машины (ремонт перед продажей повышает цену), поэтому у одной модели разные сканы дают разные суммы.",
+   "rule_en": "Registration cost: the first registration at Moses is free, afterwards you pay the scan's Cost to Register. GTABase says registering costs about 2-3x the sell value; another guide measured 6-7x. Sell Value depends on condition (repairing before selling raises it), so the same model scans with different sell values.",
+   "sources": [
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://space4games.com/en/games-en/gta-6-remove-tracker-register-car-guide/",
+    "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register",
+    "https://gta6heat.com/standout-vehicles"
+   ],
+   "agree": false
+  },
+  {
+   "rule_ru": "Зарегистрировать можно только автомобили и мотоциклы. Лодки и гидроциклы, самолёты и вертолёты, служебные (полиция, скорая) и военные машины (танки, истребители) зарегистрировать нельзя — у них нет Cost to Register.",
+   "rule_en": "Only cars and motorcycles can be registered. Boats/jet skis, planes/helicopters, service vehicles (police, ambulance) and military vehicles (tanks, fighter jets) cannot be registered, so they have no Cost to Register.",
+   "sources": [
+    "https://game8.co/games/GTA-6/archives/639415",
+    "https://hosting.astroworldmc.com/guides/gta6/gta-6-planes-helicopters-boats-and-cars"
+   ],
+   "agree": true
+  },
+  {
+   "rule_ru": "Военная техника несёт постоянный трекер: GTABase указывает у Mammoth Patriot '92 трекер «Military» и не даёт цены регистрации (Destructoid: зарегистрировать нельзя); угон истребителя сразу даёт 5 звёзд, а за угнанным из аэропорта Вайс-Сити джетом вылетают истребители.",
+   "rule_en": "Military vehicles carry a permanent tracker: GTABase lists the Mammoth Patriot '92 tracker as 'Military' with no registration price (Destructoid: cannot be registered); stealing a fighter jet gives five stars, and jets taken from Vice City International are chased by fighter jets.",
+   "sources": [
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://www.destructoid.com/cars-with-the-highest-sell-value-in-gta-6/",
+    "https://outputlag.com/guides/gta-6-cars-vehicles/",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ],
+   "agree": true
+  },
+  {
+   "rule_ru": "Standout-машины: у каждой фиксированная точка появления и она со временем возвращается туда; уникальные детали можно потерять, сняв их в тюнинг-ателье. Многие Standout без трекера (их можно рано зарегистрировать у Мозеса), а самые быстрые (Vitello, Thrax, Emerus, Zorrusso, Infernus, RSX) требуют Key Cloner и дороги в регистрации. Цена регистрации Standout не всегда равна базовой модели (Pink Gin Tulip $2,450 против $8,200; Charred Toros $8,950 против $29,900), хотя у суперкаров часто совпадает (Status RSX $40,650; Gold Rope Infernus $34,750; Class Act Comet $34,250).",
+   "rule_en": "Standout vehicles: each has a fixed spawn and returns there after a while; unique parts can be lost if removed at a mod shop. Many standouts have no tracker (Moses can register them early) while the fastest ones (Vitello, Thrax, Emerus, Zorrusso, Infernus, RSX) need the Key Cloner and are expensive to register. A standout's registration cost is not always the base model's (Pink Gin Tulip $2,450 vs $8,200; Charred Toros $8,950 vs $29,900) although for supercars it often matches (Status RSX $40,650; Gold Rope Infernus $34,750; Class Act Comet $34,250).",
+   "sources": [
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them",
+    "https://gta6heat.com/standout-vehicles",
+    "https://www.gtabase.com/gta-6/articles/gta-6-mod-shops-repairs-guide",
+    "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register"
+   ],
+   "agree": true
+  },
+  {
+   "rule_ru": "Машины на нелегальных операциях (наблюдение, а не сформулированное в гайдах правило): все три найденных примера открыты и без активной охраны — Royal Ruby Emerus (Unlocked, сигнализация выключена), Charred Toros (Unlocked, без трекера и активной охраны, регистрация всего $8,950), Truth & Justice Caracara (Unlocked, сигнализация выключена, без трекера). Ни один гайд не заявляет это как общее правило.",
+   "rule_en": "Cars at illegal operations (an observed pattern, not a rule any guide states): all three examples found are unlocked with no active security - Royal Ruby Emerus (Unlocked, alarm off), Charred Toros (Unlocked, no tracker or active security, only $8,950 to register), Truth & Justice Caracara (Unlocked, alarm off, no tracker). No guide states it as a general rule.",
+   "sources": [
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+    "https://beebom.com/gta-6-pegassi-toros/",
+    "https://meowdb.com/gta6/vehicles/vapid-truth-and-justice-caracara",
+    "https://meowdb.com/gta6/vehicles/progen-royal-ruby-emerus",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them"
+   ],
+   "agree": false
+  },
+  {
+   "rule_ru": "Мотоциклы: правило «у мотоциклов никогда нет трекера» НЕ подтверждено. Гайды пишут, что байки сканируются как машины: без трекера — к Мозесу, со Standard-трекером — в Pay 'n' Spray с 3-й главы (то есть трекеры у байков бывают). Большинство байков открыты или заводятся проводами, бесключевых мало. Один гайд прямо говорит, что источников по охране байков нет. Примеры без трекера: Western Nightblade, базовый Maibatsu Manchez.",
+   "rule_en": "Motorcycles: 'bikes never have trackers' is NOT confirmed. Guides say bikes are scanned like cars: no tracker -> Moses, Standard tracker -> Pay 'n' Spray from Chapter 3 (so bikes can carry trackers). Most bikes are open or hotwirable, few are keyless. One guide says no source documents bike security tiers. No-tracker examples: Western Nightblade, base Maibatsu Manchez.",
+   "sources": [
+    "https://esports.gg/guides/grand-theft-auto-6/how-to-sell-cars-motorcycles-and-bikes-for-money-in-gta-6/",
+    "https://www.gtaboom.com/gta-6-vehicle-theft-security-13aa",
+    "https://www.dexerto.com/wikis/gta-6/vehicles/tag/tracker-none/",
+    "https://metaforge.app/gta-6/gta-6-how-to-sell-register-cars-trackers"
+   ],
+   "agree": false
+  },
+  {
+   "rule_ru": "Лодки: старые лодки можно угнать с самого начала, а современные яхты и дорогие бесключевые катера закрыты до получения Key Cloner; гидроциклы Seashark отбираются у NPC уже в 1-й главе. (Один источник.)",
+   "rule_en": "Boats: older boats can be taken from the start, while modern luxury yachts and high-end keyless speedboats stay locked until you have the Key Cloner; Seashark jet skis can be hijacked from NPC riders in Chapter 1. (Single source.)",
+   "sources": [
+    "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats",
+    "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles"
+   ],
+   "agree": false
+  },
+  {
+   "rule_ru": "Вертолёты: общего правила о трекерах на вертолётах ни один гайд не даёт. По заметкам карт несколько гражданских вертолётов на площадках открыты (Maverick на крыше больницы Вайс-Бич, Maverick рейнджеров нацпарка, Maverick на причале Саутвинд), а Buckingham SuperVolito помечен «без трекера».",
+   "rule_en": "Helicopters: no guide states a general tracker rule for helicopters. Per map notes several civilian helicopters on helipads are unlocked (Vice Beach hospital-roof Maverick, National Park Rangers Maverick, Southwind dock Maverick) and the Buckingham SuperVolito is noted as having no tracker.",
+   "sources": [
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+    "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6"
+   ],
+   "agree": false
+  },
+  {
+   "rule_ru": "Одна и та же модель может сканироваться по-разному в разных местах: у '64 Mamba GT на MeowDB два скана — Unlocked / Deactivated / None и Locked / Advanced; у Andrew Node's Thrax (Standout) по GTABase нет трекера и сигнализации, хотя обычный Thrax идёт с Advanced. Данные модели нельзя автоматически переносить на конкретную точку — сканируйте каждую машину.",
+   "rule_en": "The same model can scan differently at different spots: MeowDB shows two '64 Mamba GT scans (Unlocked / Deactivated / None and Locked / Advanced); GTABase says the standout Andrew Node's Thrax has no tracker or alarm although the regular Thrax is listed with Advanced. Model-level data cannot be assumed for a specific spawn - scan each car.",
+   "sources": [
+    "https://meowdb.com/gta6/vehicles/declasse-mamba-gt",
+    "https://www.gtabase.com/gta-6/vehicles/andrew-nodes-thrax",
+    "https://gta6bible.com/vehicles/truffade-thrax/",
+    "https://meowdb.com/gta6/owning-cars"
+   ],
+   "agree": true
+  },
+  {
+   "rule_ru": "GTABase в карточках машин использует своё поле Security с тремя классами: Classic (проводка), «Modern (May Need Key Cloner)» и «Advanced (Key Cloner)», плюс отдельные поля Tracker, Cost To Register и Sell Value (Stolen). Класс «Advanced (Key Cloner)» соответствует Access = Key Cloner.",
+   "rule_en": "GTABase vehicle pages use their own Security field with three classes: Classic (hotwire), 'Modern (May Need Key Cloner)' and 'Advanced (Key Cloner)', plus separate Tracker, Cost To Register and Sell Value (Stolen) fields. 'Advanced (Key Cloner)' corresponds to Access = Key Cloner.",
+   "sources": [
+    "https://www.gtabase.com/gta-6/vehicles/status-rsx",
+    "https://www.gtabase.com/gta-6/vehicles/dantes-vitello",
+    "https://www.gtabase.com/gta-6/vehicles/bloodless-jugular",
+    "https://www.gtabase.com/vehicles/gta-6/infernus-classic"
+   ],
+   "agree": true
+  }
+ ],
+ "rules_not_confirmed": [
+  "No source found stating that Standout vehicles kept in garages are always Alarmed.",
+  "No source found stating that motorbikes, boats or helicopters never have trackers (see rules above).",
+  "No source found stating a numeric value/era threshold for tracker tier; guides only describe the cheap/mid/high-end tendency."
+ ],
+ "vehicles": [
+  {
+   "name": "Grotti Status RSX",
+   "area": "Gellhorn International Raceway",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": "Advanced",
+   "sell_value": 10655,
+   "register_cost": 40650,
+   "location_note": "GTABase standout page: Security 'Advanced (Key Cloner)', can be registered; found at Gellhorn International Raceway (fan tip: on the back of a recovery truck). Sell $10,655 / register $40,650 / 'improved' (= Advanced) tracker come from one guide table (space4games). Base Grotti Itali RSX scans elsewhere: Key Cloner / Alarmed / Advanced, register $40,650.",
+   "sources": [
+    "https://www.gtabase.com/gta-6/vehicles/status-rsx",
+    "https://space4games.com/en/games-en/gta-6-sell-cars-moses-register-guide/",
+    "https://space4games.com/en/games-en/gta-6-remove-tracker-register-car-guide/"
+   ],
+   "verified": false,
+   "verified_fields": [
+    "access"
+   ],
+   "basis": "exact"
+  },
+  {
+   "name": "Grotti RSX",
+   "area": "Gellhorn International Raceway",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Advanced",
+   "sell_value": null,
+   "register_cost": 40650,
+   "location_note": "MODEL-LEVEL values for the base Grotti Itali RSX, taken from scans of other spawns (Vespucci Island house garage: alarmed, Advanced tracker, only Clone Key works; one scan: sell $18,260, register $40,650). Three sources agree for the model, but nothing was found for this exact raceway spawn - it may be the same car as the Status RSX row.",
+   "sources": [
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+    "https://games.gg/grand-theft-auto-vi/guides/rare-car-locations-grand-theft-auto-6-three-finds/",
+    "https://tech.yahoo.com/gaming/articles/dont-steal-another-gta-6-162152473.html",
+    "https://space4games.com/en/games-en/gta-6-remove-tracker-register-car-guide/",
+    "https://detonated.com/gta-6-best-car-locations/"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Splattered Vitello",
+   "area": "Capri",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Advanced",
+   "sell_value": 8050,
+   "register_cost": 43750,
+   "location_note": "Outside a similarly decorated home in Capri. Register $43,750 and Advanced tracker appear in two summaries; sell value conflicts ($8,050 in one guide, $17,150 in a MetaForge scan that may describe a plain Vitello - sell value depends on condition). Key Cloner + alarm come from the MetaForge scan example.",
+   "sources": [
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+    "https://metaforge.app/gta-6/gta-6-how-to-sell-register-cars-trackers",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them",
+    "https://www.gtabase.com/vehicles/gta-6/lamborghini-aventador"
+   ],
+   "verified": false,
+   "verified_fields": [
+    "tracker",
+    "register_cost"
+   ],
+   "basis": "exact"
+  },
+  {
+   "name": "Pegassi Dante's Vitello",
+   "area": "Starfish Island",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": 43750,
+   "location_note": "GTABase standout page: Security 'Advanced (Key Cloner)', can be registered; at Dante Fresh's mansion on Starfish Island. $43,750 register is quoted by one guide as the in-game quote for the Starfish Island Vitello (same as the base Vitello).",
+   "sources": [
+    "https://www.gtabase.com/gta-6/vehicles/dantes-vitello",
+    "https://gta6wiki.eu/vehicles/all/",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them",
+    "https://gameta.gg/gta6/map/standout-vehicles/"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "access"
+   ],
+   "basis": "exact"
+  },
+  {
+   "name": "Pegassi Vitello",
+   "area": "Capri",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Advanced",
+   "sell_value": 18865,
+   "register_cost": 43750,
+   "location_note": "MODEL-LEVEL values for the base Pegassi Vitello: GTABase database lists Tracker Advanced, Cost To Register $43,750, Sell Value (Stolen) $18,865; MetaForge table repeats $18,865 / $43,750. Key Cloner + Alarmed come from one MetaForge playthrough scan of a Vitello (sell $17,150 on that damaged car). Not a scan of this exact Capri spawn.",
+   "sources": [
+    "https://www.gtabase.com/vehicles/gta-6/lamborghini-aventador",
+    "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register",
+    "https://metaforge.app/gta-6/gta-6-how-to-sell-register-cars-trackers"
+   ],
+   "verified": false,
+   "verified_fields": [
+    "tracker",
+    "sell_value",
+    "register_cost"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Vitello (Orange)",
+   "area": "Capri",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Advanced",
+   "sell_value": 18865,
+   "register_cost": 43750,
+   "location_note": "MODEL-LEVEL values for the base Pegassi Vitello: GTABase database lists Tracker Advanced, Cost To Register $43,750, Sell Value (Stolen) $18,865; MetaForge table repeats $18,865 / $43,750. Key Cloner + Alarmed come from one MetaForge playthrough scan of a Vitello (sell $17,150 on that damaged car). Not a scan of this exact Capri spawn.",
+   "sources": [
+    "https://www.gtabase.com/vehicles/gta-6/lamborghini-aventador",
+    "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register",
+    "https://metaforge.app/gta-6/gta-6-how-to-sell-register-cars-trackers"
+   ],
+   "verified": false,
+   "verified_fields": [
+    "tracker",
+    "sell_value",
+    "register_cost"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Lustrous Toros",
+   "area": "Rialto Islands",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Advanced",
+   "sell_value": null,
+   "register_cost": 29900,
+   "location_note": "Gold Toros (plate CASHTLKS) in a private mansion garage on Casanova Island; garage door must be lifted manually. KeenGamer: alarm + Advanced tracker, register $29,900; Game8: cannot be driven without the Key Cloner; Beebom: $29,900 to register. Caveat: a YouTube short is titled 'free gold Urus with NO tracker', which contradicts the Advanced tracker claim.",
+   "sources": [
+    "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/",
+    "https://game8.co/games/GTA-6/archives/639798",
+    "https://beebom.com/gta-6-pegassi-toros/"
+   ],
+   "verified": false,
+   "verified_fields": [
+    "register_cost"
+   ],
+   "basis": "exact"
+  },
+  {
+   "name": "Pegassi Toros",
+   "area": "Kelly County",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": 29900,
+   "location_note": "MODEL-LEVEL: MeowDB best-cars list says the Toros 'is parked at a mansion; needs the key cloner'; Beebom gives $29,900 to register a standard Toros. Tracker not stated. Not a scan of this exact spawn.",
+   "sources": [
+    "https://meowdb.com/gta6/best-cars",
+    "https://beebom.com/gta-6-pegassi-toros/",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Toros",
+   "area": "Starfish Island",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": 29900,
+   "location_note": "MODEL-LEVEL: MeowDB best-cars list says the Toros 'is parked at a mansion; needs the key cloner'; Beebom gives $29,900 to register a standard Toros. Tracker not stated. Not a scan of this exact spawn.",
+   "sources": [
+    "https://meowdb.com/gta6/best-cars",
+    "https://beebom.com/gta-6-pegassi-toros/",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Toros",
+   "area": "Tequesta Retreat, Vice City",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": 29900,
+   "location_note": "MODEL-LEVEL: MeowDB best-cars list says the Toros 'is parked at a mansion; needs the key cloner'; Beebom gives $29,900 to register a standard Toros. Tracker not stated. Not a scan of this exact spawn (Tequesta Retreat on Bayside Dr around 18:30 is the Randy's Wish List spot).",
+   "sources": [
+    "https://meowdb.com/gta6/best-cars",
+    "https://beebom.com/gta-6-pegassi-toros/",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Truffade Thrax",
+   "area": "Dalton Island",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": "Advanced",
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "Randy's final car: ferry from Waxman Island to the Dalton Island Club, parked opposite Spa Spendido near the back car park; knock out the security guard beside it, steal with the Clone Key, expect a 3-star wanted level off the ferry. Tracker 'Advanced' comes only from gta6bible (model-level page of low reliability).",
+   "sources": [
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+    "https://game8.co/games/GTA-6/archives/639481",
+    "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+    "https://gta6bible.com/vehicles/truffade-thrax/"
+   ],
+   "verified": false,
+   "verified_fields": [
+    "access"
+   ],
+   "basis": "exact"
+  },
+  {
+   "name": "Grotti '95 Cheetah",
+   "area": "Tequesta Retreat, Vice City",
+   "access": null,
+   "security": null,
+   "tracker": "Advanced",
+   "sell_value": 16775,
+   "register_cost": 32750,
+   "location_note": "MODEL-LEVEL (GTABase database entry 'Grotti Cheetah '95'): Tracker Advanced, Cost To Register $32,750, Sell Value $16,775. Access/Security of this exact spawn not found.",
+   "sources": [
+    "https://www.gtabase.com/gta-6/vehicles/cheetah-classic",
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://www.sportskeeda.com/esports/expensive-cars-gta-6-prices"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "tracker",
+    "sell_value",
+    "register_cost"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "Pfister '88 Comet",
+   "area": "Shore Dr, Ocean Beach, Vice Beach",
+   "access": null,
+   "security": null,
+   "tracker": "Advanced",
+   "sell_value": 17050,
+   "register_cost": 34250,
+   "location_note": "MODEL-LEVEL (GTABase 'Pfister Comet '88'): Tracker Advanced, Cost To Register $34,250, Sell Value $17,050 (2nd most valuable car to sell). Access/Security of this exact spawn not found.",
+   "sources": [
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://www.sportskeeda.com/esports/expensive-cars-gta-6-prices",
+    "https://gtaaddict.com/gta-6/vehicles/worth-it/"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "tracker",
+    "sell_value",
+    "register_cost"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "Pfister Comet ('88)",
+   "area": "Capri",
+   "access": null,
+   "security": null,
+   "tracker": "Advanced",
+   "sell_value": 17050,
+   "register_cost": 34250,
+   "location_note": "MODEL-LEVEL (GTABase 'Pfister Comet '88'): Tracker Advanced, Cost To Register $34,250, Sell Value $17,050 (2nd most valuable car to sell). Access/Security of this exact spawn not found.",
+   "sources": [
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://www.sportskeeda.com/esports/expensive-cars-gta-6-prices",
+    "https://gtaaddict.com/gta-6/vehicles/worth-it/"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "tracker",
+    "sell_value",
+    "register_cost"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "Invetero '64 Coquette",
+   "area": "Leonard County",
+   "access": null,
+   "security": null,
+   "tracker": "Standard",
+   "sell_value": 12320,
+   "register_cost": 29150,
+   "location_note": "MODEL-LEVEL (GTABase 'Invetero Coquette '64'): Tracker Standard, Cost To Register $29,150, Sell Value $12,320. Access/Security of this exact spawn not found.",
+   "sources": [
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://www.sportskeeda.com/esports/expensive-cars-gta-6-prices"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "tracker",
+    "sell_value",
+    "register_cost"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "Imponte Phoenix ('77)",
+   "area": "Port Gellhorn",
+   "access": null,
+   "security": null,
+   "tracker": "Standard",
+   "sell_value": 3575,
+   "register_cost": 11900,
+   "location_note": "MODEL-LEVEL (GTABase database entry 'Imponte Phoenix '77'): Tracker Standard, Cost To Register $11,900, Sell Value (Stolen) $3,575. Access/Security of this exact spawn not found.",
+   "sources": [
+    "https://www.gtabase.com/vehicles/gta-6/phoenix",
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "tracker",
+    "sell_value",
+    "register_cost"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "Mammoth Patriot '92",
+   "area": "Mariana County",
+   "access": null,
+   "security": null,
+   "tracker": null,
+   "sell_value": 10835,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL (GTABase): Sell Value $10,835, no registration price; GTABase lists its tracker as 'Military' (not one of None/Standard/Advanced, so left null); Destructoid says it cannot be registered. GTABase spawn note mentions one 'at the far end of the abandoned building in Hamlet'.",
+   "sources": [
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://www.destructoid.com/cars-with-the-highest-sell-value-in-gta-6/",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "sell_value"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "'67 Transgressor (Wyman's request)",
+   "area": "Port Gellhorn",
+   "access": null,
+   "security": null,
+   "tracker": "None",
+   "sell_value": 6060,
+   "register_cost": 21500,
+   "location_note": "MODEL-LEVEL for a normal Sirius Transgressor '67 (sell $6,060, register $21,500, tracker None per the Sportskeeda / GTA Addict lists). Wyman's cars are wrecks to restore (e.g. Tanglewood Lane behind Sarena's Bargain Store), so the wreck itself may scan differently.",
+   "sources": [
+    "https://www.sportskeeda.com/esports/expensive-cars-gta-6-prices",
+    "https://gtaaddict.com/gta-6/vehicles/worth-it/",
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://www.pushsquare.com/guides/gta-6-wymans-classic-car-locations"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Benefactor Dubsta (Randy's request)",
+   "area": "Ocean Beach, Vice Beach",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Standard",
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL (MeowDB 'Benefactor Dubsta' database page, lot scan): Access Key cloner, Security Alarmed, Tracker Standard. A second source also describes a Dubsta that needs the key cloner and has a Standard tracker. Not confirmed to be a scan of this exact Ocean Beach spawn; guides say the Dubsta has no confirmed fixed spot.",
+   "sources": [
+    "https://meowdb.com/gta6/vehicles/benefactor-dubsta",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "access",
+    "security",
+    "tracker"
+   ],
+   "basis": "model"
+  },
+  {
+   "name": "Pfister Neon",
+   "area": "Capri",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL: Game8's Neon page says the car cannot be driven until the Key Cloner is unlocked; GTABase says the Neon 'may come with advanced security features'. GTABase spawn map places an orange Neon in a house driveway in Capri (no scan values confirmed for it).",
+   "sources": [
+    "https://game8.co/games/GTA-6/archives/639118",
+    "https://www.gtabase.com/vehicles/gta-6/neon",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Bravado Banshee",
+   "area": "Port Gellhorn",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL: MeowDB best-cars list says the Banshee 'needs the key cloner'. Tracker/prices not found.",
+   "sources": [
+    "https://meowdb.com/gta6/best-cars",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Bravado Banshee",
+   "area": "Capri",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL: MeowDB best-cars list says the Banshee 'needs the key cloner'. Tracker/prices not found. Randy's Wish List spot: outside the Sweetbay Inn on East Buckley Dr, Capri, very late at night (reports conflict).",
+   "sources": [
+    "https://meowdb.com/gta6/best-cars",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Bravado Banshee",
+   "area": "Kelly County",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL: MeowDB best-cars list says the Banshee 'needs the key cloner'. Tracker/prices not found. GTABase: a Banshee spawns at the Port Gellhorn raceway, between the stands.",
+   "sources": [
+    "https://meowdb.com/gta6/best-cars",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Tempesta",
+   "area": "Lummox County",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL: Sportskeeda and GTA-Xtreme describe the Tempesta as a keyless car that needs the Key Cloner; GTABase says it 'often has advanced security features'. Tracker/prices not found.",
+   "sources": [
+    "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar",
+    "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location",
+    "https://www.gtabase.com/vehicles/gta-6/tempesta",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Tempesta",
+   "area": "Vice City",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL: Sportskeeda and GTA-Xtreme describe the Tempesta as a keyless car that needs the Key Cloner; GTABase says it 'often has advanced security features'. Tracker/prices not found. Randy's Wish List spot per two guides: NE 3rd St, Vice City, around 13:00.",
+   "sources": [
+    "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar",
+    "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location",
+    "https://www.gtabase.com/vehicles/gta-6/tempesta",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Tempesta",
+   "area": "Vice Decor District, Vice City",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL: Sportskeeda and GTA-Xtreme describe the Tempesta as a keyless car that needs the Key Cloner; GTABase says it 'often has advanced security features'. Tracker/prices not found.",
+   "sources": [
+    "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar",
+    "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location",
+    "https://www.gtabase.com/vehicles/gta-6/tempesta",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Tempesta",
+   "area": "Capri",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MODEL-LEVEL: Sportskeeda and GTA-Xtreme describe the Tempesta as a keyless car that needs the Key Cloner; GTABase says it 'often has advanced security features'. Tracker/prices not found.",
+   "sources": [
+    "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar",
+    "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location",
+    "https://www.gtabase.com/vehicles/gta-6/tempesta",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "model"
+  },
+  {
+   "name": "Pegassi Tempesta (Gold)",
+   "area": "Vice Beach",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "One vehicle list says the Gold Rush Tempesta needs a cloned key. Spawn reports conflict: outside a restaurant in Ocean Beach; Crimson Palms Condominiums in Washington Beach; a parking lot on the east side of Washington Island; sometimes NE 3rd St downtown. Tracker/prices not found. (Row assumed to be the Gold Rush Tempesta.)",
+   "sources": [
+    "https://gta6wiki.eu/vehicles/all/",
+    "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/",
+    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Pegassi Gold Rush Tempesta",
+   "area": "Vice Beach",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "One vehicle list says the Gold Rush Tempesta needs a cloned key. Spawn reports conflict: outside a restaurant in Ocean Beach; Crimson Palms Condominiums in Washington Beach; a parking lot on the east side of Washington Island; sometimes NE 3rd St downtown. Tracker/prices not found.",
+   "sources": [
+    "https://gta6wiki.eu/vehicles/all/",
+    "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/",
+    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Pegassi Gold Rush Tempesta",
+   "area": "Shore Dr, Ocean Beach, Vice Beach",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "One vehicle list says the Gold Rush Tempesta needs a cloned key. Spawn reports conflict: outside a restaurant in Ocean Beach; Crimson Palms Condominiums in Washington Beach; a parking lot on the east side of Washington Island; sometimes NE 3rd St downtown. Tracker/prices not found.",
+   "sources": [
+    "https://gta6wiki.eu/vehicles/all/",
+    "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/",
+    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Progen Seaspray Emerus",
+   "area": "Capri",
+   "access": "Key Cloner",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "Race-spec Emerus inside a garage on the north-west side of Capri; one vehicle list says it needs a cloned key (Chapter 3) to start. LeonidaHub also says the top-rated standouts (Vitello, Thrax, Emerus) need the key cloner. Tracker/prices not found.",
+   "sources": [
+    "https://gta6wiki.eu/vehicles/all/",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them",
+    "https://www.gtabase.com/gta-6/vehicles/seaspray-emerus"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Emperor Moses' Sultan",
+   "area": "Port Gellhorn",
+   "access": "Unlocked",
+   "security": null,
+   "tracker": "None",
+   "sell_value": 3800,
+   "register_cost": 1600,
+   "location_note": "Reward for finishing Moses' car-theft chain ('Collect Moses' Gift'). MeowDB scan: unlocked, no tracker, sell $3,800, $1,600 to register. Single source.",
+   "sources": [
+    "https://meowdb.com/gta6/owning-cars",
+    "https://www.gtabase.com/gta-6/strangers/collect-moses-gift"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Maibatsu Speedy Boomazoom",
+   "area": "Shoreline, Vice City",
+   "access": "Unlocked",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "MetaForge database entry for the Speedy Boomazoom lists Access: Unlocked (one-seat scooter-style standout).",
+   "sources": [
+    "https://metaforge.app/gta-6/database/vehicles/maibatsu-speedy-boomazoom"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "access"
+   ],
+   "basis": "exact"
+  },
+  {
+   "name": "Imponte Ruiner Turbo",
+   "area": "Key Lento",
+   "access": null,
+   "security": null,
+   "tracker": "None",
+   "sell_value": null,
+   "register_cost": 6000,
+   "location_note": "ggwtb guide: at a house east of the Key Lento home, daylight spawn, no alarm (not clear whether that means Security None or Deactivated, so left null), register about $6,000; described as one of the reliably tracker-free rare cars. Single source, register cost approximate.",
+   "sources": [
+    "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes",
+    "https://detonated.com/gta-6-best-car-locations/"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Annis Elegy (Drift)",
+   "area": "Port Gellhorn",
+   "access": "Locked",
+   "security": "Alarmed",
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "ggwtb guide: Drift Elegy in the garage row behind Gellhorn Raceway - locked, alarmed and fitted with a tracker (tier not stated, so tracker left null); register cost 'unknown'. Single source; both Port Gellhorn Elegy rows are assumed to be this car.",
+   "sources": [
+    "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-car-locations-urus-drift-car-zorrusso/"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Annis Elegy '90 (drift-built)",
+   "area": "Port Gellhorn",
+   "access": "Locked",
+   "security": "Alarmed",
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "ggwtb guide: Drift Elegy in the garage row behind Gellhorn Raceway - locked, alarmed and fitted with a tracker (tier not stated, so tracker left null); register cost 'unknown'. Single source; both Port Gellhorn Elegy rows are assumed to be this car.",
+   "sources": [
+    "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-car-locations-urus-drift-car-zorrusso/"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Maibatsu Penumbra FF (Paul Walker tribute)",
+   "area": "Rialto Islands",
+   "access": null,
+   "security": "Deactivated",
+   "tracker": "None",
+   "sell_value": null,
+   "register_cost": 6750,
+   "location_note": "Identified as the Maibatsu '97 Penumbra FF ('Paul Walker's Eclipse') in a house garage on Vespucci Island: games.gg lists security deactivated and no tracker, can be stolen early and registered at Moses. Register $6,750 is MeowDB's model-level figure (sell value $915-$3,740 depending on scan). Assumes Vespucci Island belongs to this row's Rialto Islands area.",
+   "sources": [
+    "https://games.gg/grand-theft-auto-vi/guides/rare-car-locations-grand-theft-auto-6-three-finds/",
+    "https://www.gta-xtreme.com/gta-6/locations/hidden-cars",
+    "https://meowdb.com/gta6/vehicles/maibatsu-penumbra-ff",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Vapid '56 Slamvan",
+   "area": "Kelly County",
+   "access": "Locked",
+   "security": "Alarmed",
+   "tracker": "Standard",
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "GTABase vehicle-spawn map note: a Vapid '56 Slamvan in an open Port Gellhorn warehouse - 'Locked, alarmed, standard tracker'. Assigned to this row on the assumption that the Kelly County row is that Port Gellhorn spawn (the other Slamvan row is in Waning Sands).",
+   "sources": [
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Buckingham SuperVolito",
+   "area": "Hamlet",
+   "access": null,
+   "security": null,
+   "tracker": "None",
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "GTABase vehicle-spawn map lists the Buckingham SuperVolito with 'No tracker'. Helicopters cannot be registered (Game8). Single source.",
+   "sources": [
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn",
+    "https://game8.co/games/GTA-6/archives/639415"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Maverick (helicopter)",
+   "area": "Vice Beach",
+   "access": "Unlocked",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "GTABase vehicle-spawn map: Maverick on the roof of the Vice Beach hospital, 'the helicopter is unlocked' (other guides: not always there). Helicopters cannot be registered.",
+   "sources": [
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn",
+    "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6",
+    "https://game8.co/games/GTA-6/archives/639415"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "National Park Rangers Maverick",
+   "area": "Lummox County",
+   "access": "Unlocked",
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": null,
+   "location_note": "GTABase vehicle-spawn map: National Park Rangers Maverick on the helipad, 'the helicopter is unlocked'. Single source; helicopters cannot be registered.",
+   "sources": [
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn",
+    "https://game8.co/games/GTA-6/archives/639415"
+   ],
+   "verified": false,
+   "verified_fields": [],
+   "basis": "exact"
+  },
+  {
+   "name": "Pfister Growler (Vanessa's)",
+   "area": "La Perle, Vice City",
+   "access": null,
+   "security": null,
+   "tracker": null,
+   "sell_value": null,
+   "register_cost": 0,
+   "location_note": "Del Rio Boulevard Garage in southern La Perle next to Auntie's Place, garage code 92665 (from the laptop in the Bayside apartment). Driving it out registers it to you for free (several guides agree) and you keep the garage. Missable after Chapter 3. Sell value conflicts: $14,750 at a Pay 'n' Spray vs about $20,600. WAiNK access/tracker not stated.",
+   "sources": [
+    "https://metaforge.app/gta-6/gta-6-vanessas-laptop-password-free-growler",
+    "https://beebom.com/gta-6-vanessas-growler-pink-porsche-location-stats/",
+    "https://www.vice.com/en/article/gta-6-pink-porsche-location-garage-code/",
+    "https://www.gta-xtreme.com/en/gta-6-pink-porsche-location"
+   ],
+   "verified": true,
+   "verified_fields": [
+    "register_cost"
+   ],
+   "basis": "exact"
+  }
+ ],
+ "unassigned_observations": [
+  {
+   "observation": "Declasse '64 Mamba GT: MeowDB shows two scans - one Unlocked / Deactivated / tracker None (a blue one described as one of Wyman's cars), another Locked with an Advanced tracker. Not stated which spawn is which; Randy's Mamba GT is in a mansion in Leaf Links and is revealed after several deliveries.",
+   "possible_rows": [
+    "'64 Mamba GT (Kelly County)",
+    "Mamba GT (Leaf Links, Vice Beach)",
+    "Declasse Endurance Mamba GT (Capri)"
+   ],
+   "sources": [
+    "https://meowdb.com/gta6/vehicles/declasse-mamba-gt",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/"
+   ]
+  },
+  {
+   "observation": "Truffade Thrax on a trailer at Boone Speedway 'has a tracker' (tier not stated; scan it with WAiNK). gta6bible lists the model as Tracker Advanced / Key Cloner.",
+   "possible_rows": [
+    "Truffade Thrax (Hamlet)"
+   ],
+   "sources": [
+    "https://detonated.com/gta-6-best-car-locations/",
+    "https://gta6bible.com/vehicles/truffade-thrax/"
+   ]
+  },
+  {
+   "observation": "Pegassi Infernus '96 (GTABase database): Tracker Advanced, Cost To Register $34,750, Sell Value $17,160 - highest sell value documented. Randy's Infernus is on level 7 of the Crosstown Police Station car park. Unclear whether the purple Infernus row is the '96 model.",
+   "possible_rows": [
+    "Pegassi Infernus (purple) (Vice City)"
+   ],
+   "sources": [
+    "https://www.gtabase.com/vehicles/gta-6/infernus-classic",
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ]
+  },
+  {
+   "observation": "Granforma Zorrusso: guides say the model carries an Advanced tracker; the standout Granforma Tsunami Zorrusso is Access Key Cloner, sells $23,375, registers $87,400 (MetaForge). No scan found for the plain Zorrusso spawns.",
+   "possible_rows": [
+    "Granforma Zorrusso (Shore Dr, Ocean Beach, Vice Beach)",
+    "Granforma Zorrusso (Capri)"
+   ],
+   "sources": [
+    "https://www.keengamer.com/articles/guides/gta-6-how-to-steal-any-car-key-cloner-slim-jim-trackers/",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+    "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register"
+   ]
+  },
+  {
+   "observation": "'A standout Dubsta needs the key cloner and has a standard tracker' - the specific Dubsta variant was not identifiable from the search summary.",
+   "possible_rows": [
+    "Benefactor Gilded Dubsta",
+    "Benefactor Fatstaks Dubsta",
+    "Benefactor Red Queen Dubsta",
+    "Benefactor Freddie's Dubsta"
+   ],
+   "sources": [
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ]
+  },
+  {
+   "observation": "Grotti Itali RSX in a house garage on Vespucci Island: Key Cloner / Alarmed / Advanced, only Clone Key works. Could be the Dolce Vita RSX (described as found at a luxury villa on Rialto Islands) but no source links them.",
+   "possible_rows": [
+    "Grotti Dolce Vita RSX (Rialto Islands)"
+   ],
+   "sources": [
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+    "https://games.gg/grand-theft-auto-vi/guides/rare-car-locations-grand-theft-auto-6-three-finds/",
+    "https://www.gtabase.com/gta-6/vehicles/dolce-vita-rsx"
+   ]
+  },
+  {
+   "observation": "Base Declasse Akane: on Dexerto's 'No Tracker Vehicles' list; MeowDB map card sell $850, register $5,250. Custom/wrapped Akane rows may differ.",
+   "possible_rows": [
+    "Declasse Akane (Anime wrap)",
+    "Akane (custom paint job)",
+    "Declasse Akane (Stripped)"
+   ],
+   "sources": [
+    "https://www.dexerto.com/wikis/gta-6/vehicles/tag/tracker-none/",
+    "https://meowdb.com/gta6/vehicles/declasse-akane"
+   ]
+  },
+  {
+   "observation": "Dexerto 'No Tracker Vehicles' page lists Western Nightblade, Ubermacht Apoc and Vapid Montagne XL; '72 Dinka Enduro, Del Perro Erode and Principe Esskey also appear in the scraped page but it was unclear whether as list members.",
+   "possible_rows": [
+    "Western Cultist Nightblade",
+    "Übermacht Glitterbomb APOC",
+    "Dinka Enduro",
+    "Dinka Enduro (1972)",
+    "Del Perro Glacier Erode",
+    "Principe Thicc Esskey"
+   ],
+   "sources": [
+    "https://www.dexerto.com/wikis/gta-6/vehicles/tag/tracker-none/"
+   ]
+  },
+  {
+   "observation": "Canis Mesa spawn in Waning Sands is noted 'no tracker' on the GTABase spawn map (different spawn from the Leaf Links row).",
+   "possible_rows": [
+    "Canis Mesa (Leaf Links, Vice Beach)"
+   ],
+   "sources": [
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ]
+  },
+  {
+   "observation": "Bravado Gauntlet Custom '69 (base): sell $7,095, register $23,750, tracker Standard.",
+   "possible_rows": [
+    "Bravado '69 Gauntlet (HWL YEAH)"
+   ],
+   "sources": [
+    "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6"
+   ]
+  },
+  {
+   "observation": "Karin '84 Rebel (base) scan: Locked / Alarmed / tracker None, sell $1,100, register $6,750.",
+   "possible_rows": [
+    "Karin Cheshire Rebel (Barn Find)",
+    "Karin Trash Rebel"
+   ],
+   "sources": [
+    "https://meowdb.com/gta6/owning-cars",
+    "https://meowdb.com/gta6/vehicles/karin-rebel"
+   ]
+  },
+  {
+   "observation": "Pfister Comet S2 (base): tracker Advanced, register $31,250, sell $15,000 on a traffic scan ($9,710 on a map card).",
+   "possible_rows": [
+    "Pfister Gentrifier Comet"
+   ],
+   "sources": [
+    "https://meowdb.com/gta6/vehicles/pfister-comet-s2"
+   ]
+  },
+  {
+   "observation": "Ocelot Jugular (base) is 'usually protected by modern security' (GTABase class Modern = may need Key Cloner); the standout Bloodless Jugular is Key Cloner, sells $10,615, registers $28,550.",
+   "possible_rows": [
+    "Ocelot Jugular (Ocean Beach, Vice Beach)"
+   ],
+   "sources": [
+    "https://www.gtabase.com/gta-6/vehicles/jugular",
+    "https://www.gtabase.com/gta-6/vehicles/bloodless-jugular",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  },
+  {
+   "observation": "An unlocked helicopter sits on a private helipad east of Hamlet close to Key Lento; a Buckingham Maverick sits on the Southwind dock behind an open gate.",
+   "possible_rows": [
+    "Helicopter (Southwind)",
+    "Sea Sparrow (Hamlet)",
+    "Buckingham SuperVolito (Hamlet)"
+   ],
+   "sources": [
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+    "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6"
+   ]
+  },
+  {
+   "observation": "Ubermacht FCR 1000 in Vice City: you get to it through an alarmed shutter and door (building alarm, not a vehicle scan).",
+   "possible_rows": [
+    "Ubermacht FCR 1000 (Vice Decor District, Vice City)"
+   ],
+   "sources": [
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ]
+  },
+  {
+   "observation": "Military vehicles (jets, tanks, military helicopters) carry a permanent tracker, cannot be registered, and stealing a jet gives five stars.",
+   "possible_rows": [
+    "Fighter Jets",
+    "Tanks",
+    "Military Helicopter"
+   ],
+   "sources": [
+    "https://outputlag.com/guides/gta-6-cars-vehicles/",
+    "https://game8.co/games/GTA-6/archives/639415"
+   ]
+  },
+  {
+   "observation": "Vapid Anarchist Dominator: daylight spawn on the top deck of the Dynamics Fitness garage; register cost unknown, no scan values published.",
+   "possible_rows": [
+    "Vapid Anarchist Dominator"
+   ],
+   "sources": [
+    "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes"
+   ]
+  }
+ ],
+ "reference_base_models": [
+  {
+   "vehicle": "Pegassi Infernus '96",
+   "tracker": "Advanced",
+   "sell_value": 17160,
+   "register_cost": 34750,
+   "source": "https://www.gtabase.com/vehicles/gta-6/infernus-classic"
+  },
+  {
+   "vehicle": "Pfister Comet '88",
+   "tracker": "Advanced",
+   "sell_value": 17050,
+   "register_cost": 34250,
+   "source": "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6"
+  },
+  {
+   "vehicle": "Grotti Cheetah '95",
+   "tracker": "Advanced",
+   "sell_value": 16775,
+   "register_cost": 32750,
+   "source": "https://www.gtabase.com/gta-6/vehicles/cheetah-classic"
+  },
+  {
+   "vehicle": "Invetero Coquette '64",
+   "tracker": "Standard",
+   "sell_value": 12320,
+   "register_cost": 29150,
+   "source": "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6"
+  },
+  {
+   "vehicle": "Mammoth Patriot '92",
+   "tracker": "Military (GTABase label)",
+   "sell_value": 10835,
+   "register_cost": null,
+   "source": "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6"
+  },
+  {
+   "vehicle": "Bravado Gauntlet Custom '69",
+   "tracker": "Standard",
+   "sell_value": 7095,
+   "register_cost": 23750,
+   "source": "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6"
+  },
+  {
+   "vehicle": "Vapid Hustler '32",
+   "tracker": "Standard",
+   "sell_value": 6545,
+   "register_cost": 21900,
+   "source": "https://www.gtabase.com/vehicles/gta-6/hustler"
+  },
+  {
+   "vehicle": "Albany DeVanity '59",
+   "tracker": "Standard",
+   "sell_value": 6490,
+   "register_cost": 21750,
+   "source": "https://www.gtabase.com/vehicles/gta-6/cadillac-eldorado-1959"
+  },
+  {
+   "vehicle": "Albany Hermes '50",
+   "tracker": "Standard",
+   "sell_value": 6435,
+   "register_cost": 21650,
+   "source": "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6"
+  },
+  {
+   "vehicle": "Sirius Transgressor '67",
+   "tracker": "None",
+   "sell_value": 6060,
+   "register_cost": 21500,
+   "source": "https://www.sportskeeda.com/esports/expensive-cars-gta-6-prices"
+  },
+  {
+   "vehicle": "Imponte Phoenix '77",
+   "tracker": "Standard",
+   "sell_value": 3575,
+   "register_cost": 11900,
+   "source": "https://www.gtabase.com/vehicles/gta-6/phoenix"
+  },
+  {
+   "vehicle": "Annis Hellion '95",
+   "access": "Locked",
+   "security": "Alarmed",
+   "tracker": "None",
+   "sell_value": 1320,
+   "register_cost": 4400,
+   "source": "https://www.gtabase.com/gta-6/vehicles/hellion ; https://metaforge.app/gta-6/database/vehicles/annis-95-hellion"
+  },
+  {
+   "vehicle": "Dinka Blista '85",
+   "tracker": "None",
+   "sell_value": 825,
+   "register_cost": 2750,
+   "source": "https://www.gtabase.com/gta-6/vehicles/blista-compact"
+  },
+  {
+   "vehicle": "Karin Allander",
+   "tracker": "None",
+   "sell_value": 770,
+   "register_cost": 2650,
+   "source": "https://www.gtabase.com/vehicles/gta-6/toyota-rav4-5th-gen"
+  },
+  {
+   "vehicle": "Übermacht Sentinel '85",
+   "sell_value": 1760,
+   "register_cost": 6000,
+   "source": "https://www.gtabase.com/vehicles/gta-6/sentinel-classic"
+  },
+  {
+   "vehicle": "Dinka Sugoi",
+   "access": "Modern (May Need Key Cloner) - GTABase class",
+   "sell_value": 2810,
+   "source": "https://www.gtabase.com/vehicles/gta-6/sugoi"
+  },
+  {
+   "vehicle": "Classique Stallion '68",
+   "access": "Modern (May Need Key Cloner) - GTABase class",
+   "sell_value": 3190,
+   "source": "https://www.gtabase.com/vehicles/gta-6/stallion"
+  },
+  {
+   "vehicle": "Pegassi Vitello",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Advanced",
+   "sell_value": 18865,
+   "register_cost": 43750,
+   "source": "https://www.gtabase.com/vehicles/gta-6/lamborghini-aventador ; https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register"
+  },
+  {
+   "vehicle": "Grotti Itali RSX",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Advanced",
+   "sell_value": 18260,
+   "register_cost": 40650,
+   "source": "https://space4games.com/en/games-en/gta-6-remove-tracker-register-car-guide/ ; https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+  },
+  {
+   "vehicle": "Pfister Comet S2",
+   "tracker": "Advanced",
+   "sell_value": 15000,
+   "register_cost": 31250,
+   "source": "https://meowdb.com/gta6/vehicles/pfister-comet-s2"
+  },
+  {
+   "vehicle": "Benefactor Dubsta",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Standard",
+   "source": "https://meowdb.com/gta6/vehicles/benefactor-dubsta"
+  },
+  {
+   "vehicle": "Karin '84 Rebel",
+   "access": "Locked",
+   "security": "Alarmed",
+   "tracker": "None",
+   "sell_value": 1100,
+   "register_cost": 6750,
+   "source": "https://meowdb.com/gta6/owning-cars"
+  },
+  {
+   "vehicle": "Declasse Akane",
+   "tracker": "None",
+   "sell_value": 850,
+   "register_cost": 5250,
+   "source": "https://meowdb.com/gta6/vehicles/declasse-akane ; https://www.dexerto.com/wikis/gta-6/vehicles/tag/tracker-none/"
+  },
+  {
+   "vehicle": "Maibatsu '97 Penumbra FF",
+   "register_cost": 6750,
+   "sell_value": "915-3740 depending on scan",
+   "source": "https://meowdb.com/gta6/vehicles/maibatsu-penumbra-ff"
+  },
+  {
+   "vehicle": "Declasse '72 Tulip",
+   "register_cost": 9400,
+   "sell_value": "1500-4700 depending on scan",
+   "source": "https://meowdb.com/gta6/vehicles/declasse-tulip"
+  },
+  {
+   "vehicle": "Albany Cavalcade XL",
+   "sell_value": 8850,
+   "register_cost": 28250,
+   "source": "https://meowdb.com/gta6/vehicles/albany-cavalcade-xl"
+  },
+  {
+   "vehicle": "BF Greta",
+   "sell_value": 450,
+   "register_cost": 2900,
+   "source": "https://meowdb.com/gta6/vehicles/bf-greta"
+  },
+  {
+   "vehicle": "Pegassi Toros",
+   "access": "Key Cloner",
+   "register_cost": 29900,
+   "source": "https://meowdb.com/gta6/best-cars ; https://beebom.com/gta-6-pegassi-toros/"
+  },
+  {
+   "vehicle": "Bravado Banshee",
+   "access": "Key Cloner",
+   "source": "https://meowdb.com/gta6/best-cars"
+  },
+  {
+   "vehicle": "Pegassi Tempesta",
+   "access": "Key Cloner",
+   "source": "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar"
+  },
+  {
+   "vehicle": "Pfister Neon",
+   "access": "Key Cloner",
+   "source": "https://game8.co/games/GTA-6/archives/639118"
+  },
+  {
+   "vehicle": "Vapid Caracara 4x4",
+   "access": "Key Cloner",
+   "source": "https://game8.co/games/GTA-6/archives/639312"
+  },
+  {
+   "vehicle": "Vapid Riata (modern pickup)",
+   "access": "Key Cloner",
+   "tracker": "Standard",
+   "source": "https://tech.yahoo.com/gaming/articles/dont-steal-another-gta-6-162152473.html"
+  },
+  {
+   "vehicle": "Western Nightblade / Übermacht Apoc / Vapid Montagne XL",
+   "tracker": "None",
+   "source": "https://www.dexerto.com/wikis/gta-6/vehicles/tag/tracker-none/"
+  },
+  {
+   "vehicle": "Maibatsu Manchez",
+   "tracker": "None",
+   "sell_value": 425,
+   "source": "https://metaforge.app/gta-6/gta-6-how-to-sell-register-cars-trackers"
+  }
+ ],
+ "reference_standouts_not_in_list": [
+  {
+   "vehicle": "Granforma Tsunami Zorrusso",
+   "access": "Key Cloner",
+   "sell_value": 23375,
+   "register_cost": 87400,
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Pegassi Gold Rope Infernus",
+   "access": "Key Cloner",
+   "sell_value": 17160,
+   "register_cost": 34750,
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Pfister Class Act Comet",
+   "access": "Key Cloner",
+   "sell_value": 11050,
+   "register_cost": 34250,
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Ocelot Bloodless Jugular",
+   "access": "Key Cloner",
+   "sell_value": 10615,
+   "register_cost": 28550,
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Progen Royal Ruby Emerus (illegal operation, Vespucci Mansion)",
+   "access": "Unlocked",
+   "security": "Deactivated (alarm off)",
+   "sell_value": 33000,
+   "register_cost": 29900,
+   "note": "one source says $299 to register",
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations ; https://meowdb.com/gta6/vehicles/progen-royal-ruby-emerus"
+  },
+  {
+   "vehicle": "Pegassi Charred Toros (illegal operation, La Perle trap house)",
+   "access": "Unlocked",
+   "tracker": "None",
+   "sell_value": 22835,
+   "register_cost": 8950,
+   "note": "MeowDB sell $23,045",
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations ; https://beebom.com/gta-6-pegassi-toros/ ; https://meowdb.com/gta6/vehicles/pegassi-charred-toros"
+  },
+  {
+   "vehicle": "Truffade Andrew Node's Thrax",
+   "tracker": "None (GTABase: no tracker, alarm or advanced security)",
+   "sell_value": 23375,
+   "register_cost": 70000,
+   "source": "https://www.gtabase.com/gta-6/vehicles/andrew-nodes-thrax ; https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register"
+  },
+  {
+   "vehicle": "Vapid Truth & Justice Caracara",
+   "access": "Unlocked",
+   "security": "Deactivated",
+   "tracker": "None",
+   "sell_value": 5900,
+   "register_cost": 5550,
+   "source": "https://meowdb.com/gta6/vehicles/vapid-truth-and-justice-caracara"
+  },
+  {
+   "vehicle": "Canis Gunrunner Kamacho",
+   "access": "Unlocked",
+   "sell_value": 16140,
+   "register_cost": 6700,
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Canis Black Moth Kamacho",
+   "tracker": "None",
+   "register_cost": 6700,
+   "source": "https://metaforge.app/gta-6/database/vehicles/canis-black-moth-kamacho"
+  },
+  {
+   "vehicle": "Bravado Devil's Rope Gauntlet",
+   "tracker": "None",
+   "register_cost": 8500,
+   "sell_value": 22000,
+   "source": "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes ; https://meowdb.com/gta6/vehicles/bravado-devils-rope-gauntlet"
+  },
+  {
+   "vehicle": "Bravado Copperheads Gauntlet",
+   "security": "Alarmed",
+   "register_cost": 28000,
+   "source": "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes"
+  },
+  {
+   "vehicle": "Piccia Big Cat Furia",
+   "access": "Key Cloner",
+   "security": "Alarmed",
+   "tracker": "Advanced",
+   "source": "https://www.keengamer.com/articles/guides/gta-6-how-to-steal-any-car-key-cloner-slim-jim-trackers/"
+  },
+  {
+   "vehicle": "Bravado Tropic Dawn Youga",
+   "access": "Unlocked",
+   "sell_value": 3190,
+   "register_cost": 3200,
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Declasse Beach Candy Bobcat",
+   "sell_value": 2145,
+   "register_cost": 2150,
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Albany Verdant Buccaneer",
+   "access": "Unlocked",
+   "sell_value": 7085,
+   "register_cost": 2800,
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Buckingham Bourbon Windsor",
+   "sell_value": 24000,
+   "register_cost": 9500,
+   "source": "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register"
+  },
+  {
+   "vehicle": "Declasse Pink Gin Tulip",
+   "sell_value": 5750,
+   "register_cost": 2450,
+   "source": "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register"
+  },
+  {
+   "vehicle": "LCC Monarch Avarus",
+   "sell_value": 5390,
+   "register_cost": 2100,
+   "source": "https://metaforge.app/gta-6/database/vehicles/lcc-monarch-avarus"
+  },
+  {
+   "vehicle": "Maibatsu Tropical Manchez",
+   "sell_value": 2090,
+   "register_cost": 800,
+   "source": "https://metaforge.app/gta-6/database/vehicles/maibatsu-tropical-manchez"
+  },
+  {
+   "vehicle": "Albany Cuban Hermes",
+   "sell_value": 5850,
+   "register_cost": 21650,
+   "source": "https://meowdb.com/gta6/vehicles/albany-cuban-hermes"
+  },
+  {
+   "vehicle": "Albany Driveshaft Devanity",
+   "access": "Locked",
+   "source": "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+  },
+  {
+   "vehicle": "Airgator Dr Sheehan's Airboat",
+   "access": "Locked",
+   "source": "https://metaforge.app/gta-6/database/vehicles/airgator-dr-sheehans-airboat"
+  }
+ ]
+}

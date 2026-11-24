@@ -1,0 +1,1109 @@
+{
+  "meta": {
+    "generated": "2026-11-24",
+    "method": "Web search only (60 queries). Every entry is built from search-result summaries, not from reading the pages themselves, so attribution of a detail to a specific URL is approximate. 'verified' = at least two different sites agree on the place and on at least one vehicle there. Many of these sites are fan/SEO guides published within 5 days of release and may copy each other; treat 'verified' as 'cross-reported', not as in-game confirmation. Reddit could not be searched (domain blocked for the search tool).",
+    "buyers": "Randy (Leonida Auto World, Balsero, west Vice City; wish list from Chapter 3, gives the Key Cloner) is reported as the best buyer for high-end cars: about $30,000+ per car, accepts advanced trackers, pays a ~$10,000 bonus for pristine condition. Moses (Port Gellhorn, from Chapter 2) only takes cars without a tracker. Pay 'n' Spray takes cars with no tracker or a standard tracker. Source: https://www.gta-xtreme.com/en/gta-6-where-to-sell-cars , https://bloxodes.com/articles/gta-6-how-to-sell-stolen-cars , https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/",
+    "islands_with_no_car_data_found": [
+      "Hyde Island - sources place it at the mouth of the Moreau River in East Lummox County (not near Vice City); it hosts a secret manhunt event, no car spawns reported (https://gta6map.uk/places/hyde-island/ , https://gta6map.city/secrets/hyde-island-lucia-bomb-collar-hunt/)",
+      "Fisher Island / Ferry Island - community maps treat Dalton Island as the Fisher Island analogue; a 'Ferry Island' entry exists in one landmark database without details (https://www.gtasixmap.com/locations/dalton-island , https://map.gtadb.org/)",
+      "Catalan Key - described only as the island with the Vice City Oceanarium and a tennis stadium; no vehicle data",
+      "Maroon Key - Leonida Keys island with a tethered radar blimp facility; no vehicle data",
+      "Frampton Islands - listed in East Lummox County; no vehicle data",
+      "Washington Island itself - the only car tied to the name is the gold Tempesta at Crimson Palms Condominiums (see item), which most guides put in Washington Beach 'near Washington Island'"
+    ],
+    "unplaced_reports": [
+      "games.gg lists 'a mansion garage just above the Vice-Dale County map label' holding supercars and a large black SUV, without naming the island (possibly the Starfish Island garage): https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-luxury-car-locations-how-to-get-them/",
+      "gtalytics describes a late-game penthouse on 'Teasta Retreat' with a garage of supercars - spelling conflicts with Tequesta Retreat, single source: https://gtalytics.gg/posts/gta-6-penthouse-guide-unlock-teasta-retreat-supercar-garage",
+      "One Russian-language summary says the small garage at the Vespucci Mansion entrance holds a 'Pegassi Gold Rope Infernus' instead of the Royal Ruby Emerus - single source, contradicts all others: https://battlepass.ru/gta6/transport/superkary"
+    ]
+  },
+  "items": [
+    {
+      "place_island": "Starfish Island",
+      "place_detail": "Mansion at the north-east tip of the island (driveway loop). Garage beside the driveway, cars parked side by side: Vitello on the left, Itali RSX in the middle, Dubsta on the right.",
+      "vehicles": [
+        "Pegassi Vitello (dark, green/white/red stripe; gtabase lists the custom 'Dante's Vitello' at Dante Fresh's mansion on Starfish Island)",
+        "Grotti Itali RSX (red)",
+        "Benefactor Dubsta"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required (unlocked in Chapter 3). Guards on the property. Several sources say the garage contents can differ between visits.",
+      "tracker": "Vitello: advanced; Itali RSX: advanced; Dubsta: standard (gtaboom). All shown as alarmed when scanned with WAiNK.",
+      "access": "By road: take the roundabout on the north-east side of Waxman Island onto Starfish Island.",
+      "use": "All three are Randy wish-list models. gtaboom quotes GTA$43,750 (Vitello), GTA$40,650 (Itali RSX), GTA$20,750 (Dubsta) - these appear to be registration quotes and are not confirmed.",
+      "sources": [
+        "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://www.gta6heists.com/money/free-cars",
+        "https://x.com/RoundtableSpace/status/2123789712896688162",
+        "https://cheatsearch.net/routes/luxury-cars-vice-beach-run"
+      ],
+      "verified": true,
+      "conflict": "detonated: the garage to the right of the leopard-print car 'usually has 2 Lamborghinis' (no model names). An X post and cheatsearch (which calls it the 'Golden Goose garage') say the selection changes every visit. gtaboom says 3 cars but lists 4 and states it did not verify how to open the garage. Other guides place the Randy-list Vitello elsewhere (villa on Flamingo Parkway in Waning Sands; green house in northern Capri).",
+      "desc_ru": "Особняк на северо-восточной оконечности Starfish Island: в гараже у подъездной дорожки стоят Pegassi Vitello, Grotti Itali RSX и Benefactor Dubsta. Нужен Key Cloner (с 3-й главы), территория охраняется; по сообщениям игроков, набор машин может меняться."
+    },
+    {
+      "place_island": "Starfish Island",
+      "place_detail": "Gated mansion (gtaboom calls it the Vercetti Estate; detonated: the house on the top right of the island). Car stands outside - in the courtyard/brick driveway beside the fountain, by the front steps, not inside the garage.",
+      "vehicles": [
+        "Piccia Big Cat Furia (leopard-print wrap, plate POUNCE)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required. Standout vehicle - respawns at the same spot after a while.",
+      "tracker": null,
+      "access": "By road via Waxman Island.",
+      "use": "Standout livery of a Randy wish-list model (Piccia Furia). No sale price found.",
+      "sources": [
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://www.gtaboom.com/how-to-find-the-vercetti-estate-in-gta-6-a2d6",
+        "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3",
+        "https://gameta.gg/gta6/vehicles/big-cat-furia/",
+        "https://gamerhour.net/locations/gta-6-piccia-big-cat-furia-special-car-location/",
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://www.gta6heists.com/money/free-cars",
+        "https://www.youtube.com/watch?v=a_XyQPZZ2xc"
+      ],
+      "verified": true,
+      "conflict": "Sources agree on a Starfish Island mansion forecourt but describe the exact spot differently: 'in front of the house on the top right of the island' (detonated), 'by the front steps' (gtaboom), 'beside the fountain in the courtyard' (gameta), 'inside the mansion' (beebom).",
+      "desc_ru": "Леопардовый Piccia Big Cat Furia (номер POUNCE) стоит перед особняком на Starfish Island - во дворе у фонтана и парадной лестницы. Нужен Key Cloner."
+    },
+    {
+      "place_island": "Starfish Island",
+      "place_detail": "Garage next to the large mansion off Sabal Circle, south side of the island (Andrew Node's residence).",
+      "vehicles": [
+        "Truffade Andrew Node's Thrax (Ultra-Luxe Thrax)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Intended route: scan all 10 No Flusher tags around Vice Beach with the WAiNK app; this reveals a locked garage south of the last tag on Mariposa Avenue with the door code on a notepad and a wall map marking the mansion (the code is not saved - write it down). Two security guards at the mansion. One guide says you can knock out the guards and open the garage; another reports glitching through the garage door without the tags.",
+      "tracker": "none (no tracker, no alarm per several guides)",
+      "access": "By road via Waxman Island, or by boat from the pier, docking behind the mansion to avoid the guards.",
+      "use": "The Thrax is the fastest/most expensive car in the game; this copy has no tracker so it is the easiest one to keep. No sale price found.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/andrew-nodes-thrax",
+        "https://metaforge.app/gta-6/database/vehicles/truffade-andrew-nodes-thrax",
+        "https://insider-gaming.com/how-to-get-the-truffage-andrew-nodes-thrax-no-flusher-locations/",
+        "https://gamerant.com/gta-6-free-thrax-supercar-no-flusher-tags-flush-locations-vice-beach/",
+        "https://thebestmods.com/gta-6/thrax-location/",
+        "https://www.gta-xtreme.com/en/gta-6-truffade-thrax-location"
+      ],
+      "verified": true,
+      "conflict": "Street is 'Sabal Circle' in most guides, 'Savile Circle' in some. One database lists access as 'Unlocked' while other guides mention a Key Cloner.",
+      "desc_ru": "Truffade Thrax Эндрю Нода стоит в гараже большого особняка у Sabal Circle на юге Starfish Island. Трекера нет; код от гаража дают за поиск 10 меток No Flusher в Vice Beach, особняк охраняют двое."
+    },
+    {
+      "place_island": "Starfish Island",
+      "place_detail": "South-west mansion: corner of the driveway in front of two garage doors (metaforge); another list says the back yard of the same mansion.",
+      "vehicles": [
+        "Pfister Class Act Comet (Comet S2 standout)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required (Chapter 3).",
+      "tracker": null,
+      "access": "By road via Waxman Island.",
+      "use": "metaforge: sells for $11,050, registration $34,250.",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://game8.co/games/GTA-6/archives/639201",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://gta6wiki.eu/vehicles/all/"
+      ],
+      "verified": true,
+      "conflict": "Driveway in front of two garage doors (metaforge) vs back yard (gta6wiki.eu) of the south-west mansion.",
+      "desc_ru": "Pfister Class Act Comet припаркован у юго-западного особняка Starfish Island - в углу подъездной дорожки перед двумя гаражными воротами. Нужен Key Cloner."
+    },
+    {
+      "place_island": "Starfish Island",
+      "place_detail": "Inside a mansion garage. gamerhour: garage with a red tool cabinet, the purple bike stands beside a red golf cart; gta6heists lists a purple sport bike at the guarded mansion with the leopard-print car.",
+      "vehicles": [
+        "Principe Burnished Alvino (purple/metallic Alvino V1 superbike, one of a kind)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required to start it.",
+      "tracker": null,
+      "access": "By road via Waxman Island.",
+      "use": "Standout superbike; guides recommend registering it. No sale price found.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/burnished-alvino",
+        "https://gameta.gg/gta6/vehicles/burnished-alvino/",
+        "https://gamerhour.net/guides/gta-6-how-to-get-the-fastest-bike/",
+        "https://gta6spots.lol/guide/343/where-to-find-the-best-cars-across-vice-city-s-islands",
+        "https://www.gta6heists.com/money/free-cars",
+        "https://www.youtube.com/watch?v=IOtf_UDH51A"
+      ],
+      "verified": true,
+      "conflict": "Which mansion's garage is not pinned down: gamerhour describes a red-tool-cabinet garage, gtaboom describes the north-east garage as green-walled.",
+      "desc_ru": "Уникальный супербайк Principe Burnished Alvino (фиолетовый) стоит в гараже одного из особняков Starfish Island рядом с красным гольф-каром. Нужен Key Cloner."
+    },
+    {
+      "place_island": "Starfish Island",
+      "place_detail": "Wealthy residence on Starfish Island; gtabase: in the garage next to two gold jet skis. Exact house not stated.",
+      "vehicles": [
+        "Benefactor Gilded Dubsta (gold finish)",
+        "two gold jet skis (model not named)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": null,
+      "tracker": "standard (one source)",
+      "access": "By road via Waxman Island.",
+      "use": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://battlepass.ru/gta6/transport/superkary"
+      ],
+      "verified": false,
+      "conflict": "The other databases repeat the same description text ('found at a wealthy residence on Starfish Island'), so they are not independent; only gtabase gives the jet-ski detail. May be the same Dubsta that gtaboom lists in the north-east garage.",
+      "desc_ru": "Золотой Benefactor Gilded Dubsta - в гараже богатой резиденции на Starfish Island, рядом с двумя золотыми гидроциклами. Точный дом источники не называют."
+    },
+    {
+      "place_island": "Starfish Island",
+      "place_detail": "Luxury residence on Starfish Island; exact spot not stated.",
+      "vehicles": [
+        "Benefactor Fatstaks Dubsta"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": null,
+      "tracker": null,
+      "access": "By road via Waxman Island.",
+      "use": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": null,
+      "desc_ru": "Benefactor Fatstaks Dubsta - у роскошной резиденции на Starfish Island; точное место в источниках не указано."
+    },
+    {
+      "place_island": "Vespucci Island (Rialto Islands)",
+      "place_detail": "Vespucci Mansion (robbery / illegal-operations site) on the west side of the island, reached along Neptune Circle. Small garage right by the mansion entrance.",
+      "vehicles": [
+        "Progen Royal Ruby Emerus (red and black, rear wing)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Heavily guarded mansion (two guards patrol per one guide). The car is reported unlocked, alarm off - no Key Cloner needed. The mansion also holds two safes and the Kingpin Heathen rifle.",
+      "tracker": "none (per several guides)",
+      "access": "Drive west from Vice Beach into the Rialto Islands to Neptune Circle.",
+      "use": "Reported sale price $33,000 (other guides say about $30,000 at Randy's); registration about $29,000.",
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639210",
+        "https://gamerant.com/gta-6-vespucci-mansion-kingpin-heathen-rifle-ar-progen-royal-ruby-emerus-super-car/",
+        "https://showgamer.com/en/guides/8181-gta-6-kak-ograbit-osobnyak-vespuchchi-i-poluchit-besplatnyy-superkar",
+        "https://gta6.house/library/locations/vespucci-mansion",
+        "https://www.ezg.com/blog/gta-6-vespucci-mansion-guide",
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://www.gta-xtreme.com/en/gta-6-progen-emerus-location",
+        "https://fandomwire.com/rarest-cars-in-gta-6-you-can-get-for-free-ranked/",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-luxury-car-locations-how-to-get-them/"
+      ],
+      "verified": true,
+      "conflict": "Exact position varies: small garage by the entrance (most), 'parked outside the mansion', 'mansion courtyard', 'driveway of a gated house' (games.gg). Sale price $33,000 vs ~$30,000. ezg says the car is 'not clearly free'. One Russian-language summary names a different car in that garage (see meta.unplaced_reports).",
+      "desc_ru": "Progen Royal Ruby Emerus (красно-чёрный, с антикрылом) стоит в маленьком гараже у въезда в особняк Vespucci на Neptune Circle. Машина без трекера и сигнализации, но особняк охраняется; продаётся примерно за $30-33 тыс."
+    },
+    {
+      "place_island": "Vespucci Island (Rialto Islands)",
+      "place_detail": "Private villa garage on Neptune Circle; the house is enclosed by hedges with a small green door leading to the garage. One guide places it north of the Vespucci Mansion garage.",
+      "vehicles": [
+        "Maibatsu '97 Penumbra FF (green Paul Walker / Fast & Furious tribute; gtabase: 'Paul Walker's Penumbra')"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Break into the residential garage. Available early.",
+      "tracker": null,
+      "access": "Drive west from Vice Beach into the Rialto Islands to the oval-shaped island.",
+      "use": "Tuner keeper car. Registration reported as free with Moses by one guide, $6,750 by another.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/penumbra-paul-walker-tribute",
+        "https://www.keengamer.com/articles/guides/gta-6-fast-and-furious-secret-car-location/",
+        "https://bo3.gg/games/articles/gta-6-paul-walker-car-location-how-to-get-the-green-penumbra-ff",
+        "https://www.ezg.com/blog/how-to-find-paul-walkers-mitsubishi-eclipse-gta-6",
+        "https://www.theclick.gg/gta-6-best-free-vehicle-locations/",
+        "https://gta6spots.lol/guide/343/where-to-find-the-best-cars-across-vice-city-s-islands",
+        "https://www.gta6heists.com/money/free-cars"
+      ],
+      "verified": true,
+      "conflict": "Registration cost: free (Moses) vs $6,750. gta6heists says the Ruby Emerus is 'next door'; fandomwire places both inside Vespucci Mansion.",
+      "desc_ru": "Зелёный Maibatsu Penumbra FF (отсылка к Eclipse Пола Уокера) стоит в гараже виллы на Neptune Circle, за живой изгородью с зелёной дверью. Гараж нужно вскрыть."
+    },
+    {
+      "place_island": "Vespucci Island (Rialto Islands)",
+      "place_detail": "Residential garage at the north end of the island, behind a light-brown wooden gate: jump the gate and break the door on the left to reach the garage; the garage door can be raised from inside.",
+      "vehicles": [
+        "Grotti Itali RSX"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required (Chapter 3). House is marked on the minimap once Randy gives the lead.",
+      "tracker": "advanced, alarmed",
+      "access": "Drive west from Vice Beach into the Rialto Islands.",
+      "use": "Randy wish-list car; $10,000 bonus if delivered in pristine condition (repair it first).",
+      "sources": [
+        "https://www.gta-xtreme.com/en/gta-6-grotti-itali-rsx-location",
+        "https://insider-gaming.com/where-to-find-the-grotti-iitali-rsx-in-gta-6/",
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://www.sportskeeda.com/gta/all-supercars-gta-6-locations"
+      ],
+      "verified": true,
+      "conflict": "Game8 instead places a parked Itali RSX at a white mansion in northern Capri; a Sportskeeda guide points to the Ocean View Hotel poolside bar in Ocean Beach; detonated and beebom only say 'Rialto Island(s)'.",
+      "desc_ru": "Grotti Itali RSX стоит в гараже жилого дома на северном конце Vespucci Island, за светло-коричневыми деревянными воротами. Сигнализация и продвинутый трекер, нужен Key Cloner; машина из списка Рэнди."
+    },
+    {
+      "place_island": "Casanova Island (Rialto Islands)",
+      "place_detail": "Large pale mansion with a black metal gate on the southern road, near the middle of the island (directly east of Vespucci Island). Garage door on the left side of the house.",
+      "vehicles": [
+        "Pegassi Lustrous Toros (gold-chrome SUV, plate CASHTLKS)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Lift the garage door manually (one guide: crowbar prompt). Cannot be driven without the Key Cloner (Chapter 3).",
+      "tracker": "advanced, alarmed (one guide)",
+      "access": "Drive or fly east from Vespucci Island.",
+      "use": "Standout variant of a Randy wish-list model. No sale price found.",
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/",
+        "https://game8.co/games/GTA-6/archives/639798",
+        "https://beebom.com/gta-6-pegassi-toros/",
+        "https://www.theclick.gg/gta-6-pegassi-toros-location/",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-luxury-car-locations-how-to-get-them/",
+        "https://www.sportskeeda.com/gta/how-get-golden-lamborghini-urus-huracan-gta-6",
+        "https://gta6spots.lol/guide/343/where-to-find-the-best-cars-across-vice-city-s-islands",
+        "https://detonated.com/gta-6-best-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "detonated calls it a 'golden Pegassi Charred Torus' in a house at the bottom-centre of the map; plate also written 'CASH TALKS'; a YouTube short claims it has no tracker while a guide lists alarm + advanced tracker.",
+      "desc_ru": "Золотой внедорожник Pegassi Lustrous Toros (номер CASHTLKS) стоит в гараже большого светлого особняка с чёрными воротами в центре Casanova Island; ворота гаража слева от дома. Без Key Cloner (3-я глава) не уехать."
+    },
+    {
+      "place_island": "Dalton Island",
+      "place_detail": "Dalton Island Club - large car park at the back of the clubhouse, full of golf carts.",
+      "vehicles": [
+        "Truffade Thrax (teal; one guide says green)",
+        "several other parked supercars (models not named)",
+        "golf carts"
+      ],
+      "kind": "mission_only",
+      "conditions": "The Thrax appears as the final car of Randy's wish list, after all other cars are delivered. A security guard stands by the car; security blocks the escape route with golf carts; you must drive the car onto the ferry before it leaves.",
+      "tracker": null,
+      "access": "No road connection: ferry from the Waxman Island terminal, $50 per trip.",
+      "use": "Deliver to Randy; one guide gives the reward as about $18,000.",
+      "sources": [
+        "https://www.destructoid.com/how-to-get-the-truffade-thrax-in-gta-6/",
+        "https://tech.yahoo.com/gaming/articles/truffade-thrax-gta-6-062250075.html",
+        "https://www.gta-xtreme.com/en/gta-6-truffade-thrax-location",
+        "https://thebestmods.com/gta-6/thrax-location/",
+        "https://culturedvultures.com/gta-6-where-to-find-the-truffade-thrax/",
+        "https://www.sportskeeda.com/esports/where-find-truffade-thrax-gta-6-rare-ultra-luxe-hypercar",
+        "https://games.gg/grand-theft-auto-vi/guides/truffade-thrax-location-how-to-find-grand-theft-auto-6/",
+        "https://gta6-japan.com/en/missions/randy-final-thrax-dalton-island/",
+        "https://www.theclick.gg/gta-6-ferry-terminal-locations/"
+      ],
+      "verified": true,
+      "conflict": "Only some guides (destructoid and one other) say several supercars are parked there besides the Thrax; none name them, and no source confirms they are there outside the mission. Thrax colour teal vs green.",
+      "desc_ru": "Большая парковка за клубом Dalton Island Club, заставленная гольф-карами: здесь стоит Truffade Thrax - последняя машина из списка Рэнди, рядом, по словам гайдов, ещё несколько суперкаров. На остров ходит только паром с Waxman Island ($50)."
+    },
+    {
+      "place_island": "Dalton Island",
+      "place_detail": "Around the villas/properties on the private island (no exact spots given).",
+      "vehicles": [
+        "random luxury cars (models not named)"
+      ],
+      "kind": "parking_lot_random",
+      "conditions": "Parked high-end cars reported to need a cloned key.",
+      "tracker": null,
+      "access": "Ferry from Waxman Island, $50.",
+      "use": null,
+      "sources": [
+        "https://vocal.media/gamers/private-island-in-gta-6",
+        "https://www.gtasixmap.com/locations/dalton-island"
+      ],
+      "verified": false,
+      "conflict": "Single first-person account; no guide lists models or exact spots. The name 'Dalton Island' is described by one map site as a community label.",
+      "desc_ru": "По рассказу одного игрока, у вилл частного острова Dalton Island припаркованы дорогие машины, для которых нужен клон ключа. Модели и точные места не подтверждены."
+    },
+    {
+      "place_island": "Waxman Island",
+      "place_detail": "Chatfield Storage & Logistics yard, directly north of the Pay 'n' Spray on Waxman Island. Car is inside a shipping container by the water (one guide: blue container; sometimes parked in front of the containers).",
+      "vehicles": [
+        "Progen Purple Drank Emerus"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Guarded yard: deal with security, press the button beside the security cabin to open the gate. Safe code on site: 5800.",
+      "tracker": null,
+      "access": "By road just east of Vice City.",
+      "use": "Sale price reported as $33,000 (another guide: about $30,000 at Randy's in top condition). Randy's shop (Chapter 3) needed to sell/register.",
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639160",
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://www.hotcars.com/gta-6s-5-rarest-cars-how-to-get-them/",
+        "https://gamerant.com/gta-6-chatfield-storage-logistics-safe-code-key-valuable/",
+        "https://gta6supercars.com/free-purple-drank-emerus-gta-6/",
+        "https://xboxplay.games/gta-6/gta-6-chatfield-storage-safe-code-free-car-amp-pistol-77534",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": true,
+      "conflict": "Container colour/position (blue container vs container by the water vs in front of containers); sale price $33,000 vs ~$30,000.",
+      "desc_ru": "Progen Purple Drank Emerus спрятан в морском контейнере на охраняемом складе Chatfield Storage & Logistics, к северу от Pay 'n' Spray на Waxman Island. Ворота открываются кнопкой у будки охраны; продаётся за $30-33 тыс."
+    },
+    {
+      "place_island": "Waxman Island",
+      "place_detail": "Robbery-opportunity site on the western docks of Waxman Island, beside a red shipping container.",
+      "vehicles": [
+        "Invetero Coquette D10"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Randy phones about a crew on Waxman Island (wish list, Chapter 3+), but the spot can be visited without the hint. Key Cloner required.",
+      "tracker": "none, alarmed (one guide); other guides say most wish-list cars carry a tracker",
+      "access": "By road just east of Vice City.",
+      "use": "Randy wish-list car; bonus for perfect condition.",
+      "sources": [
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/",
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://outputlag.com/guides/gta-6-randy-wishlist-cars/",
+        "https://ultimateguide6.com/en/guides/gta-6-randy-wish-list/"
+      ],
+      "verified": true,
+      "conflict": "Possibly the same yard as Chatfield Storage (both are a container yard with a robbery opportunity) - not confirmed. Other guides list the Coquette D10 parked on Fig Street (Ocean Beach) and at houses in Capri.",
+      "desc_ru": "Invetero Coquette D10 стоит у красного контейнера на западных доках Waxman Island (точка ограбления), о ней звонит Рэнди. Нужен Key Cloner."
+    },
+    {
+      "place_island": "Washington Beach / Washington Island",
+      "place_detail": "Crimson Palms Condominiums - tall beachfront tower on the northern side of Vice Beach. Drive up the curved ramp on the right side of the building; the car is parked under cover at the top of the ramp (covered upper deck of the parking structure).",
+      "vehicles": [
+        "Pegassi Gold Rush Tempesta (solid-gold supercar)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required (Chapter 3). One guide notes no guards or distractions.",
+      "tracker": null,
+      "access": "By road, Washington Beach.",
+      "use": "Standout variant of a Randy wish-list model. No sale price found.",
+      "sources": [
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-luxury-car-locations-how-to-get-them/",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://www.sportskeeda.com/gta/how-get-golden-lamborghini-urus-huracan-gta-6",
+        "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/",
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/",
+        "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto",
+        "https://gta6spots.lol/guide/343/where-to-find-the-best-cars-across-vice-city-s-islands",
+        "https://x.com/RoundtableSpace/status/2123789712896688162"
+      ],
+      "verified": true,
+      "conflict": "detonated calls it a 'gold Lamborghini Aventador' parked 'under the balcony'; showgamer and gameshorizon say the building is on Washington Island, others say Washington Beach near Washington Island. A second spawn is reported outside the Cirque de Cuisine restaurant in Ocean Beach.",
+      "desc_ru": "Золотой Pegassi Gold Rush Tempesta стоит под навесом наверху изогнутого пандуса паркинга высотки Crimson Palms Condominiums в Washington Beach. Нужен Key Cloner (3-я глава)."
+    },
+    {
+      "place_island": "Washington Beach / Washington Island",
+      "place_detail": "Washington Beach marina (no exact dock given).",
+      "vehicles": [
+        "luxury boats and other watercraft (models not named)"
+      ],
+      "kind": "parking_lot_random",
+      "conditions": "Large yachts and luxury speedboats reportedly need the Key Cloner.",
+      "tracker": null,
+      "access": null,
+      "use": null,
+      "sources": [
+        "https://gta6.wiki.fextralife.com/Boats",
+        "https://dotesports.com/gta/guides/how-to-get-a-boat-in-gta-6",
+        "https://www.gamespot.com/articles/how-to-get-a-boat-in-gta-6/"
+      ],
+      "verified": false,
+      "conflict": "No source names a specific boat model or dock here.",
+      "desc_ru": "В марине Washington Beach, по гайдам, стоят дорогие катера и другие суда; модели не названы."
+    },
+    {
+      "place_island": "Washington Beach / Washington Island",
+      "place_detail": "Helipad on the buildings east of Washington Beach (Game8 'Helipad 2').",
+      "vehicles": [
+        "helicopter (model not named)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "A helipad marker does not guarantee a helicopter is present.",
+      "tracker": null,
+      "access": null,
+      "use": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638692"
+      ],
+      "verified": false,
+      "conflict": null,
+      "desc_ru": "Вертолётная площадка на зданиях восточнее Washington Beach; вертолёт появляется не всегда, модель не указана."
+    },
+    {
+      "place_island": "Leaf Links",
+      "place_detail": "Guarded mansion on Delamore Drive, across from hole 2 of the golf course. Car keys are inside the house behind the grey sofa (on a cabinet / in a bowl on a table).",
+      "vehicles": [
+        "Declasse Mamba GT '64"
+      ],
+      "kind": "mission_only",
+      "conditions": "Only after Randy calls about it (wish-list side job). Private club: security moves trespassers on; heavy security at the mansion (loud approach or rooftop stealth route).",
+      "tracker": "has a tracker (type not stated)",
+      "access": "Island between Vice City and Vice Beach, north of Washington Beach.",
+      "use": "Randy wish-list car - the only one with a single fixed location.",
+      "sources": [
+        "https://insider-gaming.com/where-to-find-the-mamba-gt-in-gta-6/",
+        "https://gamerant.com/gta-6-mamba-gt-location-key-stealth/",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://gta6info.com/wiki/Mamba_GT",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+      ],
+      "verified": true,
+      "conflict": "Key location: cabinet vs bowl on a table behind the sofa. Recommended approach differs (loud vs rooftop stealth).",
+      "desc_ru": "Declasse Mamba GT '64 стоит в охраняемом особняке на Delamore Drive в Leaf Links, напротив 2-й лунки. Машина доступна только после звонка Рэнди; ключи лежат в доме за серым диваном."
+    },
+    {
+      "place_island": "Leaf Links",
+      "place_detail": "Docks of the Leaf Links Country Club (waterfront), north of Vice Beach and east of the Decor District.",
+      "vehicles": [
+        "several large yachts (models not named)",
+        "luxury speedboats (models not named)"
+      ],
+      "kind": "parking_lot_random",
+      "conditions": "Yachts and luxury speedboats require the Key Cloner. No patrolling security at the docks.",
+      "tracker": null,
+      "access": "By water or via the club grounds.",
+      "use": "Stolen yachts are reported as temporary (unowned vessels may be cleared when the story advances).",
+      "sources": [
+        "https://www.gamespot.com/articles/how-to-get-a-boat-in-gta-6/",
+        "https://dotesports.com/gta/guides/how-to-get-a-boat-in-gta-6",
+        "https://gta6.wiki.fextralife.com/Boats",
+        "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats",
+        "https://happygamer.com/gta-6-how-to-get-a-boat-178909/"
+      ],
+      "verified": true,
+      "conflict": "Key Cloner timing given as Chapter 4 by one boat guide vs Chapter 3 in car guides. Whether stolen yachts persist is unconfirmed.",
+      "desc_ru": "У причалов загородного клуба Leaf Links стоят несколько больших яхт и дорогих катеров, охраны нет. Для угона нужен Key Cloner."
+    },
+    {
+      "place_island": "Leaf Links",
+      "place_detail": "One of the mansions in Leaf Links (exact house not stated).",
+      "vehicles": [
+        "Vapid Brimstone Golfer (golf cart with blue flame decals)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": null,
+      "tracker": null,
+      "access": null,
+      "use": "Standout novelty vehicle, not valuable.",
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-vapid-brimstone-golfer-unique-standout-vehicle-location/"
+      ],
+      "verified": false,
+      "conflict": null,
+      "desc_ru": "Уникальный гольф-кар Vapid Brimstone Golfer с синим пламенем стоит у одного из особняков Leaf Links; точный дом не указан."
+    },
+    {
+      "place_island": "Peacock Estates (Peacock Bay)",
+      "place_detail": "Mansion on Palladia Lane (Sportskeeda: yellow villa with a detached garage at the southernmost corner of Peacock Estates). Skip the main gate, go over the hedge on the left, walk between the water and the garage building, enter by the garage side door and open the shutter.",
+      "vehicles": [
+        "Piccia Furia"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required (Randy's wish list, Chapter 3+). May only be marked on the map after calling Randy about halfway through his list.",
+      "tracker": null,
+      "access": "By road, southern Vice City.",
+      "use": "Randy wish-list car; $10,000 bonus if delivered pristine.",
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://insider-gaming.com/where-to-find-the-piccia-furia-in-gta-6/",
+        "https://www.sportskeeda.com/esports/all-randy-vehicle-locations-gta-6",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://arz-wiki.com/gta-6/articles/redkie-mashiny-gta-6/"
+      ],
+      "verified": true,
+      "conflict": "One overview guide says 'Peacock Island' instead of Peacock Estates.",
+      "desc_ru": "Piccia Furia стоит в гараже особняка на Palladia Lane в Peacock Estates: обойти ворота слева через живую изгородь и войти в боковую дверь гаража. Нужен Key Cloner; Рэнди доплачивает $10 000 за идеальное состояние."
+    },
+    {
+      "place_island": "Tequesta Retreat",
+      "place_detail": "Pegassi Residences on Bayside Dr, East Tower - under the covered drop-off area outside the entrance.",
+      "vehicles": [
+        "Pegassi Toros (purple, Pegassi branding on the side)",
+        "Pegassi Tempesta with custom/branded livery (reported outside a hotel / the Pegassi Residences)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner (wish-list car). Described as one of the easiest wish-list cars.",
+      "tracker": null,
+      "access": "Drive to the end of Bayside Drive and cross the bridge to Tequesta Retreat.",
+      "use": "Toros is a Randy wish-list car. The Pegassi Residences Garage (3 vehicle slots) is a purchasable garage here.",
+      "sources": [
+        "https://insider-gaming.com/where-to-find-the-pegassi-toros-in-gta-6/",
+        "https://www.theclick.gg/gta-6-pegassi-toros-location/",
+        "https://www.gta-xtreme.com/gta-6/locations/hidden-cars",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://www.gtabase.com/gta-6/properties/pegassi-residences-garage"
+      ],
+      "verified": true,
+      "conflict": "Game8 instead lists the Toros at a beige house in northern Capri. The branded Tempesta is from a standout database and one guide; exact spot not stated.",
+      "desc_ru": "У входа в Pegassi Residences (East Tower, Bayside Dr) в Tequesta Retreat под навесом стоит фиолетовый Pegassi Toros с фирменной надписью - одна из самых лёгких машин списка Рэнди. Рядом сообщают и о брендированном Pegassi Tempesta."
+    },
+    {
+      "place_island": "Capri",
+      "place_detail": "Rich residential area in northern Capri - cars parked at random in driveways and outside houses. Game8 names a green house (Paragon, Vitello), a beige house (Toros) and a white mansion (Itali RSX).",
+      "vehicles": [
+        "Bravado Banshee",
+        "Pegassi Infernus",
+        "Pegassi Tempesta",
+        "Pegassi Toros",
+        "Pegassi Vitello",
+        "Benefactor Dubsta",
+        "Invetero Coquette D10",
+        "Granforma Zorrusso",
+        "Buckingham Windsor Drop",
+        "Buckingham Jubilee",
+        "Ascot Paragon",
+        "Grotti Itali RSX",
+        "Pfister Growler (seen driving on Capri roads)"
+      ],
+      "kind": "parking_lot_random",
+      "conditions": "Random selection: if the model is not there, save and reload to reshuffle parked cars. Key Cloner needed for most.",
+      "tracker": "most wish-list cars carry a tracker (type varies)",
+      "access": "By road.",
+      "use": "Main farming area for Randy's wish list (about $30,000+ per car reported).",
+      "sources": [
+        "https://gta6.house/library/activities/randys-wish-list",
+        "https://game8.co/games/GTA-6/archives/639137",
+        "https://gamerant.com/gta-6-all-randy-wish-list-vehicles-locations/",
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/",
+        "https://gadget.qoo10.co.id/en/technology/randy-wishlist-car-locations-gta-6/",
+        "https://viceguide.online/guides/gta-6-key-cloner-randys-wish-list-supercar-locations"
+      ],
+      "verified": true,
+      "conflict": "Which model sits at which house differs between guides; several of these models have other reported fixed spots (see Ocean Beach, Vespucci Island, Tequesta Retreat items).",
+      "desc_ru": "В богатом жилом районе на севере Capri у домов случайно спавнятся дорогие машины из списка Рэнди: Banshee, Infernus, Tempesta, Toros, Dubsta, Coquette D10, Windsor Drop и другие. Если нужной нет - сохранитесь и загрузитесь заново."
+    },
+    {
+      "place_island": "Capri",
+      "place_detail": "Sweetbay Inn (also spelled Sweet Bay Inn) on East Buckley Dr - parked just outside the inn.",
+      "vehicles": [
+        "Bravado Banshee"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Only very late at night (one table: 3-4 a.m.). Key Cloner required.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list car.",
+      "sources": [
+        "https://tech.yahoo.com/gaming/articles/randy-wishlist-car-locations-gta-083314767.html",
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+        "https://arz-wiki.com/gta-6/articles/redkie-mashiny-gta-6/",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+      ],
+      "verified": true,
+      "conflict": "Another guide sends players to a showroom in Southside for the Banshee instead.",
+      "desc_ru": "Bravado Banshee паркуется у мотеля Sweetbay Inn на East Buckley Dr в Capri, но только глубокой ночью (около 3-4 часов). Нужен Key Cloner."
+    },
+    {
+      "place_island": "Ocean Beach",
+      "place_detail": "Multistorey car park on Fig Street - work up the levels until the car is found (level not stated).",
+      "vehicles": [
+        "Pfister Growler",
+        "Invetero Coquette D10 (reported parked on Fig Street by some guides)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Growler seen around 5 p.m. in-game. Key Cloner required.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list cars.",
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://gtaexp.com/reference/vehicles-equipment/gta-6-pfister-growler",
+        "https://gta6route.com/en/rare-cars/pfister-growler/",
+        "https://atlassecrets.app/gta6/secrets/pfister-growler-in-an-ocean-beach-car-park/",
+        "https://www.theclick.gg/gta-6-randys-wish-list-cars/",
+        "https://gta6.house/library/activities/randys-wish-list",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+      ],
+      "verified": true,
+      "conflict": "Several of these pages credit the same Push Square sighting. Gamerant puts the Growler on Shore Drive instead; another guide has it driving around Capri.",
+      "desc_ru": "В многоэтажном паркинге на Fig Street в Ocean Beach около 17:00 появляется Pfister Growler; там же замечали Coquette D10. Нужен Key Cloner."
+    },
+    {
+      "place_island": "Ocean Beach",
+      "place_detail": "The Banana Hole bar on Shore Drive - parking spaces right outside the main bar.",
+      "vehicles": [
+        "Ascot Paragon"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Seen around 6 p.m. in-game. Key Cloner required.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list car.",
+      "sources": [
+        "https://gta6.house/library/activities/randys-wish-list",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://gta6route.com/en/rare-cars/",
+        "https://neoncoast.org/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Game8 places the Paragon at a green house in northern Capri.",
+      "desc_ru": "Ascot Paragon стоит на парковке прямо у бара The Banana Hole на Shore Drive в Ocean Beach, обычно около 18:00. Нужен Key Cloner."
+    },
+    {
+      "place_island": "Ocean Beach",
+      "place_detail": "Beach-side parking along Shore Drive (by the sand).",
+      "vehicles": [
+        "Pfister Growler",
+        "Buckingham Jubilee",
+        "Ascot Paragon",
+        "Benefactor Dubsta"
+      ],
+      "kind": "parking_lot_random",
+      "conditions": "Several different wish-list cars can spawn here; selection varies. Key Cloner required.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list cars.",
+      "sources": [
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/",
+        "https://gamerant.com/gta-6-all-randy-wish-list-vehicles-locations/",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://game8.co/games/GTA-6/archives/639137"
+      ],
+      "verified": true,
+      "conflict": "Neoncoast says no fixed spot is confirmed for the Jubilee; Gamerant lists the Jubilee at Capri houses.",
+      "desc_ru": "На парковке вдоль Shore Drive у пляжа Ocean Beach случайно спавнятся машины из списка Рэнди: Pfister Growler, Buckingham Jubilee, Ascot Paragon, Benefactor Dubsta."
+    },
+    {
+      "place_island": "Ocean Beach",
+      "place_detail": "In front of the Cirque de Cuisine restaurant on Shore Drive, east side of Ocean Beach.",
+      "vehicles": [
+        "Pegassi Gold Rush Tempesta"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required.",
+      "tracker": null,
+      "access": "By road.",
+      "use": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639137",
+        "https://www.sportskeeda.com/gta/how-get-golden-lamborghini-urus-huracan-gta-6"
+      ],
+      "verified": false,
+      "conflict": "The second mention appears to quote Game8, so this is effectively one source. Most guides give only the Crimson Palms Condominiums spot for the gold Tempesta.",
+      "desc_ru": "По данным Game8, золотой Pegassi Gold Rush Tempesta также появляется перед рестораном Cirque de Cuisine на Shore Drive. Не подтверждено вторым независимым источником."
+    },
+    {
+      "place_island": "Ocean Beach",
+      "place_detail": "The Y Hotel - valet drop-off at the hotel exit.",
+      "vehicles": [
+        "Piccia Dragon Gate Furia"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Chapter 4 (the Y Hotel unlocks then). A rude guest leaves the car running at the valet as you leave the hotel.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Standout Furia; listed as a car on Randy's list in Chapter 4.",
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639165",
+        "https://gameta.gg/gta6/vehicles/piccia-dragon-gate-furia/",
+        "https://www.gtabase.com/gta-6/properties/ocean-beach-safehouse"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "У стойки парковщика на выходе из Y Hotel в Ocean Beach грубый постоялец оставляет заведённый Piccia Dragon Gate Furia. Доступно в 4-й главе."
+    },
+    {
+      "place_island": "Ocean Beach",
+      "place_detail": "Ocean Drive hotel forecourts and traffic; Sportskeeda specifically names the Ocean View Hotel poolside bar.",
+      "vehicles": [
+        "Grotti Itali RSX",
+        "Invetero Coquette D10",
+        "Albany V-STR"
+      ],
+      "kind": "traffic",
+      "conditions": null,
+      "tracker": null,
+      "access": "By road.",
+      "use": "Itali RSX and Coquette D10 are Randy wish-list models.",
+      "sources": [
+        "https://www.sportskeeda.com/esports/how-get-grotti-itali-rsx-supercar-gta-6",
+        "https://retrobroker.com/en-US/us/blog/fastest-free-supercars-vice-city-locations",
+        "https://gta6.house/library/activities/randys-wish-list"
+      ],
+      "verified": false,
+      "conflict": "Sources agree only at district level (Ocean Beach) for the Itali RSX; exact spot differs and most guides put the Itali RSX in the Vespucci Island garage.",
+      "desc_ru": "На Ocean Drive в Ocean Beach, у отелей и в потоке, по гайдам встречаются Grotti Itali RSX, Coquette D10 и Albany V-STR. Точное место не подтверждено."
+    },
+    {
+      "place_island": "Ocean Beach",
+      "place_detail": "Ocean Beach marina (no exact dock given).",
+      "vehicles": [
+        "expensive speedboats (models not named)"
+      ],
+      "kind": "parking_lot_random",
+      "conditions": "Luxury speedboats reportedly need the Key Cloner.",
+      "tracker": null,
+      "access": null,
+      "use": null,
+      "sources": [
+        "https://gta6.wiki.fextralife.com/Boats",
+        "https://dotesports.com/gta/guides/how-to-get-a-boat-in-gta-6",
+        "https://www.gamespot.com/articles/how-to-get-a-boat-in-gta-6/"
+      ],
+      "verified": false,
+      "conflict": "No source names a specific boat model or dock.",
+      "desc_ru": "В марине Ocean Beach, по гайдам, стоят разные лодки, включая дорогие скоростные катера; модели не названы."
+    },
+    {
+      "place_island": "Ocean Beach",
+      "place_detail": "Hotel rooftop helipad in Ocean Beach (hotel not named).",
+      "vehicles": [
+        "helicopter (model not named)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Helicopter is not guaranteed to be present.",
+      "tracker": null,
+      "access": "Rooftop, usually via elevator.",
+      "use": null,
+      "sources": [
+        "https://happygamer.com/gta-6-how-to-get-a-helicopter-179627/",
+        "https://www.theclick.gg/gta-6-helicopter-locations/"
+      ],
+      "verified": false,
+      "conflict": null,
+      "desc_ru": "На крыше одного из отелей Ocean Beach есть вертолётная площадка; вертолёт появляется не всегда, модель не указана."
+    },
+    {
+      "place_island": "Vice Beach (exact district not stated)",
+      "place_detail": "In front of the entrance of the Eden Grove Marina Hotels.",
+      "vehicles": [
+        "Pegassi Tempesta"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list car.",
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639137",
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/",
+        "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location"
+      ],
+      "verified": true,
+      "conflict": "Name spelled 'Eden Grove Marina Hotels' and 'Eden Grove Mariana Hotels'. Other Tempesta spots: NE 3rd St in Vice City (daytime repo event), Capri houses.",
+      "desc_ru": "Pegassi Tempesta стабильно стоит перед входом в Eden Grove Marina Hotels на Vice Beach. Нужен Key Cloner; машина из списка Рэнди."
+    },
+    {
+      "place_island": "Vice City mainland - Bayside",
+      "place_detail": "Status Auto Imports showroom at the top of Vice City, between La Perle and Bayside, just east of Tyrone's fence.",
+      "vehicles": [
+        "Buckingham Windsor Drop"
+      ],
+      "kind": "dealership",
+      "conditions": "Cars are stolen, not bought (the game has no car purchasing). The Chapter 4 mission 'Company Cars' also takes place here.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list car - easiest place to find the Windsor Drop.",
+      "sources": [
+        "https://insider-gaming.com/where-to-find-the-buckingham-windsor-drop-gta-6/",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://outputlag.com/guides/gta-6-company-cars-mission/"
+      ],
+      "verified": true,
+      "conflict": "Game8 and Gamerant say Windsor Drops are parked among the high-end Capri houses. A map wiki lists a 'Status Auto Resort' in Crosstown, which does not match.",
+      "desc_ru": "В автосалоне Status Auto Imports в Bayside (север Vice City, восточнее скупщика Тайрона) проще всего найти Buckingham Windsor Drop. Машины здесь не продают - их угоняют."
+    },
+    {
+      "place_island": "Vice City mainland - Southside",
+      "place_detail": "Car showroom in southern Vice City, across the road from the Illegal Goods store.",
+      "vehicles": [
+        "Bravado Banshee (blue)"
+      ],
+      "kind": "dealership",
+      "conditions": "Drive it out through the showroom window for the 'Capital Offense' trophy.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list model; trophy.",
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+      ],
+      "verified": true,
+      "conflict": "Other guides send players to Capri (Sweetbay Inn, late night) for the Banshee. The second source only says 'a showroom in Southside' without the landmark.",
+      "desc_ru": "В автосалоне на юге Vice City (Southside), напротив магазина нелегальных товаров, стоит синий Bravado Banshee. Если выехать на нём через витрину, дают трофей Capital Offense."
+    },
+    {
+      "place_island": "Vice City mainland - Southside / Crosstown",
+      "place_detail": "Dealership landmarks listed by one map wiki: Baller Dealership, Marlin Motors and Vapid Dealership in Southside; 'Status Auto Resort' in Crosstown.",
+      "vehicles": [],
+      "kind": "dealership",
+      "conditions": "Map landmarks only; guides say nothing can be bought.",
+      "tracker": null,
+      "access": null,
+      "use": null,
+      "sources": [
+        "https://gta6maps.wiki/map/vehicle-dealers/",
+        "https://thegta6map.com/places/vice-city-car-dealerships",
+        "https://gta6pat.com/cars/dealerships/"
+      ],
+      "verified": false,
+      "conflict": "No source says which cars stand at these dealerships; names come from a single map wiki.",
+      "desc_ru": "По одной из карт, в Southside есть автосалоны Baller Dealership, Marlin Motors и Vapid Dealership, а в Crosstown - Status Auto Resort. Какие машины там стоят, источники не сообщают."
+    },
+    {
+      "place_island": "Vice City mainland - Crosstown",
+      "place_detail": "Crosstown Police Station car park on NW 9th St - level 7 (top floor).",
+      "vehicles": [
+        "Pegassi Infernus '96"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Police-only garage: follow an officer through the gate unseen; one guide exits via the stunt jump on the top floor. Key Cloner required.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list car.",
+      "sources": [
+        "https://insider-gaming.com/where-to-find-the-pegassi-infernus-gta-6/",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://gta6.house/library/activities/randys-wish-list",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://arz-wiki.com/gta-6/articles/redkie-mashiny-gta-6/"
+      ],
+      "verified": true,
+      "conflict": "Level 7 vs 'top floor' (may be the same). gta6.house also lists the Infernus among random Capri spawns.",
+      "desc_ru": "Pegassi Infernus '96 стоит на 7-м (верхнем) уровне паркинга полицейского участка Crosstown на NW 9th St. Придётся прокрасться мимо полиции; нужен Key Cloner."
+    },
+    {
+      "place_island": "Vice City mainland",
+      "place_detail": "NE 3rd St - street encounter, car usually behind a tow truck (owner arguing with a repo man).",
+      "vehicles": [
+        "Pegassi Tempesta"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Daytime only; scare off the owner/repo man and take the car.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Randy wish-list car.",
+      "sources": [
+        "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611",
+        "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location",
+        "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar",
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "На NE 3rd St днём происходит сценка: владелец Pegassi Tempesta спорит с эвакуаторщиком. Спугните их и забирайте машину."
+    },
+    {
+      "place_island": "Vice City mainland - La Perle",
+      "place_detail": "La Perle trap house (exact address not stated).",
+      "vehicles": [
+        "Pegassi Charred Toros"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Reported as free, unlocked and available early.",
+      "tracker": "none (one guide)",
+      "access": "By road.",
+      "use": "Early-game keeper SUV.",
+      "sources": [
+        "https://thebestmods.com/gta-6/best-cars/",
+        "https://www.theclick.gg/gta-6-pegassi-toros-location/"
+      ],
+      "verified": false,
+      "conflict": "Only one summary gives the place explicitly.",
+      "desc_ru": "По одному гайду, у притона в La Perle стоит Pegassi Charred Toros - бесплатный, незапертый и без трекера. Вторым источником не подтверждено."
+    },
+    {
+      "place_island": "Vice City mainland - Downtown",
+      "place_detail": "Maven Residences - skyscraper south-west of Panos Square; rooftop helipad (elevator).",
+      "vehicles": [
+        "helicopter (model not named)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Spawn not guaranteed.",
+      "tracker": null,
+      "access": "Elevator to the roof.",
+      "use": null,
+      "sources": [
+        "https://www.magicgameworld.com/gta-6-helicopter-locations-where-to-find-your-first-chopper/",
+        "https://www.gtabase.com/gta-6/map/?feature=helipads"
+      ],
+      "verified": false,
+      "conflict": "Building name appears in only one source. gtabase lists 13 helipads, Game8 lists 12.",
+      "desc_ru": "На крыше небоскрёба Maven Residences (юго-западнее Panos Square) есть вертолётная площадка, подняться можно на лифте. Вертолёт появляется не всегда."
+    },
+    {
+      "place_island": "Vice-Dale County",
+      "place_detail": "Hospital rooftop helipad, reached by ladder.",
+      "vehicles": [
+        "helicopter (model not named)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "The hospital helicopter does not always spawn.",
+      "tracker": null,
+      "access": "Ladder to the roof.",
+      "use": null,
+      "sources": [
+        "https://happygamer.com/gta-6-how-to-get-a-helicopter-179627/",
+        "https://www.theclick.gg/gta-6-helicopter-locations/"
+      ],
+      "verified": false,
+      "conflict": null,
+      "desc_ru": "На крыше больницы в Vice-Dale County есть вертолётная площадка, куда ведёт лестница; вертолёт появляется не всегда."
+    },
+    {
+      "place_island": "Vice City International Airport",
+      "place_detail": "Autograph private-aviation hangars: outside the South Hangars by the GO Postal hub; restricted apron reached through the cargo-yard fence.",
+      "vehicles": [
+        "Buckingham Shamal (black and gold)",
+        "Lapwing Nimbus (on the tarmac)",
+        "commercial jets at gates and runways"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Restricted airside area - entering gives a high wanted level.",
+      "tracker": null,
+      "access": "Through the cargo-yard fence.",
+      "use": null,
+      "sources": [
+        "https://freeroam.fyi/guides/gta-vi-vice-city-international-airport-vcia-guide",
+        "https://www.gta6walk.com/map/vice-city-international-airport/",
+        "https://grandleonida.com/places/vice-city-international-airport/"
+      ],
+      "verified": false,
+      "conflict": "Aircraft models come from one source; some airport pages look pre-release. No source describes luxury cars in the airport car parks (Gator and Manatee garages are named, without vehicles).",
+      "desc_ru": "У частных ангаров Autograph в аэропорту Vice City, по одному гайду, стоят чёрно-золотой Buckingham Shamal и Lapwing Nimbus. Зона закрытая - сразу дают розыск."
+    },
+    {
+      "place_island": "Flamingo Island",
+      "place_detail": "Helipad on the northern part of the island (north of Vice City, north-east of Vice-Dale County).",
+      "vehicles": [
+        "helicopter (model not named)",
+        "plane (model not named)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Reported unguarded and available from Chapter 1; spawn not guaranteed at every hour.",
+      "tracker": null,
+      "access": null,
+      "use": "Easy early aircraft.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6",
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/",
+        "https://www.theclick.gg/gta-6-helicopter-locations/",
+        "https://portalvicecity.com/en/guides/gta-6-helicopters-and-planes-where-to-find-them-and-take-off/"
+      ],
+      "verified": true,
+      "conflict": "theclick says the plane 'may' be available; models are not named by any source.",
+      "desc_ru": "На Flamingo Island севернее Vice City на площадке в северной части острова стоят вертолёт и самолёт, охраны нет. Доступно с 1-й главы, но спавн не гарантирован."
+    },
+    {
+      "place_island": "Gloriana Key",
+      "place_detail": "Parking lot of the rowing club.",
+      "vehicles": [
+        "tuned cars with racing decals (models not named)"
+      ],
+      "kind": "parking_lot_random",
+      "conditions": null,
+      "tracker": null,
+      "access": "Causeway from Vice City; continues south to Catalan Key.",
+      "use": null,
+      "sources": [
+        "https://www.gtasixmap.com/locations/virginia-key"
+      ],
+      "verified": false,
+      "conflict": "Single source; the name 'Gloriana Key' is a community label.",
+      "desc_ru": "На парковке гребного клуба на Gloriana Key, по одной карте, стоят тюнингованные машины с гоночными наклейками. Не подтверждено."
+    },
+    {
+      "place_island": "Rialto Islands (Catalan Bay waters)",
+      "place_detail": "Cruising in the waters around the Rialto Islands in Catalan Bay; also docked at Brian's Marina and Vice City marinas.",
+      "vehicles": [
+        "Calder Shasa (yacht)",
+        "Calder Yakuruna (yacht)"
+      ],
+      "kind": "traffic",
+      "conditions": "Large yachts can be boarded from the water; Key Cloner reported as required for yachts.",
+      "tracker": null,
+      "access": "By boat.",
+      "use": null,
+      "sources": [
+        "https://gta6.wiki.fextralife.com/Boats",
+        "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats"
+      ],
+      "verified": false,
+      "conflict": "Marina names differ between sources (Brian's Marina, Vice City Marina, Peacock Bay Marina, Shoreline Marina, Bayside Marina); the yacht models come from one wiki.",
+      "desc_ru": "В водах Catalan Bay вокруг островов Rialto, по одной вики, курсируют яхты Calder Shasa и Calder Yakuruna; их также видели у причалов марин Vice City."
+    },
+    {
+      "place_island": "Mainland - Hamlet",
+      "place_detail": "South entrance of Boone Speedway - on a car transporter/trailer.",
+      "vehicles": [
+        "Truffade Thrax"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Available before Randy's finale; respawn and time of day unconfirmed.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Quickest Thrax to grab.",
+      "sources": [
+        "https://www.gta-xtreme.com/en/gta-6-truffade-thrax-location",
+        "https://thebestmods.com/gta-6/thrax-location/",
+        "https://grandleonida.com/guides/gta-6-supercar-locations-map-areas-free-cars/"
+      ],
+      "verified": true,
+      "conflict": "Whether the trailer Thrax respawns reliably is disputed.",
+      "desc_ru": "У южного въезда на Boone Speedway в Hamlet на автовозе стоит Truffade Thrax - самый быстрый способ получить эту машину. Респавн не подтверждён."
+    },
+    {
+      "place_island": "Mainland - Waning Sands (Leonard County)",
+      "place_detail": "Villa on Flamingo Parkway - garage, reached by going over the fence.",
+      "vehicles": [
+        "Pegassi Vitello"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Key Cloner required.",
+      "tracker": null,
+      "access": "By road, north of Vice City.",
+      "use": "Randy wish-list car.",
+      "sources": [
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611"
+      ],
+      "verified": true,
+      "conflict": "Insider Gaming points to a marked spot in Vice City; Game8 to a green house in northern Capri; gtaboom/gtabase to the Starfish Island garage.",
+      "desc_ru": "Pegassi Vitello стоит в гараже виллы на Flamingo Parkway в Waning Sands (Leonard County), попасть можно через забор. Нужен Key Cloner."
+    },
+    {
+      "place_island": "Mainland - Lake Tallaloko (East Lummox County)",
+      "place_detail": "Guarded gated estate north of Millport; helipad by the Tallaloko Clubhouse, reached by the road on the north side of the lake.",
+      "vehicles": [
+        "Buckingham Volatus (large helicopter)",
+        "supercars (models not named)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Trespassing: guards attack on sight (three armed guards at the helicopter per one guide).",
+      "tracker": null,
+      "access": "By road from the north side of the lake.",
+      "use": null,
+      "sources": [
+        "https://www.gamespot.com/articles/how-to-get-a-plane-in-gta-6/",
+        "https://showgamer.com/en/guides/7787-gde-nayti-samolet-vertolet-i-voennyy-istrebitel-v-gta-6-vse-mesta",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6map.city/secrets/hyde-island-lucia-bomb-collar-hunt/"
+      ],
+      "verified": true,
+      "conflict": "Helicopter listed as locked (metaforge) vs unlocked (another guide). Supercars at the estate are mentioned by one source only.",
+      "desc_ru": "В охраняемом поместье у озера Tallaloko (севернее Millport) на площадке у клубного дома стоит большой вертолёт Buckingham Volatus; сообщают и о суперкарах. Охрана стреляет без предупреждения."
+    },
+    {
+      "place_island": "Leonida Keys - Southwind",
+      "place_detail": "Dock in Southwind near Sherwin Boatworks, a short drive south-west of Jason's place in Key Lento.",
+      "vehicles": [
+        "Buckingham Maverick (helicopter)"
+      ],
+      "kind": "fixed_spawn",
+      "conditions": "Available early in the game.",
+      "tracker": null,
+      "access": "By road.",
+      "use": "Easiest early helicopter.",
+      "sources": [
+        "https://www.magicgameworld.com/gta-6-helicopter-locations-where-to-find-your-first-chopper/",
+        "https://happygamer.com/gta-6-how-to-get-a-helicopter-179627/",
+        "https://www.theclick.gg/gta-6-helicopter-locations/",
+        "https://www.gta-xtreme.com/gta-6/locations/helicopters"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "На причале в Southwind у Sherwin Boatworks (юго-западнее дома Джейсона в Key Lento) стоит вертолёт Buckingham Maverick - самый простой вертолёт в начале игры."
+    }
+  ]
+}

@@ -1,0 +1,1375 @@
+{
+  "items": [
+    {
+      "list": "randy",
+      "name": "Granforma Zorrusso",
+      "island_or_district": "Vice City (story mission)",
+      "place_detail": "Story-mission car: taken during 'Clonin' Keys, Makin' GS' and delivered to Randy's dealership Leonida Auto World (Balsero, west Vice City). The pickup spot itself is not given in the search summaries.",
+      "conditions": "Chapter 3 story mission 'Clonin' Keys, Makin' GS' (gta6.house calls it mission 17). Delivering it unlocks Randy's Wish List and the Key Cloner; counted by guides as the first wish-list car.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$21,250 base (one guide: $21,225) + $10,000 bonus in top condition",
+      "sources": [
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://outputlag.com/guides/gta-6-randy-wishlist-cars/",
+        "https://promptowy.com/en/gta-6/gta-6-randy-wish-list/",
+        "https://neoncoast.org/randys-wish-list",
+        "https://gta6.house/library/activities/randys-wish-list"
+      ],
+      "verified": false,
+      "conflict": "Base payout $21,250 (Power Up Gaming) vs $21,225 (Outputlag). Total list size is disputed between guides: 16 / 17 / 18 / 20 / 22 cars.",
+      "desc_ru": "Granforma Zorrusso — сюжетная машина из миссии «Clonin' Keys, Makin' GS» (глава 3). После её доставки в салон Рэнди Leonida Auto World открывается список желаний и Key Cloner; точное место угона в источниках не указано."
+    },
+    {
+      "list": "randy",
+      "name": "Pegassi '96 Infernus",
+      "island_or_district": "Vice City — Crosstown",
+      "place_detail": "Crosstown Police Station multi-storey car park on NW 9th Street, level 7. Wait for the parking gate to open for an outgoing police car and follow the ramps up; leave via the garage exit or the stunt jump on the roof.",
+      "conditions": "Police station: alerting the cops makes a clean getaway very hard. Sources describe the car as locked / needing a key (Key Cloner unlocked in Chapter 3). One source says it has a tracker (type not stated).",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://insider-gaming.com/where-to-find-the-pegassi-infernus-gta-6/",
+        "https://gta6.house/library/activities/randys-wish-list",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://timesaver.gg/tools/gta-6/cars/96-pegassi-infernus",
+        "https://xboxplay.games/gta-6/gta-6-where-to-find-pegassi-infernus-randy-ampaposs-wish-list-77532"
+      ],
+      "verified": true,
+      "conflict": "One guide says level 9 instead of level 7. Game8 (per summary) places a '96 Infernus in the garage of a white house in the northern residential area of Capri. xboxplay.games alone gives a side-door code 5270 (unverified).",
+      "desc_ru": "Pegassi '96 Infernus стоит на 7-м уровне парковки полицейского участка Crosstown на NW 9th Street. Заезжайте, когда шлагбаум открывается для выезжающей патрульной машины; нужен Key Cloner, а полиция легко поднимает тревогу."
+    },
+    {
+      "list": "randy",
+      "name": "Pegassi Vitello",
+      "island_or_district": "Leonard County — Waning Sands (east of Belville)",
+      "place_detail": "Villa garage on Flamingo Parkway in Waning Sands. One guide advises entering through a side way (hedge or garage door) rather than the main gate.",
+      "conditions": "No time-of-day condition reported.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611",
+        "https://neoncoast.org/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Beebom: Starfish Island, Vice City (Dante's reskin of the car). Game8 also lists a green house in northern Capri; gta6.house groups it with cars parked at random outside houses in the rich area of Capri.",
+      "desc_ru": "Pegassi Vitello стоит в гараже виллы на Flamingo Parkway в районе Waning Sands, к востоку от Belville. Заходить лучше сбоку (через изгородь или гаражные ворота), а не через главные ворота."
+    },
+    {
+      "list": "randy",
+      "name": "Pegassi Toros",
+      "island_or_district": "Vice City — Tequesta Retreat",
+      "place_detail": "Parked on the street directly outside the entrance to the Pegassi Residences on Bayside Drive, south Vice City.",
+      "conditions": "Reported around 6:30 PM. Security guards in the area can spot you.",
+      "access": null,
+      "security": null,
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://insider-gaming.com/where-to-find-the-pegassi-toros-in-gta-6/",
+        "https://thebestmods.com/gta-6/urus-location/",
+        "https://www.theclick.gg/gta-6-pegassi-toros-location/",
+        "https://neoncoast.org/randys-wish-list",
+        "https://gmtreks.com/gta6/page/01M7SGBV0JDTQWNACGXYKKXC1K"
+      ],
+      "verified": true,
+      "conflict": "Game8: a Toros can also be parked at a house in northern Capri, right beside the Gallivanter Baller ST-D. The Advanced tracker is stated by one guide only.",
+      "desc_ru": "Pegassi Toros (внедорожник) припаркован прямо у входа в Pegassi Residences на Bayside Drive в Tequesta Retreat, обычно около 18:30. Рядом охрана; по одному из гайдов на машине продвинутый трекер."
+    },
+    {
+      "list": "randy",
+      "name": "Pegassi Tempesta",
+      "island_or_district": "Vice City — NE 3rd Street (Eden Grove Marina Hotels)",
+      "place_detail": "NE 3rd Street: the car is on a tow truck during a repossession street event (the owner is fighting the repo man) and has to be released from the truck; if the event is not running it is parked at the entrance to the Eden Grove Marina Hotels (fixed spawn per Game8).",
+      "conditions": "Tow-truck event is described as daytime. One guide says you resolve it by threatening the owner.",
+      "access": null,
+      "security": null,
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639137",
+        "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611",
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://thebestmods.com/gta-6/pegassi-tempesta-location/",
+        "https://gta6supercars.com/pegassi-tempesta-location-gta-6/",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+      ],
+      "verified": true,
+      "conflict": "One guide places it in northern Vice City near the Stockyard rentals. Summaries disagree on whether the hotel is in Vice City or on Vice Beach and spell it Marina / Mariana. Advanced tracker is stated by one guide only.",
+      "desc_ru": "Pegassi Tempesta появляется на NE 3rd Street: днём её увозит эвакуатор (машину нужно отцепить), а вне события она стоит у входа в Eden Grove Marina Hotels. По одному из гайдов на ней продвинутый трекер."
+    },
+    {
+      "list": "randy",
+      "name": "Pfister Growler",
+      "island_or_district": "Vice Beach — Ocean Beach",
+      "place_detail": "Multi-storey car park on Fig Street in Ocean Beach.",
+      "conditions": "Reported around 5 PM.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://neoncoast.org/randys-wish-list",
+        "https://gmtreks.com/gta6/page/01M7SGBV0JDTQWNACGXYKKXC1K"
+      ],
+      "verified": true,
+      "conflict": "Khelnow / Neoncoast summary: on Shore Drive in Ocean Beach. Beebom: Marlin Motors car dealership in Southside (unmarked). gta6.house: driving on Capri's roads near the rich-area houses.",
+      "desc_ru": "Pfister Growler стоит на многоуровневой парковке на Fig Street в Ocean Beach, чаще всего около 17:00. Другие гайды называют Shore Drive и автосалон Marlin Motors в Southside."
+    },
+    {
+      "list": "randy",
+      "name": "Ascot Paragon",
+      "island_or_district": "Vice Beach — Ocean Beach",
+      "place_detail": "Parked outside The Banana Hole (Main Bar) on Shore Drive.",
+      "conditions": "Reported around 6 PM.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://timesaver.gg/tools/gta-6/cars/ocelot-jugular",
+        "https://insider-gaming.com/where-to-find-the-ascot-paragon-in-gta-6/",
+        "https://gmtreks.com/gta6/page/01M7SGBV0JDTQWNACGXYKKXC1K",
+        "https://neoncoast.org/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Game8: a green house in northern Capri. Another guide: a mansion in northern Belville. gta6.house: parked at random outside houses in the rich area of Capri.",
+      "desc_ru": "Ascot Paragon припаркован у бара The Banana Hole на Shore Drive в Ocean Beach, обычно около 18:00. Альтернативные точки из других гайдов — дома на севере Capri и особняк на севере Belville."
+    },
+    {
+      "list": "randy",
+      "name": "Ocelot Jugular",
+      "island_or_district": "Vice Beach — just north of Ocean Beach",
+      "place_detail": "Parked at the curb directly outside the BITE store on Atlantic Avenue (look for the BITE sign).",
+      "conditions": "The space can be empty on arrival; guides advise saving and reloading to refresh the spawn.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://thebestmods.com/gta-6/ocelot-jugular-location/",
+        "https://www.gta-xtreme.com/en/gta-6-ocelot-jugular-location",
+        "https://timesaver.gg/tools/gta-6/cars/ocelot-jugular"
+      ],
+      "verified": true,
+      "conflict": "Beebom and Push Square send you to Belville instead (see separate record).",
+      "desc_ru": "Ocelot Jugular стоит у тротуара перед магазином BITE на Atlantic Avenue, чуть севернее Ocean Beach. Место иногда пустует — сохранитесь и перезагрузитесь, чтобы обновить спавн."
+    },
+    {
+      "list": "randy",
+      "name": "Ocelot Jugular",
+      "island_or_district": "Belville",
+      "place_detail": "Inside a mansion garage in Belville; Push Square names a garage north of Druthers State Bank and says the car is usually there.",
+      "conditions": "No time-of-day condition reported.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+      ],
+      "verified": true,
+      "conflict": "Most other guides give the BITE store on Atlantic Avenue north of Ocean Beach. The exact Belville garage comes from Push Square only.",
+      "desc_ru": "Второй спавн Ocelot Jugular — гараж особняка в Belville, по Push Square к северу от Druthers State Bank. Нужно попасть на территорию и открыть гараж."
+    },
+    {
+      "list": "randy",
+      "name": "Bravado Banshee",
+      "island_or_district": "Capri",
+      "place_detail": "Parked just outside the Sweetbay Inn motel on East Buckley Drive.",
+      "conditions": "Only shows up very late at night (around 3 AM). Requires the Key Cloner.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+        "https://ultimateguide6.com/en/guides/gta-6-randy-wish-list/",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://gmtreks.com/gta6/page/01M7SGBV0JDTQWNACGXYKKXC1K",
+        "https://neoncoast.org/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Insider Gaming, Khelnow and Beebom place it in a Southside showroom instead (see separate record).",
+      "desc_ru": "Bravado Banshee стоит у мотеля Sweetbay Inn на East Buckley Drive в Capri, но появляется только глубокой ночью (около 3:00). Для угона нужен Key Cloner."
+    },
+    {
+      "list": "randy",
+      "name": "Bravado Banshee",
+      "island_or_district": "Vice City — Southside (South Vice-Dale County)",
+      "place_detail": "Inside a large showroom building in the top-right part of Southside, just left (west) of Peacock Bay; Beebom names it the Sunrise car dealership and says it is marked on the map.",
+      "conditions": "No time-of-day condition reported.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/",
+        "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611",
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "Destructoid, Ultimate Guide and PlayStationTrophies give the Sweetbay Inn in Capri at night. A Standout Banshee at the Port Gellhorn raceway (between the stands) is a different car.",
+      "desc_ru": "По другим гайдам Bravado Banshee стоит в большом автосалоне (Sunrise) в правой верхней части Southside, слева от Peacock Bay. Точка отмечена на карте после звонка Рэнди."
+    },
+    {
+      "list": "randy",
+      "name": "Bravado Gauntlet Hellfire",
+      "island_or_district": "South Vice-Dale County — Hamlet",
+      "place_detail": "M7 car depot / junkyard east of Boone Speedway, off Galerina St. The car sits at the south end of the yard by a shipping container (Destructoid: inside a red container; Insider Gaming: next to a blue container). The south fence has barbed wire, so enter from the north.",
+      "conditions": "Marked by Randy: Insider Gaming says to phone Randy first, the M7 compound must be highlighted purple on the map for the car to be there. Guarded by M7 members. Requires the Key Cloner. Insider Gaming: no Advanced tracker.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": "$9,050 in perfect condition (Insider Gaming only)",
+      "sources": [
+        "https://insider-gaming.com/where-to-find-the-guantlet-hellfire-gta-6/",
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://game8.co/games/GTA-6/archives/639115",
+        "https://techwiser.com/gta-6-bravado-gauntlet-hellfire-car/",
+        "https://neoncoast.org/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Container colour differs (red vs blue). Game8 lists a second spawn in the parking lot in front of Fin and Farm Bar at the south end of Ocean Beach. Push Square says it can be taken quietly, Insider Gaming says stealth is hard.",
+      "desc_ru": "Bravado Gauntlet Hellfire стоит на базе банды M7 к востоку от Boone Speedway (Galerina St, Hamlet), в южной части свалки у морского контейнера. Заходите с севера, нужен Key Cloner; перед поездкой позвоните Рэнди, чтобы точка появилась на карте."
+    },
+    {
+      "list": "randy",
+      "name": "Grotti Itali RSX",
+      "island_or_district": "Vice City — Vespucci Island (Beebom: Rialto Islands), between Vice City and Vice Beach",
+      "place_detail": "Residential garage at the north end of the island, behind a light-brown wooden gate/fence; the car is not visible from the street. One guide: jump the fence and smash the door on the right-hand side to reach the garage.",
+      "conditions": "Marked by Randy (mark the island). Fixing the car at the gas station before delivery secures the $10,000 condition bonus.",
+      "access": "Key Cloner",
+      "security": "Alarmed",
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://www.gta-xtreme.com/en/gta-6-grotti-itali-rsx-location",
+        "https://insider-gaming.com/where-to-find-the-grotti-iitali-rsx-in-gta-6/",
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+        "https://www.sportskeeda.com/esports/how-get-grotti-itali-rsx-supercar-gta-6",
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "Beebom: inside mansion garages on Rialto Island, unmarked, check garages one by one. PlayStationTrophies: outside the Doigt d'Or Hotel in eastern Ocean Beach. Another guide: Ocean View Hotel poolside bar (chance only). Access/security/tracker values come from gta-xtreme only.",
+      "desc_ru": "Grotti Itali RSX спрятана в гараже жилого дома на севере Vespucci Island, за светло-коричневыми деревянными воротами. Нужен Key Cloner; гараж под сигнализацией, на машине продвинутый трекер."
+    },
+    {
+      "list": "randy",
+      "name": "Piccia Furia",
+      "island_or_district": "Vice City — Peacock Estates",
+      "place_detail": "Southernmost corner of Peacock Estates: a yellow villa with a detached garage, car inside; another guide gives a garage on Palladia Lane.",
+      "conditions": "No time-of-day condition reported.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+      ],
+      "verified": true,
+      "conflict": "Insider Gaming says Peacock Island. Beebom: Starfish Island. One summary mentions the Vespucci Islands. A second spawn in Capri is listed separately.",
+      "desc_ru": "Piccia Furia стоит в отдельном гараже жёлтой виллы в южном углу Peacock Estates (один гайд называет Palladia Lane). Машину забирают прямо из гаража."
+    },
+    {
+      "list": "randy",
+      "name": "Piccia Furia",
+      "island_or_district": "Capri (northern residential area)",
+      "place_detail": "Parked just outside a white mansion in the northern residential area of Capri.",
+      "conditions": "Random/parked spawn; may need a save-reload.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+        "https://gta6.house/library/activities/randys-wish-list"
+      ],
+      "verified": false,
+      "conflict": "Only Destructoid describes this exact spot; gta6.house just groups the Furia with cars parked at random outside houses in rich Capri.",
+      "desc_ru": "Ещё одна Piccia Furia бывает припаркована у белого особняка в северном жилом районе Capri. Точка подтверждена только одним гайдом."
+    },
+    {
+      "list": "randy",
+      "name": "Buckingham Windsor Drop",
+      "island_or_district": "Capri (wealthy northern residential area)",
+      "place_detail": "No fixed spot: parked at random outside the high-end houses of Capri.",
+      "conditions": "Scan parked cars with WAiNK; save and reload to refresh the selection.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639137",
+        "https://gta6.house/library/activities/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Other spots given by single guides: inside Status Auto Imports in Bayside; outside the Y Hotel in Washington Beach; a marked garage next to the Pegassi Vitello on Starfish Island. GTA BAY says no confirmed spot yet.",
+      "desc_ru": "У Buckingham Windsor Drop нет фиксированной точки: кабриолет случайно появляется припаркованным у богатых домов Capri. Сканируйте машины через WAiNK и перезагружайте сохранение, если его нет."
+    },
+    {
+      "list": "randy",
+      "name": "Buckingham Jubilee",
+      "island_or_district": "Capri (wealthy residential area)",
+      "place_detail": "No fixed spot: parked at random at the houses in the rich area of Capri.",
+      "conditions": "Scan parked cars with WAiNK; save and reload to refresh the selection.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://gta6.house/library/activities/randys-wish-list",
+        "https://neoncoast.org/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Neoncoast / Game8 summaries say no fixed spot is confirmed yet.",
+      "desc_ru": "Buckingham Jubilee (внедорожник) случайно появляется у домов в богатом районе Capri, фиксированной точки нет. Проверяйте припаркованные машины через WAiNK."
+    },
+    {
+      "list": "randy",
+      "name": "Benefactor Dubsta",
+      "island_or_district": "Vice Beach — Washington Beach",
+      "place_detail": "Multi-storey car park to the north-northwest of the Y Hotel, on the east coast of Washington Beach.",
+      "conditions": "No time-of-day condition reported.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+      ],
+      "verified": false,
+      "conflict": "Single-guide location, and the summary did not say unambiguously which guide gave it. gta6.house: parked at random outside houses in rich Capri. Neoncoast and GTA BAY: no fixed spot confirmed. Game8's summary mentions a 'Pubsta' along Shore Drive and another guide a 'Pubsta' with a Standard tracker; it is unclear whether that is this car.",
+      "desc_ru": "Benefactor Dubsta по одному гайду стоит на многоуровневой парковке к северо-северо-западу от Y Hotel в Washington Beach. Другие источники говорят о случайном спавне у домов Capri — точка не подтверждена."
+    },
+    {
+      "list": "randy",
+      "name": "Pfister Neon",
+      "island_or_district": "Capri",
+      "place_detail": "Often parked in the public car parks of Capri (GTA 6 Wiki); gta6.house says parked at random outside houses in rich Capri.",
+      "conditions": "Scan parked cars with WAiNK.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6.house/library/activities/randys-wish-list",
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+      ],
+      "verified": false,
+      "conflict": "Beebom: parked near the beach in Vice Beach. Push Square: parked at the mansions in Peacock Estates. GTA BAY: still no confirmed spot.",
+      "desc_ru": "У Pfister Neon нет подтверждённой точки: чаще всего его называют на общественных парковках и у домов Capri. Другие гайды указывают пляж Vice Beach и особняки Peacock Estates."
+    },
+    {
+      "list": "randy",
+      "name": "Grotti Carbonizzare",
+      "island_or_district": "Capri (north)",
+      "place_detail": "Commonly parked in the public parking lots around (North) Capri.",
+      "conditions": "Random parked spawn. Also one of the five free picks in the Chapter 4 mission Company Cars.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639137",
+        "https://gta6.house/library/activities/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "GTA BAY lists it among cars that still lack a confirmed fixed spot.",
+      "desc_ru": "Grotti Carbonizzare часто стоит на общественных парковках на севере Capri. Спавн случайный — при необходимости перезагрузите сохранение."
+    },
+    {
+      "list": "randy",
+      "name": "Ubermacht Cypher",
+      "island_or_district": "Vice Beach — Ocean Beach",
+      "place_detail": "Parked in front of Cirque de Cuisine in Ocean Beach.",
+      "conditions": "No time-of-day condition reported.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6.house/library/activities/randys-wish-list",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+      ],
+      "verified": true,
+      "conflict": "Beebom: Ubermacht car dealership in Southside (unmarked). GTA 6 Wiki: roadside on Shore Drive, Vice Beach, opposite the Dominion Hotel's outdoor dining terrace (possibly the same stretch).",
+      "desc_ru": "Ubermacht Cypher стоит перед рестораном Cirque de Cuisine в Ocean Beach. Beebom вместо этого указывает дилерский центр Ubermacht в Southside."
+    },
+    {
+      "list": "randy",
+      "name": "Gallivanter Baller ST-D",
+      "island_or_district": "Vice City — Starfish Island",
+      "place_detail": "Parked outside properties on Starfish Island (Push Square also says the Rialto Islands).",
+      "conditions": "Random parked spawn; it is the ST-D variant, not the normal Baller.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://neoncoast.org/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Push Square: good chance outside the Gallivanter Baller Showroom on El Joven Blvd in Southside. Game8: parked beside the Toros at a house in northern Capri. gta6.house: random Capri houses. Neoncoast / GTA BAY: no fixed spot confirmed.",
+      "desc_ru": "Gallivanter Baller ST-D (не обычный Baller) встречается у домов на Starfish Island и Rialto Islands. Ещё одна вероятная точка — у салона Gallivanter на El Joven Blvd в Southside."
+    },
+    {
+      "list": "randy",
+      "name": "Invetero Coquette D10",
+      "island_or_district": "Vice-Dale County — Waxman Island (near Vice Beach)",
+      "place_detail": "On Waxman Island; a crew there has the car and Randy phones you about it (location marked).",
+      "conditions": "Appears after Randy's call. Beebom marks it as part of the main mission.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://insider-gaming.com/where-to-find-the-invetero-coquette-d10-in-gta-6/",
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "A third guide (not identified in the summary) also says a crew on Waxman Island has it. One Beebom summary instead gives Fig Street in Vice Beach; another source reports one in traffic on Vespucci Island. Exact spot on Waxman Island is not in the summaries.",
+      "desc_ru": "Invetero Coquette D10 находится на Waxman Island рядом с Vice Beach: машина у местной банды, а точку отмечает Рэнди после звонка. Точное место на острове в источниках не описано."
+    },
+    {
+      "list": "randy",
+      "name": "Truffade Thrax",
+      "island_or_district": "Dalton Island (reached via Waxman Island and a ferry)",
+      "place_detail": "Fixed location at a clubhouse with a guard on Dalton Island; Randy calls/texts and pins it on the map.",
+      "conditions": "Only after you have delivered enough wish-list cars and Randy contacts you.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.destructoid.com/how-to-get-the-truffade-thrax-in-gta-6/",
+        "https://tech.yahoo.com/gaming/articles/truffade-thrax-gta-6-062250075.html",
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/"
+      ],
+      "verified": false,
+      "conflict": "Dalton Island traces back to Destructoid (its list, its Thrax guide and the Yahoo syndication); a second independent source could not be identified in the summaries. PlayStationTrophies: on Draper Island with a visitor, and a 'Mansion Thrax' side quest involving a spa on Dalton Island; also a Thrax in the Pegassi Residences belonging to Giorgio Gallo. Game Rant: Boone Speedway in Hamlet (tracked). A free untracked Thrax (Andrew Node's) sits on Starfish Island.",
+      "desc_ru": "Truffade Thrax стоит у клубного дома с охранником на Dalton Island (паром с Waxman Island). Рэнди сам звонит и отмечает точку, когда вы сдадите достаточно машин."
+    },
+    {
+      "list": "randy",
+      "name": "'64 Mamba GT",
+      "island_or_district": "Leaf Links (between Vice City and Vice Beach)",
+      "place_detail": "Mansion on Delamore Drive in Leaf Links, across the street from hole 2 of the golf course. The keys are inside the house, on a cabinet behind a grey sofa.",
+      "conditions": "Bonus/special request: only available after Randy calls (after decent progress on the list). Not stolen with the Key Cloner — find the keys in the house. Outputlag: finishing this job unlocks buying/registering Advanced-tracker cars at Pay 'n' Spray.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://insider-gaming.com/where-to-find-the-mamba-gt-in-gta-6/",
+        "https://gamerant.com/gta-6-mamba-gt-location-key-stealth/",
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+        "https://ultimateguide6.com/en/guides/gta-6-randy-wish-list/"
+      ],
+      "verified": true,
+      "conflict": "Some guides do not count it in the base list (20 models + Mamba GT). Not the same as Wyman's '64 Mamba GT restoration.",
+      "desc_ru": "'64 Mamba GT стоит у особняка на Delamore Drive в Leaf Links, напротив лунки №2. Доступна только после звонка Рэнди; ключи лежат в доме на тумбе за серым диваном."
+    },
+    {
+      "list": "moses",
+      "name": "Canis '82 Crawler (white)",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Yard by the old Trader's Union building on Gellhorn Avenue; get over the wall and scan it with WAiNK.",
+      "conditions": "Target of the Chapter 2 story mission Daily Driver (first Moses car).",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "about $1,250 + $500 good-condition bonus (lvl.su only)",
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/",
+        "https://www.sportskeeda.com/gta/all-moses-vehicle-locations-gta-6",
+        "https://www.powerpyx.com/gta-6-steal-vehicles-for-moses-walkthrough/",
+        "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses",
+        "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-catalog-story-unlocks"
+      ],
+      "verified": true,
+      "conflict": "Some guides count only 6 (or 5) Moses requests and treat the Crawler as a story mission, not part of the list. One guide says it is being driven around.",
+      "desc_ru": "Белый Canis Crawler '82 стоит во дворе старого здания Trader's Union на Gellhorn Avenue в Port Gellhorn. Это цель миссии Daily Driver: перелезьте через стену и отсканируйте машину через WAiNK."
+    },
+    {
+      "list": "moses",
+      "name": "Declasse Yosemite 1500",
+      "island_or_district": "Port Gellhorn (southwest)",
+      "place_detail": "Bastion Street: in the east of the search area a pickup is being towed in a driveway. Deal with the driver and use the release at the back of the tow truck.",
+      "conditions": "Unlocked after the Chapter 2 mission Daily Driver; each job gives a search circle and a reference photo by text. Paid via BuckMe with a bonus for good condition.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$1,850 (one guide: ~$1,785)",
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/",
+        "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations",
+        "https://www.powerpyx.com/gta-6-steal-vehicles-for-moses-walkthrough/",
+        "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses",
+        "https://www.sportskeeda.com/gta/all-moses-vehicle-locations-gta-6"
+      ],
+      "verified": true,
+      "conflict": "GamesHorizon just says west of Port Gellhorn. Payout $1,850 (most guides) vs about $1,785 (Metaforge).",
+      "desc_ru": "Declasse Yosemite 1500 стоит на эвакуаторе во дворе дома на Bastion Street на юго-западе Port Gellhorn. Уберите водителя и отцепите пикап рычагом сзади эвакуатора."
+    },
+    {
+      "list": "moses",
+      "name": "Karin '85 Futo",
+      "island_or_district": "Draper Island (docks)",
+      "place_detail": "South end of the Draper Island docks: lockup garage on the west end of the building inside the search area.",
+      "conditions": "Unlocked after the Chapter 2 mission Daily Driver; each job gives a search circle and a reference photo by text. Paid via BuckMe with a bonus for good condition.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$1,500 (one guide: ~$1,250)",
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/",
+        "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations",
+        "https://www.powerpyx.com/gta-6-steal-vehicles-for-moses-walkthrough/",
+        "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+      ],
+      "verified": true,
+      "conflict": "Sources differ slightly on the exact spot (lockup vs warehouse garage). Payout $1,500 (most guides) vs about $1,250 (Metaforge).",
+      "desc_ru": "Karin Futo '85 спрятан в гаражном боксе с западного торца здания в доках Draper Island. Откройте бокс внутри зоны поиска и отгоните машину Мозесу."
+    },
+    {
+      "list": "moses",
+      "name": "Annis '95 Hellion",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Orchard Avenue, south of Moses' shop: parked outside a bungalow.",
+      "conditions": "Unlocked after the Chapter 2 mission Daily Driver; each job gives a search circle and a reference photo by text. Paid via BuckMe with a bonus for good condition.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$1,400",
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/",
+        "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations",
+        "https://www.powerpyx.com/gta-6-steal-vehicles-for-moses-walkthrough/",
+        "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Annis Hellion '95 припаркован у бунгало на Orchard Avenue, к югу от мастерской Мозеса в Port Gellhorn. Достаточно угнать и довезти без повреждений."
+    },
+    {
+      "list": "moses",
+      "name": "BF '77 Bandito",
+      "island_or_district": "Kelly County — Buckskin Swamp",
+      "place_detail": "North-eastern Buckskin Swamp, on the swamp race-circuit loop: the buggy is being driven around.",
+      "conditions": "Unlocked after the Chapter 2 mission Daily Driver; each job gives a search circle and a reference photo by text. Paid via BuckMe with a bonus for good condition. Disable the driver rather than sniping him: a kill often wrecks the car.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$3,350 (one guide: $3,525)",
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/",
+        "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations",
+        "https://www.powerpyx.com/gta-6-steal-vehicles-for-moses-walkthrough/",
+        "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+      ],
+      "verified": true,
+      "conflict": "PowerPyx describes the area as southeast Kelly County, others as north-eastern Buckskin Swamp. Payout $3,350 (most guides) vs $3,525.",
+      "desc_ru": "BF Bandito '77 катается по кольцу гоночной трассы в болоте Buckskin Swamp (Kelly County). Остановите водителя, не убивая его выстрелом издалека, иначе машина разобьётся."
+    },
+    {
+      "list": "moses",
+      "name": "Declasse '74 Vamos",
+      "island_or_district": "Grayson (northeast outskirts)",
+      "place_detail": "House on Rockledge Road outside Grayson: detached garage east of the house, locked with a keypad (code 2727).",
+      "conditions": "Unlocked after the Chapter 2 mission Daily Driver; each job gives a search circle and a reference photo by text. Paid via BuckMe with a bonus for good condition.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$4,200",
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/",
+        "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations",
+        "https://www.powerpyx.com/gta-6-steal-vehicles-for-moses-walkthrough/",
+        "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+      ],
+      "verified": true,
+      "conflict": "Keypad code 2727 is given by two guides; some summaries describe the location only as a house near Grayson.",
+      "desc_ru": "Declasse Vamos '74 стоит в отдельном гараже к востоку от дома на Rockledge Road под Grayson. Гараж закрыт на кодовый замок — код 2727."
+    },
+    {
+      "list": "moses",
+      "name": "Western Nightblade (motorcycle)",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Final Chapter motorcycle-club clubhouse/compound on Birch Street.",
+      "conditions": "Unlocked after the Chapter 2 mission Daily Driver; each job gives a search circle and a reference photo by text. Paid via BuckMe with a bonus for good condition. Hostile bikers: bring a shotgun and an assault rifle.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$6,310 (one guide: $7,150)",
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/",
+        "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations",
+        "https://www.powerpyx.com/gta-6-steal-vehicles-for-moses-walkthrough/",
+        "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses",
+        "https://www.sportskeeda.com/gta/all-moses-vehicle-locations-gta-6"
+      ],
+      "verified": true,
+      "conflict": "Payout $6,310 in one guide vs $7,150 in another.",
+      "desc_ru": "Мотоцикл Western Nightblade стоит на территории клуба байкеров Final Chapter на Birch Street в Ambrosia. Байкеры враждебны — берите дробовик и автомат."
+    },
+    {
+      "list": "wyman",
+      "name": "Sirius '67 Transgressor — wreck 1 of 3",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Trailer park on Tanglewood Lane, north of Sarena's Bargain Store: the wreck sits on a paved patch beside the field where pigs are kept.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/",
+        "https://thebestmods.com/gta-6/transgressor-location/",
+        "https://www.magicgameworld.com/gta-6-transgressor-locations-how-to-restore-wymans-classic-car/",
+        "https://grom.press/en/read/899c0ac6-2531-42b3-8d1d-0045346b1c97/",
+        "https://www.theclick.gg/gta-6-wyman-car-locations/",
+        "https://howtovideogame.com/gta-6-wyman-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Первый остов Transgressor '67 стоит в трейлерном парке на Tanglewood Lane, к северу от Sarena's Bargain Store, на асфальтовой площадке у загона со свиньями. Отсканируйте его через WAiNK."
+    },
+    {
+      "list": "wyman",
+      "name": "Sirius '67 Transgressor — wreck 2 of 3",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "House on Gellhorn Avenue opposite the Kolt & Associates Stash House (east of Brooks Boatworks).",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/",
+        "https://thebestmods.com/gta-6/transgressor-location/",
+        "https://www.magicgameworld.com/gta-6-transgressor-locations-how-to-restore-wymans-classic-car/",
+        "https://grom.press/en/read/899c0ac6-2531-42b3-8d1d-0045346b1c97/",
+        "https://www.theclick.gg/gta-6-wyman-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Второй остов Transgressor '67 стоит у дома на Gellhorn Avenue напротив Kolt & Associates Stash House, восточнее Brooks Boatworks. Достаточно отсканировать через WAiNK."
+    },
+    {
+      "list": "wyman",
+      "name": "Sirius '67 Transgressor — wreck 3 of 3",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Behind the bike shop at the Dirt Merchants mod shop.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://grom.press/en/read/899c0ac6-2531-42b3-8d1d-0045346b1c97/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/",
+        "https://www.theclick.gg/gta-6-wyman-car-locations/",
+        "https://howtovideogame.com/gta-6-wyman-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Третий остов Transgressor '67 находится за мотомагазином Dirt Merchants в Port Gellhorn. После трёх сканов Уайман попросит $1,500 за восстановление."
+    },
+    {
+      "list": "wyman",
+      "name": "'70 Riata — wreck (Southwind)",
+      "island_or_district": "Southern Leonida — Southwind",
+      "place_detail": "End of Cangrejo Street, just west of the Xero gas station and east of Mile Zero Air Station: under a house, in the carport (the roof hides it on approach).",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
+        "https://www.theclick.gg/gta-6-riata-locations/",
+        "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
+      ],
+      "verified": true,
+      "conflict": "Some guides name Goose Key instead of Southwind for this wreck. Push Square lists a $1,000 fee instead of $1,500.",
+      "desc_ru": "Остов Riata '70 стоит под домом в навесе для машины в конце Cangrejo Street в Southwind, западнее заправки Xero. С дороги его закрывает крыша навеса."
+    },
+    {
+      "list": "wyman",
+      "name": "'70 Riata — wreck (Key Lento)",
+      "island_or_district": "Mariana County — Key Lento",
+      "place_detail": "Under a brown stilt house near (north / west of) the Leonida Key Lento Mini-Mart and the Shrimp 'n Save (Pro-Gamer: 'Key Lento Carport').",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
+        "https://www.theclick.gg/gta-6-riata-locations/",
+        "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
+      ],
+      "verified": false,
+      "conflict": "Another guide: on Sunset Drive, a few houses southwest of the Christmas House, directly across from the police impound. Guides agree on Key Lento but do not reconcile the exact house.",
+      "desc_ru": "Остов Riata '70 в Key Lento стоит под коричневым домом на сваях рядом с Leonida Key Lento Mini-Mart. Другой гайд указывает Sunset Drive напротив полицейской штрафстоянки — точный дом уточняйте на месте."
+    },
+    {
+      "list": "wyman",
+      "name": "'70 Riata — wreck (Shoeless Keys)",
+      "island_or_district": "Southern Leonida — Shoeless Keys",
+      "place_detail": "Behind the ruined/abandoned gas station just north of Grassrivers Cafe & Deli; take Old Fort Road.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman. Four-star restricted area: a police helicopter may appear.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
+        "https://www.theclick.gg/gta-6-riata-locations/",
+        "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Остов Riata '70 лежит за заброшенной заправкой к северу от Grassrivers Cafe & Deli в Shoeless Keys (подъезд по Old Fort Road). Это зона на четыре звезды — возможен полицейский вертолёт."
+    },
+    {
+      "list": "wyman",
+      "name": "'64 Mamba GT — wreck (prison farmhouse)",
+      "island_or_district": "North of Leonida State Prison",
+      "place_detail": "Farmhouse garage north of the prison: drive north on the road east of the prison to a private gate on the left, across from a Gruppe6 building; smash the gate, follow the track and enter the garage left of the house through its back door.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
+        "https://www.theclick.gg/gta-6-mamba-gt-locations/",
+        "https://www.theclick.gg/gta-6-wyman-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Остов Mamba GT '64 стоит в гараже фермерского дома к северу от тюрьмы Leonida State Prison. Сломайте частные ворота напротив здания Gruppe6 и зайдите в гараж слева от дома через заднюю дверь."
+    },
+    {
+      "list": "wyman",
+      "name": "'64 Mamba GT — wreck (Ambrosia)",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Garage by the Xero Gas station near Wyatt Motors: go down the side of the station, turn right into the alley and open the white garage door next to the big blue one.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
+        "https://www.theclick.gg/gta-6-mamba-gt-locations/",
+        "https://www.theclick.gg/gta-6-wyman-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Остов Mamba GT '64 спрятан в гараже у заправки Xero рядом с Wyatt Motors в Ambrosia. Пройдите вдоль заправки в переулок и откройте белые гаражные ворота рядом с большими синими."
+    },
+    {
+      "list": "wyman",
+      "name": "'64 Mamba GT — wreck (Thrillbilly Mud Club)",
+      "island_or_district": "Thrillbilly Mud Club",
+      "place_detail": "Half-sunk in the small pool/pond just east of the 'Mud Club - Dirt Track Races' marker; can be scanned from the bank.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
+        "https://www.theclick.gg/gta-6-mamba-gt-locations/",
+        "https://www.theclick.gg/gta-6-wyman-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Остов Mamba GT '64 наполовину затоплен в небольшом пруду чуть восточнее маркера «Mud Club - Dirt Track Races». Сканировать можно прямо с берега."
+    },
+    {
+      "list": "wyman",
+      "name": "'64 Mamba GT — wreck (collapsed bridge)",
+      "island_or_district": "Near Bonanza (north coast of Lummox County)",
+      "place_detail": "At the bottom of the wreckage of an old collapsed wooden bridge near (east of) Bonanza, south of the Saint Attaway Islands.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
+        "https://www.theclick.gg/gta-6-mamba-gt-locations/",
+        "https://www.pakgamershub.com/unearthing-the-mamba-gt-a-complete-guide-to-wymans-final-classic-car-in-gta-6/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/"
+      ],
+      "verified": true,
+      "conflict": "PC Gamer and The Click's intro place the bridge in (northern) Moreau; The Click's body text says east of Bonanza in Lummox County. Hardest of the four to pin down.",
+      "desc_ru": "Четвёртый остов Mamba GT '64 лежит на дне обломков рухнувшего деревянного моста рядом с Bonanza, южнее островов Saint Attaway. Часть гайдов относит мост к Moreau — сверяйтесь с картой."
+    },
+    {
+      "list": "wyman",
+      "name": "Reynolds Kit Car — wreck (Wild Hog Point container)",
+      "island_or_district": "Wild Hog Point (southwest of Port Gellhorn)",
+      "place_detail": "On the peninsula at Wild Hog Point (beach), locked inside a SCOOP shipping container.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman. Needs the Cut-Off Tool from the Chapter 3 mission Meet the Heders; this wreck gates the whole car.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://www.theclick.gg/gta-6-reynolds-kit-car-locations/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/",
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+      ],
+      "verified": true,
+      "conflict": "Container colour: yellow (The Click) vs orange (Pro-Gamer). Guides number the wrecks differently.",
+      "desc_ru": "Остов Reynolds Kit Car заперт в контейнере SCOOP на полуострове Wild Hog Point. Чтобы срезать замок, нужен Cut-Off Tool из миссии Meet the Heders (глава 3)."
+    },
+    {
+      "list": "wyman",
+      "name": "Reynolds Kit Car — wreck (Willie's Service Center)",
+      "island_or_district": "Vice City — Salton",
+      "place_detail": "Willie's Service Center on SW 7th Ave, in south Vice City (southeast of Salton, northwest of Tequesta); Pro-Gamer: repair shop with a locked side door.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://www.theclick.gg/gta-6-reynolds-kit-car-locations/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
+      ],
+      "verified": true,
+      "conflict": "GamesRadar instead lists a part in Vice-Dale County east of the VCIA airport as the fifth and final one; it may be this same spot, the summaries do not settle it.",
+      "desc_ru": "Остов Reynolds Kit Car стоит в автосервисе Willie's Service Center на SW 7th Ave в Salton. Внутрь попадают через запертую боковую дверь."
+    },
+    {
+      "list": "wyman",
+      "name": "Reynolds Kit Car — wreck (Capri mansion garage)",
+      "island_or_district": "Capri (north)",
+      "place_detail": "Fancy mansion garage on the west side of Capri, on the small curving northern peninsula of houses; break in to reach the rusty kit car.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
+      ],
+      "verified": true,
+      "conflict": "GamesRadar numbers it as the second location, PC Gamer as the fifth.",
+      "desc_ru": "Остов Reynolds Kit Car спрятан в гараже особняка на севере Capri, на изогнутом полуострове с домами. Придётся взломать гараж."
+    },
+    {
+      "list": "wyman",
+      "name": "Reynolds Kit Car — wreck (Watson Bay)",
+      "island_or_district": "Mariana County — Watson Bay (south of Grassrivers)",
+      "place_detail": "Behind the repair shop (Donnies Auto Repair) in Watson Bay; follow the gravel path around the marked house.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Остов Reynolds Kit Car стоит за автомастерской Donnies Auto Repair в Watson Bay. Идите по гравийной дорожке вокруг дома."
+    },
+    {
+      "list": "wyman",
+      "name": "Reynolds Kit Car — wreck (Casanova Island)",
+      "island_or_district": "Vice City — Rialto Islands, Casanova Island",
+      "place_detail": "Mansion driveway on Casanova Island.",
+      "conditions": "Ultimate Edition only. Unlocks in Chapter 2 after Thrillbillies and collecting the Dominator Buggy. Scan the wreck with WAiNK; progress under Map > Exploration > Find Cars for Wyman.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "Rebuild fee $1,500 via BuckMe after all wrecks are scanned; restored car can be registered for $100 or sold for $15,000",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
+      ],
+      "verified": true,
+      "conflict": "GamesRadar's text for this stop was not visible in the summaries; the driveway detail is from Pro-Gamer and a wiki entry.",
+      "desc_ru": "Остов Reynolds Kit Car стоит на подъездной дорожке особняка на Casanova Island (Rialto Islands). Отсканируйте его через WAiNK."
+    },
+    {
+      "list": "wyman",
+      "name": "'72 Deviant (final reward car)",
+      "island_or_district": "Wyman's Auto Salvage (near Capri per The Click)",
+      "place_detail": "Not a wreck hunt: after the Kit Car, Wyman calls and offers the final car, which is claimed from his scrapyard.",
+      "conditions": "Ultimate Edition; after restoring the previous classics.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://www.theclick.gg/gta-6-deviant-unlock/"
+      ],
+      "verified": false,
+      "conflict": "Push Square and PakGamersHub call the Mamba GT the final car; Push Square says the collection has 5 cars; eGamers lists an unconfirmed 'Sirius'. The scrapyard's position near Capri is from The Click only.",
+      "desc_ru": "Deviant '72 — финальная машина коллекции Уаймана: после Kit Car он сам звонит и предлагает забрать её со своей свалки Wyman's Auto Salvage. Расположение свалки подтверждено только одним источником."
+    },
+    {
+      "list": "reward",
+      "name": "Vapid '67 Dominator Buggy",
+      "island_or_district": "Mariana County — Grassrivers / Watson Bay",
+      "place_detail": "Inside the Paradise Garage in Watson Bay (the garage itself is part of the bonus).",
+      "conditions": "Ultimate Edition. Chapter 2: meet Wyman at the motel safehouse, finish the Dirt Track Race / Thrillbillies at the Thrillbilly Mud Club, then follow the Dominator Buggy task under Map > Exploration.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
+        "https://www.powerpyx.com/gta-6-how-to-get-ultimate-edition-rewards/",
+        "https://gamingbolt.com/gta-6-guide-how-to-unlock-all-ultimate-edition-exclusive-dlc-items-and-rewards",
+        "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-garages-locations-prices"
+      ],
+      "verified": true,
+      "conflict": "Sixthstar calls the place Paradise RV Park.",
+      "desc_ru": "Vapid Dominator Buggy '67 (Ultimate Edition) ждёт в гараже Paradise Garage в Watson Bay, округ Mariana. Открывается во 2-й главе после гонки у Уаймана в Thrillbilly Mud Club."
+    },
+    {
+      "list": "reward",
+      "name": "Grotti '95 Cheetah",
+      "island_or_district": "Vice City — Tequesta Retreat",
+      "place_detail": "Pegassi Residences, underground Parking B1: enter by the main front door and take the lift opposite the entrance (or drive down from the left side of the lobby entrance).",
+      "conditions": "Ultimate Edition. Notification arrives after the Chapter 5 mission Honest Abe; exploration task in the map index.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
+        "https://www.powerpyx.com/gta-6-how-to-get-ultimate-edition-rewards/",
+        "https://sixthstar.net/guides/gta-6-ultimate-edition-unlocks/",
+        "https://intoindiegames.com/walkthroughs/tips-tricks/grand-theft-auto-6-gta6-get-unlock-ultimate-edition-content-rewards/"
+      ],
+      "verified": true,
+      "conflict": "Gamingbolt places it in Vice-Dale County.",
+      "desc_ru": "Grotti Cheetah '95 (Ultimate Edition) стоит на подземной парковке B1 в Pegassi Residences, Tequesta Retreat. Становится доступна после миссии Honest Abe в 5-й главе."
+    },
+    {
+      "list": "reward",
+      "name": "Dinka Enduro (motorcycle)",
+      "island_or_district": "Mariana County — Key Lento",
+      "place_detail": "Under / just outside Jason's house (the Crest kayak bonus is at the bottom of the ramp into the water).",
+      "conditions": "Ultimate Edition. Chapter 1; marked on the map.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.keengamer.com/articles/guides/how-to-claim-gta-6-ultimate-edition-and-pre-order-rewards/",
+        "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-ultimate-edition-bonus-content",
+        "https://www.redbull.com/int-en/gta-6-ultimate-edition-bonuses",
+        "https://space4games.com/en/games-en/gta-6-ultimate-edition-bonuses-rewards-locations/"
+      ],
+      "verified": true,
+      "conflict": "One listing tags it as Dinka Enduro '72; other sources give no year.",
+      "desc_ru": "Мотоцикл Dinka Enduro (Ultimate Edition) стоит под домом Джейсона в Key Lento уже в 1-й главе. Рядом, у спуска к воде, лежит бонусный каяк Crest."
+    },
+    {
+      "list": "reward",
+      "name": "Vapid '55 Stanier",
+      "island_or_district": "Vice Beach — Ocean Beach",
+      "place_detail": "Vintage Vice City Pack car: one guide says parked at the roadside in Ocean Beach, another says collected at the Ocean View Hotel; it comes with a free garage.",
+      "conditions": "Pre-order bonus (any edition); Jalopnik reported the offer as time-limited.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-garages-locations-prices",
+        "https://www.jalopnik.com/2322442/gta-6-grand-theft-auto-vintage-vice-city-pack-classic-car/",
+        "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-ultimate-edition-bonus-content",
+        "https://space4games.com/en/games-en/gta-6-ultimate-edition-bonuses-rewards-locations/"
+      ],
+      "verified": false,
+      "conflict": "Garage name differs: Shore Court Garage (car inside) vs Bonita Court Garage north of Washington Beach. Exact pickup spot not agreed.",
+      "desc_ru": "Vapid Stanier '55 из набора Vintage Vice City Pack (бонус предзаказа) выдаётся в Ocean Beach — у обочины или у Ocean View Hotel — вместе с бесплатным гаражом. Источники расходятся в названии гаража и точном месте."
+    },
+    {
+      "list": "reward",
+      "name": "Annis Elegy ('90s Venturas BLVD Elegy)",
+      "island_or_district": "Vice City — Crosstown",
+      "place_detail": "Single-car garage in Crosstown that comes with the car.",
+      "conditions": "Free GTA+ month from the Ultimate Edition pre-order, redeemed in the Store tab of the pause menu.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://readdork.com/features/what-does-free-gta-month-gta-6"
+      ],
+      "verified": false,
+      "conflict": "Single source; other Ultimate Edition guides in the results do not mention it.",
+      "desc_ru": "Annis Elegy в стиле 90-х выдаётся за бесплатный месяц GTA+ (предзаказ Ultimate Edition) вместе с одноместным гаражом в Crosstown. Подтверждено только одним источником."
+    },
+    {
+      "list": "reward",
+      "name": "Emperor Sultan (Moses' gift)",
+      "island_or_district": "Port Gellhorn — Moses' shop (Watkins Auto Parts)",
+      "place_detail": "In the smaller garage next to Moses' main shop.",
+      "conditions": "After delivering all Moses vehicles, wait for his text; follow-up mission Collect Moses' Gift.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.sportskeeda.com/gta/all-moses-vehicle-locations-gta-6",
+        "https://gta6pat.com/moses-car-thefts/",
+        "https://www.powerpyx.com/gta-6-steal-vehicles-for-moses-walkthrough/",
+        "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+      ],
+      "verified": false,
+      "conflict": "Exact spot (smaller garage) comes from Sportskeeda only. One guide names the gift by its real-world inspiration (Mitsubishi Evolution). gta6pat flags the route as untested.",
+      "desc_ru": "Emperor Sultan — подарок Мозеса за все доставленные машины: дождитесь его сообщения и заберите авто из малого гаража рядом с мастерской в Port Gellhorn. Точное место указано только в одном источнике."
+    },
+    {
+      "list": "reward",
+      "name": "Company Cars — two free picks (Pfister Comet S2 '20, Comet Retro, Kamacho, Baller, Carbonizzare)",
+      "island_or_district": "Vice City — Bayside",
+      "place_detail": "Status Auto Imports in Bayside: talk to Santino at the Y, then ask for Rob at the dealership and pick one car for Jason and one for Lucia out of five.",
+      "conditions": "Chapter 4 story mission Company Cars; Valentina pays, both cars are kept. Finishing it also unlocks the Thompson Court Garage.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639379",
+        "https://gamerant.com/gta-6-company-cars-best-vehicle-to-pick/",
+        "https://www.gta6heists.com/missions/company-cars",
+        "https://egamers.io/gta-6-company-cars-mission-guide-choosing-your-free-cars-and-racing-lucia-home/"
+      ],
+      "verified": true,
+      "conflict": "The five-car option list comes from one source.",
+      "desc_ru": "В миссии Company Cars (глава 4) в салоне Status Auto Imports в Bayside можно бесплатно выбрать две машины из пяти — одну Джейсону, одну Люсии. Обе остаются у вас навсегда."
+    },
+    {
+      "list": "container",
+      "name": "Annis Pixel Elegy (Street Racer standout)",
+      "island_or_district": "Capri — construction site / Capri Construction Yard",
+      "place_detail": "Yellow SCOOP container at the back of the construction site; first move the portable toilet and the crate blocking it with a vehicle.",
+      "conditions": "Needs the Cut-Off Tool (angle grinder) obtained in the Chapter 3 mission Meet the Heders. Sportskeeda: stacked containers may need a telehandler.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/"
+      ],
+      "verified": true,
+      "conflict": "",
+      "desc_ru": "Annis Pixel Elegy спрятан в жёлтом контейнере SCOOP в глубине стройплощадки в Capri. Сначала отодвиньте машиной туалетную кабинку и ящик, затем срежьте замок Cut-Off Tool."
+    },
+    {
+      "list": "container",
+      "name": "Invetero Coquette (rusted Retro standout)",
+      "island_or_district": "La Perle",
+      "place_detail": "Left to rust inside a SCOOP shipping container in La Perle.",
+      "conditions": "Needs the Cut-Off Tool (angle grinder) obtained in the Chapter 3 mission Meet the Heders.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": "Only one identifiable source (standout-vehicle map); exact container position not in the summaries.",
+      "desc_ru": "Ржавый Invetero Coquette стоит в контейнере SCOOP в La Perle. Нужен Cut-Off Tool; точка подтверждена только одним источником."
+    },
+    {
+      "list": "container",
+      "name": "Western Obsidian Sovereign (one-off Sovereign 107)",
+      "island_or_district": "Draper Island (Port Gellhorn area)",
+      "place_detail": "Inside the SCOOP container sitting on top of the blue containers; climb up using a bigger truck.",
+      "conditions": "Needs the Cut-Off Tool (angle grinder) obtained in the Chapter 3 mission Meet the Heders.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-vehicle-catalog"
+      ],
+      "verified": false,
+      "conflict": "The same listing's header says Port Gellhorn. English and Russian results appear to quote the same database, so it counts as one source.",
+      "desc_ru": "Мотоцикл Western Obsidian Sovereign лежит в контейнере SCOOP, стоящем поверх синих контейнеров на Draper Island. Подгоните грузовик повыше, чтобы забраться, и срежьте замок Cut-Off Tool."
+    },
+    {
+      "list": "container",
+      "name": "Declasse Caliente Picador",
+      "island_or_district": "North Mariana County — rail / container yard",
+      "place_detail": "Yellow SCOOP container in the yard; drive the yard's bulldozer to shove the blocking containers aside first.",
+      "conditions": "Needs the Cut-Off Tool (angle grinder) obtained in the Chapter 3 mission Meet the Heders.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/",
+        "https://gameshorizon.com/guides/gta-6-search-the-dockyard-for-the-scoop-containers/",
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+      ],
+      "verified": true,
+      "conflict": "Exact yard position not in the summaries.",
+      "desc_ru": "Declasse Caliente Picador заперт в жёлтом контейнере SCOOP на железнодорожном дворе в North Mariana County. Расчистите проход бульдозером и срежьте замок Cut-Off Tool."
+    },
+    {
+      "list": "container",
+      "name": "Royal Sanchez (motorcycle)",
+      "island_or_district": "North Mariana County — container storage yard north of Grassrivers",
+      "place_detail": "Orange shipping container in the same container yard as the Caliente Picador.",
+      "conditions": "Tool not stated explicitly for this container in the summaries (the yard's SCOOP containers need the Cut-Off Tool).",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/"
+      ],
+      "verified": true,
+      "conflict": "One summary describes the yard as north of Grassrivers, another as a North Mariana County rail yard; probably the same place.",
+      "desc_ru": "Мотоцикл Royal Sanchez спрятан в оранжевом контейнере на контейнерной площадке в North Mariana County, к северу от Grassrivers. Там же стоит контейнер с Caliente Picador."
+    },
+    {
+      "list": "container",
+      "name": "Maibatsu Penumbra (Blue Drake / race-livery standout)",
+      "island_or_district": "South Kelly County — Port Gellhorn Raceway",
+      "place_detail": "Yellow SCOOP container in a fenced yard at the north end of the race circuit, outside the raceway building, behind white wooden gates.",
+      "conditions": "Needs the Cut-Off Tool (angle grinder) obtained in the Chapter 3 mission Meet the Heders.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Livery differs between sources: Blue Drake (standout map) vs red-and-pink drift/race livery (games.gg).",
+      "desc_ru": "Penumbra в гоночной ливрее стоит в жёлтом контейнере SCOOP в огороженном дворе у северного края трассы Port Gellhorn Raceway, за белыми деревянными воротами. Нужен Cut-Off Tool."
+    },
+    {
+      "list": "container",
+      "name": "Off-road dune buggy (green and purple; model not named)",
+      "island_or_district": "Hamlet (south side)",
+      "place_detail": "SCOOP container in the weeds beside a pile of wrecked cars on the south side of Hamlet.",
+      "conditions": "Needs the Cut-Off Tool (angle grinder) obtained in the Chapter 3 mission Meet the Heders.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/"
+      ],
+      "verified": false,
+      "conflict": "games.gg only; a follow-up search found no second source for a buggy container in Hamlet.",
+      "desc_ru": "По одному гайду зелёно-фиолетовый багги спрятан в контейнере SCOOP на южной окраине Hamlet, в зарослях у кучи разбитых машин. Информация не подтверждена вторым источником."
+    },
+    {
+      "list": "container",
+      "name": "Progen Black Widow Emerus",
+      "island_or_district": "Port Vice City",
+      "place_detail": "Inside a shipping container somewhere in Port Vice City (exact container not described).",
+      "conditions": "Race-spec Emerus with black-and-purple web livery. Tool not stated in the summaries.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gameta.gg/gta6/guides/rare-cars/",
+        "https://gameta.gg/gta6/vehicles/black-widow-emerus/",
+        "https://www.gtabase.com/gta-6/vehicles/black-widow-emerus"
+      ],
+      "verified": true,
+      "conflict": "Sources agree on Port Vice City but none gives the exact spot.",
+      "desc_ru": "Progen Black Widow Emerus — гоночная версия с паутиной на кузове — спрятана в морском контейнере в Port Vice City. Точный контейнер в источниках не описан."
+    },
+    {
+      "list": "container",
+      "name": "Progen Purple Drank Emerus",
+      "island_or_district": "Vice City — Waxman Island",
+      "place_detail": "Shipping container inside the Chatfield Storage and Logistics compound (robbery opportunity), surrounded by armed men; press the button on the gate to get a clean way out.",
+      "conditions": "Chapter 3 robbery alert / Robbery Opportunity. Nitrous-equipped; has no storage slots.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "resale about $33,000 (ggwtb only)",
+      "sources": [
+        "https://gamerant.com/gta-6-nitrous-emerus-supercar-location-waxman-island-robbery/",
+        "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes",
+        "https://game8.co/games/GTA-6/archives/639803",
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+      ],
+      "verified": true,
+      "conflict": "Game8's summary names only an 'Emerus' in the Chatfield container, not the variant.",
+      "desc_ru": "Progen Purple Drank Emerus с закисью азота стоит в контейнере на складе Chatfield Storage and Logistics на Waxman Island. Это точка ограбления с вооружённой охраной — перед отъездом откройте ворота кнопкой."
+    },
+    {
+      "list": "other",
+      "name": "Truffade Thrax (Andrew Node's)",
+      "island_or_district": "Vice City — Starfish Island",
+      "place_detail": "Mansion garage off Sabal Circle on the south side of Starfish Island.",
+      "conditions": "Free hypercar; a second free Thrax is said to respawn.",
+      "access": "Unlocked",
+      "security": null,
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://thebestmods.com/gta-6/best-free-cars/",
+        "https://thebestmods.com/gta-6/best-cars/",
+        "https://www.gamespot.com/articles/you-can-get-the-best-car-in-gta-6-for-free-heres-how/",
+        "https://www.sportskeeda.com/gta/best-gta-6-cars-can-get-free-and-it"
+      ],
+      "verified": true,
+      "conflict": "Access and tracker values are from fan guides, not cross-checked in-game.",
+      "desc_ru": "Truffade Thrax Эндрю Ноуда стоит в гараже особняка на Sabal Circle на юге Starfish Island. По гайдам машина не заперта и без трекера — лучший бесплатный гиперкар."
+    },
+    {
+      "list": "other",
+      "name": "Progen Royal Ruby Emerus",
+      "island_or_district": "Vice City — Vespucci Island (just south of Rialto Island)",
+      "place_detail": "Small garage at the entrance of the Vespucci mansion / villa.",
+      "conditions": "Registration reported at around $30,000.",
+      "access": null,
+      "security": null,
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://thebestmods.com/gta-6/best-free-cars/",
+        "https://www.gta6heists.com/money/free-cars"
+      ],
+      "verified": true,
+      "conflict": "Another guide: guarded mansion garage on Neptune Circle near Vice Beach (no tracker).",
+      "desc_ru": "Progen Royal Ruby Emerus стоит в небольшом гараже у въезда в особняк на Vespucci Island. Один из гайдов вместо этого называет охраняемый гараж на Neptune Circle."
+    },
+    {
+      "list": "other",
+      "name": "Maibatsu Penumbra FF (green, 1997)",
+      "island_or_district": "Vice City — Vespucci Island",
+      "place_detail": "Villa garage near the centre of Vespucci Island (fixed spot).",
+      "conditions": "Free and widely cited as tracker-less; recommended as the first car to register with Moses.",
+      "access": null,
+      "security": null,
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://www.theclick.gg/gta-6-best-free-vehicle-locations/",
+        "https://thebestmods.com/gta-6/best-free-cars/",
+        "https://www.gta6heists.com/money/free-cars"
+      ],
+      "verified": true,
+      "conflict": "One guide labels the same area Rialto Islands.",
+      "desc_ru": "Зелёная Maibatsu Penumbra FF 1997 года стоит в гараже виллы в центре Vespucci Island. Машина без трекера — её советуют первой зарегистрировать у Мозеса."
+    },
+    {
+      "list": "other",
+      "name": "Pfister Growler (pink)",
+      "island_or_district": "Vice City — Vespucci Island",
+      "place_detail": "Villa garage on Vespucci Island; listed as free with a garage.",
+      "conditions": "No further conditions in the summaries.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://thebestmods.com/gta-6/best-free-cars/",
+        "https://www.gta6heists.com/money/free-cars"
+      ],
+      "verified": false,
+      "conflict": "Location stated by one guide only.",
+      "desc_ru": "Розовый Pfister Growler стоит в гараже виллы на Vespucci Island и достаётся бесплатно вместе с гаражом. Точка названа только в одном гайде."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Toros (Charred)",
+      "island_or_district": "La Perle",
+      "place_detail": "Charred standout Toros located at La Perle.",
+      "conditions": "Described as free, unlocked and untracked; good early car.",
+      "access": "Unlocked",
+      "security": null,
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://thebestmods.com/gta-6/urus-location/",
+        "https://www.theclick.gg/gta-6-pegassi-toros-location/"
+      ],
+      "verified": false,
+      "conflict": "Exact spot in La Perle is not in the summaries.",
+      "desc_ru": "Обгоревший Pegassi Toros (Charred) стоит в La Perle: по гайдам он не заперт и без трекера. Точное место в источниках не указано."
+    },
+    {
+      "list": "other",
+      "name": "Bravado Devil's Rope Gauntlet",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Hog Stars Garage in Ambrosia.",
+      "conditions": "Comes from a gang operation.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": false,
+      "conflict": "Single-guide location.",
+      "desc_ru": "Bravado Devil's Rope Gauntlet связан с операцией против банды и стоит в гараже Hog Stars Garage в Ambrosia. Подтверждено только одним источником."
+    }
+  ]
+}

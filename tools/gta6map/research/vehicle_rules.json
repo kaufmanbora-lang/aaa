@@ -1,0 +1,172 @@
+[
+ {
+  "rule_ru": "Скан WAiNK показывает пять полей: Access (Unlocked / Locked / Key Cloner), Security (None / Alarmed / Deactivated), Tracker (None / Standard = жёлтый значок / Advanced = красный значок), Sell Value и Cost to Register. Цена продажи и регистрации появляются в скане со 2-й главы.",
+  "rule_en": "The WAiNK scan reports five fields: Access, Security, Tracker (None / Standard = yellow icon / Advanced = red icon), Sell Value and Cost to Register; the two money fields appear from Chapter 2.",
+  "sources": [
+   "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles",
+   "https://tech.yahoo.com/gaming/articles/dont-steal-another-gta-6-162152473.html",
+   "https://libertycity.net/guides/gta-6/10610-gta-6-waink-scanner-guide-how-to-check.html",
+   "https://meowdb.com/gta6/owning-cars",
+   "https://space4games.com/en/games-en/gta-6-remove-tracker-register-car-guide/"
+  ],
+  "agree": true
+ },
+ {
+  "rule_ru": "Уровень трекера в основном зависит от класса/цены машины: дешёвые машины обычно без трекера, средний сегмент — Standard, суперкары и дорогие спорткары — Advanced. Это тенденция, а не жёсткое правило (в трафике встречаются среднеценовые спорткары без трекера).",
+  "rule_en": "Tracker tier mostly follows how high-end the vehicle is: cheap cars usually None, mid-range Standard, supercars/expensive sports cars Advanced. A tendency, not a hard rule (some mid-range performance cars in traffic have none).",
+  "sources": [
+   "https://gta.tech4gamers.com/gta-6/guides/vehicle-trackers/",
+   "https://vicemissions.com/guides/car-trackers",
+   "https://gamedaily.com/games/gta-6-how-to-beat-vehicle-trackers",
+   "https://game8.co/games/GTA-6/archives/639138"
+  ],
+  "agree": true
+ },
+ {
+  "rule_ru": "Старые машины вскрываются и заводятся проводами (Slim Jim со 2-й главы); современные бесключевые машины требуют Key Cloner (выдаёт Рэнди в миссии 3-й главы «Clonin' Keys, Makin' Gs» — угон Zorrusso), разбитое окно двигатель не заведёт. Advanced-трекеры стоят в основном на тех же бесключевых суперкарах, которым нужен Key Cloner.",
+  "rule_en": "Older cars can be broken into and hotwired (Slim Jim from Chapter 2); modern keyless cars need the Key Cloner (from Randy in the Chapter 3 mission 'Clonin' Keys, Makin' Gs'), smashing a window will not start them. Advanced trackers are mostly found on the same keyless supercars that need the Key Cloner.",
+  "sources": [
+   "https://www.keengamer.com/articles/guides/gta-6-how-to-steal-any-car-key-cloner-slim-jim-trackers/",
+   "https://www.gtaboom.com/gta-6-vehicle-theft-security-13aa",
+   "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/",
+   "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles",
+   "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+  ],
+  "agree": true
+ },
+ {
+  "rule_ru": "Список желаний Рэнди: почти все машины угоняются только с Key Cloner и почти все с трекером. Один гайд пишет, что у всех машин списка Advanced-трекер, другой — что встречаются и Standard, и Advanced (например, скан Benefactor Dubsta на MeowDB: Key Cloner / Alarmed / Standard). То есть «всё у Рэнди = Key Cloner + Advanced» подтверждается лишь частично.",
+  "rule_en": "Randy's Wish List: almost every car needs the Key Cloner and almost every car has a tracker. One guide says every list car carries an Advanced tracker, another says both Standard and Advanced occur (e.g. MeowDB's Benefactor Dubsta scan: Key Cloner / Alarmed / Standard). So 'all Randy cars = Key Cloner + Advanced' is only partly supported.",
+  "sources": [
+   "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+   "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+   "https://neoncoast.org/randys-wish-list",
+   "https://outputlag.com/guides/gta-6-randy-wishlist-cars/",
+   "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+   "https://meowdb.com/gta6/vehicles/benefactor-dubsta"
+  ],
+  "agree": false
+ },
+ {
+  "rule_ru": "Что делает трекер и где регистрировать: без трекера — у Мозеса (Порт-Геллхорн, со 2-й главы) или в любом Pay 'n' Spray с 3-й главы; Standard — машину нельзя тюнинговать до регистрации, регистрируется/продаётся в Pay 'n' Spray с начала 3-й главы; Advanced — сообщает полиции местоположение, когда вы едете медленно или стоите, регистрация открывается только после прохождения цепочки Рэнди, такие машины покупает Рэнди (Бальсеро). Мозес не берёт машины с трекером и угнанные рядом с его гаражом.",
+  "rule_en": "Tracker effects and where to register: None -> Moses (Port Gellhorn, Chapter 2) or any Pay 'n' Spray from Chapter 3; Standard -> cannot be modified until registered, register/sell at Pay 'n' Spray from early Chapter 3; Advanced -> reports your position to police while you drive slowly or stop, registration only after finishing Randy's questline, Randy (Balsero) buys them. Moses refuses tracked cars and cars stolen near his garage. (Sources differ on whether a Standard tracker also reveals where the car was stolen.)",
+  "sources": [
+   "https://www.shacknews.com/article/151426/stealing-cars-explained-gta6",
+   "https://vicemissions.com/guides/car-trackers",
+   "https://metaforge.app/gta-6/gta-6-how-to-sell-register-cars-trackers",
+   "https://www.gtabase.com/gta-6/articles/gta-6-fence-locations-all-fences-what-they-buy",
+   "https://game8.co/games/GTA-6/archives/639138",
+   "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+   "https://www.slashgear.com/2323394/how-to-register-car-gta-6/",
+   "https://dotesports.com/gta/guides/gta-6-steal-cars-register-as-own"
+  ],
+  "agree": true
+ },
+ {
+  "rule_ru": "Стоимость регистрации: первая регистрация у Мозеса бесплатна, дальше платится Cost to Register из скана. GTABase: регистрация стоит примерно в 2–3 раза больше цены продажи; другой гайд насчитал 6–7 раз. Sell Value зависит от состояния машины (ремонт перед продажей повышает цену), поэтому у одной модели разные сканы дают разные суммы.",
+  "rule_en": "Registration cost: the first registration at Moses is free, afterwards you pay the scan's Cost to Register. GTABase says registering costs about 2-3x the sell value; another guide measured 6-7x. Sell Value depends on condition (repairing before selling raises it), so the same model scans with different sell values.",
+  "sources": [
+   "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+   "https://space4games.com/en/games-en/gta-6-remove-tracker-register-car-guide/",
+   "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register",
+   "https://gta6heat.com/standout-vehicles"
+  ],
+  "agree": false
+ },
+ {
+  "rule_ru": "Зарегистрировать можно только автомобили и мотоциклы. Лодки и гидроциклы, самолёты и вертолёты, служебные (полиция, скорая) и военные машины (танки, истребители) зарегистрировать нельзя — у них нет Cost to Register.",
+  "rule_en": "Only cars and motorcycles can be registered. Boats/jet skis, planes/helicopters, service vehicles (police, ambulance) and military vehicles (tanks, fighter jets) cannot be registered, so they have no Cost to Register.",
+  "sources": [
+   "https://game8.co/games/GTA-6/archives/639415",
+   "https://hosting.astroworldmc.com/guides/gta6/gta-6-planes-helicopters-boats-and-cars"
+  ],
+  "agree": true
+ },
+ {
+  "rule_ru": "Военная техника несёт постоянный трекер: GTABase указывает у Mammoth Patriot '92 трекер «Military» и не даёт цены регистрации (Destructoid: зарегистрировать нельзя); угон истребителя сразу даёт 5 звёзд, а за угнанным из аэропорта Вайс-Сити джетом вылетают истребители.",
+  "rule_en": "Military vehicles carry a permanent tracker: GTABase lists the Mammoth Patriot '92 tracker as 'Military' with no registration price (Destructoid: cannot be registered); stealing a fighter jet gives five stars, and jets taken from Vice City International are chased by fighter jets.",
+  "sources": [
+   "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+   "https://www.destructoid.com/cars-with-the-highest-sell-value-in-gta-6/",
+   "https://outputlag.com/guides/gta-6-cars-vehicles/",
+   "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+  ],
+  "agree": true
+ },
+ {
+  "rule_ru": "Standout-машины: у каждой фиксированная точка появления и она со временем возвращается туда; уникальные детали можно потерять, сняв их в тюнинг-ателье. Многие Standout без трекера (их можно рано зарегистрировать у Мозеса), а самые быстрые (Vitello, Thrax, Emerus, Zorrusso, Infernus, RSX) требуют Key Cloner и дороги в регистрации. Цена регистрации Standout не всегда равна базовой модели (Pink Gin Tulip $2,450 против $8,200; Charred Toros $8,950 против $29,900), хотя у суперкаров часто совпадает (Status RSX $40,650; Gold Rope Infernus $34,750; Class Act Comet $34,250).",
+  "rule_en": "Standout vehicles: each has a fixed spawn and returns there after a while; unique parts can be lost if removed at a mod shop. Many standouts have no tracker (Moses can register them early) while the fastest ones (Vitello, Thrax, Emerus, Zorrusso, Infernus, RSX) need the Key Cloner and are expensive to register. A standout's registration cost is not always the base model's (Pink Gin Tulip $2,450 vs $8,200; Charred Toros $8,950 vs $29,900) although for supercars it often matches (Status RSX $40,650; Gold Rope Infernus $34,750; Class Act Comet $34,250).",
+  "sources": [
+   "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+   "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them",
+   "https://gta6heat.com/standout-vehicles",
+   "https://www.gtabase.com/gta-6/articles/gta-6-mod-shops-repairs-guide",
+   "https://metaforge.app/gta-6/gta-6-best-cars-to-sell-and-register"
+  ],
+  "agree": true
+ },
+ {
+  "rule_ru": "Машины на нелегальных операциях (наблюдение, а не сформулированное в гайдах правило): все три найденных примера открыты и без активной охраны — Royal Ruby Emerus (Unlocked, сигнализация выключена), Charred Toros (Unlocked, без трекера и активной охраны, регистрация всего $8,950), Truth & Justice Caracara (Unlocked, сигнализация выключена, без трекера). Ни один гайд не заявляет это как общее правило.",
+  "rule_en": "Cars at illegal operations (an observed pattern, not a rule any guide states): all three examples found are unlocked with no active security - Royal Ruby Emerus (Unlocked, alarm off), Charred Toros (Unlocked, no tracker or active security, only $8,950 to register), Truth & Justice Caracara (Unlocked, alarm off, no tracker). No guide states it as a general rule.",
+  "sources": [
+   "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+   "https://beebom.com/gta-6-pegassi-toros/",
+   "https://meowdb.com/gta6/vehicles/vapid-truth-and-justice-caracara",
+   "https://meowdb.com/gta6/vehicles/progen-royal-ruby-emerus",
+   "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them"
+  ],
+  "agree": false
+ },
+ {
+  "rule_ru": "Мотоциклы: правило «у мотоциклов никогда нет трекера» НЕ подтверждено. Гайды пишут, что байки сканируются как машины: без трекера — к Мозесу, со Standard-трекером — в Pay 'n' Spray с 3-й главы (то есть трекеры у байков бывают). Большинство байков открыты или заводятся проводами, бесключевых мало. Один гайд прямо говорит, что источников по охране байков нет. Примеры без трекера: Western Nightblade, базовый Maibatsu Manchez.",
+  "rule_en": "Motorcycles: 'bikes never have trackers' is NOT confirmed. Guides say bikes are scanned like cars: no tracker -> Moses, Standard tracker -> Pay 'n' Spray from Chapter 3 (so bikes can carry trackers). Most bikes are open or hotwirable, few are keyless. One guide says no source documents bike security tiers. No-tracker examples: Western Nightblade, base Maibatsu Manchez.",
+  "sources": [
+   "https://esports.gg/guides/grand-theft-auto-6/how-to-sell-cars-motorcycles-and-bikes-for-money-in-gta-6/",
+   "https://www.gtaboom.com/gta-6-vehicle-theft-security-13aa",
+   "https://www.dexerto.com/wikis/gta-6/vehicles/tag/tracker-none/",
+   "https://metaforge.app/gta-6/gta-6-how-to-sell-register-cars-trackers"
+  ],
+  "agree": false
+ },
+ {
+  "rule_ru": "Лодки: старые лодки можно угнать с самого начала, а современные яхты и дорогие бесключевые катера закрыты до получения Key Cloner; гидроциклы Seashark отбираются у NPC уже в 1-й главе. (Один источник.)",
+  "rule_en": "Boats: older boats can be taken from the start, while modern luxury yachts and high-end keyless speedboats stay locked until you have the Key Cloner; Seashark jet skis can be hijacked from NPC riders in Chapter 1. (Single source.)",
+  "sources": [
+   "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats",
+   "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles"
+  ],
+  "agree": false
+ },
+ {
+  "rule_ru": "Вертолёты: общего правила о трекерах на вертолётах ни один гайд не даёт. По заметкам карт несколько гражданских вертолётов на площадках открыты (Maverick на крыше больницы Вайс-Бич, Maverick рейнджеров нацпарка, Maverick на причале Саутвинд), а Buckingham SuperVolito помечен «без трекера».",
+  "rule_en": "Helicopters: no guide states a general tracker rule for helicopters. Per map notes several civilian helicopters on helipads are unlocked (Vice Beach hospital-roof Maverick, National Park Rangers Maverick, Southwind dock Maverick) and the Buckingham SuperVolito is noted as having no tracker.",
+  "sources": [
+   "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn",
+   "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+   "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6"
+  ],
+  "agree": false
+ },
+ {
+  "rule_ru": "Одна и та же модель может сканироваться по-разному в разных местах: у '64 Mamba GT на MeowDB два скана — Unlocked / Deactivated / None и Locked / Advanced; у Andrew Node's Thrax (Standout) по GTABase нет трекера и сигнализации, хотя обычный Thrax идёт с Advanced. Данные модели нельзя автоматически переносить на конкретную точку — сканируйте каждую машину.",
+  "rule_en": "The same model can scan differently at different spots: MeowDB shows two '64 Mamba GT scans (Unlocked / Deactivated / None and Locked / Advanced); GTABase says the standout Andrew Node's Thrax has no tracker or alarm although the regular Thrax is listed with Advanced. Model-level data cannot be assumed for a specific spawn - scan each car.",
+  "sources": [
+   "https://meowdb.com/gta6/vehicles/declasse-mamba-gt",
+   "https://www.gtabase.com/gta-6/vehicles/andrew-nodes-thrax",
+   "https://gta6bible.com/vehicles/truffade-thrax/",
+   "https://meowdb.com/gta6/owning-cars"
+  ],
+  "agree": true
+ },
+ {
+  "rule_ru": "GTABase в карточках машин использует своё поле Security с тремя классами: Classic (проводка), «Modern (May Need Key Cloner)» и «Advanced (Key Cloner)», плюс отдельные поля Tracker, Cost To Register и Sell Value (Stolen). Класс «Advanced (Key Cloner)» соответствует Access = Key Cloner.",
+  "rule_en": "GTABase vehicle pages use their own Security field with three classes: Classic (hotwire), 'Modern (May Need Key Cloner)' and 'Advanced (Key Cloner)', plus separate Tracker, Cost To Register and Sell Value (Stolen) fields. 'Advanced (Key Cloner)' corresponds to Access = Key Cloner.",
+  "sources": [
+   "https://www.gtabase.com/gta-6/vehicles/status-rsx",
+   "https://www.gtabase.com/gta-6/vehicles/dantes-vitello",
+   "https://www.gtabase.com/gta-6/vehicles/bloodless-jugular",
+   "https://www.gtabase.com/vehicles/gta-6/infernus-classic"
+  ],
+  "agree": true
+ }
+]

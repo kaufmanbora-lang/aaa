@@ -24,6 +24,7 @@ ap.add_argument('--hints', default=os.path.join(HERE, 'hints'))
 ap.add_argument('--extras', default=os.path.join(HERE, 'extras.json'))
 ap.add_argument('--unplaced', default=os.path.join(HERE, 'extras_skipped.json'))
 ap.add_argument('--no-extras', action='store_true')
+ap.add_argument('--no-cars', action='store_true', help='skip extras_cars.json (used while make_cars.py rebuilds it)')
 ap.add_argument('--docs', default=os.path.join(HERE, '..', '..', 'docs'))
 args = ap.parse_args()
 OM_BASE = 'https://fbritoferreira.github.io/gta6/'
@@ -547,7 +548,11 @@ print('points confirmed by GTADB / PowerPyx:', confirmed)
 
 # ----------------------------------------------------------------------------- extras (research)
 extras = [] if args.no_extras or not os.path.exists(args.extras) else json.load(open(args.extras, encoding='utf8'))
+cars_path = os.path.join(HERE, 'extras_cars.json')
+if not args.no_extras and not args.no_cars and os.path.exists(cars_path):
+    extras += json.load(open(cars_path, encoding='utf8'))
 _by_id = {q['id']: q for q in derived + ign_markers}
+_any_id = {q['id']: q for q in derived + ign_markers + om_markers}
 _by_name = collections.defaultdict(list)
 for q in om_markers + derived + ign_markers:
     _by_name[norm(re.sub(r'\(.*?\)', '', q['n']))].append(q)
@@ -556,6 +561,10 @@ for e in extras:
     tgt = _by_id.get(e.get('merge')) if e.get('merge') else None
     if e.get('merge') and tgt is None:
         continue
+    if e.get('merge_any'):
+        tgt = _any_id.get(e['merge_any']) or next((q for q in final_extras if q.get('id') == e['merge_any']), None)
+        if tgt is None:
+            continue
     if tgt is None and e.get('c') in ('weapon', 'veh_standout', 'veh_randy') and 'x' in e:
         # the same named item pinned by the community map: keep that (exact) pin and attach the guide info to it
         fam = ('weapon',) if e['c'] == 'weapon' else VEHS
@@ -576,10 +585,23 @@ for e in extras:
         for f in e.get('f', []):
             if f[0] not in [q[0] for q in tgt.get('f', [])] and f[0] != 'Привязка на карте':
                 tgt.setdefault('f', []).append(f)
+        for k, val in (e.get('fldm') or {}).items():     # values published for the base model, not this exact spawn
+            tgt.setdefault('_fldm', {}).setdefault(k, val)
+        for k, val in (e.get('fld') or {}).items():      # lock / alarm / tracker facts found by research
+            if val and not (tgt.setdefault('_fld', {}).get(k) or '').strip('? '):
+                tgt['_fld'][k] = val
+                lab = 'Сигнализация' if k == 'Security' else LABEL.get(k, k)
+                if lab not in [q[0] for q in tgt.get('f', [])]:
+                    tgt.setdefault('f', []).append([lab, tr_value(val)])
         continue
     if 'x' not in e:
         continue
-    final_extras.append({k: v for k, v in e.items() if k not in ('aka', 'force_new', 'merge') and v not in (None, [], '')})
+    ne = {k: v for k, v in e.items() if k not in ('aka', 'force_new', 'merge', 'merge_any', 'fld') and v not in (None, [], '')}
+    if e.get('fld'):
+        ne['_fld'] = dict(e['fld'])
+        for k, val in e['fld'].items():
+            ne.setdefault('f', []).append(['Сигнализация' if k == 'Security' else LABEL.get(k, k), tr_value(val)])
+    final_extras.append(ne)
 print('extras: merged', n_em, 'added as new', len(final_extras))
 
 # ----------------------------------------------------------------------------- glitches (research/glitches.json)
@@ -641,7 +663,9 @@ ROB_NOTE = {'bank': 'bank', 'payday': 'bank', 'jewelry': 'jewelry', 'pawn': 'paw
 def requirements(mk):
     c, fld, fd = mk['c'], mk.get('_fld') or {}, dict(mk.get('f') or [])
     q, summary = [], None
-    if c.startswith('veh_'):
+    if c == 'veh_lux':
+        q.append(['keyfob', 'y', 'Дорогие машины обычно с защитой', M['lux']])
+    elif c.startswith('veh_'):
         acc, sec, trk = [('' if '?' in fld.get(k, '') else fld.get(k, '').strip()) for k in ('Access', 'Security', 'Tracker')]
         if acc == 'Unlocked':
             q.append(['lockopen', 'g', 'Двери открыты', M['unlocked']])
@@ -663,7 +687,15 @@ def requirements(mk):
             q.append(['tracker', 'r', 'Красный трекер (продвинутый)', M['trk_adv']])
         elif trk == 'Tracker':
             q.append(['tracker', 'y', 'Есть трекер (тип не указан)', M['trk_std']])
-        if not (acc or sec or trk):
+        fm = mk.get('_fldm') or {}
+        if not (acc or sec or trk) and (fm.get('Access') or fm.get('Tracker')):
+            ru_a = {'Unlocked': 'двери открыты', 'Locked': 'заперта (Slim Jim или стекло)', 'Key Cloner': 'нужен Key Cloner'}
+            ru_t = {'None': 'без трекера', 'Standard': 'жёлтый трекер', 'Advanced': 'красный трекер'}
+            parts = [ru_a[fm['Access']]] if fm.get('Access') in ru_a else []
+            parts += [ru_t[fm['Tracker']]] if fm.get('Tracker') in ru_t else []
+            col = 'r' if fm.get('Access') == 'Key Cloner' or fm.get('Tracker') == 'Advanced' else 'y' if fm.get('Access') == 'Locked' or fm.get('Tracker') == 'Standard' else 'g'
+            q.append(['tracker' if fm.get('Tracker') else 'lock', col, 'У базовой модели: ' + ', '.join(parts), M['model_level']])
+        elif not (acc or sec or trk):
             q.append(['help', 'd', 'Замок и трекер не указаны', M['trk_unknown']])
         elif acc == 'Unlocked' and sec in ('None', 'Deactivated') and trk == 'None':
             summary = 'Полностью открыта: ни замка, ни сигнализации, ни трекера.'
@@ -840,6 +872,10 @@ cats = [{'id': c[0], 'g': c[1], 'n': c[2], 'i': c[3], 'on': c[4], 'dr': c[5], 'c
 unplaced = []
 if os.path.exists(args.unplaced) and not args.no_extras:
     unplaced = json.load(open(args.unplaced, encoding='utf8'))
+    cs = os.path.join(HERE, 'extras_cars_skipped.json')
+    if os.path.exists(cs) and not args.no_cars:
+        seen_n = {u['n'] for u in unplaced}
+        unplaced += [u for u in json.load(open(cs, encoding='utf8')) if u['n'] not in seen_n]
 data = {
     'generated': time.strftime('%Y-%m-%d'),
     'groups': [{'id': g[0], 'n': g[1]} for g in GROUPS if any(c['g'] == g[0] for c in cats)],
