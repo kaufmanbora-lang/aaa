@@ -412,7 +412,11 @@ for l in OM:
         cat = 'garage_buy'
     if cat == 'veh_randy' and 'moses' in name.lower():
         cat = 'veh_moses'
-    img = {'u': OM_BASE + l['screenshot'], 'c': 'Скриншот: Open GTA 6 Map'} if l.get('screenshot') else None
+    img = None
+    if l.get('screenshot'):
+        local = os.path.join(args.docs, 'shots', os.path.basename(l['screenshot']))
+        img = {'u': ('shots/' + os.path.basename(l['screenshot'])) if os.path.exists(local) else OM_BASE + l['screenshot'],
+               'c': 'Скриншот: Open GTA 6 Map'}
     best = None
     nt = toks(re.sub(r'\(.*?\)', '', name))
     for c2 in FAMILY.get(cat, (cat,)):
@@ -763,6 +767,40 @@ def requirements(mk):
 # ----------------------------------------------------------------------------- finish
 allm = markers + ign_markers + derived + om_markers + missions_out + final_extras + glitch_markers
 catset = {c[0] for c in CATS}
+VAGUE_W = {'car', 'cars', 'helicopter', 'knife', 'truck', 'boat', 'plane', 'bike', 'van', 'sports', 'jet', 'jets', 'speedboat',
+           'hatchback', 'airboat', 'pistol', 'rifle', 'shotgun', 'sniper', 'machete', 'bat', 'buggy', 'kayak'}
+GENERIC_W = {'gt', 'rs', 'ff', 'ii', 'iii', 'classic', 'custom', 'sport', 'super', 'turbo', 'edition', 'ultimate', 'the'}
+
+
+def model_keys(name):
+    n = re.sub(r'\(.*?\)|"[^"]*"', ' ', name)
+    w = [x.lower() for x in re.findall(r"[A-Za-z][A-Za-z\-]{2,}", n) if x.lower() not in GENERIC_W]
+    return (w[-2:][::-1] + [''])[:2] if w else ['', '']
+
+
+OBJ = {'veh': VEHS, 'weapon': ('weapon',)}
+n_same = 0
+for fam in OBJ.values():
+    pool = [q for q in allm if q['c'] in fam]
+    donors = collections.defaultdict(list)
+    for q in pool:
+        if q.get('img'):
+            donors[model_keys(q['n'])[0]].append(q)
+    for q in pool:
+        if q.get('img') or q.get('p'):
+            continue
+        k1, k2 = model_keys(q['n'])
+        cands = donors.get(k1) or (donors.get(k2) if k2 and fam is VEHS and len(k2) > 3 else None)
+        if not cands or not k1:
+            continue
+        make = norm(q['n']).split()[:1]
+        same_make = [d for d in cands if norm(d['n']).split()[:1] == make]
+        if (k1 in VAGUE_W or not donors.get(k1)) and not same_make:
+            continue        # "helicopter", "car", "knife"… say nothing about the model: only trust them within one make
+        d = (same_make or cands)[0]
+        q['mp'] = {'u': d['img']['u'], 'n': d['n']}
+        n_same += 1
+print('objects given a photo of the same model:', n_same)
 out, en_left = [], []
 for mk in allm:
     assert mk['c'] in catset, mk['c']
@@ -771,7 +809,7 @@ for mk in allm:
     if not mk['id'].startswith('L'):
         if not mk.get('a'):
             mk['a'] = area_of(mk['x'], mk['y'])
-        if not mk.get('p') and not mk.get('img'):
+        if not mk.get('p') and not mk.get('img') and mk['c'] not in VEHS and mk['c'] not in ('weapon', 'wpickup', 'valuable'):
             np_ = near_photo(mk['x'], mk['y'])
             if np_:
                 mk['np'] = np_
@@ -816,5 +854,7 @@ json.dump(data, open(dst, 'w', encoding='utf8'), ensure_ascii=False, separators=
 json.dump(en_left, open(os.path.join(HERE, 'untranslated.json'), 'w', encoding='utf8'), ensure_ascii=False, indent=0)
 print('markers:', len(out), 'size: %.2f MB' % (os.path.getsize(dst) / 1e6), '| English-only hints left:', len(en_left))
 print('verification:', sorted(collections.Counter(m['v'] for m in out).items()))
-print('own photo:', sum(1 for m in out if m.get('p')), 'screenshot:', sum(1 for m in out if m.get('img')), 'nearby photo:', sum(1 for m in out if m.get('np')))
+print('own photo:', sum(1 for m in out if m.get('p')), 'screenshot:', sum(1 for m in out if m.get('img')), 'same-model photo:', sum(1 for m in out if m.get('mp')), 'nearby photo:', sum(1 for m in out if m.get('np')))
+vv = [m for m in out if m['c'] in VEHS]
+print('vehicles:', len(vv), 'own photo', sum(1 for m in vv if m.get('img') or m.get('p')), 'same model', sum(1 for m in vv if m.get('mp')), 'none', sum(1 for m in vv if not (m.get('img') or m.get('p') or m.get('mp'))))
 print(' | '.join(f"{c['id']} {c['count']}" for c in cats))

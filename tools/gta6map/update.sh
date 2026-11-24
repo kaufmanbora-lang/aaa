@@ -22,5 +22,6 @@ if curl -fsSL --retry 2 -m 120 "$RAW/dablon/gta-vi-strategic-map/HEAD/public/dis
   python3 "$HERE/snapshot_sources.py" --mirror "$TMP/mirror.json" || echo "mirror sync skipped"
 fi
 python3 "$HERE/fetch_photos.py" || echo "photo sync skipped"
+python3 "$HERE/fetch_shots.py" || echo "screenshot sync skipped"
 python3 "$HERE/build_data.py"
 rm -rf "$TMP"
