@@ -1,0 +1,326 @@
+{
+  "items": [
+    {
+      "list": "other",
+      "name": "Buckingham Windsor Drop",
+      "island_or_district": "Bayside, Vice City",
+      "place_detail": "Status Auto Imports dealership in western Bayside (one guide: on Caledonia Blvd; another: between La Perle and Bayside at the top of Vice City). Enter the showroom, take an immediate right and go to the back of the showroom.",
+      "conditions": "Randy's Wish List target. Described as a common but not guaranteed spawn: if the car is not there, come back later. Can also appear elsewhere in Leonida.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/",
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/"
+      ],
+      "verified": true,
+      "conflict": "Map currently has the Windsor Drop only in Capri; this is an additional spot. Street name of the dealership differs between guides (Caledonia Blvd vs 'between La Perle and Bayside'). One fan map lists a 'Status Auto Resort' in Crosstown, possibly the same building mislabelled.",
+      "desc_ru": "Buckingham Windsor Drop из списка желаний Рэнди. Стоит в автосалоне Status Auto Imports на западе Бэйсайда: зайдите внутрь, сразу направо и в дальний конец шоурума. Появляется не всегда — если машины нет, вернитесь позже."
+    },
+    {
+      "list": "other",
+      "name": "Grotti Itali RSX",
+      "island_or_district": "Bayside, Vice City",
+      "place_detail": "Inside the Status Auto Imports showroom, western Bayside.",
+      "conditions": "Randy's Wish List target. Described as 'often for sale' at the showroom; spawn is not guaranteed, return later if absent.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+      ],
+      "verified": true,
+      "conflict": "Another guide places the Itali RSX in a house garage on Vespucci Island instead; the map already has an Itali RSX on Starfish Island. Treat Status Auto Imports as an additional spot.",
+      "desc_ru": "Grotti Itali RSX из списка желаний Рэнди. Часто стоит в шоуруме Status Auto Imports на западе Бэйсайда. Спавн не гарантирован — если машины нет, зайдите позже."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Jubilee",
+      "island_or_district": "Bayside, Vice City",
+      "place_detail": "Status Auto Imports dealership, western Bayside (showroom/lot; exact spot not stated).",
+      "conditions": "Randy's Wish List target. Reported by a single guide only.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+      ],
+      "verified": false,
+      "conflict": "Only one guide lists the Jubilee at this dealership (which of the listed pages said it could not be confirmed from search summaries). Another guide says no fixed Jubilee spot is confirmed and recommends scanning parked cars with the WAiNK app. Map has a Jubilee in Capri.",
+      "desc_ru": "Buckingham Jubilee из списка Рэнди. По данным одного гайда встречается в автосалоне Status Auto Imports на западе Бэйсайда. Не подтверждено другими источниками — проверяйте сканером WAiNK."
+    },
+    {
+      "list": "other",
+      "name": "Ascot Paragon",
+      "island_or_district": "Bayside, Vice City",
+      "place_detail": "Status Auto Imports dealership, western Bayside (showroom/lot; exact spot not stated).",
+      "conditions": "Randy's Wish List target. Reported by a single guide only.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+      ],
+      "verified": false,
+      "conflict": "Only one guide lists the Paragon at this dealership (exact page could not be confirmed from search summaries). Other guides place the Paragon outside the Banana Hole bar on Shore Drive, Ocean Beach (already on the map).",
+      "desc_ru": "Ascot Paragon из списка Рэнди. Один гайд указывает автосалон Status Auto Imports на западе Бэйсайда как место появления. Другие гайды называют только бар Banana Hole на Shore Drive — точка не подтверждена."
+    },
+    {
+      "list": "other",
+      "name": "Benefactor Dubsta",
+      "island_or_district": "Bayside, Vice City",
+      "place_detail": "Parking lot of the Status Auto Imports dealership, western Bayside.",
+      "conditions": "Randy's Wish List target. Reported by a single guide's listing; scan the cars in the lot with WAiNK.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+      ],
+      "verified": false,
+      "conflict": "Single-source (exact page could not be confirmed from search summaries). Other guides say Dubsta spawns are random: often outside the NINE1NINE club in Downtown, Starfish/Rialto Islands mansions and Capri. A Russian guide gives a different spot near the airport (see separate record).",
+      "desc_ru": "Benefactor Dubsta из списка Рэнди. По одному гайду стоит на парковке автосалона Status Auto Imports на западе Бэйсайда. Спавн случайный, точка не подтверждена — просканируйте машины на парковке через WAiNK."
+    },
+    {
+      "list": "other",
+      "name": "Benefactor Dubsta",
+      "island_or_district": "Vice City International Airport area, Vice City",
+      "place_detail": "N-X 94 Vice Car Repair workshop near Vice City International Airport.",
+      "conditions": "Randy's Wish List target. Reported by a single Russian-language guide.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-randys-wish-list",
+        "https://arz-wiki.com/gta-6/articles/redkie-mashiny-gta-6/"
+      ],
+      "verified": false,
+      "conflict": "Single-source (one of the two listed Russian pages; exact attribution not confirmed from search summaries). An English-language search found no mention of this workshop; English guides call Dubsta spawns random (NINE1NINE club Downtown, Starfish/Rialto Islands, Capri).",
+      "desc_ru": "Benefactor Dubsta из списка Рэнди. По данным русскоязычного гайда его можно найти у мастерской N-X 94 Vice Car Repair рядом с аэропортом Вайс-Сити. Точка не подтверждена другими источниками."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not stated) - hospital rooftop helipad",
+      "island_or_district": "Vice-Dale County (hospital; exact sub-district not stated in the sources seen)",
+      "place_detail": "Rooftop helipad of the hospital in Vice-Dale County; climb the ladder to reach the roof.",
+      "conditions": "The helicopter does not always spawn; guides call it a backup location. Helipads show as an (H) icon when the in-game map is zoomed in.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn",
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://happygamer.com/gta-6-how-to-get-a-helicopter-179627/",
+        "https://www.theclick.gg/gta-6-helicopter-locations/"
+      ],
+      "verified": true,
+      "conflict": "Helicopter model is not named by any source seen. The gtabase helipad tracker separately lists a 'Rockridge Hospital' helipad; it is unclear whether that is the same hospital. Could not confirm whether this hospital lies in West/South Vice-Dale or another part of the county; map already has a 'Coast Guard Helicopter | Vice-Dale County' which is a different spot.",
+      "desc_ru": "Вертолёт на крыше больницы в округе Вайс-Дейл. На вертолётную площадку можно подняться по лестнице. Вертолёт появляется не всегда — это запасная точка."
+    },
+    {
+      "list": "other",
+      "name": "Lapwing Nimbus (regular)",
+      "island_or_district": "Vice City International Airport",
+      "place_detail": "On the tarmac/apron of VCIA; one guide says to enter the restricted apron through the cargo-yard fence.",
+      "conditions": "Restricted area. Jets at VCIA carry trackers: stealing one gives a wanted level and fighter jets are sent after you (tracker type not stated).",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://freeroam.fyi/guides/gta-vi-vice-city-international-airport-vcia-guide",
+        "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn",
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+      ],
+      "verified": false,
+      "conflict": "The exact Nimbus spot comes from a single low-authority guide (freeroam.fyi). gtabase and other guides only confirm that jets at VCIA have trackers and trigger fighter jets. Not the same as the Standout 'Lapwing Booty Bang Nimbus' already on the map.",
+      "desc_ru": "Обычный бизнес-джет Lapwing Nimbus на перроне аэропорта Вайс-Сити. Попасть на закрытую территорию можно через забор грузового двора. На самолётах аэропорта стоят трекеры: угон даёт розыск и истребители на хвост."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Shamal (black-and-gold)",
+      "island_or_district": "Vice City International Airport",
+      "place_detail": "Parked outside the South Hangars by the GO Postal hub.",
+      "conditions": "Restricted area. Jets at VCIA carry trackers: stealing one gives a wanted level and fighter jets (tracker type not stated).",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://freeroam.fyi/guides/gta-vi-vice-city-international-airport-vcia-guide",
+        "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+      ],
+      "verified": false,
+      "conflict": "Single low-authority source for the spot. May or may not be the Standout 'Buckingham Love Fist Shamal' already on the map (gtabase says that one is inside a VCIA hangar). Another site claims an executive jet outside 'Hangar 4', with hangar naming that does not match other maps.",
+      "desc_ru": "Чёрно-золотой бизнес-джет Buckingham Shamal стоит у Южных ангаров аэропорта Вайс-Сити, рядом с хабом GO Postal. Территория закрытая, на самолётах стоят трекеры — после угона прилетят истребители. Точка указана одним источником."
+    },
+    {
+      "list": "other",
+      "name": "Lapwing Streamer 216-C (airliner)",
+      "island_or_district": "Vice City International Airport",
+      "place_detail": "On the VCIA tarmac (commercial jets are parked at the airport).",
+      "conditions": "Restricted area. Jets at VCIA carry trackers: stealing one gives a wanted level and fighter jets (tracker type not stated).",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://freeroam.fyi/guides/gta-vi-vice-city-international-airport-vcia-guide",
+        "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+      ],
+      "verified": false,
+      "conflict": "The model name comes from one guide only; a second site just says commercial jets are parked at VCIA without naming the model.",
+      "desc_ru": "Пассажирский авиалайнер Lapwing Streamer 216-C на перроне аэропорта Вайс-Сити. Зона закрытая; на самолётах аэропорта стоят трекеры, за угон дают розыск и поднимают истребители. Название модели указано одним источником."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Rumpo (Standout; variant name not given in the sources seen)",
+      "island_or_district": "South Vice-Dale, Vice-Dale County",
+      "place_detail": "Apollo Aggregates warehouse off Emory Ave, central South Vice-Dale County.",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": true,
+      "conflict": "POSSIBLE DUPLICATE: the map already has 'Vapid Rumpo | Peregrine Bay'; could be the same vehicle under a different area label, check before adding. game-checklists says 'Parked in South Vice-Dale, Vice-Dale County'; the Apollo Aggregates/Emory Ave detail comes from a second guide whose URL was not shown explicitly in the search summary (metaforge is the likely one).",
+      "desc_ru": "Vapid Rumpo в уникальной раскраске (Standout). Стоит у склада Apollo Aggregates рядом с Emory Ave, в центре Южного Вайс-Дейла. Возможно, это та же машина, что уже отмечена на карте в Peregrine Bay."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi '96 Infernus",
+      "island_or_district": "Crosstown, Vice City",
+      "place_detail": "Level 7 of the parking structure of the Crosstown Police Station on NW 9th Street.",
+      "conditions": "Wait for an officer to open the gate and follow him in unseen. Needs the Key Cloner (given by Randy in Chapter 3). Advanced tracker: a red ring fills when you drive too slowly, so keep speed up; most guides suggest leaving via the stunt jump from the top floor. Randy's Wish List target (deliver to Leonida Auto World).",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": "Advanced",
+      "payout": "$17,160 (stolen value, one source); Randy payout not stated",
+      "sources": [
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://leonidaplayers.com/guides/gta-6-how-to-steal-the-pegassi-infernus-from-crosstown-police-station",
+        "https://atlassecrets.app/gta6/secrets/pegassi-infernus-on-the-7th-level-of-crosstown-parking-lot/",
+        "https://timesaver.gg/tools/gta-6/cars/96-pegassi-infernus",
+        "https://www.gta-xtreme.com/gta-6/locations/hidden-cars"
+      ],
+      "verified": true,
+      "conflict": "ALREADY ON MAP (Pegassi '96 Infernus | Crosstown) - lock/tracker data only. One guide words the place as 'a police impound car park in southwest Crosstown'; another puts an Infernus in the garage of a white house in Capri by day. One guide says you must drive up to Level 9 for the stunt-jump exit. Alarm status not stated.",
+      "desc_ru": "Pegassi Infernus '96 стоит на 7-м уровне паркинга полицейского участка Кросстауна на NW 9th Street. Дождитесь, пока офицер откроет ворота, и проскользните следом. Нужен Key Cloner; на машине продвинутый трекер — держите скорость и уходите через трюковый прыжок с верхнего этажа."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Bourbon Windsor",
+      "island_or_district": "Stockyard, Vice City",
+      "place_detail": "Inside the Sound4Sound recording studio (an Illegal Operation / gang location) in northern/north-western Stockyard: photo studio, enter through the west double doors, then turn right.",
+      "conditions": "Gang location: gangsters open fire as soon as you take the car.",
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": "$24,000 (one listing; see conflict)",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://game8.co/games/GTA-6/archives/639340",
+        "https://gamerhour.net/locations/gta-6-buckingham-bourbon-windsor-location/",
+        "https://www.gta-xtreme.com/gta-6/locations/hidden-cars",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "ALREADY ON MAP (Buckingham Bourbon Windsor | Stockyard) - lock data only. The listing reads 'sells for $24,000, register for $9,500', which is inverted compared with every other Standout (register cost normally exceeds sell value); the two numbers may be swapped. One guide spells the studio/gang name 'San4San'. Alarm and tracker not stated.",
+      "desc_ru": "Buckingham Bourbon Windsor стоит внутри студии звукозаписи Sound4Sound на севере Стокъярда (нелегальная точка банды): фотостудия, вход через западные двойные двери и направо. Машина не заперта, но бандиты откроют огонь, как только вы её угоните."
+    },
+    {
+      "list": "other",
+      "name": "Imponte Bloodbath Phoenix",
+      "island_or_district": "Salton, Vice City",
+      "place_detail": "Under a metal awning at Slator Towing Inc, between SW 7th Avenue and SW 8th Avenue.",
+      "conditions": "Locked and alarmed: use a Slim Jim to open it without triggering the alarm.",
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": null,
+      "payout": "$6,545",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gameta.gg/gta6/map/standout-vehicles/",
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+      ],
+      "verified": true,
+      "conflict": "ALREADY ON MAP (Imponte Bloodbath Phoenix | Salton) - lock data only. Lock/alarm/price come from one guide. game-checklists words the location as 'north of Peacock Bay' while gta6map.io and the Slator Towing guide say Salton. Tracker not stated.",
+      "desc_ru": "Imponte Bloodbath Phoenix стоит под металлическим навесом у Slator Towing Inc, между SW 7th и SW 8th Avenue в Солтоне. Машина заперта и на сигнализации — пригодится Slim Jim."
+    },
+    {
+      "list": "other",
+      "name": "Bravado Gauntlet Hellfire",
+      "island_or_district": "Hamlet, Vice-Dale County",
+      "place_detail": null,
+      "conditions": "Needs the Key Cloner (available from Chapter 3). No alarm and no tracker per one guide; registration cost listed as $28,400.",
+      "access": "Key Cloner",
+      "security": "None",
+      "tracker": "None",
+      "payout": "$9,200",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://egamersworld.com/blog/gta-6-standout-vehicles-all-rare-car-types-and-whe-dha39M0YT8"
+      ],
+      "verified": false,
+      "conflict": "ALREADY ON MAP (Bravado Gauntlet Hellfire | Hamlet) - lock data only, from a single guide (one of the two listed pages; exact attribution not confirmed from search summaries). Exact spot not found in the sources seen; district taken from the existing map entry.",
+      "desc_ru": "Bravado Gauntlet Hellfire в Хэмлете. По данным одного гайда для угона нужен Key Cloner, сигнализации и трекера нет. Цена продажи около $9 200, регистрация — $28 400."
+    },
+    {
+      "list": "other",
+      "name": "Pfister Growler (Vanessa's Growler)",
+      "island_or_district": "La Perle, Vice City (gtabase: Rockridge)",
+      "place_detail": "Locked garage behind Auntie's Place in La Perle (metaforge); gtabase describes it as a lockup in Rockridge.",
+      "conditions": "Garage code 92665 is obtained by cracking Vanessa's laptop in the Chapter 3 Bayside apartment. Missable once you leave the apartment in Chapter 4. The garage becomes yours and the car is registered to you for free.",
+      "access": "Locked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": "ALREADY ON MAP (Pfister Growler (Vanessa's) | La Perle) - access data only. 'Locked' refers to the garage door (code lock); the car's own lock/alarm/tracker status is not stated. District conflict: metaforge says La Perle behind Auntie's Place, gtabase says a Rockridge lockup (Standout #98).",
+      "desc_ru": "Розовый Pfister Growler Ванессы заперт в гараже за Auntie's Place в Ла-Перле (gtabase относит гараж к Рокриджу). Код 92665 даёт взлом ноутбука Ванессы в квартире в Бэйсайде в 3-й главе; после переезда в 4-й главе шанс теряется. Гараж становится вашим, машина регистрируется бесплатно."
+    },
+    {
+      "list": "other",
+      "name": "Granforma Tsunami Zorrusso",
+      "island_or_district": "Peacock Estates, Peacock Bay (gtabase tags it Hamlet)",
+      "place_detail": "Luxury residence in Peacock Estates.",
+      "conditions": "Needs the Key Cloner (obtained in the Chapter 3 Zorrusso theft mission). Registration cost listed as $34,250.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": "$11,050",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/tsunami-zorrusso",
+        "https://gta6map.io/location/standout-vehicle",
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": true,
+      "conflict": "ALREADY ON MAP (Granforma Tsunami Zorrusso | Vice City) - lock data only. Location agrees across gtabase / gta6map.io / game-checklists ('south of Peacock Bay'). Access and prices come from one guide that refers to 'the Standout version of the Granforma Zorrusso' without naming the Tsunami explicitly, so the lock data is single-source and assumed to be this car. Alarm and tracker not stated.",
+      "desc_ru": "Granforma Tsunami Zorrusso в гоночной спецификации стоит у роскошной резиденции в Peacock Estates. Для угона нужен Key Cloner (выдаётся в 3-й главе). Продажа около $11 050, регистрация — $34 250."
+    }
+  ]
+}

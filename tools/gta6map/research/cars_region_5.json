@@ -1,0 +1,563 @@
+{
+  "items": [
+    {
+      "list": "other",
+      "name": "BF '77 Bandito — Beer Buggy Bandito",
+      "island_or_district": "Wild Hog Point",
+      "place_detail": "Outside a home at Wild Hog Point (south-west of Port Gellhorn), in the garage",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/beer-buggy-bandito",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": "Spot described only by gtabase (vehicle page + map, i.e. one site); one other listing files the car under Port Gellhorn instead of Wild Hog Point. It is a Patriot Beer sponsored '77 Bandito, so it may be the same car as the on-map 'BF '77 Bandito (Stars and Stripes) | Port Gellhorn' — check before adding a second marker.",
+      "desc_ru": "BF '77 Bandito в спонсорской ливрее Patriot Beer (Standout «Beer Buggy Bandito»). Стоит в гараже у жилого дома на Wild Hog Point, к юго-западу от Порт-Геллхорна. Данных о замке, сигнализации и трекере нет."
+    },
+    {
+      "list": "other",
+      "name": "Maibatsu Manchez — Pacific Manchez",
+      "island_or_district": "South Kelly County",
+      "place_detail": "At a gas station in South Kelly County (race-ready Manchez in a 'distinctly Leonidan' colour scheme)",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://mapmaster.io/games/grand-theft-auto-6/guides/Standout%20Vehicle",
+        "https://gameta.gg/gta6/map/standout-vehicles/"
+      ],
+      "verified": false,
+      "conflict": "Place disputed: one summary says gas station in South Kelly County, another says parked at a ranger station in Belpoint (the ranger-station spot is also attributed to the Declasse Flamingo Bobcat, so the Belpoint claim may be a mix-up). Almost certainly the same bike as the on-map 'Maibatsu Manchez (Pink/Blue) | Kelly County' — this entry mainly supplies its Standout name.",
+      "desc_ru": "Гоночный Maibatsu Manchez в фирменной «леонидской» розово-голубой раскраске (Standout «Pacific Manchez»). По одним данным стоит на заправке в Южном округе Келли, по другим — у станции рейнджеров в Белпойнте. Данных о замке и трекере нет."
+    },
+    {
+      "list": "other",
+      "name": "Small single-passenger propeller planes (model not named in sources)",
+      "island_or_district": "Wild Hog Point",
+      "place_detail": "Airstrip at Wild Hog Point, south-west of Port Gellhorn — a group of small planes parked out in the open",
+      "conditions": "Parked there before the related side questline starts; can be taken without an immediate wanted level if you stay out of restricted airspace; fuel runs out and the plane cannot be kept/owned, so you have to come back for another one",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gamespot.com/articles/how-to-get-a-plane-in-gta-6/",
+        "https://game8.co/games/GTA-6/archives/638725",
+        "https://bo3.gg/games/articles/how-to-get-a-plane-early-in-gta-6-duster-location-and-takeoff-guide"
+      ],
+      "verified": true,
+      "conflict": "No source names the exact model at this spot (Game8 only lists 'Small Planes, Propeller Planes' for the area). The named Bottcher Duster is reported at a different airstrip (near Boundary Road). This is not the on-map Standout 'Lapwing Silver Bullet Mallard', which sits in a hangar at Wild Hog Point.",
+      "desc_ru": "Несколько небольших одноместных винтовых самолётов стоят под открытым небом на аэродроме Wild Hog Point к юго-западу от Порт-Геллхорна. Доступны ещё до начала связанной цепочки заданий; оставить самолёт себе нельзя, топливо заканчивается. Точная модель в источниках не названа."
+    },
+    {
+      "list": "other",
+      "name": "Willard '92 Grouse",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Yard of Moses' garage in Port Gellhorn",
+      "conditions": "Hoodless car that is scanned during Moses' tutorial lesson (story/tutorial vehicle); may not be a free-roam spawn",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-catalog-story-unlocks",
+        "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-vehicle-catalog"
+      ],
+      "verified": false,
+      "conflict": "Single Russian-language wiki (lvl.su), seen only through a search summary; an English-language follow-up search found no confirmation.",
+      "desc_ru": "Willard '92 Grouse без капота стоит во дворе гаража Мозеса в Порт-Геллхорне. Машину сканируют во время обучающего урока Мозеса; свободно ли она доступна вне задания — не подтверждено."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Riata",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Moses' garage in Port Gellhorn (exact spot not stated)",
+      "conditions": "Reported as appearing in Moses' lessons/tasks",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-catalog-story-unlocks",
+        "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-vehicle-catalog"
+      ],
+      "verified": false,
+      "conflict": "Very thin: one Russian-language wiki (lvl.su) via search summary, no exact spot, no confirmation elsewhere. Low confidence — treat as a lead, not a confirmed spawn.",
+      "desc_ru": "Vapid Riata упоминается у гаража Мозеса в Порт-Геллхорне — встречается в его уроках и заданиях. Точное место и условия появления не указаны, данные не подтверждены."
+    },
+    {
+      "list": "other",
+      "name": "Upgraded / custom cars, rotating selection (incl. an upgraded muscle car)",
+      "island_or_district": "Gellhorn Raceway",
+      "place_detail": "Parking area by Gellhorn International Raceway: the parking behind Whisler Motorsport and the covered display lot outside the raceway (Whisler Motorsport map pin)",
+      "conditions": "Contents of the lot change daily, so the models vary; recommended as a source of pre-upgraded cars to register with Moses",
+      "access": null,
+      "security": null,
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639138"
+      ],
+      "verified": false,
+      "conflict": "Tracker 'None' refers only to the upgraded muscle car Game8 reports behind Whisler Motorsport; other cars in the lot are not described. A second guide (not identifiable from the search summary) describes a covered display lot / car meet at the Whisler Motorsport pin. A Russian-language guide also mentions a tuned Western Sovereign and custom Bravado Youga vans near the raceway parties — those are probably the on-map 'Western DriveShaft Sovereign' and 'Bravado Acid Youga / Elven Queen Youga'.",
+      "desc_ru": "На парковке у трассы Gellhorn Raceway (за Whisler Motorsport и на крытой выставочной площадке) стоят уже тюнингованные машины; набор меняется каждый день. Сообщается о прокачанном маслкаре без трекера — удобно регистрировать у Мозеса."
+    },
+    {
+      "list": "other",
+      "name": "Utility helicopter (model not named in sources)",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Airstrip south of Port Gellhorn: helipad on the right-hand side towards the centre of the strip",
+      "conditions": "Guide says it can be boarded 'without issues'; the spawn is not guaranteed — if the pad is empty, try another helipad",
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gameshorizon.com/guides/gta-6-helicopter-and-plane-spawn-locations/",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-helicopter-locations-where-to-find-one/",
+        "https://www.gta-xtreme.com/gta-6/locations/helicopters",
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+      ],
+      "verified": true,
+      "conflict": "Model is not named; probably the same spawn as the on-map 'Buzzard (helicopter) | Port Gellhorn'. 'Unlocked' is inferred from the wording 'you can easily board it without issues'. Exact per-URL attribution could not be confirmed from search summaries.",
+      "desc_ru": "Вертолёт стоит на вертолётной площадке аэродрома к югу от Порт-Геллхорна — справа, ближе к середине полосы. По гайдам, в него можно сесть без проблем; появление не гарантировано. Модель в источниках не названа (вероятно, это уже отмеченный Buzzard)."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not named in sources)",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Helicopter spawn north of Ambrosia, Kelly County (exact spot not stated)",
+      "conditions": "Spawn is not guaranteed",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gameshorizon.com/guides/gta-6-helicopter-and-plane-spawn-locations/",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-helicopter-locations-where-to-find-one/",
+        "https://www.gta-xtreme.com/gta-6/locations/helicopters"
+      ],
+      "verified": false,
+      "conflict": "No model and no exact spot given; may be the on-map 'Buckingham Swift | Kelly County'. One list also mentions a helipad inside Leonida State Prison (Kelly County) without confirming that a helicopter spawns there.",
+      "desc_ru": "К северу от Амброзии (округ Келли) есть точка появления вертолёта. Модель и точное место в источниках не указаны, появление не гарантировано."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Firebug Dominator",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Parked out front of the abandoned La Cascara Motel, just off Gellhorn Ave on the beach (north-west Port Gellhorn)",
+      "conditions": "Registration cost reported as $2,950",
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": "None",
+      "payout": "$7,205",
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gta6gps.com/map/game/unique-vehicles",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://detonated.com/gta-6-best-car-locations/"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "Vapid Firebug Dominator стоит перед заброшенным мотелем La Cascara на пляже у Gellhorn Ave. Машина заперта и с сигнализацией, трекера нет. Продаётся примерно за $7 205, регистрация — $2 950."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Smuggler Caracara",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "East side of the fishery building by Brooks Boatworks, north end of Port Gellhorn",
+      "conditions": "Tied to a Kolt & Associates illegal operation at the fishery",
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gta6gps.com/map/game/unique-vehicles",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "One guide says it sits in a guarded compound and needs a docks activity to be triggered first; gtabase just says 'discovered at some docks in Port Gellhorn'.",
+      "desc_ru": "Vapid Smuggler Caracara стоит у восточной стены здания рыбного хозяйства рядом с Brooks Boatworks на севере Порт-Геллхорна (точка Kolt & Associates). Не заперт, сигнализация отключена."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Truth & Justice Caracara",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Outside the east wall of June Warehouse (Kolt & Associates), near US-9 and Glenwood Ave",
+      "conditions": "June Warehouse is a Kolt & Associates compound",
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gta6gps.com/map/game/unique-vehicles",
+        "https://gamerhour.net/guides/gta-6-june-warehouse-all-key-valuables-port-gellhorn/"
+      ],
+      "verified": true,
+      "conflict": "Minor: one source says 'east wall/east side' of June Warehouse, another says 'backyard' of the warehouse.",
+      "desc_ru": "Vapid Truth & Justice Caracara стоит у восточной стены склада June Warehouse (Kolt & Associates) возле US-9 и Glenwood Ave. Не заперт, сигнализация отключена."
+    },
+    {
+      "list": "other",
+      "name": "Bravado Circles of Hell Youga",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "In front of the Circles of Hell House on Gellhorn Ave, northern Port Gellhorn",
+      "conditions": null,
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gta6gps.com/map/game/unique-vehicles"
+      ],
+      "verified": true,
+      "conflict": "Source lists it as unlocked with 'no alarm listed' — unclear whether that means no alarm or no data, so security is left null.",
+      "desc_ru": "Bravado Circles of Hell Youga стоит перед домом Circles of Hell на Gellhorn Ave на севере Порт-Геллхорна. Не заперт; про сигнализацию данных нет."
+    },
+    {
+      "list": "other",
+      "name": "Declasse Fruit Outlet Walton",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "On the driveway beside the big Fruit sign at the Leonida Fruit Outlet, just off US-9",
+      "conditions": null,
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gta6gps.com/map/game/unique-vehicles"
+      ],
+      "verified": true,
+      "conflict": "Source lists it as unlocked with 'no alarm listed' — security left null.",
+      "desc_ru": "Declasse Fruit Outlet Walton стоит на подъездной дорожке у большой вывески Fruit возле Leonida Fruit Outlet, рядом с US-9. Не заперт; про сигнализацию данных нет."
+    },
+    {
+      "list": "other",
+      "name": "Karin Busted Cheater Rebel",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Corner of the front yard of a mobile home off Ignatius Rd, west Port Gellhorn",
+      "conditions": "Appears only after progressing the cheating husband's story",
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gta6gps.com/map/game/unique-vehicles",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "Karin Busted Cheater Rebel стоит в углу двора мобильного дома у Ignatius Rd на западе Порт-Геллхорна. Появляется только после продвижения по истории неверного мужа. Заперт, с сигнализацией."
+    },
+    {
+      "list": "other",
+      "name": "Walter Ghost Cruiser",
+      "island_or_district": "Port Gellhorn",
+      "place_detail": "Leaning against the Connie Hamilton memorial under a pole beside I-404, southern Port Gellhorn",
+      "conditions": null,
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gta6gps.com/map/game/unique-vehicles"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "Walter Ghost Cruiser прислонён к мемориалу Конни Хэмилтон под столбом у шоссе I-404 на юге Порт-Геллхорна. Не заперт."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Red Hot Hustler",
+      "island_or_district": "Capri",
+      "place_detail": "Corner of the La Costa Hotel parking lot on the Capri coast (also described as the rear car park of a beachfront hotel on Vela Rota Dr)",
+      "conditions": null,
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": "None",
+      "payout": "$6,545",
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-red-hot-hustler-standout-vehicle-location/",
+        "https://egamersworld.com/blog/gta-6-standout-vehicles-all-rare-car-types-and-whe-dha39M0YT8",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": true,
+      "conflict": "Sources agree on locked + alarmed; only one of them states the tracker (None).",
+      "desc_ru": "Vapid Red Hot Hustler (хот-род с пламенем) стоит в углу парковки отеля La Costa на побережье Капри. Заперт, с сигнализацией, трекера нет; продаётся примерно за $6 545."
+    },
+    {
+      "list": "other",
+      "name": "Invetero Enforcer Coquette",
+      "island_or_district": "Capri",
+      "place_detail": "On a circular pedestal/memorial pad in front of the entrance of the Capri Police Department, central Capri",
+      "conditions": "Needs the Key Cloner (unlocked in Chapter 3)",
+      "access": "Key Cloner",
+      "security": "Alarmed",
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://gamerhour.net/guides/gta-6-enforcer-corquette-standout-vehicle-location/",
+        "https://gta6map.io/location/standout-vehicle",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "Invetero Enforcer Coquette в полицейской ливрее стоит на круглом постаменте перед входом в полицейский участок Капри. Нужен клонер ключей (глава 3); есть сигнализация и продвинутый трекер."
+    },
+    {
+      "list": "other",
+      "name": "Declasse Ghosts Exposed Parkland",
+      "island_or_district": "Capri",
+      "place_detail": "Driveway of a Halloween-decorated house at Fortuna St and Viola St, Capri",
+      "conditions": null,
+      "access": "Unlocked",
+      "security": "None",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-declasse-ghosts-exposed-parkland-standout-vehicle-location/",
+        "https://gta6info.app/map/rare-vehicles"
+      ],
+      "verified": false,
+      "conflict": null,
+      "desc_ru": "Declasse Ghosts Exposed Parkland стоит на подъездной дорожке дома, украшенного к Хэллоуину, на пересечении Fortuna St и Viola St в Капри. Не заперт, без сигнализации и трекера."
+    },
+    {
+      "list": "other",
+      "name": "Declasse Bugstars Burrito",
+      "island_or_district": "Capri",
+      "place_detail": "Outside a tented (fumigation) house in south-east Capri",
+      "conditions": null,
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-declasse-bugstars-burrito-standout-vehicle-location/"
+      ],
+      "verified": false,
+      "conflict": null,
+      "desc_ru": "Declasse Bugstars Burrito стоит у дома, накрытого тентом для дезинсекции, на юго-востоке Капри. Заперт, с сигнализацией, трекера нет."
+    },
+    {
+      "list": "other",
+      "name": "Mer-Can Blast",
+      "island_or_district": "Capri",
+      "place_detail": "Under an awning in a corn maze in eastern Capri",
+      "conditions": null,
+      "access": "Unlocked",
+      "security": "None",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6map.io/location/standout-vehicle",
+        "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto"
+      ],
+      "verified": false,
+      "conflict": "The place wording is identical across results, so the sources may not be independent.",
+      "desc_ru": "Mer-Can Blast стоит под навесом в кукурузном лабиринте на востоке Капри. Не заперт, без сигнализации и трекера."
+    },
+    {
+      "list": "other",
+      "name": "Pfister Neon",
+      "island_or_district": "Capri",
+      "place_detail": "Often parked in the public car parks of Capri",
+      "conditions": "Cannot be driven until the Key Cloner is unlocked during Chapter 3",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639118"
+      ],
+      "verified": false,
+      "conflict": null,
+      "desc_ru": "Pfister Neon часто стоит на общественных парковках Капри. Угнать можно только с клонером ключей, который открывается в главе 3."
+    },
+    {
+      "list": "other",
+      "name": "Sirius Holdout Sungrazer",
+      "island_or_district": "Ambrosia",
+      "place_detail": "In the garage of a house south-west of Ambrosia, near the Anti Sugar residence and close to a dirt quarry",
+      "conditions": "Standard tracker must be removed; from Chapter 3 a Pay 'n' Spray reportedly also registers cars with a standard tracker",
+      "access": "Unlocked",
+      "security": "None",
+      "tracker": "Standard",
+      "payout": null,
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-sirius-holdout-sungrazer-standout-vehicle-location/",
+        "https://informant.gg/map/places/sirius-holdout-sungrazer",
+        "https://gameta.gg/gta6/vehicles/holdout-sungrazer/"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "Sirius Holdout Sungrazer стоит в гараже дома к юго-западу от Амброзии, рядом с резиденцией Anti Sugar и грунтовым карьером. Не заперт и без сигнализации, но со стандартным трекером, который нужно снять."
+    },
+    {
+      "list": "other",
+      "name": "LCC Monarch Avarus",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Hidden in a fenced yard on the eastern edge of Ambrosia, reached via a Robbery Opportunity marker (easiest way in is over the wall)",
+      "conditions": "Final Chapter bike; no tracker, so Moses in Port Gellhorn accepts it",
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-monarch-avarus-unique-standout-vehicle-location/",
+        "https://alcasthq.com/gta-6-monarch-avarus/",
+        "https://gameta.gg/gta6/guides/rare-cars/"
+      ],
+      "verified": false,
+      "conflict": "Location disputed: fenced yard on the edge of Ambrosia vs. the open shed behind The Thirsty Wolf biker hideout on SR-27, north Belville. Lock data (unlocked, alarm off, no tracker) is consistent across sources; 'Deactivated' is taken from the wording 'alarm off'.",
+      "desc_ru": "Фиолетовый чоппер LCC Monarch Avarus клуба Final Chapter спрятан в огороженном дворе на восточной окраине Амброзии — проще всего перелезть через стену. Не заперт, сигнализация отключена, трекера нет. Часть гайдов указывает другое место — сарай за байкерским баром The Thirsty Wolf на SR-27."
+    },
+    {
+      "list": "other",
+      "name": "Nagasaki Hung Carbon RS",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Hanging from a tree near the railway (one source: north-west Belville)",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$2,640",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6gps.com/map/game/unique-vehicles",
+        "https://gameta.gg/gta6/map/standout-vehicles/"
+      ],
+      "verified": false,
+      "conflict": "Lock data contradictory: one source says Key Cloner + active alarm + Advanced tracker; another says Access: Unlocked, sells for $2,640, registers for $2,600. District also differs (on map as Ambrosia; one source says north-west Belville). Fields left null until checked in game.",
+      "desc_ru": "Мотоцикл Nagasaki Hung Carbon RS висит на дереве у железной дороги. Данные о защите противоречивы: по одним гайдам нужен клонер ключей и стоит продвинутый трекер, по другим байк не заперт и продаётся за $2 640."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Gold Rope Infernus",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Under the porch roof of a small waterside house on Reservoir St, Ambrosia",
+      "conditions": "Needs the Key Cloner (Chapter 3)",
+      "access": "Key Cloner",
+      "security": "Alarmed",
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-gold-rope-infernus-unique-standout-vehicle-location/",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6map.io/location/standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "Pegassi Gold Rope Infernus стоит под навесом крыльца небольшого дома у воды на Reservoir St в Амброзии. Нужен клонер ключей; есть сигнализация и продвинутый трекер."
+    },
+    {
+      "list": "other",
+      "name": "Bravado Copperheads Gauntlet",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Inside the garage of a small riverside house on Reservoir St, north-east Ambrosia",
+      "conditions": null,
+      "access": "Locked",
+      "security": "None",
+      "tracker": "Standard",
+      "payout": null,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6map.io/location/standout-vehicle",
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "Bravado Copperheads Gauntlet стоит в гараже небольшого дома у реки на Reservoir St на северо-востоке Амброзии. Заперт, без сигнализации, со стандартным трекером."
+    },
+    {
+      "list": "other",
+      "name": "Bravado Devil's Rope Gauntlet",
+      "island_or_district": "Ambrosia",
+      "place_detail": "Inside Hog Stars Garage on Acacia St, Ambrosia",
+      "conditions": "Final Chapter illegal operation; get in through the roof skylight (ladder on the south-west side / back stairs); dogs inside",
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6map.io/location/standout-vehicle",
+        "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them",
+        "https://detonated.com/gta-6-best-car-locations/"
+      ],
+      "verified": true,
+      "conflict": null,
+      "desc_ru": "Bravado Devil's Rope Gauntlet стоит внутри гаража Hog Stars на Acacia St в Амброзии (точка байкеров Final Chapter). Попасть внутрь можно через световой люк на крыше по лестнице с юго-западной стороны; внутри собаки. Не заперт, сигнализация отключена, трекера нет."
+    },
+    {
+      "list": "other",
+      "name": "Western Obsidian Sovereign",
+      "island_or_district": "Draper Island",
+      "place_detail": "Draper Island docks: inside the SCOOP shipping container stacked on top of the blue containers",
+      "conditions": "You need a bigger truck to climb up to the container",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": true,
+      "conflict": "Already on the map as 'Western Obsidian Sovereign | Port Gellhorn' — no lock data found; this is a place refinement (gtabase tags it Port Gellhorn but describes a container on Draper Island).",
+      "desc_ru": "Western Obsidian Sovereign (уникальный Sovereign 107 в ретро-окраске) спрятан в контейнере SCOOP, стоящем поверх синих контейнеров в доках острова Дрейпер. Чтобы забраться наверх, нужен высокий грузовик."
+    },
+    {
+      "list": "other",
+      "name": "Maibatsu Blue Drake Penumbra",
+      "island_or_district": "Gellhorn Raceway",
+      "place_detail": "Inside a yellow shipping container outside the raceway building, on the north side of Gellhorn Raceway",
+      "conditions": "Car is shut inside a shipping container",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://gameta.gg/gta6/map/standout-vehicles/"
+      ],
+      "verified": false,
+      "conflict": "Already on the map as 'Maibatsu Blue Drake Penumbra | Ambrosia'. Place disputed: most listings say 'discovered at Ambrosia Raceway'; Sportskeeda and one other guide say a yellow container at Gellhorn Raceway (Sportskeeda labels the area South Kelly County). No lock/tracker data found.",
+      "desc_ru": "Трековый Maibatsu Blue Drake Penumbra, по ряду гайдов, заперт в жёлтом морском контейнере у здания трассы Gellhorn Raceway (северная сторона). Другие источники называют местом находки Ambrosia Raceway — стоит проверить в игре."
+    },
+    {
+      "list": "other",
+      "name": "Reynolds Kit Car (wreck for Wyman's collection)",
+      "island_or_district": "Wild Hog Point",
+      "place_detail": "Inside a yellow SCOOP shipping container on Wild Hog Point, directly south-west of Port Gellhorn",
+      "conditions": "Container can only be opened with the cut-off tool obtained in the Chapter 3 mission 'Meet the Heders'; Ultimate Edition content (Wyman's Car Collection)",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+      ],
+      "verified": false,
+      "conflict": "Probably the same wreck as the on-map 'Reynolds Kit Car (остов) | Port Gellhorn' — this is a place/condition refinement. Only PC Gamer's wording was visible in the search summary; GamesRadar and Sportskeeda appeared in the same result sets and likely agree, but that could not be confirmed.",
+      "desc_ru": "Остов Reynolds Kit Car для коллекции Ваймена лежит в жёлтом контейнере SCOOP на Wild Hog Point, к юго-западу от Порт-Геллхорна. Контейнер открывается только болгаркой из миссии «Meet the Heders» (глава 3); контент Ultimate Edition."
+    }
+  ]
+}

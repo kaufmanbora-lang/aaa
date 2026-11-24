@@ -1,0 +1,464 @@
+{
+  "items": [
+    {
+      "list": "other",
+      "name": "Hauners APC",
+      "island_or_district": "Goose Key / Mile Zero Air Station",
+      "place_detail": "Southern part of the base, parked in front of the row of Hauners Rhino tanks.",
+      "conditions": "Restricted military base. Guides give two ways in: the dirt-mound stunt jump over the barbed-wire fence at the south-east corner of the base, or by boat to the cargo dock. Taking armour from this part of the base is reported to give a 3-star wanted level (more if military vehicles are destroyed).",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/articles/gta-6-military-base-location",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
+        "https://beebom.com/gta-6-military-base-location/",
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/"
+      ],
+      "verified": true,
+      "conflict": "Search summary says the APC at the base is confirmed by multiple guides; the exact spot ('in front of the tanks') comes from one of them. Pages were not opened, only search summaries.",
+      "desc_ru": "Бронетранспортёр Hauners APC на военной базе Mile Zero Air Station (Goose Key): стоит в южной части базы перед рядом танков Rhino. База закрытая — заехать можно через трамплин из грунта в юго-восточном углу или подойти на лодке к грузовому причалу; ждите 3 звезды розыска."
+    },
+    {
+      "list": "other",
+      "name": "Bottcher 015A",
+      "island_or_district": "Goose Key / Mile Zero Air Station",
+      "place_detail": "On the grounds of the air station; exact spot not stated (one guide describes it as a propeller aeroplane).",
+      "conditions": "Restricted military base; entering triggers a wanted level. Entry via the south-east dirt-mound stunt jump or by boat to the cargo dock.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/articles/gta-6-military-base-location",
+        "https://beebom.com/gta-6-military-base-location/",
+        "https://www.gadgetbridge.com/how-to-enter-the-mile-zero-air-station-in-gta-6-find-this-military-base-location-to-get-jets-tanks-and-helicopters/"
+      ],
+      "verified": true,
+      "conflict": "Manufacturer was spelled 'Botticher' in the search summary; the map already uses 'Bottcher'. Exact parking spot inside the base is not given by any source seen.",
+      "desc_ru": "Винтовой самолёт Bottcher 015A на военной базе Mile Zero Air Station (Goose Key). Точное место на базе в источниках не указано; база закрытая, вход даёт розыск."
+    },
+    {
+      "list": "other",
+      "name": "Bottcher Buzzard",
+      "island_or_district": "Goose Key / Mile Zero Air Station",
+      "place_detail": "On the grounds of the air station; exact pad not stated.",
+      "conditions": "Restricted military base; entering triggers a wanted level. Entry via the south-east dirt-mound stunt jump or by boat to the cargo dock.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/articles/gta-6-military-base-location",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
+        "https://beebom.com/gta-6-military-base-location/",
+        "https://www.gamerfuzion.com/gta-6-tank-fighter-jet-location-military-base/"
+      ],
+      "verified": true,
+      "conflict": "May be the same marker as the existing 'Military Helicopter | Mariana County' on the map - this record adds the model name. Manufacturer spelled 'Botticher' in the search summary.",
+      "desc_ru": "Вертолёт Bottcher Buzzard на военной базе Mile Zero Air Station (Goose Key). Возможно, это уже отмеченный на карте «Military Helicopter» — здесь уточнена модель. База закрытая, вход даёт розыск."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Valkyrie",
+      "island_or_district": "Goose Key / Mile Zero Air Station",
+      "place_detail": "Listed as a military helicopter at the air station; exact spot not stated.",
+      "conditions": "Restricted military base; entering triggers a wanted level.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://damnmodz.com/wiki/gta-6/vehicles/police-cars/"
+      ],
+      "verified": false,
+      "conflict": "Only one site (damnmodz) lists a Valkyrie at the base; the other military-base guides do not mention it.",
+      "desc_ru": "Военный вертолёт Buckingham Valkyrie, по данным одного источника, стоит на базе Mile Zero Air Station (Goose Key). Не подтверждено другими гайдами."
+    },
+    {
+      "list": "other",
+      "name": "Hauners Cargobob",
+      "island_or_district": "Goose Key / Mile Zero Air Station",
+      "place_detail": "Aircraft parking apron beside the runway and hangars.",
+      "conditions": "Restricted military base; entering triggers a wanted level.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://damnmodz.com/wiki/gta-6/vehicles/police-cars/"
+      ],
+      "verified": false,
+      "conflict": "Only one site (damnmodz) lists a Cargobob at the base; the other military-base guides do not mention it.",
+      "desc_ru": "Транспортный вертолёт Hauners Cargobob, по данным одного источника, стоит на стоянке авиатехники у взлётной полосы и ангаров базы Mile Zero Air Station. Не подтверждено другими гайдами."
+    },
+    {
+      "list": "other",
+      "name": "Mammoth Dodo (seaplane)",
+      "island_or_district": "Southwind",
+      "place_detail": "Small hangar at the Southwind waterfront beside Sherwin Boatworks: facing the water (east) from the dock where the Maverick sits, the hangar is to the right (south). Several Dodo seaplanes are parked there.",
+      "conditions": "Unguarded, available from Chapter 1 free roam. Spawn can be empty; guides suggest the Duster airstrip off Boundary Road as the fallback.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+        "https://www.keengamer.com/articles/guides/gta-6-how-to-get-a-fighter-jet-plane-and-helicopter/",
+        "https://www.thegamer.com/gta-6-planes-helicopters-easy-locations-early-game/",
+        "https://leonidainteractive.com/wiki/vehicles/where-to-find-plane/"
+      ],
+      "verified": true,
+      "conflict": "All guides agree on Southwind; the 'Sherwin Boatworks' landmark is named by only one of them.",
+      "desc_ru": "Гидросамолёты Mammoth Dodo в Саутвинде: небольшой ангар у воды рядом с Sherwin Boatworks, к югу от причала с вертолётом Maverick. Не охраняются, можно забрать уже в первой главе."
+    },
+    {
+      "list": "other",
+      "name": "Bottcher Duster",
+      "island_or_district": "Mariana County (mainland airstrip near Grassrivers)",
+      "place_detail": "Small airstrip off Boundary Road, by the hangars, about 1.4 km from Jason's house in Key Lento.",
+      "conditions": "Unguarded early-game plane; one guide says it can be taken after the mission 'Gone Fishing'. The strip can be empty - then check Southwind.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://bo3.gg/games/articles/how-to-get-a-plane-early-in-gta-6-duster-location-and-takeoff-guide",
+        "https://beebom.com/how-to-get-plane-in-gta-6/",
+        "https://www.gametruth.com/guides/gta-6-where-to-find-a-plane/",
+        "https://www.youtube.com/watch?v=4jPT7-w7hkI",
+        "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6"
+      ],
+      "verified": true,
+      "conflict": "Direction relative to the swamp differs: Sportskeeda puts the airstrip east of the Grassrivers swamp, another guide says west of the swamps. Boundary Road and the ~1.4 km distance from Jason's house are consistent.",
+      "desc_ru": "Кукурузник Bottcher Duster на маленькой взлётной полосе у Boundary Road в округе Мариана, у ангаров, примерно в 1,4 км от дома Джейсона в Ки-Ленто. Не охраняется; по одному гайду доступен после миссии Gone Fishing."
+    },
+    {
+      "list": "other",
+      "name": "Emperor Sultan",
+      "island_or_district": "Key Lento",
+      "place_detail": "Parked near the Coastal Auto Care mod shop.",
+      "conditions": "Semi-rare; spawns only occasionally, not guaranteed on every visit.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.sportskeeda.com/gta/how-get-emperor-sultan-car-gta-6-sports-sedan-location"
+      ],
+      "verified": false,
+      "conflict": "Single source (Sportskeeda). The map has Emperor Sultan only in Crosstown and Port Gellhorn.",
+      "desc_ru": "Спортивный седан Emperor Sultan иногда появляется на парковке у тюнинг-мастерской Coastal Auto Care в Ки-Ленто. Спавн не гарантирован — возможно, придётся заехать несколько раз."
+    },
+    {
+      "list": "other",
+      "name": "Airgator Airboat (Thorpe Adventures)",
+      "island_or_district": "Pelican Valley",
+      "place_detail": "Thorpe Adventures, north-west corner of the Pelican Valley search area, north-west of Key Lento.",
+      "conditions": "Reported as available during Kirk's second Skunk Ape outing: park at the marked spot by the road, then switch to the airboat.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.magicgameworld.com/gta-6-where-to-get-an-airboat-in-grassrivers-without-cheats/"
+      ],
+      "verified": false,
+      "conflict": "Single source. May be the same boat as the existing 'Airgator Airboat 09 | Mariana County' marker; it is unclear whether it spawns outside the Skunk Ape activity.",
+      "desc_ru": "Аэролодка Airgator у Thorpe Adventures в северо-западном углу зоны поиска Pelican Valley (к северо-западу от Ки-Ленто). По гайду доступна во время второй вылазки Кирка за Скунсовой обезьяной: оставьте машину на отмеченном месте у дороги и пересядьте на лодку."
+    },
+    {
+      "list": "other",
+      "name": "Airgator Airboat (Airgator Airboats storefront)",
+      "island_or_district": "Grassrivers",
+      "place_detail": "Airgator Airboats storefront in Grassrivers; no street or coordinates given.",
+      "conditions": "Guides say an airboat can be obtained at the storefront; one says airboats are rented or bought there.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://grandtheft.gg/gta-6-grassrivers-locations/",
+        "https://droidfeats.com/gta-6-grassrivers-what-to-know-about-the-wetlands-map/",
+        "https://gta6locations.com/locations/airgator-airboats/"
+      ],
+      "verified": false,
+      "conflict": "Sources are generic location pages, some written before launch and one explicitly not checked in-game; no exact position. Treat as a lead only.",
+      "desc_ru": "Аэролодка Airgator у магазина Airgator Airboats в Грассриверс. Точное место в источниках не указано, данные не проверены в игре."
+    },
+    {
+      "list": "other",
+      "name": "Vapid '70 Riata (wreck, Wyman's Classic Car Collection)",
+      "island_or_district": "Grassrivers (Shoeless Keys)",
+      "place_detail": "Behind a garage at the ruined gas station near Grassrivers Cafe & Deli in Shoeless Keys.",
+      "conditions": "Not drivable - a wreck to scan with the WAiNK app for Wyman's Classic Car Collection (guides tie the chain to the Ultimate Edition Dominator from Paradise Garage, Watson Bay). All three Riata wrecks (Shoeless Keys, Key Lento, Southwind) are needed before Wyman restores the car.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
+        "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
+        "https://www.theclick.gg/gta-6-wyman-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "The map already has one \"'70 Riata (остов) | Mariana County\" and one \"Riata ('70) | Southwind\" - there are three wrecks, so either this one or the Key Lento one is the missing marker. Guides name the restored car differently ('70 Riata Classic vs Survivor Riata).",
+      "desc_ru": "Остов '70 Riata для коллекции Ваймана: за гаражом на разрушенной заправке рядом с Grassrivers Cafe & Deli в Shoeless Keys. Машина не на ходу — её нужно отсканировать приложением WAiNK (всего три остова: Shoeless Keys, Ки-Ленто, Саутвинд)."
+    },
+    {
+      "list": "other",
+      "name": "Vapid '70 Riata (wreck, Wyman's Classic Car Collection)",
+      "island_or_district": "Key Lento",
+      "place_detail": "Sunset Dr, a few houses south-west of the Christmas House. Another guide describes the same wreck as west of the Key Lento Mini Mart, off a side road near the coastline.",
+      "conditions": "Not drivable - a wreck to scan with the WAiNK app for Wyman's Classic Car Collection. All three Riata wrecks (Shoeless Keys, Key Lento, Southwind) are needed before Wyman restores the car.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-wymans-classic-car-locations",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
+        "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/"
+      ],
+      "verified": true,
+      "conflict": "Two different landmark descriptions (Sunset Dr near the Christmas House vs west of the Key Lento Mini Mart) - probably the same spot described two ways. May already be on the map as \"'70 Riata (остов) | Mariana County\".",
+      "desc_ru": "Остов '70 Riata для коллекции Ваймана в Ки-Ленто: на Sunset Dr, в нескольких домах к юго-западу от «рождественского дома» (другой гайд: к западу от Key Lento Mini Mart, на боковой дороге у берега). Не на ходу — сканируется приложением WAiNK."
+    },
+    {
+      "list": "other",
+      "name": "Charter boat (Kenton's) - model not stated",
+      "island_or_district": "Key Lento",
+      "place_detail": "Kenton's dock by Island Dreams Boat Charters.",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gta6locations.com/gta-6-vehicle-locations/boats-and-watercraft/",
+        "https://outputlag.com/guides/gta-6-boats-jet-skis/"
+      ],
+      "verified": false,
+      "conflict": "One boat guide mentions it; the search summary did not say which page, so both candidate pages are listed. Boat model unknown. The same guide says Jason's own boat sits at the dock behind his house - that is probably the 'Bombora S23 | Key Lento' already on the map.",
+      "desc_ru": "Чартерный катер Кентона у причала рядом с Island Dreams Boat Charters в Ки-Ленто. Модель лодки в источнике не названа, данные из одного гайда."
+    },
+    {
+      "list": "other",
+      "name": "Bravado Tropic Dawn Youga",
+      "island_or_district": "Key Lento",
+      "place_detail": "Inside a private boat-repair warehouse in north-east Key Lento - named as the New Wave Customs warehouse on Dolphin Dr, parked against a wall.",
+      "conditions": "The van itself is unlocked, but opening it sets off the alarm. Registration cost reported as $3,200.",
+      "access": "Unlocked",
+      "security": "Alarmed",
+      "tracker": null,
+      "payout": 3190,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Already on the map; this record adds lock data (Metaforge only). Exact building differs between sources: New Wave Customs warehouse on Dolphin Dr (north Key Lento) vs 'the dark blue building next to the tower south of the Ammu-Nation'; one map labels the spot Gambit Bay.",
+      "desc_ru": "Bravado Tropic Dawn Youga стоит у стены внутри частного лодочного склада New Wave Customs на Dolphin Dr в Ки-Ленто. Фургон не заперт, но при открытии срабатывает сигнализация; продажа около $3 190."
+    },
+    {
+      "list": "other",
+      "name": "Nagasaki Rudolph Tao",
+      "island_or_district": "Key Lento",
+      "place_detail": "Outside the Christmas house west of the Key Lento Fleeca Bank (south-west Key Lento).",
+      "conditions": null,
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://gta6wiki.eu/vehicles/all/",
+        "https://gta6map.io/location/standout-vehicle",
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Already on the map; this record adds lock data. The lock data (locked, alarm, no tracker) comes from one fan site whose page was not identified with certainty in the search summary - an alarm on a Tao scooter looks unusual, so check in-game.",
+      "desc_ru": "Праздничный скутер Nagasaki Rudolph Tao стоит у «рождественского дома» к западу от банка Fleeca в Ки-Ленто. По одному источнику заперт, с сигнализацией, без трекера."
+    },
+    {
+      "list": "other",
+      "name": "Imponte Ruiner Turbo",
+      "island_or_district": "Key Lento",
+      "place_detail": "At a house east of Jason's Key Lento home (another source says simply 'in a Key Lento yard').",
+      "conditions": "Daytime spawn. Comes with nitrous. Registration cost reported as about $6,000.",
+      "access": null,
+      "security": "None",
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes",
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto"
+      ],
+      "verified": true,
+      "conflict": "Already on the map; this record adds 'no alarm' and the daytime condition (GGWTB only).",
+      "desc_ru": "Imponte Ruiner Turbo с закисью азота появляется днём у дома к востоку от дома Джейсона в Ки-Ленто. Сигнализации нет; регистрация около $6 000."
+    },
+    {
+      "list": "other",
+      "name": "Invetero Spiderweb Coquette",
+      "island_or_district": "Key Lento",
+      "place_detail": "In the garage of the party house in Key Lento (described as found in the aftermath of a house party).",
+      "conditions": "The garage is locked - a code is needed to open the garage door.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://gameta.gg/gta6/guides/rare-cars/",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Already on the map; this record adds the garage-code requirement (one source). Where the code is obtained was not stated in the search summaries; lock state of the car itself unknown.",
+      "desc_ru": "Invetero Spiderweb Coquette стоит в гараже дома, где прошла вечеринка, в Ки-Ленто. Гараж заперт — для ворот нужен код."
+    },
+    {
+      "list": "other",
+      "name": "Canis Black Moth Kamacho",
+      "island_or_district": "Watson Bay",
+      "place_detail": "West side of the La Polilla Negra mansion north of Watson Bay.",
+      "conditions": "Guarded by La Polilla Negra mercenaries. Registration cost reported as $6,700 (Metaforge).",
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": "None",
+      "payout": 16315,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://game8.co/games/GTA-6/archives/638760",
+        "https://www.dexerto.com/wikis/gta-6/vehicles/standout/all-terrain/black-moth-kamacho/",
+        "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them",
+        "https://gta6info.app/map/rare-vehicles"
+      ],
+      "verified": true,
+      "conflict": "Already on the map as 'Camus Black Moth Kamacho' (sources mostly write Canis). Tracker is disputed: one listing and one reading of Metaforge say no tracker, another source says Metaforge lists a tracker so Moses will not take it. The $16,315 sell value comes from one listing and is far above the $6,700 registration figure - treat as unconfirmed.",
+      "desc_ru": "Canis Black Moth Kamacho стоит с западной стороны особняка La Polilla Negra к северу от Уотсон-Бэй, его охраняют наёмники. По одному источнику не заперт, сигнализация отключена, трекера нет (по другому — трекер есть)."
+    },
+    {
+      "list": "other",
+      "name": "Western Magma Cliffhanger",
+      "island_or_district": "Watson Bay",
+      "place_detail": "North of Watson Bay (exact address not given in the search summaries).",
+      "conditions": "Registration cost reported as $9,400.",
+      "access": "Locked",
+      "security": "None",
+      "tracker": "None",
+      "payout": 2805,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/",
+        "https://gta6map.io/location/standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Already on the map; this record adds lock data. Two listings agree it is Locked; no alarm / no tracker comes from one of them.",
+      "desc_ru": "Мотоцикл Western Magma Cliffhanger стоит к северу от Уотсон-Бэй. Заперт, без сигнализации и трекера; продажа около $2 805, регистрация $9 400."
+    },
+    {
+      "list": "other",
+      "name": "Declasse Mountain Yosemite",
+      "island_or_district": "Watson Bay",
+      "place_detail": "Open garage beside a house at the north-east end of Watson Bay; another source says under a covered driveway outside a small shack on Pelican River, on the east side of Watson Bay.",
+      "conditions": "Registration cost reported as $6,250.",
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": "Standard",
+      "payout": 2200,
+      "sources": [
+        "https://gta6info.app/map/rare-vehicles",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://www.gtasixmap.com/guides/vehicle-spawns",
+        "https://gta6map.io/location/standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": "Already on the map (as Mariana County); this record adds lock data from one listing. Location is described two ways (open garage at the NE end vs covered driveway by a shack on Pelican River), and one map lists a Mountain Yosemite in Hamlet.",
+      "desc_ru": "Declasse Mountain Yosemite стоит на восточной стороне Уотсон-Бэй: по одним данным в открытом гараже у дома на северо-восточном краю, по другим — под навесом у хижины на Пеликан-Ривер. Заперт, с сигнализацией и обычным трекером; продажа около $2 200."
+    },
+    {
+      "list": "other",
+      "name": "Sirius '61 Sungrazer",
+      "island_or_district": "Watson Bay",
+      "place_detail": "Inside a garage below a house on the north side of Watson Bay, near the water.",
+      "conditions": "Registration cost reported as $15,500.",
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": "Standard",
+      "payout": 4620,
+      "sources": [
+        "https://gta6info.app/map/rare-vehicles",
+        "https://vicesix.eu/en/gta-6-rare-cars/",
+        "https://gta6map.io/location/standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": "Already on the map; this record adds lock data and a place description, both from one listing whose page was not identified with certainty in the search summary.",
+      "desc_ru": "Sirius '61 Sungrazer стоит в гараже под домом на северной стороне Уотсон-Бэй, у воды. Заперт, с сигнализацией и обычным трекером; продажа около $4 620, регистрация $15 500."
+    },
+    {
+      "list": "other",
+      "name": "Airgator Naughty Boy Airboat",
+      "island_or_district": "Buckskin Swamp",
+      "place_detail": "At the end of a dock by a small campsite in central Buckskin Swamp.",
+      "conditions": "Customised Airgator 09 belonging to a woman who tries to train alligators.",
+      "access": "Locked",
+      "security": "None",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://gta6info.app/map/rare-vehicles",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": false,
+      "conflict": "Already on the map; this record adds lock data from one listing (page not identified with certainty in the search summary).",
+      "desc_ru": "Аэролодка Airgator Naughty Boy стоит в конце причала у небольшого лагеря в центре болота Бакскин. Заперта, без сигнализации и трекера."
+    },
+    {
+      "list": "other",
+      "name": "Maibatsu Royal Sanchez",
+      "island_or_district": "North Mariana County",
+      "place_detail": "Inside an orange shipping container in the container storage yard north of Grassrivers.",
+      "conditions": "The container is locked: it has to be cut open with the crate opener / Cut-Off Tool, which guides say is obtained in Chapter 3 (mission 'Meet the Heders'). Registration cost reported as $4,000.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find",
+        "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/",
+        "https://thebestmods.com/gta-6/hidden-cars/"
+      ],
+      "verified": true,
+      "conflict": "Already on the map as 'Royal Sanchez'; this record adds the container requirement. Guides agree on the orange container in North Mariana County but not on the exact yard position. One guide says many container vehicles carry no tracker - not stated for this bike specifically.",
+      "desc_ru": "Мотоцикл Royal Sanchez спрятан в оранжевом морском контейнере на контейнерной площадке к северу от Грассриверс (Северная Мариана). Контейнер заперт — нужен резак (Cut-Off Tool) из третьей главы; регистрация $4 000."
+    },
+    {
+      "list": "other",
+      "name": "Declasse Caliente Picador",
+      "island_or_district": "North Mariana County",
+      "place_detail": "Inside a yellow SCOOP shipping container in the construction/rail yard at the southern corner of Breakwater Quarry, just north-east of the Grassrivers map label; the container is boxed in by other containers.",
+      "conditions": "First push the grey and brown containers aside with the yellow HVY bulldozer parked in the yard, then cut the container open with the crate opener / Cut-Off Tool (Chapter 3). Registration cost reported as $3,000.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/",
+        "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes",
+        "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto"
+      ],
+      "verified": true,
+      "conflict": "Already on the map; this record adds the bulldozer and container-tool requirement. The yard is called a construction yard at Breakwater Quarry by some guides and an abandoned rail yard by another - same place by the landmarks.",
+      "desc_ru": "Declasse Caliente Picador стоит в жёлтом контейнере SCOOP на площадке в южном углу карьера Breakwater Quarry (Северная Мариана). Сначала растолкайте соседние контейнеры жёлтым бульдозером HVY, затем вскройте контейнер резаком из третьей главы; регистрация $3 000."
+    }
+  ]
+}

@@ -130,6 +130,22 @@
     "https://neoncoast.org/randys-wish-list"
    ],
    [
+    "thebestmods.com",
+    "https://thebestmods.com/gta-6/best-free-cars/"
+   ],
+   [
+    "gta6heists.com",
+    "https://www.gta6heists.com/money/free-cars"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
     "pushsquare.com",
     "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
    ],
@@ -183,18 +199,26 @@
     "https://gmtreks.com/gta6/page/01M7SGBV0JDTQWNACGXYKKXC1K"
    ],
    [
+    "playstationtrophies.org",
+    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ],
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+   ],
+   [
     "gta6.house",
     "https://gta6.house/library/activities/randys-wish-list"
    ],
    [
-    "playstationtrophies.org",
-    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+    "gta6route.com",
+    "https://gta6route.com/en/rare-cars/"
    ]
   ],
   "f": [
    [
     "Привязка на карте",
-    "The Banana Hole Main Bar"
+    "рядом с The Banana Hole Main Bar"
    ],
    [
     "Расхождение в гайдах",
@@ -206,7 +230,8 @@
   ],
   "v": 3,
   "fld": {},
-  "force_new": 1
+  "force_new": 1,
+  "ap": 1
  },
  {
   "merge_any": "xv10",
@@ -994,6 +1019,10 @@
    [
     "magicgameworld.com",
     "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/"
+   ],
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-wyman-car-locations/"
    ]
   ],
   "f": [
@@ -1129,6 +1158,10 @@
    [
     "pro-gamer.gg",
     "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
    ]
   ],
   "f": [
@@ -1563,6 +1596,14 @@
    [
     "games.gg",
     "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/"
+   ],
+   [
+    "ggwtb.com",
+    "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes"
+   ],
+   [
+    "thebestmods.com",
+    "https://thebestmods.com/gta-6/hidden-cars/"
    ]
   ],
   "f": [
@@ -1599,6 +1640,14 @@
    [
     "gtabase.com",
     "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/map/standout-vehicles/"
    ]
   ],
   "f": [
@@ -1756,24 +1805,6 @@
   "f": []
  },
  {
-  "merge_any": "o-standout-vehicle-112",
-  "n": "Pfister Growler (pink)",
-  "c": "veh_standout",
-  "u": [
-   [
-    "thebestmods.com",
-    "https://thebestmods.com/gta-6/best-free-cars/"
-   ],
-   [
-    "gta6heists.com",
-    "https://www.gta6heists.com/money/free-cars"
-   ]
-  ],
-  "v": 2,
-  "fld": {},
-  "f": []
- },
- {
   "merge_any": "i1091191",
   "n": "Pegassi Toros (Charred)",
   "c": "veh_standout",
@@ -1813,6 +1844,1255 @@
   "f": []
  },
  {
+  "id": "xcr10-23",
+  "n": "Buckingham Windsor Drop",
+  "c": "veh_standout",
+  "r": 3,
+  "sub": "Редкая машина (по гайдам)",
+  "x": -543,
+  "y": 1454,
+  "t": "Buckingham Windsor Drop из списка желаний Рэнди. Стоит в автосалоне Status Auto Imports на западе Бэйсайда: зайдите внутрь, сразу направо и в дальний конец шоурума. Появляется не всегда — если машины нет, вернитесь позже.",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+   ],
+   [
+    "powerupgaming.co.uk",
+    "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "автосалон Status Auto Imports, Bayside"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "fld": {},
+  "force_new": 1
+ },
+ {
+  "id": "xcr11-24",
+  "n": "Grotti Itali RSX",
+  "c": "veh_standout",
+  "r": 3,
+  "sub": "Редкая машина (по гайдам)",
+  "x": -540,
+  "y": 1478,
+  "t": "Grotti Itali RSX из списка желаний Рэнди. Часто стоит в шоуруме Status Auto Imports на западе Бэйсайда. Спавн не гарантирован — если машины нет, зайдите позже.",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+   ],
+   [
+    "powerupgaming.co.uk",
+    "https://powerupgaming.co.uk/2026/11/24/gta-6-every-car-on-randys-wish-list-and-how-to-steal-them/"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   [
+    "gtaboom.com",
+    "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "автосалон Status Auto Imports, Bayside"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "fld": {},
+  "force_new": 1
+ },
+ {
+  "merge_any": "i1091125",
+  "n": "Vapid Rumpo (Standout; variant name not given in the sources seen)",
+  "c": "veh_standout",
+  "u": [
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  ],
+  "v": 3,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "i1091164",
+  "n": "Pegassi '96 Infernus",
+  "c": "veh_randy",
+  "u": [
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   [
+    "leonidaplayers.com",
+    "https://leonidaplayers.com/guides/gta-6-how-to-steal-the-pegassi-infernus-from-crosstown-police-station"
+   ],
+   [
+    "atlassecrets.app",
+    "https://atlassecrets.app/gta6/secrets/pegassi-infernus-on-the-7th-level-of-crosstown-parking-lot/"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Key Cloner",
+   "Tracker": "Advanced"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091192",
+  "n": "Buckingham Bourbon Windsor",
+  "c": "veh_standout",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639340"
+   ],
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-buckingham-bourbon-windsor-location/"
+   ],
+   [
+    "gta-xtreme.com",
+    "https://www.gta-xtreme.com/gta-6/locations/hidden-cars"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091178",
+  "n": "Imponte Bloodbath Phoenix",
+  "c": "veh_standout",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/map/standout-vehicles/"
+   ],
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Locked",
+   "Security": "Alarmed"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091162",
+  "n": "Granforma Tsunami Zorrusso",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/vehicles/tsunami-zorrusso"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Key Cloner"
+  },
+  "f": []
+ },
+ {
+  "id": "xcr40-25",
+  "n": "Hauners APC",
+  "c": "veh_standout",
+  "r": 3,
+  "sub": "Редкая машина (по гайдам)",
+  "x": -6968,
+  "y": -6407,
+  "t": "Бронетранспортёр Hauners APC на военной базе Mile Zero Air Station (Goose Key): стоит в южной части базы перед рядом танков Rhino. База закрытая — заехать можно через трамплин из грунта в юго-восточном углу или подойти на лодке к грузовому причалу; ждите 3 звезды розыска.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/articles/gta-6-military-base-location"
+   ],
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-military-base-location/"
+   ],
+   [
+    "leonipedia.com",
+    "https://leonipedia.com/guides/aircraft-and-military-vehicles/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Mile Zero Air Station"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "fld": {},
+  "force_new": 1
+ },
+ {
+  "id": "xcr41-26",
+  "n": "Bottcher 015A",
+  "c": "veh_standout",
+  "r": 3,
+  "sub": "Редкая машина (по гайдам)",
+  "x": -6944,
+  "y": -6408,
+  "t": "Винтовой самолёт Bottcher 015A на военной базе Mile Zero Air Station (Goose Key). Точное место на базе в источниках не указано; база закрытая, вход даёт розыск.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/articles/gta-6-military-base-location"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-military-base-location/"
+   ],
+   [
+    "gadgetbridge.com",
+    "https://www.gadgetbridge.com/how-to-enter-the-mile-zero-air-station-in-gta-6-find-this-military-base-location-to-get-jets-tanks-and-helicopters/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Mile Zero Air Station"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "fld": {},
+  "force_new": 1
+ },
+ {
+  "id": "xcr42-27",
+  "n": "Bottcher Buzzard",
+  "c": "veh_standout",
+  "r": 3,
+  "sub": "Редкая машина (по гайдам)",
+  "x": -6961,
+  "y": -6391,
+  "t": "Вертолёт Bottcher Buzzard на военной базе Mile Zero Air Station (Goose Key). Возможно, это уже отмеченный на карте «Military Helicopter» — здесь уточнена модель. База закрытая, вход даёт розыск.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/articles/gta-6-military-base-location"
+   ],
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-military-base-location/"
+   ],
+   [
+    "gamerfuzion.com",
+    "https://www.gamerfuzion.com/gta-6-tank-fighter-jet-location-military-base/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Mile Zero Air Station"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "fld": {},
+  "force_new": 1
+ },
+ {
+  "id": "xcr45-28",
+  "n": "Mammoth Dodo",
+  "c": "veh_standout",
+  "r": 3,
+  "sub": "Редкая машина (по гайдам)",
+  "x": -6255,
+  "y": -6608,
+  "t": "Гидросамолёты Mammoth Dodo в Саутвинде: небольшой ангар у воды рядом с Sherwin Boatworks, к югу от причала с вертолётом Maverick. Не охраняются, можно забрать уже в первой главе.",
+  "u": [
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-how-to-get-a-fighter-jet-plane-and-helicopter/"
+   ],
+   [
+    "thegamer.com",
+    "https://www.thegamer.com/gta-6-planes-helicopters-easy-locations-early-game/"
+   ],
+   [
+    "leonidainteractive.com",
+    "https://leonidainteractive.com/wiki/vehicles/where-to-find-plane/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "у Sherwin Boatworks, Southwind"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "fld": {},
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xcr46-29",
+  "n": "Bottcher Duster",
+  "c": "veh_standout",
+  "r": 3,
+  "sub": "Редкая машина (по гайдам)",
+  "x": -3288,
+  "y": -4694,
+  "t": "Кукурузник Bottcher Duster на маленькой взлётной полосе у Boundary Road в округе Мариана, у ангаров, примерно в 1,4 км от дома Джейсона в Ки-Ленто. Не охраняется; по одному гайду доступен после миссии Gone Fishing.",
+  "u": [
+   [
+    "bo3.gg",
+    "https://bo3.gg/games/articles/how-to-get-a-plane-early-in-gta-6-duster-location-and-takeoff-guide"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/how-to-get-plane-in-gta-6/"
+   ],
+   [
+    "gametruth.com",
+    "https://www.gametruth.com/guides/gta-6-where-to-find-a-plane/"
+   ],
+   [
+    "youtube.com",
+    "https://www.youtube.com/watch?v=4jPT7-w7hkI"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "взлётная полоса у Boundary Road, Mariana County"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "fld": {},
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "merge_any": "o-vehicle-spawn-041",
+  "n": "Airgator Airboat (Thorpe Adventures)",
+  "c": "veh_standout",
+  "u": [
+   [
+    "magicgameworld.com",
+    "https://www.magicgameworld.com/gta-6-where-to-get-an-airboat-in-grassrivers-without-cheats/"
+   ]
+  ],
+  "v": 2,
+  "fld": {},
+  "f": []
+ },
+ {
+  "id": "xcr411-30",
+  "n": "Vapid '70 Riata (остов)",
+  "c": "veh_standout",
+  "r": 3,
+  "sub": "Редкая машина (по гайдам)",
+  "x": -2791,
+  "y": -6142,
+  "t": "Остов '70 Riata для коллекции Ваймана в Ки-Ленто: на Sunset Dr, в нескольких домах к юго-западу от «рождественского дома» (другой гайд: к западу от Key Lento Mini Mart, на боковой дороге у берега). Не на ходу — сканируется приложением WAiNK.",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-wymans-classic-car-locations"
+   ],
+   [
+    "gamesradar.com",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/"
+   ],
+   [
+    "magicgameworld.com",
+    "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/"
+   ],
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "рядом с Christmas House"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "fld": {},
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "merge_any": "i1091159",
+  "n": "Bravado Tropic Dawn Youga",
+  "c": "veh_standout",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "Alarmed"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091129",
+  "n": "Nagasaki Rudolph Tao",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6wiki.eu",
+    "https://gta6wiki.eu/vehicles/all/"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Locked",
+   "Security": "Alarmed",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "o-standout-vehicle-098",
+  "n": "Imponte Ruiner Turbo",
+  "c": "veh_standout",
+  "u": [
+   [
+    "ggwtb.com",
+    "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-best-car-locations/"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Security": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "o-standout-vehicle-107",
+  "n": "Invetero Spiderweb Coquette",
+  "c": "veh_standout",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-best-car-locations/"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/guides/rare-cars/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ]
+  ],
+  "v": 3,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "i1091176",
+  "n": "Canis Black Moth Kamacho",
+  "c": "veh_standout",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638760"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/vehicles/standout/all-terrain/black-moth-kamacho/"
+   ],
+   [
+    "leonidahub.org",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "Deactivated",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091137",
+  "n": "Western Magma Cliffhanger",
+  "c": "veh_standout",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Locked",
+   "Security": "None",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091157",
+  "n": "Declasse Mountain Yosemite",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6info.app",
+    "https://gta6info.app/map/rare-vehicles"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "gtasixmap.com",
+    "https://www.gtasixmap.com/guides/vehicle-spawns"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ]
+  ],
+  "v": 2,
+  "fld": {
+   "Access": "Locked",
+   "Security": "Alarmed",
+   "Tracker": "Standard"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091154",
+  "n": "Sirius '61 Sungrazer",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6info.app",
+    "https://gta6info.app/map/rare-vehicles"
+   ],
+   [
+    "vicesix.eu",
+    "https://vicesix.eu/en/gta-6-rare-cars/"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ]
+  ],
+  "v": 2,
+  "fld": {
+   "Access": "Locked",
+   "Security": "Alarmed",
+   "Tracker": "Standard"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091101",
+  "n": "Airgator Naughty Boy Airboat",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
+    "gta6info.app",
+    "https://gta6info.app/map/rare-vehicles"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  ],
+  "v": 2,
+  "fld": {
+   "Access": "Locked",
+   "Security": "None",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091147",
+  "n": "Declasse Caliente Picador",
+  "c": "veh_standout",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/"
+   ],
+   [
+    "ggwtb.com",
+    "https://ggwtb.com/blog/gta-6-rare-cars-guide-free-locations--registration-costs-pro-routes"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto"
+   ]
+  ],
+  "v": 3,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "o-standout-vehicle-126",
+  "n": "BF '77 Bandito — Beer Buggy Bandito",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/vehicles/beer-buggy-bandito"
+   ]
+  ],
+  "v": 2,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "o-standout-vehicle-136",
+  "n": "Maibatsu Manchez — Pacific Manchez",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
+    "mapmaster.io",
+    "https://mapmaster.io/games/grand-theft-auto-6/guides/Standout%20Vehicle"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/map/standout-vehicles/"
+   ]
+  ],
+  "v": 2,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "i1091197",
+  "n": "Vapid Firebug Dominator",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "gta6gps.com",
+    "https://gta6gps.com/map/game/unique-vehicles"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-best-car-locations/"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Locked",
+   "Security": "Alarmed",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091198",
+  "n": "Vapid Smuggler Caracara",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "gta6gps.com",
+    "https://gta6gps.com/map/game/unique-vehicles"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "Deactivated"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091196",
+  "n": "Vapid Truth & Justice Caracara",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "gta6gps.com",
+    "https://gta6gps.com/map/game/unique-vehicles"
+   ],
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/guides/gta-6-june-warehouse-all-key-valuables-port-gellhorn/"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "Deactivated"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091160",
+  "n": "Bravado Circles of Hell Youga",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "gta6gps.com",
+    "https://gta6gps.com/map/game/unique-vehicles"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091133",
+  "n": "Declasse Fruit Outlet Walton",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "gta6gps.com",
+    "https://gta6gps.com/map/game/unique-vehicles"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091149",
+  "n": "Karin Busted Cheater Rebel",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "gta6gps.com",
+    "https://gta6gps.com/map/game/unique-vehicles"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Locked",
+   "Security": "Alarmed"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091114",
+  "n": "Walter Ghost Cruiser",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "gta6gps.com",
+    "https://gta6gps.com/map/game/unique-vehicles"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091143",
+  "n": "Vapid Red Hot Hustler",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-red-hot-hustler-standout-vehicle-location/"
+   ],
+   [
+    "egamersworld.com",
+    "https://egamersworld.com/blog/gta-6-standout-vehicles-all-rare-car-types-and-whe-dha39M0YT8"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Locked",
+   "Security": "Alarmed",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091113",
+  "n": "Invetero Enforcer Coquette",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/guides/gta-6-enforcer-corquette-standout-vehicle-location/"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Key Cloner",
+   "Security": "Alarmed",
+   "Tracker": "Advanced"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091099",
+  "n": "Declasse Ghosts Exposed Parkland",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-declasse-ghosts-exposed-parkland-standout-vehicle-location/"
+   ],
+   [
+    "gta6info.app",
+    "https://gta6info.app/map/rare-vehicles"
+   ]
+  ],
+  "v": 2,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "None",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091111",
+  "n": "Declasse Bugstars Burrito",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-declasse-bugstars-burrito-standout-vehicle-location/"
+   ]
+  ],
+  "v": 2,
+  "fld": {
+   "Access": "Locked",
+   "Security": "Alarmed",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091108",
+  "n": "Mer-Can Blast",
+  "c": "veh_standout",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto"
+   ]
+  ],
+  "v": 2,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "None",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "o-vehicle-spawn-010",
+  "n": "Pfister Neon",
+  "c": "veh_standout",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639118"
+   ]
+  ],
+  "v": 2,
+  "fld": {
+   "Access": "Key Cloner"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091153",
+  "n": "Sirius Holdout Sungrazer",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-sirius-holdout-sungrazer-standout-vehicle-location/"
+   ],
+   [
+    "informant.gg",
+    "https://informant.gg/map/places/sirius-holdout-sungrazer"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/vehicles/holdout-sungrazer/"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "None",
+   "Tracker": "Standard"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091194",
+  "n": "LCC Monarch Avarus",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-monarch-avarus-unique-standout-vehicle-location/"
+   ],
+   [
+    "alcasthq.com",
+    "https://alcasthq.com/gta-6-monarch-avarus/"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/guides/rare-cars/"
+   ]
+  ],
+  "v": 2,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "Deactivated",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091144",
+  "n": "Pegassi Gold Rope Infernus",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-gold-rope-infernus-unique-standout-vehicle-location/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Key Cloner",
+   "Security": "Alarmed",
+   "Tracker": "Advanced"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091142",
+  "n": "Bravado Copperheads Gauntlet",
+  "c": "veh_standout",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Locked",
+   "Security": "None",
+   "Tracker": "Standard"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "i1091193",
+  "n": "Bravado Devil's Rope Gauntlet",
+  "c": "veh_standout",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "gta6map.io",
+    "https://gta6map.io/location/standout-vehicle"
+   ],
+   [
+    "leonidahub.org",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-best-car-locations/"
+   ]
+  ],
+  "v": 3,
+  "fld": {
+   "Access": "Unlocked",
+   "Security": "Deactivated",
+   "Tracker": "None"
+  },
+  "f": []
+ },
+ {
+  "merge_any": "o-standout-vehicle-293",
+  "n": "Western Obsidian Sovereign",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  ],
+  "v": 3,
+  "fld": {},
+  "f": []
+ },
+ {
   "merge_any": "o-standout-vehicle-248",
   "n": "Pegassi Vitello (dark, green/white/red stripe; gtabase lists the custom 'Dante's Vitello' at Dante Fresh's mansion on Starfish Island)",
   "c": "veh_standout",
@@ -1839,58 +3119,13 @@
   "f": []
  },
  {
-  "id": "xcs0-23",
-  "n": "Grotti Itali RSX",
-  "c": "veh_standout",
-  "r": 4,
-  "sub": "Редкая машина (по гайдам)",
-  "x": 797,
-  "y": 451,
-  "t": "Особняк на северо-восточной оконечности Starfish Island: в гараже у подъездной дорожки стоят Pegassi Vitello, Grotti Itali RSX и Benefactor Dubsta. Нужен Key Cloner (с 3-й главы), территория охраняется; по сообщениям игроков, набор машин может меняться.",
-  "u": [
-   [
-    "gtaboom.com",
-    "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3"
-   ],
-   [
-    "gtabase.com",
-    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
-   ],
-   [
-    "detonated.com",
-    "https://detonated.com/gta-6-best-car-locations/"
-   ],
-   [
-    "gta6heists.com",
-    "https://www.gta6heists.com/money/free-cars"
-   ]
-  ],
-  "f": [
-   [
-    "Привязка на карте",
-    "район Starfish Island"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
-  "v": 3,
-  "fld": {},
-  "force_new": 1,
-  "ap": 1
- },
- {
-  "id": "xcs0-24",
+  "id": "xcs0-31",
   "n": "Benefactor Dubsta",
   "c": "veh_standout",
   "r": 4,
   "sub": "Редкая машина (по гайдам)",
-  "x": 800,
-  "y": 475,
+  "x": 801,
+  "y": 453,
   "t": "Особняк на северо-восточной оконечности Starfish Island: в гараже у подъездной дорожки стоят Pegassi Vitello, Grotti Itali RSX и Benefactor Dubsta. Нужен Key Cloner (с 3-й главы), территория охраняется; по сообщениям игроков, набор машин может меняться.",
   "u": [
    [
@@ -1908,6 +3143,14 @@
    [
     "gta6heists.com",
     "https://www.gta6heists.com/money/free-cars"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "battlepass.ru",
+    "https://battlepass.ru/gta6/transport/superkary"
    ]
   ],
   "f": [
@@ -2029,42 +3272,6 @@
    ]
   ],
   "v": 3,
-  "fld": {},
-  "f": []
- },
- {
-  "merge_any": "o-standout-vehicle-128",
-  "n": "Benefactor Gilded Dubsta (gold finish)",
-  "c": "veh_standout",
-  "u": [
-   [
-    "gtabase.com",
-    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
-   ],
-   [
-    "metaforge.app",
-    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
-   ],
-   [
-    "battlepass.ru",
-    "https://battlepass.ru/gta6/transport/superkary"
-   ]
-  ],
-  "v": 2,
-  "fld": {},
-  "f": []
- },
- {
-  "merge_any": "o-standout-vehicle-250",
-  "n": "Benefactor Fatstaks Dubsta",
-  "c": "veh_standout",
-  "u": [
-   [
-    "gtabase.com",
-    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
-   ]
-  ],
-  "v": 2,
   "fld": {},
   "f": []
  },
@@ -2411,13 +3618,13 @@
   "f": []
  },
  {
-  "id": "xcs22-27",
+  "id": "xcs22-34",
   "n": "Pegassi Tempesta",
   "c": "veh_standout",
   "r": 4,
   "sub": "Редкая машина (по гайдам)",
-  "x": -1,
-  "y": -924,
+  "x": 17,
+  "y": -937,
   "t": "У входа в Pegassi Residences (East Tower, Bayside Dr) в Tequesta Retreat под навесом стоит фиолетовый Pegassi Toros с фирменной надписью - одна из самых лёгких машин списка Рэнди. Рядом сообщают и о брендированном Pegassi Tempesta.",
   "u": [
    [
@@ -2435,6 +3642,30 @@
    [
     "xboxachievements.com",
     "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639137"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/how-get-golden-lamborghini-urus-huracan-gta-6"
+   ],
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+   ],
+   [
+    "gta-xtreme.com",
+    "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location"
+   ],
+   [
+    "khelnow.com",
+    "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar"
    ]
   ],
   "f": [
@@ -2530,13 +3761,13 @@
   "f": []
  },
  {
-  "id": "xcs25-29",
+  "id": "xcs25-36",
   "n": "Invetero Coquette D10",
   "c": "veh_standout",
   "r": 4,
   "sub": "Редкая машина (по гайдам)",
-  "x": 1743,
-  "y": 746,
+  "x": 1731,
+  "y": 727,
   "t": "В многоэтажном паркинге на Fig Street в Ocean Beach около 17:00 появляется Pfister Growler; там же замечали Coquette D10. Нужен Key Cloner.",
   "u": [
    [
@@ -2624,24 +3855,6 @@
   "ap": 1
  },
  {
-  "merge_any": "o-standout-vehicle-240",
-  "n": "Pegassi Gold Rush Tempesta",
-  "c": "veh_standout",
-  "u": [
-   [
-    "game8.co",
-    "https://game8.co/games/GTA-6/archives/639137"
-   ],
-   [
-    "sportskeeda.com",
-    "https://www.sportskeeda.com/gta/how-get-golden-lamborghini-urus-huracan-gta-6"
-   ]
-  ],
-  "v": 2,
-  "fld": {},
-  "f": []
- },
- {
   "merge_any": "o-standout-vehicle-215",
   "n": "Piccia Dragon Gate Furia",
   "c": "veh_standout",
@@ -2662,46 +3875,6 @@
   "v": 3,
   "fld": {},
   "f": []
- },
- {
-  "id": "xcs33-31",
-  "n": "Pegassi Tempesta",
-  "c": "veh_standout",
-  "r": 4,
-  "sub": "Редкая машина (по гайдам)",
-  "x": 1977,
-  "y": 1071,
-  "t": "Pegassi Tempesta стабильно стоит перед входом в Eden Grove Marina Hotels на Vice Beach. Нужен Key Cloner; машина из списка Рэнди.",
-  "u": [
-   [
-    "game8.co",
-    "https://game8.co/games/GTA-6/archives/639137"
-   ],
-   [
-    "gameshorizon.com",
-    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
-   ],
-   [
-    "gta-xtreme.com",
-    "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location"
-   ]
-  ],
-  "f": [
-   [
-    "Привязка на карте",
-    "Eden Grove"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
-  "v": 3,
-  "fld": {},
-  "force_new": 1
  },
  {
   "id": "xl34",
@@ -2771,32 +3944,6 @@
    [
     "pushsquare.com",
     "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
-   ]
-  ],
-  "v": 3,
-  "fld": {},
-  "f": []
- },
- {
-  "merge_any": "o-vehicle-spawn-007",
-  "n": "Pegassi Tempesta",
-  "c": "veh_standout",
-  "u": [
-   [
-    "khelnow.com",
-    "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611"
-   ],
-   [
-    "gta-xtreme.com",
-    "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location"
-   ],
-   [
-    "sportskeeda.com",
-    "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar"
-   ],
-   [
-    "insider-gaming.com",
-    "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
    ]
   ],
   "v": 3,

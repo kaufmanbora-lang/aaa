@@ -41,7 +41,7 @@ LABELSET = {norm(l['n']) for l in LABELS}
 GENERIC = {'parking lot', 'radio tower', 'main gate', 'car park', 'ammu nation', 'vice city', 'ocean beach', 'key lento',
            'port gellhorn', 'gas station', 'police station', 'fire station', 'the y', 'xero gas station', 'xero gas',
            'scoop shipping container', 'scoop container', 'construction site', 'peninsula', 'leonida keys', 'saint attaway islands',
-           'illegal goods store', 'grassrivers cafe deli'}
+           'illegal goods store', 'grassrivers cafe deli', 'warehouse', 'containers', 'hangar', 'airstrip', 'garage', 'marina'}
 gaz = {}
 for m in MK:
     if m['c'] in ('atm', 'atmtow', 'charger', 'bus', 'hoop', 'fishing', 'mission', 'drone', 'event', 'loot', 'card', 'streetart') \
@@ -163,6 +163,9 @@ def identity(research, marker):
         return 0
     if set(rb) == set(tokens(marker, False)) or set(rb) == set(mt):
         return 2
+    mb = tokens(marker, False)
+    if len(rb) >= 3 and len(mb) >= 3 and rb[1:] == mb[1:]:
+        return 2          # same variant and model, make spelled differently
     return 1 if set(mt) <= rf and mt[-1] in rf else 0
 
 
@@ -176,14 +179,16 @@ def existing(name, p):
         return next((m for m in VEH if m['id'] == p['merge']), None)
     nomerge = p.get('nomerge')
     for (cn, cx, cy, ce) in created:
-        if identity(name, cn) == 2 and math.hypot(cx - p['x'], cy - p['y']) <= 400:
+        idn = max(identity(name, cn), identity(cn, name))
+        dist = math.hypot(cx - p['x'], cy - p['y'])
+        if (idn == 2 and dist <= 600) or (idn >= 1 and dist <= 250) or (idn >= 1 and len(tokens(cn, False)) >= 2 and 'wreck' not in cn and dist <= 3000):
             return ce
     if nomerge:
         return None
     c = [(identity(name, m['n']), math.hypot(m['x'] - p['x'], m['y'] - p['y']), m) for m in VEH]
     c = [q for q in c if q[0]]
     exact = [q for q in c if q[0] == 2]
-    if len(exact) == 1 and exact[0][1] <= 4500:
+    if len(exact) == 1 and (exact[0][1] <= 4500 or len(tokens(name, False)) >= 3):
         prev = used.get(exact[0][2]['id'])
         if not prev or math.hypot(prev[0] - p['x'], prev[1] - p['y']) <= 300:
             used[exact[0][2]['id']] = (p['x'], p['y'])
@@ -201,12 +206,28 @@ def existing(name, p):
     return best
 
 
+ALIAS = [('status auto', lambda: A('Status Auto Resort', where='автосалон Status Auto Imports, Bayside')),
+         ('sherwin boatworks', lambda: A('Southwind Helipad', ap=1, where='у Sherwin Boatworks, Southwind')),
+         ('fig street', lambda: at(1731, 740, 'многоэтажная парковка на Fig Street, Ocean Beach', 1)),
+         ('dalton island club', lambda: at(1700, -1400, 'парковка за Dalton Island Club', 1)),
+         ('apollo aggregates', lambda: A('Vapid Rumpo', where='склад Apollo Aggregates')),
+         ('crosstown police', lambda: A("Pegassi '96 Infernus", where='паркинг полиции в Crosstown')),
+         ('boundary road', lambda: at(-3300, -4700, 'взлётная полоса у Boundary Road, Mariana County', 1))]
+NEAR = r'(from|near|north of|south of|east of|west of|north west of|south west of|north east of|south east of|opposite|behind|next to|beside|outside|across from|by the)\s+(the\s+)?'
+
+
 def place(kind, i, text, area):
     if (kind, i) in MAN:
         return MAN[(kind, i)]
+    low = norm(text)
+    for kw, fn in ALIAS:
+        if kw in low:
+            return fn()
     m = find_place(text)
     if m:
-        return {'x': m['x'], 'y': m['y'], 'where': m['n'], 'ap': 0}
+        key = norm(re.sub(r'\(.*?\)', '', m['n']))
+        vague = bool(re.search(NEAR + re.escape(key.split()[0]), low))
+        return {'x': m['x'], 'y': m['y'], 'where': ('рядом с ' if vague else '') + m['n'], 'ap': 1 if vague else 0}
     lb = find_area(area) or find_area(text)
     if lb:
         return {'x': lb['x'], 'y': lb['y'], 'where': 'район ' + lb['n'], 'ap': 1}

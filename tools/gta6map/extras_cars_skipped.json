@@ -132,6 +132,207 @@
  },
  {
   "k": "vehicle",
+  "n": "Buckingham Jubilee",
+  "t": "Buckingham Jubilee из списка Рэнди. По данным одного гайда встречается в автосалоне Status Auto Imports на западе Бэйсайда. Не подтверждено другими источниками — проверяйте сканером WAiNK.",
+  "u": [
+   [
+    "playstationtrophies.org",
+    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ],
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Benefactor Dubsta",
+  "t": "Benefactor Dubsta из списка Рэнди. По одному гайду стоит на парковке автосалона Status Auto Imports на западе Бэйсайда. Спавн случайный, точка не подтверждена — просканируйте машины на парковке через WAiNK.",
+  "u": [
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+   ],
+   [
+    "playstationtrophies.org",
+    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Benefactor Dubsta",
+  "t": "Benefactor Dubsta из списка Рэнди. По данным русскоязычного гайда его можно найти у мастерской N-X 94 Vice Car Repair рядом с аэропортом Вайс-Сити. Точка не подтверждена другими источниками.",
+  "u": [
+   [
+    "lvl.su",
+    "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-randys-wish-list"
+   ],
+   [
+    "arz-wiki.com",
+    "https://arz-wiki.com/gta-6/articles/redkie-mashiny-gta-6/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Lapwing Nimbus (regular)",
+  "t": "Обычный бизнес-джет Lapwing Nimbus на перроне аэропорта Вайс-Сити. Попасть на закрытую территорию можно через забор грузового двора. На самолётах аэропорта стоят трекеры: угон даёт розыск и истребители на хвост.",
+  "u": [
+   [
+    "freeroam.fyi",
+    "https://freeroam.fyi/guides/gta-vi-vice-city-international-airport-vcia-guide"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Buckingham Shamal (black-and-gold)",
+  "t": "Чёрно-золотой бизнес-джет Buckingham Shamal стоит у Южных ангаров аэропорта Вайс-Сити, рядом с хабом GO Postal. Территория закрытая, на самолётах стоят трекеры — после угона прилетят истребители. Точка указана одним источником.",
+  "u": [
+   [
+    "freeroam.fyi",
+    "https://freeroam.fyi/guides/gta-vi-vice-city-international-airport-vcia-guide"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Lapwing Streamer 216-C (airliner)",
+  "t": "Пассажирский авиалайнер Lapwing Streamer 216-C на перроне аэропорта Вайс-Сити. Зона закрытая; на самолётах аэропорта стоят трекеры, за угон дают розыск и поднимают истребители. Название модели указано одним источником.",
+  "u": [
+   [
+    "freeroam.fyi",
+    "https://freeroam.fyi/guides/gta-vi-vice-city-international-airport-vcia-guide"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Bravado Gauntlet Hellfire",
+  "t": "Bravado Gauntlet Hellfire в Хэмлете. По данным одного гайда для угона нужен Key Cloner, сигнализации и трекера нет. Цена продажи около $9 200, регистрация — $28 400.",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "egamersworld.com",
+    "https://egamersworld.com/blog/gta-6-standout-vehicles-all-rare-car-types-and-whe-dha39M0YT8"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Buckingham Valkyrie",
+  "t": "Военный вертолёт Buckingham Valkyrie, по данным одного источника, стоит на базе Mile Zero Air Station (Goose Key). Не подтверждено другими гайдами.",
+  "u": [
+   [
+    "damnmodz.com",
+    "https://damnmodz.com/wiki/gta-6/vehicles/police-cars/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Hauners Cargobob",
+  "t": "Транспортный вертолёт Hauners Cargobob, по данным одного источника, стоит на стоянке авиатехники у взлётной полосы и ангаров базы Mile Zero Air Station. Не подтверждено другими гайдами.",
+  "u": [
+   [
+    "damnmodz.com",
+    "https://damnmodz.com/wiki/gta-6/vehicles/police-cars/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Emperor Sultan",
+  "t": "Спортивный седан Emperor Sultan иногда появляется на парковке у тюнинг-мастерской Coastal Auto Care в Ки-Ленто. Спавн не гарантирован — возможно, придётся заехать несколько раз.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/how-get-emperor-sultan-car-gta-6-sports-sedan-location"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Airgator Airboat (Airgator Airboats storefront)",
+  "t": "Аэролодка Airgator у магазина Airgator Airboats в Грассриверс. Точное место в источниках не указано, данные не проверены в игре.",
+  "u": [
+   [
+    "grandtheft.gg",
+    "https://grandtheft.gg/gta-6-grassrivers-locations/"
+   ],
+   [
+    "droidfeats.com",
+    "https://droidfeats.com/gta-6-grassrivers-what-to-know-about-the-wetlands-map/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Willard '92 Grouse",
+  "t": "Willard '92 Grouse без капота стоит во дворе гаража Мозеса в Порт-Геллхорне. Машину сканируют во время обучающего урока Мозеса; свободно ли она доступна вне задания — не подтверждено.",
+  "u": [
+   [
+    "lvl.su",
+    "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-catalog-story-unlocks"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Vapid Riata",
+  "t": "Vapid Riata упоминается у гаража Мозеса в Порт-Геллхорне — встречается в его уроках и заданиях. Точное место и условия появления не указаны, данные не подтверждены.",
+  "u": [
+   [
+    "lvl.su",
+    "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-catalog-story-unlocks"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Upgraded / custom cars, rotating selection (incl. an upgraded muscle car)",
+  "t": "На парковке у трассы Gellhorn Raceway (за Whisler Motorsport и на крытой выставочной площадке) стоят уже тюнингованные машины; набор меняется каждый день. Сообщается о прокачанном маслкаре без трекера — удобно регистрировать у Мозеса.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639138"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Nagasaki Hung Carbon RS",
+  "t": "Мотоцикл Nagasaki Hung Carbon RS висит на дереве у железной дороги. Данные о защите противоречивы: по одним гайдам нужен клонер ключей и стоит продвинутый трекер, по другим байк не заперт и продаётся за $2 640.",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "gta6gps.com",
+    "https://gta6gps.com/map/game/unique-vehicles"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
   "n": "Дорогие машины: Dalton Island",
   "t": "По рассказу одного игрока, у вилл частного острова Dalton Island припаркованы дорогие машины, для которых нужен клон ключа. Модели и точные места не подтверждены.",
   "u": [
