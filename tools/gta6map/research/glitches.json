@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "generated": "2026-11-24",
+    "game": "Grand Theft Auto VI (PS5 / Xbox Series X|S), story mode, released 2026-11-19",
+    "latest_patch": "01.002.002 (2026-11-23)",
+    "method": "40 web searches. Everything below is compiled from search-result summaries only; no source page was opened, so wording, dates and details were not checked against the pages themselves.",
+    "status_rule": "working = reported working after 01.002.002, or not mentioned in any patch notes (see status_basis for which); patched = fixed in a named update; unclear = mixed or conflicting reports, or only a headline is known.",
+    "status_basis_values": {
+      "post_patch_reports": "outlets or players report it still present after 01.002.002",
+      "not_in_patch_notes": "no post-patch test found; the 01.002.002 notes simply do not mention it",
+      "mixed_reports": "sources disagree on whether it works at all",
+      "patch_notes": "listed as fixed in Rockstar's notes as relayed by outlets",
+      "headline_only": "only a video title or one-line mention was found"
+    },
+    "verified_rule": "items[]: true only if at least two independent sources describe the same glitch at the same place. unplaced[]: true if at least two independent sources describe the same mechanism (there is no fixed place to match).",
+    "extra_fields": "Beyond the requested shape, each entry also carries status_basis, version, patched_in and notes. unplaced[] holds glitches with no fixed map location (or whose location was not found); it uses the same fields.",
+    "coverage_gaps": [
+      "No place-tied out-of-bounds, wall-breach, police safe-spot, infinite ammo/health, physics-launch or broken-interior spot was found in any search. The only out-of-bounds technique found (phone clip) works anywhere there is a tight gap.",
+      "No story-mode vehicle, weapon or item duplication glitch was found in written sources; only YouTube video titles claim one.",
+      "No respawning-safe, cash-register or ATM exploit other than the Apollo Aggregates warehouse was found."
+    ]
+  },
+  "patches": [
+    {
+      "date": "2026-11-13",
+      "version": "01.002.000",
+      "notes": "Pre-launch update. No official patch notes were published, so what it changed is unknown.",
+      "sources": [
+        "https://gta6bugs.com/patch-notes",
+        "https://accountshark.net/blog/gta-6-out-now-launch-day-guide-99-metacritic-psn-errors-bugs-updates-gta-online-status"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "version": "01.002.001",
+      "notes": "Pre-launch update. No official patch notes were published, so what it changed is unknown.",
+      "sources": [
+        "https://gta6bugs.com/patch-notes",
+        "https://accountshark.net/blog/gta-6-out-now-launch-day-guide-99-metacritic-psn-errors-bugs-updates-gta-online-status"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "version": "01.002.002 (reported as 1.0.2.2 on Xbox)",
+      "notes": "First post-launch title update, fixes only. Seven fixes as relayed by outlets from Rockstar Support: (1) several crash causes; (2) weather that stopped changing for long stretches; (3) autosaves not being recorded; (4) story phone calls that failed to trigger; (5) players unable to lose their Wanted Level; (6) gym deadlift bar could not be used; (7) partner characters not handing over bags to sell to fences. Reported size about 603.8 MB on PS5 and about 1.6 GB on Xbox Series X|S (not official figures); PS5 rollout in waves. NOT mentioned in the notes: the Apollo Aggregates money glitch, the Chapter 3 Jason softlock, the Xbox frame-rate trick, falling through the map. Conflicts between outlets: one says the gym and autosave fixes are still unconfirmed in play; one search summary of MP1st says the changelog lists players falling through the map or terrain, which no other outlet's seven-fix list includes.",
+      "sources": [
+        "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s",
+        "https://rockstarintel.com/new-gta-vi-update-01-002-002-patch-notes-released/",
+        "https://www.pushsquare.com/guides/gta-6-patch-notes",
+        "https://www.playstationlifestyle.net/2026/11/23/gta-6-update-1002002-november-23-2026-patch-notes",
+        "https://gta6bugs.com/patch-notes",
+        "https://beebom.com/gta-6-patch-notes-updates-tracker/",
+        "https://www.techloy.com/gta-6-update-01-002-002-patch-notes/",
+        "https://mp1st.com/title-updates-and-patches/gta-6-first-update-1-002-002-released-on-november-23"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "name": "Apollo Aggregates ('Red Barn') loot respawn - save and reload",
+      "kind": "money",
+      "region": "South Vice-Dale County",
+      "area": "East / northeast of Hamlet, north of Key Lento, south of Route 35",
+      "landmark": "Apollo Aggregates - red warehouse ('red barn') in a gravel yard; three large rectangular pools beside the highway",
+      "spot": "Long red building just southeast of the three pools, at the bend in the access road. Drive through the gravel yard past the barrier and excavators; the way in is the grey door beside the Apollo trailer. Loot inside: cocaine in two teddy-bear vans, on tables in a back room and in a safe, plus cash.",
+      "steps": "Bring Jason's personal vehicle (not a stolen car), fill stash bags with the cocaine and cash and store them in the trunk (about four bags). Make a manual save and load it: the warehouse loot is back while the bags stay in the car. Sell the bags (guides name Brian's Lockup in southwest Key Lento, keypad code 7700) and repeat.",
+      "gives": "Repeatable cash: about $8,000-11,000 per run reported (higher claims of $12,000-15,000; PC Gamer reports about $50,000 in 15 minutes).",
+      "status": "working",
+      "status_basis": "post_patch_reports",
+      "last_confirmed": "2026-11-23",
+      "version": "01.002.002",
+      "patched_in": null,
+      "sources": [
+        "https://www.notebookcheck.net/New-GTA-6-update-leaves-infinite-money-glitch-untouched.1457986.0.html",
+        "https://comicbook.com/gaming/news/gta-6-money-infinite-glitch-bug-update/",
+        "https://www.ibtimes.co.uk/gta-6-patch-chapter-3-softlock-red-barn-exploit-1834362",
+        "https://www.playstationlifestyle.net/2026/11/23/gta-6-update-1002002-november-23-2026-patch-notes",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-infinite-money-glitch/",
+        "https://kotaku.com/gta-6-infinite-money-glitch-how-to-rockstar-games-ps5-2000758907",
+        "https://gamerant.com/unlimited-money-glitch-gta-6/",
+        "https://insider-gaming.com/gta-6-infinite-money-glitch/",
+        "https://www.keengamer.com/articles/guides/gta-6-unlimited-money-glitch-guide/",
+        "https://meowdb.com/gta6/glitches",
+        "https://happygamer.com/gta-6-infinite-money-glitch-181491/",
+        "https://libertycity.net/guides/gta-6/10581-gta-6-unlimited-money-glitch-warehouse.html",
+        "https://traxion.gg/grand-theft-auto-6-infinite-money-glitch/",
+        "https://www.gtaboom.com/gta-6-apollo-aggregates-warehouse-stash-5820",
+        "https://gta6carte.com/en/place/l2453-apollo-aggregates"
+      ],
+      "verified": true,
+      "desc_ru": "Денежный глитч на складе Apollo Aggregates («красный амбар») к востоку от Хэмлета, севернее Ки-Ленто. Соберите кокаин и наличку в сумки, сложите их в багажник личной машины Джейсона, сделайте ручное сохранение и загрузите его — добыча на складе появится снова, а сумки останутся в машине (примерно $8–11 тыс. за заход). По сообщениям игроков, работает после патча 01.002.002 от 23.11.2026, но Rockstar может исправить его в любой момент.",
+      "notes": "Location naming differs between sources and is assumed, not proven, to be one site: 'abandoned red barn northeast of Hamlet' (Notebookcheck and news outlets), 'Apollo Aggregates warehouse east of Hamlet in South Vice-Dale County' (guides), 'Hamlet industrial area, north of Key Lento' (PC Gamer), 'Dale County' (MMOExp). One map database (gta6carte.com) files Apollo Aggregates under Peregrine Bay with its own map coordinates x -1837, y -2876. Post-patch status rests on player reports relayed by outlets, not on a Rockstar statement; Comicbook notes it is not established that those players had fully closed and relaunched the game on the new version. Respawn is inconsistent: the centre cash bag, first-room cocaine and counting-machine money may not come back, and one guide says the safe respawns only once per in-game day while the van cocaine respawns every time. Guides say money held at the end of Chapter 1 is lost, so farm from Chapter 2; Kotaku adds that story progress can cut off access to your money. Payment from Brian's Lockup arrives later via Jason's mailbox, and some players report it not arriving."
+    },
+    {
+      "name": "Apollo Aggregates loot respawn - character-switch variant",
+      "kind": "money",
+      "region": "South Vice-Dale County",
+      "area": "East of Hamlet, north of Key Lento",
+      "landmark": "Apollo Aggregates red warehouse",
+      "spot": "Same warehouse as the save-and-reload method (same map marker).",
+      "steps": "Loot the warehouse as Lucia, switch to Jason, then switch straight back to Lucia; the cocaine is back within seconds. Jason has to be far enough away from the warehouse for the reset to work.",
+      "gives": "The same loot again without reloading a save.",
+      "status": "working",
+      "status_basis": "not_in_patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://www.vice.com/en/article/gta-6-money-glitch/"
+      ],
+      "verified": false,
+      "desc_ru": "Вариант глитча на складе Apollo Aggregates к востоку от Хэмлета: обчистите склад за Лусию, переключитесь на Джейсона и сразу обратно — кокаин появляется снова за несколько секунд (Джейсон должен быть достаточно далеко от склада). Описан одним источником, после патча 01.002.002 отдельно не проверялся; может быть исправлен позже.",
+      "notes": "Single source (Vice). No post-patch test of this specific variant was found; the patch notes do not mention the warehouse at all."
+    },
+    {
+      "name": "Apollo Aggregates loot respawn - van drive-away variant (Chapter 2)",
+      "kind": "money",
+      "region": "South Vice-Dale County",
+      "area": "East of Hamlet, north of Key Lento",
+      "landmark": "Apollo Aggregates red warehouse",
+      "spot": "Same warehouse as the save-and-reload method (same map marker); uses the van there.",
+      "steps": "In Chapter 2, get in the van and drive away from the warehouse for about 30-40 seconds, then turn around and drive back; the loot is reported to have respawned. Do not store the van at your house before selling - the product disappears.",
+      "gives": "Claimed about $500,000 per hour; one guide gives about $7,200 per bag and a van with 10 storage slots.",
+      "status": "working",
+      "status_basis": "not_in_patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://gamerhour.net/guides/gta-6-infinite-money-glitch-for-any-chapter/",
+        "https://www.mmoexp.com/News/grand-theft-auto-vi-gta-6-money-glitch-chapter-2-van-method.html",
+        "https://www.youtube.com/watch?v=DC6o8H4PfBs",
+        "https://www.youtube.com/watch?v=UNt4uz0-9R4"
+      ],
+      "verified": false,
+      "desc_ru": "Вариант глитча на складе Apollo Aggregates (глава 2): сядьте в фургон, отъедьте от склада на 30–40 секунд и вернитесь — добыча, по сообщениям, появляется снова без перезагрузки. Не ставьте фургон у дома до продажи — товар исчезнет. Способ подтверждён слабо и может быть исправлен позже.",
+      "notes": "Two guide sites describe it, but MMOExp says it comes from one creator's reported results, so the sources are probably not independent; MMOExp places it in 'Dale County'. A YouTube title claims a $500,000 method still works 'after update', but only the title is known."
+    },
+    {
+      "name": "Store robbery reset (rob the same stores again without cooldown)",
+      "kind": "money",
+      "region": null,
+      "area": null,
+      "landmark": "Stores near Jason's house; one guide names the Inked Mermaid tattoo studio",
+      "spot": null,
+      "steps": "Rob the nearby stores (they then show as closed on the map). Start a story mission that opens with a cutscene, choose Restart Mission as it begins, then pause and choose Quit Mission; the stores reportedly show as open again. One guide says to skip the weapon shop because it raises the Wanted Level too high.",
+      "gives": "Repeat store robberies without waiting for the normal cooldown.",
+      "status": "unclear",
+      "status_basis": "mixed_reports",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://meowdb.com/gta6/glitches",
+        "https://www.keengamer.com/articles/guides/gta-6-unlimited-money-glitch-guide/",
+        "https://grandtheft.gg/gta-6-unlimited-money-glitch"
+      ],
+      "verified": false,
+      "desc_ru": "Сброс ограбленных магазинов возле дома Джейсона (в одном гайде назван тату-салон Inked Mermaid): ограбьте магазины, запустите сюжетную миссию с катсценой, выберите «Перезапустить миссию», затем «Выйти из миссии» — магазины якобы снова открыты. Сообщения противоречивы, у части игроков не срабатывает; может быть исправлено позже.",
+      "notes": "Mechanism is described by two or three guide sites, but the place is not pinned to a named district (nothing in the results says which town Jason's house or the Inked Mermaid is in), reports are mixed, and one player reported it not working on 2026-11-20. No post-patch test found."
+    },
+    {
+      "name": "Chapter 3 'Missing Persons' softlock - Jason greyed out",
+      "kind": "other",
+      "region": "Kelly County",
+      "area": null,
+      "landmark": "Missing Persons case / mission in Kelly County",
+      "spot": null,
+      "steps": "Finishing the Kelly County Missing Persons case early in Chapter 3 leaves Jason greyed out on the character wheel: no switching, he does not answer calls and Lucia gets no story mission. Avoid it by doing the case in Chapter 2 or making a manual save before starting; a player-reported workaround is calling Jason from Lucia's phone to hang out.",
+      "gives": "Nothing - it is a progression lock (a hazard to warn about, not an exploit).",
+      "status": "working",
+      "status_basis": "post_patch_reports",
+      "last_confirmed": "2026-11-23",
+      "version": "01.002.002",
+      "patched_in": null,
+      "sources": [
+        "https://www.ibtimes.co.uk/gta-6-patch-chapter-3-softlock-red-barn-exploit-1834362",
+        "https://gta6bugs.com/bugs/gta-6-chapter-3-jason-greyed-out-softlock-after-missing-persons",
+        "https://happygamer.com/gta-6-missing-persons-softlock-jason-greyed-out-181328/",
+        "https://outputlag.com/guides/gta-6-missing-persons-mission/"
+      ],
+      "verified": true,
+      "desc_ru": "Опасный баг: если пройти дело «Missing Persons» в округе Келли в начале 3-й главы, Джейсон остаётся недоступным (серый на колесе персонажей) и сюжет не продвигается. Проходите дело во 2-й главе или сделайте перед ним ручное сохранение. Патч 01.002.002 баг не исправил; возможно, его починят позже.",
+      "notes": "Bug, not an exploit; included because it is tied to a mission location. Exact start point within Kelly County was not given in the results. Rockstar has not acknowledged it."
+    },
+    {
+      "name": "Donnie's payment does not appear at the trailer",
+      "kind": "other",
+      "region": null,
+      "area": null,
+      "landmark": "Donnie's trailer; mailbox outside Jason's house",
+      "spot": null,
+      "steps": "Donnie's payment does not show up at the trailer. Sleep so about a day passes, wait for his text, then take the cash from the mailbox outside Jason's house.",
+      "gives": "Nothing extra - a workaround to collect a payment that looks missing.",
+      "status": "working",
+      "status_basis": "not_in_patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://meowdb.com/gta6/glitches",
+        "https://outputlag.com/guides/gta-6-donnie-packages-drug-money/",
+        "https://www.youtube.com/watch?v=mLtqd4GHuJA"
+      ],
+      "verified": true,
+      "desc_ru": "Баг с оплатой от Донни: деньги не появляются у трейлера. Поспите около суток, дождитесь его сообщения и заберите наличные из почтового ящика у дома Джейсона. Возможно, это задуманная задержка, а не баг; поведение может измениться после патчей.",
+      "notes": "May be an intended delayed payment rather than a bug. One guide warns that if you start the mission 'Swamped' before the money arrives, it is gone. Region of the trailer and house was not stated in the results."
+    },
+    {
+      "name": "Gym deadlift bar could not be used",
+      "kind": "other",
+      "region": null,
+      "area": null,
+      "landmark": "Gym (deadlift bar); the specific gym is not named in the sources",
+      "spot": null,
+      "steps": "The deadlift bar in the gym could not be interacted with.",
+      "gives": "Nothing - a blocking bug.",
+      "status": "patched",
+      "status_basis": "patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": "01.002.002 (2026-11-23)",
+      "sources": [
+        "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s",
+        "https://rockstarintel.com/new-gta-vi-update-01-002-002-patch-notes-released/",
+        "https://gta6bugs.com/patch-notes",
+        "https://www.pushsquare.com/guides/gta-6-patch-notes"
+      ],
+      "verified": true,
+      "desc_ru": "Баг в спортзале: штангу для становой тяги нельзя было использовать. Исправлено в патче 01.002.002 от 23.11.2026.",
+      "notes": "Patched; listed so it can be excluded. One outlet said it was still unconfirmed whether the gym fix works in play."
+    }
+  ],
+  "unplaced": [
+    {
+      "name": "Phone clip - fall under the map / pass through walls",
+      "kind": "out_of_bounds",
+      "region": null,
+      "area": null,
+      "landmark": null,
+      "spot": "No fixed place: any tight gap, e.g. between a parked car and a fence or wall, or a tight corner.",
+      "steps": "Squeeze Jason into a tight gap between a parked car and a fence (or crouch into a tight corner, or park a car at an angle to narrow the gap), then take out the in-game phone. The character clips into the wall or drops through the map; there is no way back up, so save first and reload.",
+      "gives": "Under-the-map / inside-wall access. Nothing in the results says it gets you into locked interiors.",
+      "status": "unclear",
+      "status_basis": "not_in_patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://beebom.com/gta-6-bugs-tracker/",
+        "https://meowdb.com/gta6/glitches",
+        "https://en.3dmgame.com/news/11003",
+        "https://x.com/ScyanYT/status/2123119515525578897",
+        "https://www.youtube.com/watch?v=KI6Q0TdF-X8",
+        "https://mp1st.com/title-updates-and-patches/gta-6-first-update-1-002-002-released-on-november-23"
+      ],
+      "verified": true,
+      "desc_ru": "Провал под карту через телефон: зажмите Джейсона в узком зазоре между припаркованной машиной и забором или стеной и достаньте телефон — персонаж проваливается сквозь стену или под карту. Работает в любом подходящем месте, вернуться нельзя, поэтому сначала сохранитесь. После патча 01.002.002 не перепроверялся; может быть исправлен.",
+      "notes": "All reports are from launch week, before 01.002.002. The seven-fix list relayed by most outlets does not cover it, but one search summary of MP1st says the changelog mentions falling through the map or terrain, so post-patch status is genuinely unknown. A YouTube video titled 'GTA 6 Wall Breach Glitch - How to Get Under the Map!' exists; its location and steps are unknown."
+    },
+    {
+      "name": "Prologue: Lucia falls through the map",
+      "kind": "out_of_bounds",
+      "region": null,
+      "area": null,
+      "landmark": "Prologue / first mission (location not named in the sources)",
+      "spot": null,
+      "steps": "Random bug during the prologue: Lucia drops through the floor or road and falls under the world. Clips place it near the locker, in her flashback sequence, or when she is tased on a scooter during the police arrest; the game then puts her back.",
+      "gives": "Nothing - an unintended fall, not a repeatable exploit.",
+      "status": "unclear",
+      "status_basis": "not_in_patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://gta6bugs.com/",
+        "https://showgamer.com/en/guides/7994-vse-bagi-i-oshibki-gta-6-izvestnye-problemy-glyuki-i-sposoby-ispravleniya",
+        "https://sixwanted.com/en/gta-6/guides/gta-6-glitches-and-bugs-spotted/",
+        "https://gta6worldhub.com/gta-6-bugs-glitches-reported-issues/"
+      ],
+      "verified": true,
+      "desc_ru": "Баг пролога: Лусия может провалиться сквозь пол или дорогу и упасть под карту (у шкафчика, во флешбэке или при аресте на скутере). Это случайная ошибка, а не воспроизводимый эксплойт; может быть исправлена патчем.",
+      "notes": "Mission-bound and not reproducible on demand. Trigger details differ between trackers."
+    },
+    {
+      "name": "Car launched into the air after hitting vegetation",
+      "kind": "physics",
+      "region": null,
+      "area": null,
+      "landmark": null,
+      "spot": "No confirmed tree or bush reproduces it consistently.",
+      "steps": "Collisions between cars and plants can throw the vehicle upward, similar to GTA IV's swing-set bug. No reliable spot or method is documented.",
+      "gives": "Vehicle launch (random).",
+      "status": "unclear",
+      "status_basis": "not_in_patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://showgamer.com/en/guides/7994-vse-bagi-i-oshibki-gta-6-izvestnye-problemy-glyuki-i-sposoby-ispravleniya",
+        "https://gulfnews.com/technology/gaming/gta-6-glitches-go-viral-flying-cars-disappearing-characters-and-police-encounter-issues-spark-cyberpunk-2077-comparisons-1.500752989",
+        "https://x.com/ScyanYT/status/2123119515525578897"
+      ],
+      "verified": false,
+      "desc_ru": "Физический баг: при столкновении с растительностью машину может подбросить в воздух, как в баге с качелями из GTA IV. Конкретного воспроизводимого места пока не найдено; может быть исправлено.",
+      "notes": "The vegetation link appears in one tracker only; viral clips of flying cars are reported by several outlets without a location."
+    },
+    {
+      "name": "Xbox frame-rate unlock via 60 Hz display setting / app switch",
+      "kind": "other",
+      "region": null,
+      "area": null,
+      "landmark": null,
+      "spot": "Console setting, not a map location.",
+      "steps": "Set the Xbox display to 60 Hz and start GTA 6. Without quitting, start another game from the Guide, then switch back to GTA 6.",
+      "gives": "Unofficial unlocked frame rate (one list says up to 90 FPS); display-setting changes are also reported to cause double-speed movement.",
+      "status": "working",
+      "status_basis": "post_patch_reports",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://meowdb.com/gta6/glitches",
+        "https://tech.sportskeeda.com/gaming-news/gta-6-xbox-glitch-list-all-known-glitches-possible-fixes"
+      ],
+      "verified": true,
+      "desc_ru": "Трюк на Xbox: поставьте в настройках консоли 60 Гц, запустите GTA 6, не выходя из игры откройте другую игру через Guide и вернитесь — частота кадров разблокируется. Не привязан к месту на карте; может быть закрыт патчем.",
+      "notes": "A search summary states that one outlet noted 01.002.002 did not address the Xbox 60 FPS glitch, but the summary did not identify which page said so."
+    },
+    {
+      "name": "Loot bag overfill ($4,000 in a $3,200 bag)",
+      "kind": "money",
+      "region": null,
+      "area": null,
+      "landmark": null,
+      "spot": "Any robbery with a safe.",
+      "steps": "Stop filling the bag at $2,800 and crack the safe last; the bag that normally caps at $3,200 reportedly ends up holding $4,000.",
+      "gives": "About $800 extra per bag.",
+      "status": "unclear",
+      "status_basis": "headline_only",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://meowdb.com/gta6/glitches"
+      ],
+      "verified": false,
+      "desc_ru": "Трюк с сумкой: остановитесь на $2 800 и вскрывайте сейф последним — в сумку с лимитом $3 200 якобы помещается $4 000. Не подтверждено, к месту не привязано; может быть исправлено.",
+      "notes": "Single source, which itself marks it as unconfirmed."
+    },
+    {
+      "name": "Car dupe / duplication money glitch claimed in YouTube titles",
+      "kind": "duplication",
+      "region": null,
+      "area": null,
+      "landmark": null,
+      "spot": null,
+      "steps": null,
+      "gives": "Titles claim $100,000-500,000.",
+      "status": "unclear",
+      "status_basis": "headline_only",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://www.youtube.com/watch?v=pwj7ijvyqSI",
+        "https://www.youtube.com/watch?v=-7Ep4hLM8Eg",
+        "https://www.youtube.com/watch?v=DC6o8H4PfBs"
+      ],
+      "verified": false,
+      "desc_ru": "На YouTube есть ролики с заголовками о дюпе машин и денег в GTA 6 «после патча», но способ и место неизвестны и ничем не подтверждены. Не добавлять на карту без проверки.",
+      "notes": "Only the video titles are known ('NEW CAR DUPE / UNLIMITED MONEY GLITCH IN GTA 6 AFTER PATCH!', 'NEW DUPLICATION GLITCH / UNLIMITED MONEY IN GTA 6! CHAPTER 2', 'EASY 500K MONEY DUPLICATION IN CHAPTER 2'). No written source describes any vehicle, weapon or item duplication in story mode; these may simply be the Apollo Aggregates loop under a different label."
+    },
+    {
+      "name": "Lucia wardrobe glitch (top missing after body armour breaks)",
+      "kind": "other",
+      "region": null,
+      "area": null,
+      "landmark": null,
+      "spot": "Not a map location.",
+      "steps": "Uses the outfit and body-armour systems: when Lucia's body armour is destroyed, the top underneath does not come back.",
+      "gives": "Cosmetic glitch only.",
+      "status": "working",
+      "status_basis": "not_in_patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://gamebyte.com/gta-6-topless-glitch"
+      ],
+      "verified": false,
+      "desc_ru": "Косметический глитч с одеждой Лусии: после разрушения бронежилета верх одежды не возвращается. К месту на карте не привязан; может быть исправлен.",
+      "notes": "Single source. Probably not wanted on a map; listed for completeness."
+    },
+    {
+      "name": "First-person camera lock",
+      "kind": "other",
+      "region": null,
+      "area": null,
+      "landmark": null,
+      "spot": "Not a map location.",
+      "steps": "Reported trigger: remap the Camera button and rapidly exit the in-game phone while inside a vehicle. The camera then stays in first person on foot, driving and aiming.",
+      "gives": "Forced first-person view.",
+      "status": "working",
+      "status_basis": "not_in_patch_notes",
+      "last_confirmed": null,
+      "version": null,
+      "patched_in": null,
+      "sources": [
+        "https://meowdb.com/gta6/glitches"
+      ],
+      "verified": false,
+      "desc_ru": "Глитч камеры: после переназначения кнопки камеры и быстрого выхода из телефона в машине вид от первого лица фиксируется пешком, за рулём и при прицеливании. К месту не привязан; может быть исправлен.",
+      "notes": "The effect is from meowdb; the trigger steps come from a search summary of bug trackers that did not identify the exact page."
+    }
+  ]
+}

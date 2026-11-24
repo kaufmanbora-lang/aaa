@@ -53,11 +53,8 @@
   // ------------------------------------------------------------------ init
   function init() {
     DATA.cats.forEach(function (c) { CAT[c.id] = c; });
-    DATA.markers.forEach(function (m, i) {
-      m._i = i; BYID[m.id] = m;
-      m._s = norm(m.n + ' ' + (m.sub || '') + ' ' + (m.a || '') + ' ' + CAT[m.c].n + ' ' + (m.f || []).map(function (f) { return f[1]; }).join(' '));
-    });
-    var saved = LS.get('cats', null);
+    DATA.markers.forEach(prep);
+    var saved = LS.get('cats2', null);
     state.cats = new Set(saved || DATA.cats.filter(function (c) { return c.on; }).map(function (c) { return c.id; }));
     fillIcons(document);
     buildMap();
@@ -68,8 +65,13 @@
     applyFilters();
     readHash();
     $('loading').hidden = true;
+    liveSync();
   }
 
+  function prep(m) {
+    BYID[m.id] = m;
+    m._s = norm(m.n + ' ' + (m.sub || '') + ' ' + (m.a || '') + ' ' + CAT[m.c].n + ' ' + (m.f || []).map(function (f) { return f[1]; }).join(' '));
+  }
   function fillIcons(root) {
     root.querySelectorAll('svg[data-i]').forEach(function (s) {
       var d = ICONS[s.getAttribute('data-i')];
@@ -158,7 +160,7 @@
       g.setTransform(DPR, 0, 0, DPR, 0, 0);
       g.clearRect(0, 0, w, h);
       var ox = o.x + min.x, oy = o.y + min.y;
-      var base = z < 1 ? 17 : z < 2 ? 20 : z < 3 ? 23 : z < 4 ? 27 : z < 5 ? 31 : 35;
+      var base = z < 1 ? 20 : z < 2 ? 23 : z < 3 ? 27 : z < 4 ? 31 : z < 5 ? 35 : 39;
       var sel = null;
       for (var i = 0; i < visible.length; i++) {
         var mk = visible[i];
@@ -172,10 +174,10 @@
           g.fillStyle = RAR[r].c; g.fill(); g.lineWidth = 1; g.strokeStyle = 'rgba(8,12,18,.85)'; g.stroke();
           hits.push(px, py, 9, i);
         } else {
-          var s = base + (r >= 5 ? 5 : r === 4 ? 3 : (r === 3 && z < 1.5) ? -3 : 0);
+          var s = base + (r >= 5 ? 6 : r === 4 ? 3 : (r === 3 && z < 1.5) ? -4 : 0);
           var sp = sprite(mk.ic || CAT[mk.c].i, r, s, state.found.has(mk.id));
           g.drawImage(sp, px - sp._half, py - sp._half, sp._css, sp._css);
-          hits.push(px, py, s / 2 + 5, i);
+          hits.push(px, py, s / 2 + 3, i);
         }
       }
       if (state.labels) this._labels(g, scale, ox, oy, w, h, z);
@@ -217,32 +219,36 @@
     }
   });
 
-  var SPR = {};
+  var SPR = {}, SUB = {};
+  function subpaths(icon) {
+    // each closed sub-shape on its own, so holes (windows, wheels) can be painted dark instead of see-through
+    if (!SUB[icon]) SUB[icon] = (ICONS[icon] || ICONS.star).split(/(?=M)/).filter(Boolean).map(function (d) { return new Path2D(d); });
+    return SUB[icon];
+  }
   function sprite(icon, r, px, found) {
     var key = icon + '|' + r + '|' + px + (found ? '|f' : '');
     var c = SPR[key]; if (c) return c;
-    var pad = 4, css = px + pad * 2;
+    var pad = 5, css = px + pad * 2, sc = px / 24;
     c = document.createElement('canvas'); c.width = c.height = Math.ceil(css * DPR);
     c._css = css; c._half = css / 2;
     var g = c.getContext('2d'); g.scale(DPR, DPR);
-    var cx = css / 2, rad = px / 2;
-    if (found) g.globalAlpha = 0.45;
-    g.beginPath(); g.arc(cx, cx + 1.5, rad, 0, 6.2832); g.fillStyle = 'rgba(0,0,0,.42)'; g.fill();
-    if (r >= 5) { g.beginPath(); g.arc(cx, cx, rad + 2.2, 0, 6.2832); g.fillStyle = 'rgba(255,214,84,.55)'; g.fill(); }
-    g.beginPath(); g.arc(cx, cx, rad - 0.6, 0, 6.2832);
-    var grd = g.createRadialGradient(cx - rad * 0.3, cx - rad * 0.4, rad * 0.1, cx, cx, rad);
-    grd.addColorStop(0, lighten(RAR[r].c, 0.35)); grd.addColorStop(1, RAR[r].c);
-    g.fillStyle = grd; g.fill();
-    g.lineWidth = 1.7; g.strokeStyle = '#0a0e14'; g.stroke();
-    var sc = (px * 0.62) / 24;
-    g.save(); g.translate(cx - 12 * sc, cx - 12 * sc); g.scale(sc, sc);
-    g.fillStyle = '#0a0e14'; g.fill(new Path2D(ICONS[icon] || ICONS.star)); g.restore();
+    var full = new Path2D(ICONS[icon] || ICONS.star), parts = subpaths(icon);
+    if (found) g.globalAlpha = 0.5;
+    g.save(); g.translate(pad, pad); g.scale(sc, sc); g.lineJoin = 'round'; g.lineCap = 'round';
+    g.save(); g.translate(0, 1.4 / sc); g.strokeStyle = 'rgba(0,0,0,.38)'; g.lineWidth = 4.4 / sc; g.stroke(full); g.restore();
+    if (r >= 5) { g.strokeStyle = 'rgba(255,214,84,.62)'; g.lineWidth = 7 / sc; g.stroke(full); }
+    g.strokeStyle = '#080c12'; g.lineWidth = 3.6 / sc; g.stroke(full);
+    g.fillStyle = '#080c12'; parts.forEach(function (p) { g.fill(p); });
+    var grd = g.createLinearGradient(0, 2, 0, 22);
+    grd.addColorStop(0, lighten(RAR[r].c, 0.42)); grd.addColorStop(1, RAR[r].c);
+    g.fillStyle = grd; g.fill(full);
+    g.restore();
     if (found) {
-      g.globalAlpha = 1; var q = px * 0.2;
-      g.beginPath(); g.arc(cx + rad * 0.62, cx - rad * 0.62, q + 1.5, 0, 6.2832); g.fillStyle = '#1f9d55'; g.fill();
+      g.globalAlpha = 1; var q = Math.max(4, px * 0.17), fx = css - q - 2, fy = q + 2;
+      g.beginPath(); g.arc(fx, fy, q + 1.5, 0, 6.2832); g.fillStyle = '#1f9d55'; g.fill();
       g.lineWidth = 1; g.strokeStyle = '#0a0e14'; g.stroke();
-      g.beginPath(); g.moveTo(cx + rad * 0.62 - q * 0.55, cx - rad * 0.62); g.lineTo(cx + rad * 0.62 - q * 0.1, cx - rad * 0.62 + q * 0.45);
-      g.lineTo(cx + rad * 0.62 + q * 0.6, cx - rad * 0.62 - q * 0.4); g.lineWidth = 1.6; g.strokeStyle = '#fff'; g.stroke();
+      g.beginPath(); g.moveTo(fx - q * 0.55, fy); g.lineTo(fx - q * 0.1, fy + q * 0.45); g.lineTo(fx + q * 0.6, fy - q * 0.4);
+      g.lineWidth = 1.6; g.strokeStyle = '#fff'; g.stroke();
     }
     SPR[key] = c; return c;
   }
@@ -256,6 +262,7 @@
     var out = [];
     for (var i = 0; i < DATA.markers.length; i++) {
       var m = DATA.markers[i];
+      if (m.gone) continue;
       if (m !== state.sel) {
         if (!state.cats.has(m.c) || !state.rar.has(m.r)) continue;
         if (state.onlyPhoto && !(m.p || m.img)) continue;
@@ -267,13 +274,13 @@
     out.sort(function (a, b) { return a.r - b.r || b.y - a.y; });
     visible = out;
     layer.redraw();
-    $('counter').textContent = 'На карте: ' + out.length + ' из ' + DATA.markers.length;
+    $('counter').textContent = 'На карте: ' + out.length + ' из ' + DATA.markers.length + (state.live ? ' · обновлено ' + state.live : '');
     var def = DATA.cats.filter(function (c) { return c.on; }).length;
     $('filter-badge').textContent = state.cats.size;
     $('filter-badge').title = 'Включено категорий (по умолчанию ' + def + ')';
     syncFilterUI();
   }
-  function saveCats() { LS.set('cats', Array.from(state.cats)); }
+  function saveCats() { LS.set('cats2', Array.from(state.cats)); }
 
   function buildChips() {
     var h = '';
@@ -502,13 +509,22 @@
       h += '<figure class="d-photo" data-src="' + esc(ph.src) + '" data-cap="' + esc(ph.cap) + '"><img src="' + esc(ph.src) + '" alt="" loading="lazy"' +
         (ph.remote ? ' referrerpolicy="no-referrer"' : '') + ' onerror="this.parentNode.hidden=true"><figcaption>' + esc(ph.cap) + '</figcaption></figure>';
     }
+    else h += '<div class="hero" style="--c:' + RAR[m.r].c + '">' + svg(m.ic || c.i) + '</div>';
     h += '<div class="d-head">' + mini(c, m.r, m.ic) + '<div class="d-title"><h3>' + esc(m.n) + '</h3><p>' + esc(c.n) + (m.sub ? ' · ' + esc(m.sub) : '') + '</p></div></div>';
     h += '<div class="tags"><span class="tag rar" style="--c:' + RAR[m.r].c + '">' + RAR[m.r].n + '</span>' +
       '<span class="tag ' + v.k + '">' + v.m + ' ' + v.t + '</span>' +
       (m.lk ? '<span class="tag leak">из слива 2022</span>' : '') +
-      (m.ap ? '<span class="tag unk">≈ место примерное</span>' : '') + '</div>';
+      (m.ap ? '<span class="tag unk">≈ место примерное</span>' : '') +
+      (m.nw ? '<span class="tag new">новое — добавлено после сборки</span>' : '') + '</div>';
     if (m.a) h += '<p class="d-area">' + svg('ui-pin') + '<span>' + esc(m.a) + '</span></p>';
-    if (m.t) h += '<p class="d-text">' + esc(m.t) + '</p>';
+    if (m.t) h += '<p class="d-text">' + esc(m.t) + '</p>' + (m.en ? '<p class="src">Подсказка пока на английском — перевод появится при следующем обновлении.</p>' : '');
+    if (m.q && m.q.length) {
+      h += '<div class="need"><h4>Что нужно</h4>' + (m.qs ? '<p class="need-sum">' + esc(m.qs) + '</p>' : '') +
+        m.q.map(function (q) {
+          return '<div class="nrow n-' + q[1] + '"><span class="nic">' + svg(q[0]) + '</span><div><b>' + esc(q[2]) + '</b>' +
+            (q[3] ? '<small>' + esc(q[3]) + '</small>' : '') + '</div></div>';
+        }).join('') + '</div>';
+    }
     if (near) {
       h += '<figure class="d-photo near" data-src="' + esc(near.src) + '" data-cap="' + esc(near.cap) + '"><img src="' + esc(near.src) + '" alt="" loading="lazy" onerror="this.parentNode.hidden=true"><figcaption>' + esc(near.cap) + '</figcaption></figure>';
     }
@@ -549,6 +565,38 @@
       };
     });
   }
+  function liveSync() {
+    var L = DATA.live; if (!L || !window.fetch) return;
+    var ctl = window.AbortController ? new AbortController() : null;
+    var timer = setTimeout(function () { if (ctl) ctl.abort(); }, 15000);
+    fetch(L.url, { cache: 'no-cache', signal: ctl ? ctl.signal : undefined }).then(function (r) {
+      if (!r.ok) throw new Error('live ' + r.status); return r.json();
+    }).then(function (rows) {
+      clearTimeout(timer);
+      if (!Array.isArray(rows) || rows.length < L.ids.length * 0.6) return;   // looks broken: keep the built data
+      var known = new Set(L.ids), liveIds = new Set(), added = 0, removed = 0;
+      rows.forEach(function (l) {
+        liveIds.add(l.id);
+        if (known.has(l.id) || BYID['o-' + l.id] || typeof l.x !== 'number' || typeof l.y !== 'number') return;
+        var cat = L.types[l.type] || (/ card$/.test(l.type || '') ? 'card' : 'lm_other');
+        if (!CAT[cat]) return;
+        var m = { id: 'o-' + l.id, c: cat, n: l.name || l.type, x: Math.round(32 * l.x - 16384), y: Math.round(16384 - 32 * l.y),
+          r: CAT[cat].dr || 1, s: ['om'], v: 2, nw: 1 };
+        if (l.description) { m.t = l.description; m.en = 1; }
+        if (l.area) m.a = l.area;
+        if (l.screenshot) m.img = { u: L.base + l.screenshot, c: 'Скриншот: Open GTA 6 Map' };
+        prep(m); DATA.markers.push(m); CAT[cat].count++; added++;
+      });
+      DATA.markers.forEach(function (m) {
+        if (!m.nw && !m.gone && m.id.indexOf('o-') === 0 && !liveIds.has(m.id.slice(2))) { m.gone = 1; CAT[m.c].count--; removed++; }
+      });
+      var d = new Date();
+      state.live = ('0' + d.getDate()).slice(-2) + '.' + ('0' + (d.getMonth() + 1)).slice(-2) + ' ' + ('0' + d.getHours()).slice(-2) + ':' + ('0' + d.getMinutes()).slice(-2);
+      _catR = null;
+      if (added || removed) { buildFilters(); toast('Карта обновлена: +' + added + (removed ? ', убрано ' + removed : '')); }
+      applyFilters();
+    }).catch(function () { clearTimeout(timer); });
+  }
   function toast(t) {
     var d = document.createElement('div'); d.className = 'toast'; d.textContent = t; document.body.appendChild(d);
     setTimeout(function () { d.remove(); }, 1800);
@@ -573,27 +621,36 @@
       return '<div><span class="mini" style="--c:' + RAR[r].c + '">' + svg('star') + '</span><span><b>' + RAR[r].n + '</b> — ' + RDESC[r] + '</span></div>';
     }).join('');
     $('about-body').innerHTML =
-      '<p>Неофициальная фан-карта штата Леонида из Grand Theft Auto VI. Данные собраны на <b>' + esc(DATA.generated) + '</b>: ' +
-      '<b>' + n + '</b> меток в ' + DATA.cats.length + ' категориях, ' + ph + ' с фотографиями, ' + v3 + ' подтверждены двумя и более независимыми источниками.</p>' +
+      '<p>Неофициальная фан-карта штата Леонида из Grand Theft Auto VI. Сборка от <b>' + esc(DATA.generated) + '</b>: ' +
+      '<b>' + n + '</b> меток в ' + DATA.cats.length + ' категориях, ' + ph + ' с фото или скриншотами, ' + v3 + ' отмечены на двух и более независимых картах.</p>' +
+      '<p>Новые точки с открытой карты Open GTA 6 Map подгружаются при каждом открытии сайта; полная пересборка с переводом подсказок выполняется по расписанию.</p>' +
       '<h4>Цвета меток</h4><div class="legend">' + leg + '</div>' +
       '<p>В самой игре золотым выделяются уникальные варианты оружия — здесь так же. Для транспорта, ограблений и карточек официальной шкалы редкости нет: цвет присвоен по цене продажи, размеру добычи или версии карточки.</p>' +
+      '<h4>Трекеры и замки машин</h4><div class="legend">' +
+      '<div class="nrow n-g"><span class="nic">' + svg('tracker') + '</span><div><b>Без трекера</b><small>можно продать Мозесу, в Pay \'n\' Spray или зарегистрировать</small></div></div>' +
+      '<div class="nrow n-y"><span class="nic">' + svg('tracker') + '</span><div><b>Жёлтый трекер (стандартный)</b><small>снимается регистрацией в Pay \'n\' Spray</small></div></div>' +
+      '<div class="nrow n-r"><span class="nic">' + svg('tracker') + '</span><div><b>Красный трекер (продвинутый)</b><small>нельзя ехать медленно; такие машины берёт Рэнди</small></div></div>' +
+      '<div class="nrow n-y"><span class="nic">' + svg('lock') + '</span><div><b>Заперта</b><small>Slim Jim или разбить стекло</small></div></div>' +
+      '<div class="nrow n-r"><span class="nic">' + svg('keyfob') + '</span><div><b>Клонер ключей</b><small>нужен Key Cloner (глава 3)</small></div></div></div>' +
+      '<p>Данные о замках и трекерах есть не у всех машин; где их нет, в карточке так и написано. Механика описана по гайдам первой недели после релиза.</p>' +
       '<h4>Проверка данных</h4><ul>' +
-      '<li><b>✔✔</b> — место совпало минимум в двух независимых источниках.</li>' +
-      '<li><b>✔</b> — один надёжный источник (карта IGN или база GTADB).</li>' +
+      '<li><b>✔✔</b> — точка независимо отмечена минимум на двух картах или подтверждена гайдами.</li>' +
+      '<li><b>✔</b> — один источник.</li>' +
       '<li><b>?</b> и <b>≈</b> — не подтверждено или положение примерное; такие метки помечены в карточке.</li></ul>' +
       '<h4>Источники</h4><ul>' +
-      '<li>Карта и ориентиры — <a href="https://gtadb.org" target="_blank" rel="noopener">gtadb.org</a> и участники (тайлы, координаты и игровые фото, CC BY 4.0).</li>' +
-      '<li>Положение предметов, транспорта, магазинов и активностей — интерактивная карта <a href="https://www.ign.com/maps/gta-6/leonida" target="_blank" rel="noopener">IGN / MapGenie</a>; тексты подсказок написаны заново.</li>' +
+      '<li><a href="https://github.com/fbritoferreira/gta6" target="_blank" rel="noopener">Open GTA 6 Map</a> (fbritoferreira и участники, CC BY 4.0) — точки сообщества и скриншоты мест.</li>' +
+      '<li><a href="https://gtadb.org" target="_blank" rel="noopener">gtadb.org</a> и участники (CC BY 4.0) — тайлы карты, ориентиры и игровые фото.</li>' +
+      '<li>Интерактивная карта <a href="https://www.ign.com/maps/gta-6/leonida" target="_blank" rel="noopener">IGN / MapGenie</a> — факты о предметах и транспорте (замок, трекер, цена); тексты написаны заново.</li>' +
       '<li>Миссии и банки — по скриншотам прохождений <a href="https://www.powerpyx.com/" target="_blank" rel="noopener">PowerPyx</a>.</li>' +
-      '<li>Уникальное оружие, редкие машины и секреты — гайды и находки игроков; ссылки есть в карточках.</li>' +
+      '<li>Уникальное оружие, редкие машины, секреты и баги — гайды и находки игроков; ссылки есть в карточках.</li>' +
       '<li>Значки — Material Design Icons (Apache 2.0), движок карты — Leaflet (BSD-2).</li></ul>' +
-      '<p>Фотографии из слива 2022 года на сайте не публикуются; места, известные только по сливу, собраны в отдельную категорию и помечены.</p>' +
+      '<p>Баги и глитчи показаны только те, что ещё работают; после каждого патча список перепроверяется. Фотографии из слива 2022 года не публикуются.</p>' +
       (DATA.unplaced && DATA.unplaced.length ? '<h4>Известно, но не нанесено на карту</h4><p>' + DATA.unplaced.length +
         ' находок из гайдов без надёжного места (или слухи и опровергнутые фейки). На карту они не поставлены, чтобы не вводить в заблуждение.</p>' +
         '<button type="button" class="abtn wide" id="unplaced-btn">Показать список</button><div id="unplaced" hidden></div>' : '') +
       '<h4>Важно</h4><p>Сайт не связан с Rockstar Games и Take-Two Interactive. Grand Theft Auto, карта и изображения из игры принадлежат правообладателям. Отметки «найдено» хранятся только в этом браузере.</p>';
   }
-  var UK = { weapon: 'Оружие', vehicle: 'Транспорт', secret: 'Секрет', rumor: 'Слух (не подтверждён)', fake: 'Фейк (опровергнут)' };
+  var UK = { weapon: 'Оружие', vehicle: 'Транспорт', secret: 'Секрет', glitch: 'Баг без точного места', rumor: 'Слух (не подтверждён)', fake: 'Фейк (опровергнут)' };
   document.addEventListener('click', function (e) {
     if (!e.target.closest || !e.target.closest('#unplaced-btn')) return;
     var box = $('unplaced');
