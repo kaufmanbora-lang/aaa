@@ -60,14 +60,14 @@ def tr_list(v):
 
 # ----------------------------------------------------------------------------- marker glyph by name
 VEH_KW = [
-    ('heli', 'maverick volatus buzzard frogger helicopter swift supervolito havok annihilator'),
-    ('plane', 'jet jets dodo velum mammatus plane duster cuban seaplane shamal luxor titan besra hydra lazer'),
-    ('boat', 'airboat airgator seashark speeder dinghy yacht boat shasa torlan bombora jetmax squalo tropic suntrap marquis'),
+    ('heli', 'maverick volatus buzzard frogger helicopter swift supervolito havok annihilator valkyrie cargobob savage akula'),
+    ('plane', 'jet jets dodo velum mammatus plane duster cuban seaplane shamal luxor titan besra hydra lazer lapwing nimbus streamer 015a'),
+    ('boat', 'airboat airgator seashark speeder dinghy yacht boat shasa torlan bombora jetmax squalo tropic suntrap marquis predator speedboat'),
     ('bicycle', 'bmx scorcher bicycle fixter tribike whippet endurex'),
     ('bike', 'sanchez bati fcr zombie nightblade sovereign daemon faggio hakuchou enduro bagger manchez pcj akuma vader '
              'ruffian hexer innovation wolfsbane lectro cliffhanger bobber diabolus esskey thrust vindicator gargoyle avarus '
              'chimera defiler nemesis shotaro motorcycle bike'),
-    ('tank', 'tank ridgway barracks crusader rhino'),
+    ('tank', 'tank tanks ridgway barracks crusader rhino apc'),
     ('truck', 'phantom hauler packer mule pounder benson biff flatbed dump mixer truck'),
     ('van', 'burrito boxville youga rumpo speedo pony surfer van journey camper paradise moonbeam minivan'),
     ('pickup', 'bison sandking rancher bobcat yosemite sadler caracara pickup rebel picador slamvan guardian'),
@@ -858,6 +858,60 @@ for q in allm:
             q['mp'] = {'u': MODEL_IMG[hit], 'n': '', 'off': 1}
             n_off += 1
 print('vehicles given an official shot of the model:', n_off)
+# cards that still have no picture get the name of the base model: the page looks its picture up in the GTA wikis
+WQ_MAKES = {'annis', 'bf', 'benefactor', 'bottcher', 'bravado', 'buckingham', 'canis', 'camus', 'declasse', 'gallivanter', 'grotti', 'hvy', 'hauners',
+            'karin', 'lapwing', 'lure', 'maibatsu', 'mammoth', 'mer-can', 'nagasaki', 'ocelot', 'pegassi', 'reynolds', 'schyster', 'taci', 'vapid',
+            'western', 'albany', 'pfister', 'invetero', 'truffade', 'progen', 'piccia', 'sirius', 'shitzu', 'lcc', 'airgator', 'willard', 'emperor',
+            'dundreary', 'imponte', 'obey', 'enus', 'dewbauchee', 'coil', 'cheval', 'brute', 'walter', 'granforma', 'principe', 'ascot', 'lampadati'}
+WQ_VAGUE = {'helicopter', 'helicopters', 'tanks', 'tank', 'truck', 'speedboat', 'hatchback', 'car', 'cars', 'jets', 'boat', 'plane', 'seaplane',
+            'buggy', 'lowrider', 'bike', 'van', 'utv', 'yacht'}
+WQ_KEEP = {'300-h', '015a'}
+WQ_TRIM = {'st-d', 'gt', 'rs', 'ii', 'iii', 'ff', 'std'}
+WQ_FIX = {'carbos': 'Carbon RS', 'lander': 'Waste Lander', 'stainer': 'Stanier'}
+WQ_WTYPE = r'(small game rifle|assault rifle|sniper rifle|heavy smg|smg|shotgun|pistol|revolver|rifle|mcd)'
+WQ_WGEN = {'rocket launcher': 'Rocket Launcher', 'sticky bomb': 'Sticky Bomb', 'frag grenade': 'Grenade', 'flare gun': 'Flare Gun',
+           'pump shotgun': 'Pump Shotgun', 'sniper rifle': 'Sniper Rifle', 'molotov': 'Molotov Cocktail', '.50 pistol': 'Pistol .50',
+           'body armor': 'Body Armor', 'baseball bat': 'Baseball Bat', 'machete': 'Machete', 'crowbar': 'Crowbar',
+           'grenade launcher': 'Grenade Launcher', 'laird 350': 'Laird 350'}
+WQ_WBAD = {'gold', 'hobo', 'schafter', 'the', 'import', 'house', "hunter's", "russo's"}
+
+
+def wiki_query(mk):
+    name = re.sub(r'\(.*?\)|"[^"]*"', ' ', mk['n']).strip()
+    if not name or re.search(r'[А-Яа-яЁё]', name):
+        return None
+    if mk['c'] in VEHS:
+        if re.search(r'kit car', name, re.I):
+            return 'Kit Car'
+        if re.search(r'\bpredator\b', name, re.I):
+            return 'Predator'
+        w = [x for x in re.findall(r"[A-Za-z0-9&\-]+", name.replace("'", '')) if not re.fullmatch(r'\d{2,4}s?', x)]
+        if w and w[0].lower() in WQ_MAKES:
+            w = w[1:]
+        while len(w) > 1 and w[-1].lower() not in WQ_KEEP and (re.search(r'\d', w[-1]) or w[-1].lower() in WQ_TRIM):
+            w.pop()
+        if not w or w[-1].lower() in WQ_VAGUE or w[-1].lower() in WQ_MAKES or len(w[-1]) < 3:
+            return None
+        return WQ_FIX.get(w[-1].lower(), w[-1])
+    low = name.lower()
+    for k, v in WQ_WGEN.items():
+        if low.startswith(k):
+            return v
+    w = re.sub(r'\s+' + WQ_WTYPE + r'\s*$', '', name, flags=re.I).split()
+    if not w:
+        return None
+    q = w[-1] if w[-1] in ('1922', '556') else ' '.join(w[-2:]) if re.fullmatch(r'\.?\d+', w[-1]) and len(w) > 1 else w[-1]
+    return None if q.lower() in WQ_WBAD or len(q) < 3 else q
+
+
+n_wq = 0
+for q in allm:
+    if (q['c'] in VEHS and q['c'] != 'veh_lux' or q['c'] in ('weapon', 'wpickup')) and not (q.get('img') or q.get('p') or q.get('mp')):
+        wq = wiki_query(q)
+        if wq:
+            q['wq'] = wq
+            n_wq += 1
+print('cards that look the model picture up in the GTA wikis:', n_wq)
 out, en_left = [], []
 for mk in allm:
     assert mk['c'] in catset, mk['c']
