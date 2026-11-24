@@ -833,6 +833,18 @@ for fam in OBJ.values():
         q['mp'] = {'u': d['img']['u'], 'n': d['n']}
         n_same += 1
 print('objects given a photo of the same model:', n_same)
+# official Rockstar promo shots / gameplay frames of the base model, for vehicles that still have no picture
+MODEL_IMG = {k[:-4]: 'models/' + k for k in sorted(os.listdir(os.path.join(args.docs, 'models')))} if os.path.isdir(os.path.join(args.docs, 'models')) else {}
+MODEL_IMG['stainer'] = MODEL_IMG.get('stanier')
+n_off = 0
+for q in allm:
+    if q['c'] in VEHS and not (q.get('img') or q.get('p') or q.get('mp')):
+        tk = set(norm(q['n']).split())
+        hit = next((k for k in MODEL_IMG if k in tk and MODEL_IMG[k]), None)
+        if hit:
+            q['mp'] = {'u': MODEL_IMG[hit], 'n': '', 'off': 1}
+            n_off += 1
+print('vehicles given an official shot of the model:', n_off)
 out, en_left = [], []
 for mk in allm:
     assert mk['c'] in catset, mk['c']

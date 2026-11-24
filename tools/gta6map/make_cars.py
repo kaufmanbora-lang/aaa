@@ -264,6 +264,20 @@ for i, it in enumerate(CJ):
         facts.append(['Выплата', str(it['payout'])])
     emit('c', i, name, cat, sub, it, p, bool(it.get('verified')), r=4 if it.get('list') in ('randy', 'reward') else 3, extra_facts=facts)
 
+# ------------------------------------------------------------------ regional sweeps (same record shape as the collector lists)
+for fn in sorted(os.listdir(os.path.join(HERE, 'research'))):
+    if not re.match(r'cars_region_\d+\.json$', fn):
+        continue
+    RJ = json.load(open(os.path.join(HERE, 'research', fn), encoding='utf8')).get('items', [])
+    tag = 'r' + re.search(r'\d+', fn).group(0)
+    for i, it in enumerate(RJ):
+        name = str(it.get('name') or '').strip()
+        if not name or re.search(r'not named|not stated|unknown model', name, re.I):
+            continue
+        text = f"{it.get('place_detail') or ''} | {it.get('island_or_district') or ''}"
+        p = place(tag, i, text, str(it.get('island_or_district') or ''))
+        emit(tag, i, name, 'veh_standout', 'Редкая машина (по гайдам)', it, p, bool(it.get('verified')), r=3)
+
 # ------------------------------------------------------------------ car spots
 SJ = json.load(open(os.path.join(HERE, 'research', 'car_spots.json'), encoding='utf8'))['items']
 for i, it in enumerate(SJ):
