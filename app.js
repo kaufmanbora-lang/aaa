@@ -265,7 +265,7 @@
       if (m.gone) continue;
       if (m !== state.sel) {
         if (!state.cats.has(m.c) || !state.rar.has(m.r)) continue;
-        if (state.onlyPhoto && !(m.p || m.img)) continue;
+        if (state.onlyPhoto && !(m.p || m.img || m.mp)) continue;
         if (state.onlyVerified && m.v < 3) continue;
         if (state.hideFound && state.found.has(m.id)) continue;
       }
@@ -503,7 +503,8 @@
   function showDetail(m) {
     var c = CAT[m.c], v = VER[m.v] || VER[1], h = '';
     var ph = m.p && m.p[0] ? { src: m.p[0], cap: 'Игровое фото · GTADB (CC BY 4.0)' } :
-      m.img ? { src: m.img.u, cap: m.img.c || '', remote: true } : null;
+      m.img ? { src: m.img.u, cap: m.img.c || '', remote: true } :
+        m.mp ? { src: m.mp.u, cap: 'Та же модель в другом исполнении: ' + m.mp.n + ' · Open GTA 6 Map', remote: true } : null;
     var near = !ph && m.np ? { src: m.np.p, cap: 'Ориентир рядом: ' + m.np.n + ' (≈' + m.np.d + ' м) · фото GTADB' } : null;
     if (ph) {
       h += '<figure class="d-photo" data-src="' + esc(ph.src) + '" data-cap="' + esc(ph.cap) + '"><img src="' + esc(ph.src) + '" alt="" loading="lazy"' +
