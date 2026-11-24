@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>GTA 6 — интерактивная карта Леониды</title>
+<meta name="description" content="Неофициальная интерактивная карта GTA VI: редкий транспорт, уникальное оружие, коллекционные предметы, трюки, ограбления и ориентиры штата Леонида.">
+<meta name="theme-color" content="#0c1118">
+<meta name="color-scheme" content="dark">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Карта GTA 6">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="map" aria-label="Карта штата Леонида"></div>
+
+<header id="topbar">
+  <button id="btn-filters" class="ibtn" type="button" aria-label="Фильтры"><svg viewBox="0 0 24 24" data-i="ui-filter"></svg><span id="filter-badge" class="badge"></span></button>
+  <label id="search">
+    <svg viewBox="0 0 24 24" data-i="ui-search"></svg>
+    <input id="q" type="search" inputmode="search" enterkeyhint="search" placeholder="Поиск: машина, оружие, район…" autocomplete="off" autocapitalize="off" spellcheck="false">
+    <button id="q-clear" type="button" aria-label="Очистить" hidden><svg viewBox="0 0 24 24" data-i="ui-close"></svg></button>
+  </label>
+  <button id="btn-info" class="ibtn" type="button" aria-label="О карте"><svg viewBox="0 0 24 24" data-i="ui-info"></svg></button>
+</header>
+<div id="results" hidden></div>
+
+<nav id="chips" aria-label="Редкость"></nav>
+
+<div id="zoomctl">
+  <button id="z-in" class="ibtn" type="button" aria-label="Приблизить"><svg viewBox="0 0 24 24" data-i="ui-plus"></svg></button>
+  <button id="z-out" class="ibtn" type="button" aria-label="Отдалить"><svg viewBox="0 0 24 24" data-i="ui-minus"></svg></button>
+  <button id="z-home" class="ibtn" type="button" aria-label="Вся карта"><svg viewBox="0 0 24 24" data-i="ui-home"></svg></button>
+</div>
+<div id="counter"></div>
+<div id="tip" hidden></div>
+
+<aside id="filters" class="drawer" aria-label="Фильтры" hidden>
+  <div class="drawer-head">
+    <h2>Фильтры</h2>
+    <button class="ibtn flat" type="button" data-close="filters" aria-label="Закрыть"><svg viewBox="0 0 24 24" data-i="ui-close"></svg></button>
+  </div>
+  <div class="presets" id="presets"></div>
+  <div class="toggles" id="toggles"></div>
+  <div id="progress"></div>
+  <div id="catlist"></div>
+</aside>
+
+<aside id="detail" class="sheet" aria-label="Карточка метки" hidden>
+  <div class="sheet-grab" data-close="detail"><i></i></div>
+  <button class="ibtn flat sheet-x" type="button" data-close="detail" aria-label="Закрыть"><svg viewBox="0 0 24 24" data-i="ui-close"></svg></button>
+  <div id="detail-body"></div>
+</aside>
+
+<div id="lightbox" hidden><img alt=""><div id="lightbox-cap"></div></div>
+
+<div id="about" class="modal" hidden>
+  <div class="modal-box">
+    <div class="drawer-head">
+      <h2>О карте</h2>
+      <button class="ibtn flat" type="button" data-close="about" aria-label="Закрыть"><svg viewBox="0 0 24 24" data-i="ui-close"></svg></button>
+    </div>
+    <div id="about-body"></div>
+  </div>
+</div>
+
+<div id="loading"><div class="spin"></div><span>Загружаю карту Леониды…</span></div>
+
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
