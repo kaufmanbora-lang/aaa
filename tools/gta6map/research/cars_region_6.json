@@ -1,0 +1,643 @@
+{
+  "items": [
+    {
+      "list": "other",
+      "name": "Buzzard (military helicopter; make not stated)",
+      "island_or_district": "Moreau, Lummox County",
+      "place_detail": "Abandoned-looking airfield (airstrip) in Moreau, in the north of Lummox County",
+      "conditions": "Area looks abandoned, only occasional passers-by; described as an easy grab. Aircraft spawns are not guaranteed.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gameshorizon.com/guides/gta-6-helicopter-and-plane-spawn-locations/",
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6",
+        "https://www.theclick.gg/gta-6-helicopter-locations/",
+        "https://etalongame.com/de/gta-6-hubschrauber-flugzeuge-fundorte/"
+      ],
+      "verified": false,
+      "conflict": "Only Gameshorizon names the model (Buzzard) and the Moreau airfield. PowerPyx, Sportskeeda and The Click only say 'a helicopter in the very north of Lummox County', which could equally be the National Park Rangers Maverick helipad north-east of Moreau (already on the map). Etalon Game lists a plane, not a helicopter, on the 'northern airstrip'.",
+      "desc_ru": "Военный вертолёт Buzzard на заброшенном аэродроме в Моро, на севере округа Ламмокс. Охраны нет, но появление вертолёта не гарантировано."
+    },
+    {
+      "list": "other",
+      "name": "Light propeller plane (model not stated)",
+      "island_or_district": "North Kelly County / southern edge of Lummox County",
+      "place_detail": "Airstrip in the north of Kelly County, just south of Lummox County",
+      "conditions": "Planes respawn at airstrips; no wanted level reported for unguarded airstrips.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6",
+        "https://game8.co/games/GTA-6/archives/638725",
+        "https://etalongame.com/de/gta-6-hubschrauber-flugzeuge-fundorte/"
+      ],
+      "verified": true,
+      "conflict": "County attribution differs: PowerPyx, Sportskeeda and Game8 call it north Kelly County, Etalon Game files a 'northern airstrip' plane (and a 'central airstrip' plane) under Lummox County. Model is not named; may overlap with a Kelly County aircraft already on the map (Mallard / Duster).",
+      "desc_ru": "Лёгкий винтовой самолёт на взлётной полосе на севере округа Келли, у границы с округом Ламмокс. Модель в гайдах не названа; самолёты на полосах респавнятся."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not stated)",
+      "island_or_district": "Leonida State Prison (listed under Kelly County by Game8)",
+      "place_detail": "Helipad inside the Leonida State Prison grounds (Helipad 12 in Game8's list)",
+      "conditions": "Helicopters spawn randomly at helipads; not guaranteed.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638692"
+      ],
+      "verified": false,
+      "conflict": "Single source; no other guide mentions the prison helipad or what aircraft sits on it.",
+      "desc_ru": "Вертолётная площадка на территории тюрьмы штата Леонида. Вертолёт появляется случайно, модель в источнике не указана."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Windsor Drop",
+      "island_or_district": "Lake Tallaloko, East Lummox County",
+      "place_detail": "Outside the residential properties around Lake Tallaloko (exact house not stated)",
+      "conditions": "Reported as a possible spawn, not guaranteed.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+      ],
+      "verified": false,
+      "conflict": "Attribution to Push Square's Randy's Wish List page (marked work in progress) is inferred from the search summary. The map already has a Buckingham Windsor Drop in Capri; this is an additional location.",
+      "desc_ru": "Кабриолет Buckingham Windsor Drop может стоять у домов на берегу озера Таллалоко на востоке округа Ламмокс. Спавн не гарантирован."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Toros (driven by an NPC)",
+      "island_or_district": "Moreau, Lummox County",
+      "place_detail": "Near the MacAlister Gold Mine",
+      "conditions": "Tied to an NPC who also appears with the same car in Port Gellhorn, so it is not a guaranteed fixed spawn.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+      ],
+      "verified": false,
+      "conflict": "Single source; NPC-dependent rather than a parked spawn.",
+      "desc_ru": "Pegassi Toros появляется вместе с NPC возле золотого рудника MacAlister в Моро. Тот же NPC встречается и в Порт-Геллхорне, поэтому машина бывает не всегда."
+    },
+    {
+      "list": "other",
+      "name": "\"Alpha Bison\" (name as given by the source)",
+      "island_or_district": "Moreau, Lummox County",
+      "place_detail": "Highway patrol station in Moreau",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://fandomwire.com/rarest-cars-in-gta-6-you-can-get-for-free-ranked/",
+        "https://www.sportskeeda.com/esports/gta-6-5-rarest-cars-get"
+      ],
+      "verified": false,
+      "conflict": "Comes from a 'rarest cars' ranking; the search summary did not say which of the two listed pages. May be the same vehicle as the Bravado Bison 1800 already on the map (parked north-east of Moreau).",
+      "desc_ru": "Редкий пикап «Alpha Bison» у участка дорожного патруля в Моро. Возможно, это тот же Bravado Bison 1800, что уже отмечен на карте."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Tempesta",
+      "island_or_district": "Lake Tallaloko, East Lummox County",
+      "place_detail": "Tallaloko Lakeside Resort, cabin driveway on the west side of Lake Tallaloko",
+      "conditions": "Keyless car: needs the Key Cloner (Chapter 3 or later, from the mission 'Steal the Zorruso for Randy'). Carries an Advanced Tracker: until Pay N' Spray can register Advanced Tracker cars (Chapter 4, after 'Photo/Shoot' and a follow-up call from Randy) it has to be delivered straight to Randy.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://www.sportskeeda.com/gta/where-find-pegassi-tempesta-gta-6-lamborghini-huracan-inspired-supercar",
+        "https://gta6route.com/en/rare-cars/pegassi-tempesta/",
+        "https://www.gta-xtreme.com/en/gta-6-pegassi-tempesta-location"
+      ],
+      "verified": true,
+      "conflict": "Already on the map (Pegassi Tempesta | Lummox County); reported here for lock data. gta-xtreme says Advanced Tracker removal comes with finishing Randy's whole storyline, Sportskeeda says Chapter 4 after 'Photo/Shoot'.",
+      "desc_ru": "Pegassi Tempesta у домика курорта Tallaloko Lakeside Resort на западном берегу озера Таллалоко. Машина бесключевая — нужен Key Cloner, и на ней стоит продвинутый трекер (Advanced)."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Finns Reclaimer",
+      "island_or_district": "East Lummox County (the map lists Millport)",
+      "place_detail": "By the 'Finns Diner and Bait' sign on Tallaloko Lake Rd, south-east of East Lummox County",
+      "conditions": "Registration costs $7,500.",
+      "access": "Locked",
+      "security": null,
+      "tracker": null,
+      "payout": "$2,165",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": false,
+      "conflict": "Already on the map; reported here for lock and price data, which come from one source (Metaforge).",
+      "desc_ru": "Vapid Finns Reclaimer стоит у вывески Finns Diner and Bait на Tallaloko Lake Rd. Машина заперта; продаётся за $2 165, регистрация — $7 500."
+    },
+    {
+      "list": "other",
+      "name": "Maibatsu MyWays Manchez",
+      "island_or_district": "Moreau / South West Lummox County",
+      "place_detail": "At the edge of the rail bridge between Moreau and South West Lummox County",
+      "conditions": "Registration costs $2,700.",
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": "$935",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://leonidaverse.com/en/gta-6-map/category/vehicle-spawns"
+      ],
+      "verified": false,
+      "conflict": "Already on the map, but only with the area 'Leonida'. Exact spot and lock data come from Metaforge; Leonidaverse only groups it with the Mount Kalaga National Park vehicles.",
+      "desc_ru": "Мотоцикл Maibatsu MyWays Manchez стоит на краю железнодорожного моста между Моро и юго-западом округа Ламмокс. Не заперт; продаётся за $935."
+    },
+    {
+      "list": "other",
+      "name": "Del Perro Scorcher",
+      "island_or_district": "East Lummox County",
+      "place_detail": "On a dirt path next to a dead cyclist, south of the US-628 bridge",
+      "conditions": null,
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": false,
+      "conflict": "Already on the map (Del Perro Scorcher | Lummox County); reported here for lock data from one source (Metaforge).",
+      "desc_ru": "Велосипед Del Perro Scorcher лежит на грунтовой тропе рядом с погибшим велосипедистом, южнее моста US-628. Не заперт."
+    },
+    {
+      "list": "other",
+      "name": "Bravado DriveShaft Gauntlet ('69 Gauntlet Custom, \"Dom's Charger\")",
+      "island_or_district": "Grayson, Lummox County",
+      "place_detail": "Sid Thompson's home north-east of the Grayson town marker, close to the railway tracks along San Malo Bay; by the smaller of the two houses, plate 'Day Two'",
+      "conditions": "Severely rusted car. One guide says its security is modern and it may need the Key Cloner.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/driveshaft-gauntlet",
+        "https://beebom.com/gta-6-doms-charger-location/",
+        "https://www.gtaboom.com/how-to-find-and-keep-doms-charger-in-gta-6-0143",
+        "https://www.sportskeeda.com/esports/all-fast-furious-cars-gta-6-find",
+        "https://www.hotcars.com/gta-6s-doms-charger-is-actually-a-dodge-challenger/"
+      ],
+      "verified": true,
+      "conflict": "Already on the map; reported here for lock data. The Key Cloner requirement is hedged in the source ('may need'). Exact spot differs: behind Sid Thompson's house (Beebom, GTA Boom), outside the smaller of two houses (Sportskeeda), in a shed (HotCars).",
+      "desc_ru": "Ржавый Bravado DriveShaft Gauntlet («Чарджер Доминика») стоит у дома Сида Томпсона на северо-востоке Грейсона, возле железной дороги у залива Сан-Мало. По одному из гайдов, для угона может понадобиться Key Cloner."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Volatus",
+      "island_or_district": "Lake Tallaloko, East Lummox County (north of Millport)",
+      "place_detail": "Helipad by the Tallaloko Clubhouse inside the gated lakeside community",
+      "conditions": "Gated community: entering is trespassing and going through the main gate alerts security. The helipad is guarded by three armed guards.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gamespot.com/articles/how-to-get-a-plane-in-gta-6/",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://www.playground.ru/gta_6/guide/gde_najti_samolyoty_i_vertolyoty_v_gta_6_raspolozhenie_vseh_izvestnyh_vozdushnyh_sudov-1891791"
+      ],
+      "verified": true,
+      "conflict": "Already on the map. A Metaforge fragment near this entry reads 'Access: Locked', but the search excerpt did not make clear that it belongs to the Volatus, so access is left null. Included for the guard and trespass conditions only.",
+      "desc_ru": "Вертолёт Buckingham Volatus стоит на площадке у клуба Tallaloko Clubhouse в закрытом посёлке у озера Таллалоко. Территория частная, площадку охраняют трое вооружённых охранников."
+    },
+    {
+      "list": "other",
+      "name": "Mammoth Dodo (seaplane)",
+      "island_or_district": "Southwind, Mariana County",
+      "place_detail": "Small seaplane hangar on the water next to Sherwin Boatworks and Chicki's Tiki Bar: turn right off Sunbelt Highway (Route 1) after the two long bridges past Abismo Key, face the water and look right (south). Dodos stand inside and around the hangar and are moored off the dock.",
+      "conditions": "Unguarded, no wanted level on take-off, available from Chapter 1. About 2.5 miles south-west of Jason's house. A Buckingham Maverick sits on the dock next to the hangar.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+        "https://gta6intel.com/news/nearest-gta-6-starter-plane",
+        "https://gta6-japan.com/en/tips/southwind-seaplane-mammoth-dodo/",
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/",
+        "https://readdork.com/features/where-steal-first-plane-helicopter-gta-6"
+      ],
+      "verified": true,
+      "conflict": "Number of planes differs between guides: three Dodos, 'a few plus a couple moored', or a single plane.",
+      "desc_ru": "Гидросамолёты Mammoth Dodo стоят в небольшом ангаре и у причала в Саутвинде, рядом с Sherwin Boatworks и Chicki's Tiki Bar. Охраны нет, розыск не дают, доступны с первой главы."
+    },
+    {
+      "list": "other",
+      "name": "Bottcher Duster (crop-duster biplane)",
+      "island_or_district": "Key Lento, Mariana County",
+      "place_detail": "Airstrip at Key Lento near Jason's house (GameTruth: the airstrip off Boundary Road)",
+      "conditions": "No wanted level. Planes respawn at airstrips. Recommended by PowerPyx for unfogging the map.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/",
+        "https://www.gametruth.com/guides/gta-6-where-to-find-a-plane/"
+      ],
+      "verified": true,
+      "conflict": "GameTruth calls this the closest plane to Jason's house, other guides say the Southwind Dodos are. Whether the 'airstrip off Boundary Road, Mariana County' and the 'Key Lento airstrip' are the same strip is not confirmed.",
+      "desc_ru": "Биплан-кукурузник Bottcher Duster стоит на взлётной полосе в Ки-Ленто недалеко от дома Джейсона. Розыск не дают, самолёт респавнится."
+    },
+    {
+      "list": "other",
+      "name": "Plane (model not stated)",
+      "island_or_district": "Mariana County",
+      "place_detail": "Near the hangars at the airstrip west of the swamps",
+      "conditions": "Planes respawn at airstrips.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+      ],
+      "verified": true,
+      "conflict": "A second guide in the search results says the same (one of gta6locations.com, leonidainteractive.com or gameta.gg; not identified individually). Model is not named; may overlap with the Mammatus entries already on the map in Mariana County.",
+      "desc_ru": "Самолёт у ангаров на взлётной полосе к западу от болот в округе Мариана. Модель в гайдах не названа."
+    },
+    {
+      "list": "other",
+      "name": "Crop duster plane (model not stated)",
+      "island_or_district": "Pelican Valley",
+      "place_detail": "Airfield area listed by Game8 as having pilotable crop dusters",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638725"
+      ],
+      "verified": false,
+      "conflict": "Single source; exact spot and county were not visible in the search excerpt.",
+      "desc_ru": "Самолёты-кукурузники в районе Пеликан-Вэлли. Точное место в источнике не раскрыто."
+    },
+    {
+      "list": "other",
+      "name": "Small propeller planes (model not stated)",
+      "island_or_district": "Grassrivers",
+      "place_detail": "Airfield area listed by Game8 as having small and propeller planes",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638725"
+      ],
+      "verified": false,
+      "conflict": "Single source; exact spot was not visible in the search excerpt.",
+      "desc_ru": "Небольшие винтовые самолёты на аэродроме в Грассриверс. Точное место в источнике не раскрыто."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Shamal (business jet)",
+      "island_or_district": "Vice City International Airport",
+      "place_detail": "By the cargo hangars",
+      "conditions": "Airport jets carry trackers: stealing one gives a wanted level and fighter jets are sent to shoot you down.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/",
+        "https://game8.co/games/GTA-6/archives/638764"
+      ],
+      "verified": false,
+      "conflict": "The 'Shamal by the cargo hangars' detail comes from one guide in the search results that was not identified individually (gta6locations.com, leonidainteractive.com, gameta.gg or gtabites.com). Tracker type (Standard or Advanced) is not stated. May be the same aircraft as the Buckingham Love Fist Shamal already on the map.",
+      "desc_ru": "Бизнес-джет Buckingham Shamal стоит у грузовых ангаров международного аэропорта Вайс-Сити. На самолётах аэропорта стоят трекеры: за угон дают розыск и поднимают истребители."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not stated)",
+      "island_or_district": "Vice-Dale County (Vice City)",
+      "place_detail": "Rooftop helipad of the hospital; the pad is reached by a ladder",
+      "conditions": "Does not always spawn.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-helicopter-locations-where-to-find-one/"
+      ],
+      "verified": true,
+      "conflict": "Hospital name and district were not given in the search excerpts.",
+      "desc_ru": "Вертолёт на крыше больницы в округе Вайс-Дейл, подняться можно по лестнице. Появляется не всегда."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (regular-sized; model not stated)",
+      "island_or_district": "Downtown, Vice City",
+      "place_detail": "Roof of the Maven Residences skyscraper, south-west of Panos Plaza; enter the lobby and take the elevator to the roof",
+      "conditions": "Rooftop helipads are marked with an H icon on the map; spawn is not guaranteed.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playground.ru/gta_6/guide/gde_najti_samolyoty_i_vertolyoty_v_gta_6_raspolozhenie_vseh_izvestnyh_vozdushnyh_sudov-1891791",
+        "https://www.gamespot.com/articles/how-to-get-a-plane-in-gta-6/",
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+      ],
+      "verified": false,
+      "conflict": "Playground.ru and one English guide (apparently GameSpot) name the building, but the Russian guide looks derived from the English one, so they are not counted as independent. May be the same spawn as the Buckingham Dragonfly Volatus already on the map (Catalan Blvd, Downtown).",
+      "desc_ru": "Вертолёт на крыше небоскрёба Maven Residences юго-западнее Panos Plaza в даунтауне Вайс-Сити. Зайдите в лобби и поднимитесь на лифте на крышу."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not stated)",
+      "island_or_district": "Flamingo Island, north Vice City (Vice-Dale County)",
+      "place_detail": null,
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+      ],
+      "verified": true,
+      "conflict": "PowerPyx plus two further guides in the search results (not identified individually; candidates are Sportskeeda and Metaforge) say Flamingo Island has a helicopter and a plane. None gives the exact spot or the model.",
+      "desc_ru": "Вертолёт на острове Фламинго на севере Вайс-Сити. Точное место и модель в гайдах не указаны."
+    },
+    {
+      "list": "other",
+      "name": "Plane (model not stated)",
+      "island_or_district": "Flamingo Island, north Vice City (Vice-Dale County)",
+      "place_detail": null,
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+      ],
+      "verified": true,
+      "conflict": "PowerPyx plus two further guides in the search results (not identified individually; candidates are Sportskeeda and Metaforge) say Flamingo Island has a helicopter and a plane. None gives the exact spot or the model.",
+      "desc_ru": "Самолёт на острове Фламинго на севере Вайс-Сити, там же стоит вертолёт. Точное место и модель в гайдах не указаны."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not stated)",
+      "island_or_district": "Ambrosia, Kelly County",
+      "place_detail": "In the north of Ambrosia",
+      "conditions": "A map marker does not guarantee that a helicopter is present.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://www.gta-xtreme.com/gta-6/locations/helicopters"
+      ],
+      "verified": true,
+      "conflict": "PowerPyx says 'north of Ambrosia', gta-xtreme only shows a helicopter marker named for Ambrosia. Community maps list an 'Airfield, Ambrosia', but no source says the helicopter is on it.",
+      "desc_ru": "Вертолёт в северной части Амброзии, округ Келли. Модель не указана, спавн не гарантирован."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not stated)",
+      "island_or_district": "Rockridge, Vice City",
+      "place_detail": "Helicopter marker named for Rockridge on the gta-xtreme map",
+      "conditions": "A map marker does not guarantee that a helicopter is present.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gta-xtreme.com/gta-6/locations/helicopters"
+      ],
+      "verified": false,
+      "conflict": "Single source; only the marker name was visible in the search excerpt.",
+      "desc_ru": "Точка появления вертолёта в районе Рокридж, Вайс-Сити. Модель и точное место в источнике не раскрыты."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (random helipad spawn; model not stated)",
+      "island_or_district": "Washington Island, Vice-Dale County",
+      "place_detail": "Helipad on Washington Island",
+      "conditions": "Helicopters spawn randomly at helipads; not guaranteed.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638692"
+      ],
+      "verified": false,
+      "conflict": "Single source. Game8 numbers Vice-Dale helipads 1 to 10 (no. 6 missing) across Washington Island, Washington Beach, Ocean Beach, Penmarch Isle, Downtown, VCIA and Peacock Bay; how many are in each district was not visible.",
+      "desc_ru": "Вертолётная площадка на острове Вашингтон. Вертолёт появляется случайно, модель не указана."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (random helipad spawn; model not stated)",
+      "island_or_district": "Washington Beach, Vice Beach",
+      "place_detail": "Helipad in Washington Beach",
+      "conditions": "Helicopters spawn randomly at helipads; not guaranteed.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638692"
+      ],
+      "verified": false,
+      "conflict": "Single source. May be the same pad as the Maverick (helicopter) already on the map in Vice Beach.",
+      "desc_ru": "Вертолётная площадка в Вашингтон-Бич. Вертолёт появляется случайно, модель не указана."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (random helipad spawn; model not stated)",
+      "island_or_district": "Penmarch Isle, Vice-Dale County",
+      "place_detail": "Helipad on Penmarch Isle",
+      "conditions": "Helicopters spawn randomly at helipads; not guaranteed.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638692"
+      ],
+      "verified": false,
+      "conflict": "Single source; exact pad position was not visible in the search excerpt.",
+      "desc_ru": "Вертолётная площадка на острове Пенмарч. Вертолёт появляется случайно, модель не указана."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (random helipad spawn; model not stated)",
+      "island_or_district": "Peacock Bay, Vice City",
+      "place_detail": "Helipad in Peacock Bay",
+      "conditions": "Helicopters spawn randomly at helipads; not guaranteed.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638692"
+      ],
+      "verified": false,
+      "conflict": "Single source; exact pad position was not visible in the search excerpt.",
+      "desc_ru": "Вертолётная площадка в Пикок-Бэй. Вертолёт появляется случайно, модель не указана."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter at the Hamlet helipad (model not stated in guides)",
+      "island_or_district": "East of Hamlet, Vice-Dale County",
+      "place_detail": "Private helipad inside a gated compound east of Hamlet, between two busy roads; there is a security checkpoint at the gate, and guides say to hop the chain-link fence beside it",
+      "conditions": "Available early in the story; no wanted level on take-off.",
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-helicopter-locations-where-to-find-one/",
+        "https://gameshorizon.com/guides/gta-6-helicopter-and-plane-spawn-locations/",
+        "https://xboxplay.games/gta-6/gta-6-how-to-get-a-helicopter-spawn-locations-77443",
+        "https://gamerant.com/gta-6-helicopter-location/",
+        "https://gamerhour.net/guides/gta-6-early-helicopter-location-how-to-get-a-helicopter/"
+      ],
+      "verified": true,
+      "conflict": "Probably the Buckingham SuperVolito already on the map in Hamlet, but no guide in the search results names the model. The 'not locked, alerts no one' statement comes from one guide (GameRant or GamerHour; not identified individually).",
+      "desc_ru": "Вертолёт на частной площадке в закрытом комплексе к востоку от Хэмлета. КПП у ворот можно обойти, перелезв через сетчатый забор; вертолёт не заперт и розыск не дают."
+    },
+    {
+      "list": "other",
+      "name": "Jason's fishing boat (model not stated)",
+      "island_or_district": "Key Lento, Mariana County",
+      "place_detail": "Dock behind Jason's house",
+      "conditions": "Free from the start of the game; lost once the story moves Jason elsewhere. Boats cannot be bought or registered.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gtalab.online/articles/gta-6-key-lento-boat-ownership/",
+        "https://www.gamespot.com/articles/how-to-get-a-boat-in-gta-6/",
+        "https://dotesports.com/gta/guides/how-to-get-a-boat-in-gta-6",
+        "https://happygamer.com/gta-6-how-to-get-a-boat-178909/"
+      ],
+      "verified": true,
+      "conflict": "Model is not named in the search excerpts; may be the Bombora S23 already on the map in Key Lento.",
+      "desc_ru": "Рыбацкая лодка Джейсона у причала за его домом в Ки-Ленто. Доступна бесплатно с начала игры, но пропадает, когда сюжет уводит героя в другое место."
+    },
+    {
+      "list": "other",
+      "name": "Speedboats (models not stated)",
+      "island_or_district": "Key Lento, Mariana County",
+      "place_detail": "Docks of Key Lento Marina, Brian's Boat Works & Marina and Key Lento Marina Club",
+      "conditions": "Named as the usual early-game source of speedboats. Luxury speedboats need the Key Cloner.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats",
+        "https://dotesports.com/gta/guides/how-to-get-a-boat-in-gta-6",
+        "https://www.gamespot.com/articles/how-to-get-a-boat-in-gta-6/"
+      ],
+      "verified": false,
+      "conflict": "The search summary listed the three marinas without saying which guide names them. Boat guides disagree on marina names elsewhere (Vice City Marina, Port Gellhorn Docks, Coast Guard Station versus Peacock Bay and Bayside marinas).",
+      "desc_ru": "Катера у причалов Key Lento Marina, Brian's Boat Works & Marina и Key Lento Marina Club в Ки-Ленто. Для дорогих катеров нужен Key Cloner."
+    },
+    {
+      "list": "other",
+      "name": "Seashark Revolutionary Azure",
+      "island_or_district": "Key Lento, Mariana County",
+      "place_detail": "Parked outside a house in Key Lento",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://mapmaster.io/games/grand-theft-auto-6/guides/Watercraft"
+      ],
+      "verified": false,
+      "conflict": "One standout list (GTABase or Mapmaster; not identified individually). The same list places the Seashark (Leonida Man) and Seashark Westbound Azure in Watson Bay / Pelican Valley, while the map has both in Mariana County.",
+      "desc_ru": "Гидроцикл Seashark Revolutionary Azure (Standout) стоит возле дома в Ки-Ленто. Точный адрес в источнике не указан."
+    },
+    {
+      "list": "other",
+      "name": "Large yachts (models not stated)",
+      "island_or_district": "Leaf Links, Vice Beach",
+      "place_detail": "Docks of the Leaf Links Country Club, north of Vice Beach and east of the Decor District",
+      "conditions": "No security guards on the docks. Large yachts and luxury speedboats need the Key Cloner (from Randy's story missions). Boats cannot be registered or stored.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://dotesports.com/gta/guides/how-to-get-a-boat-in-gta-6",
+        "https://www.gamespot.com/articles/how-to-get-a-boat-in-gta-6/",
+        "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats",
+        "https://happygamer.com/gta-6-how-to-get-a-boat-178909/"
+      ],
+      "verified": true,
+      "conflict": "The map already has the Buckingham Diamond Jubilee at Leaf Links; reported here for lock data. Whether boats carry trackers is not stated. One boat guide puts the Key Cloner in Chapter 4, car-theft guides in Chapter 3.",
+      "desc_ru": "Несколько больших яхт у причалов загородного клуба Leaf Links к северу от Вайс-Бич. Охраны нет, но для угона яхт нужен Key Cloner."
+    },
+    {
+      "list": "other",
+      "name": "APC (armored personnel carrier; model not stated)",
+      "island_or_district": "Mile Zero Air Station, Mariana County (far south-west)",
+      "place_detail": "South part of the base, parked just in front of the tanks",
+      "conditions": "Military base: taking a vehicle brings a 3 to 6 star army response.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/"
+      ],
+      "verified": false,
+      "conflict": "Outside the northern region; included because it is not on the map. Base location is given as Goose Key south-east of Key Lento by some sources and Mariana County west of Key Lento by others.",
+      "desc_ru": "Бронетранспортёры стоят в южной части военной базы Mile Zero Air Station, прямо перед танками. За угон дают от 3 до 6 звёзд розыска."
+    },
+    {
+      "list": "other",
+      "name": "Tanks (model not stated)",
+      "island_or_district": "Mile Zero Air Station, Mariana County (far south-west)",
+      "place_detail": "South part of the base, behind the APCs",
+      "conditions": "Soldiers climb into the tanks if you linger, so leave quickly. 3 to 6 star army response.",
+      "access": "Unlocked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/",
+        "https://game8.co/games/GTA-6/archives/638780"
+      ],
+      "verified": true,
+      "conflict": "Already on the map (Tanks | Mariana County); reported here for lock data. The 'not locked' statement comes from Leonipedia only.",
+      "desc_ru": "Танки стоят в южной части базы Mile Zero Air Station, за бронетранспортёрами. Они не заперты, но солдаты садятся в них, если замешкаться; розыск 3–6 звёзд."
+    }
+  ]
+}

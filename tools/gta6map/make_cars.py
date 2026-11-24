@@ -132,6 +132,15 @@ MAN = {
     ('c', 45): A('Guns Aplenty!', ap=1, where='за автомастерской Donnies Auto Repair, Watson Bay'),
     ('c', 46): A('Casanova Island Bridge', ap=1, where='подъезд к особняку на Casanova Island'),
     ('c', 39): A('Wyatt Motors', ap=1, where='гараж у заправки Xero рядом с Wyatt Motors, Ambrosia'),
+    ('r2', 0): {'merge': 'o-standout-vehicle-101', 'x': 899, 'y': 643, 'where': 'Starfish Island', 'ap': 0},
+    ('r2', 4): MG('Piccia Furia'),
+    ('c', 0): None, ('c', 51): None, ('r4', 9): None, ('r6', 3): None,      # story car / conflicting or unnamed spot: not a pin
+    ('c', 23): {'merge': 'xv17', 'x': 1722, 'y': -1384, 'where': 'Dalton Island', 'ap': 0},
+    ('s', 29): MG('Piccia Dragon Gate Furia'),
+    ('r2', 8): None, ('r2', 9): None, ('r6', 20): None, ('r6', 21): None,          # "Flamingo Island": no guide says where on the map
+    ('r6', 14): A('Mariana County Airfield', where='ангары аэродрома Mariana County Airfield'),
+    ('r6', 22): A('Ambrosia Medical Center Helipad', ap=1, where='вертолётная площадка на севере Ambrosia'),
+    ('r6', 34): A('Mile Zero Air Station', dx=-30, dy=-45, where='южная часть базы Mile Zero Air Station'),
     ('c', 8): at(-1406, 2925, 'особняк в Belville', 1),
 }
 R_LIST = {'randy': ('veh_randy', 'Заказ Рэнди'), 'moses': ('veh_moses', 'Заказ Мозеса'), 'wyman': ('veh_randy', 'Заказ Уаймана (остов для восстановления)'),
@@ -226,7 +235,7 @@ def place(kind, i, text, area):
     m = find_place(text)
     if m:
         key = norm(re.sub(r'\(.*?\)', '', m['n']))
-        vague = bool(re.search(NEAR + re.escape(key.split()[0]), low))
+        vague = bool(key.split()) and bool(re.search(NEAR + re.escape(key.split()[0]), low))
         return {'x': m['x'], 'y': m['y'], 'where': ('рядом с ' if vague else '') + m['n'], 'ap': 1 if vague else 0}
     lb = find_area(area) or find_area(text)
     if lb:
@@ -235,12 +244,17 @@ def place(kind, i, text, area):
 
 
 extras, skipped, report = [], [], []
+SAME = {('r6', 1), ('r6', 18), ('r6', 28), ('r6', 32)}     # generic aircraft / boat reports that repeat an existing pin
 seq = 0
 
 
 def emit(kind, i, name, cat, sub, it, p, verified, r=4, extra_facts=()):
     global seq
     fld = fld_of(it)
+    if not p and len(tokens(name, False)) >= 3:
+        same = [m for m in VEH if identity(name, m['n']) == 2]
+        if len(same) == 1:
+            p = {'merge': same[0]['id'], 'x': same[0]['x'], 'y': same[0]['y'], 'where': same[0].get('a', ''), 'ap': 0}
     ex = existing(name, p)
     u = links(it.get('sources'))
     if ex is not None and 'merge_any' not in ex and ex.get('force_new'):
@@ -254,7 +268,8 @@ def emit(kind, i, name, cat, sub, it, p, verified, r=4, extra_facts=()):
         extras.append(e)
         report.append(f"merge {name[:34]:34s} -> {ex['n'][:34]} [{ex['id']}]")
         return
-    if not verified or not p:
+    single = bool(p) and not verified and not p['ap'] and kind != 's'
+    if not p or (not verified and not single):
         skipped.append({'k': 'vehicle', 'n': name, 't': it.get('desc_ru'), 'u': u[:2]})
         report.append(f"skip  {name[:34]:34s} ({'no place' if not p else 'one source'})")
         return
@@ -268,9 +283,13 @@ def emit(kind, i, name, cat, sub, it, p, verified, r=4, extra_facts=()):
          'f': facts, 's': ['web'], 'v': 3, 'fld': fld, 'force_new': 1}
     if p['ap']:
         e['ap'] = 1
+    if single:
+        e['v'] = 1
+        e['sub'] = sub.replace(' (по гайдам)', '') + ' — один источник'
+        e['f'].append(['Проверка', 'место назвал только один источник — другие гайды его пока не подтверждают'])
     extras.append(e)
     created.append((name, p['x'], p['y'], e))
-    report.append(f"new   {name[:34]:34s} @ {p['where'][:40]}{' ~' if p['ap'] else ''}")
+    report.append(f"{'new1 ' if single else 'new  '} {name[:34]:34s} @ {p['where'][:40]}{' ~' if p['ap'] else ''}")
 
 
 # ------------------------------------------------------------------ collector lists
@@ -293,10 +312,36 @@ for fn in sorted(os.listdir(os.path.join(HERE, 'research'))):
     tag = 'r' + re.search(r'\d+', fn).group(0)
     for i, it in enumerate(RJ):
         name = str(it.get('name') or '').strip()
-        if not name or re.search(r'not named|not stated|unknown model', name, re.I):
-            continue
         text = f"{it.get('place_detail') or ''} | {it.get('island_or_district') or ''}"
         p = place(tag, i, text, str(it.get('island_or_district') or ''))
+        if not name:
+            continue
+        if re.search(r'not named|not stated|unknown model|model unknown', name, re.I):
+            # a confirmed spawn whose model no guide names: keep it as a generic aircraft / boat pin
+            low = name.lower()
+            if (tag, i) in SAME:
+                continue
+            kind = 'Вертолёт' if 'helicopter' in low else 'Самолёт' if re.search(r'plane|jet|aircraft', low) else 'Катер или яхта' if re.search(r'boat|yacht|jet ski', low) \
+                else 'Танк' if re.search(r'\btanks?\b', low) else None
+            gic = {'Вертолёт': 'heli', 'Самолёт': 'plane', 'Катер или яхта': 'boat', 'Танк': 'tank'}.get(kind)
+            if not kind or not it.get('verified') or not p or p['where'].startswith('район '):
+                skipped.append({'k': 'vehicle', 'n': name, 't': it.get('desc_ru'), 'u': links(it.get('sources'), 2)})
+                continue
+            near = [m for m in VEH if math.hypot(m['x'] - p['x'], m['y'] - p['y']) <= 260 and m.get('ic') == gic]
+            near += [c for c in created if math.hypot(c[1] - p['x'], c[2] - p['y']) <= 260 and c[0].startswith(kind)]
+            if near:
+                report.append(f"dup   {kind} (already a pin within 260 m)")
+                continue
+            seq += 1
+            e = {'id': f'xa{tag}{i}', 'n': kind + ': ' + p['where'].replace('район ', '').replace('рядом с ', ''), 'c': 'veh_standout', 'r': 3,
+                 'sub': 'Место появления — модель в гайдах не названа', 'x': round(p['x'] + 9), 'y': round(p['y'] + 9), 't': it.get('desc_ru'),
+                 'u': links(it.get('sources')), 'f': [['Привязка на карте', p['where']]], 's': ['web'], 'v': 3, 'fld': fld_of(it), 'force_new': 1,
+                 'ic': gic}
+            if p['ap']:
+                e['ap'] = 1
+            extras.append(e); created.append((kind, p['x'], p['y'], e))
+            report.append(f"new   {kind:34s} @ {p['where'][:40]}{' ~' if p['ap'] else ''}")
+            continue
         emit(tag, i, name, 'veh_standout', 'Редкая машина (по гайдам)', it, p, bool(it.get('verified')), r=3)
 
 # ------------------------------------------------------------------ car spots

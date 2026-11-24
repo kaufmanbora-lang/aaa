@@ -810,6 +810,11 @@ def model_keys(name):
     return (w[-2:][::-1] + [''])[:2] if w else ['', '']
 
 
+def name_tokens(name):
+    t = ' '.join(re.findall(r'[a-z0-9]+', re.sub(r'\(.*?\)', ' ', name).lower().replace("'", ''))).replace('st d', 'std')
+    return [x for x in t.split() if not re.fullmatch(r'\d{2,4}', x)]
+
+
 OBJ = {'veh': VEHS, 'weapon': ('weapon',)}
 n_same = 0
 for fam in OBJ.values():
@@ -823,6 +828,14 @@ for fam in OBJ.values():
             continue
         k1, k2 = model_keys(q['n'])
         cands = donors.get(k1) or (donors.get(k2) if k2 and fam is VEHS and len(k2) > 3 else None)
+        if not cands and fam is VEHS:
+            # plain base model ("Lure Predator L35P") next to a named one-off of it ("Lure Predator Cold Case L35P")
+            mine = set(name_tokens(q['n']))
+            sub = [d for d in pool if d.get('img') and len(mine) >= 3 and mine <= set(name_tokens(d['n']))]
+            if sub:
+                q['mp'] = {'u': sub[0]['img']['u'], 'n': sub[0]['n']}
+                n_same += 1
+                continue
         if not cands or not k1:
             continue
         make = norm(q['n']).split()[:1]

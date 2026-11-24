@@ -46,21 +46,6 @@
  },
  {
   "k": "vehicle",
-  "n": "Truffade Thrax",
-  "t": "Truffade Thrax стоит у клубного дома с охранником на Dalton Island (паром с Waxman Island). Рэнди сам звонит и отмечает точку, когда вы сдадите достаточно машин.",
-  "u": [
-   [
-    "destructoid.com",
-    "https://www.destructoid.com/how-to-get-the-truffade-thrax-in-gta-6/"
-   ],
-   [
-    "tech.yahoo.com",
-    "https://tech.yahoo.com/gaming/articles/truffade-thrax-gta-6-062250075.html"
-   ]
-  ]
- },
- {
-  "k": "vehicle",
   "n": "'70 Riata — wreck (Key Lento)",
   "t": "Остов Riata '70 в Key Lento стоит под коричневым домом на сваях рядом с Leonida Key Lento Mini-Mart. Другой гайд указывает Sunset Drive напротив полицейской штрафстоянки — точный дом уточняйте на месте.",
   "u": [
@@ -132,46 +117,16 @@
  },
  {
   "k": "vehicle",
-  "n": "Buckingham Jubilee",
-  "t": "Buckingham Jubilee из списка Рэнди. По данным одного гайда встречается в автосалоне Status Auto Imports на западе Бэйсайда. Не подтверждено другими источниками — проверяйте сканером WAiNK.",
+  "n": "Helicopter (model not stated) - hospital rooftop helipad",
+  "t": "Вертолёт на крыше больницы в округе Вайс-Дейл. На вертолётную площадку можно подняться по лестнице. Вертолёт появляется не всегда — это запасная точка.",
   "u": [
    [
-    "playstationtrophies.org",
-    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
    ],
    [
-    "gameshorizon.com",
-    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
-   ]
-  ]
- },
- {
-  "k": "vehicle",
-  "n": "Benefactor Dubsta",
-  "t": "Benefactor Dubsta из списка Рэнди. По одному гайду стоит на парковке автосалона Status Auto Imports на западе Бэйсайда. Спавн случайный, точка не подтверждена — просканируйте машины на парковке через WAiNK.",
-  "u": [
-   [
-    "gameshorizon.com",
-    "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
-   ],
-   [
-    "playstationtrophies.org",
-    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
-   ]
-  ]
- },
- {
-  "k": "vehicle",
-  "n": "Benefactor Dubsta",
-  "t": "Benefactor Dubsta из списка Рэнди. По данным русскоязычного гайда его можно найти у мастерской N-X 94 Vice Car Repair рядом с аэропортом Вайс-Сити. Точка не подтверждена другими источниками.",
-  "u": [
-   [
-    "lvl.su",
-    "https://lvl.su/wiki/grand-theft-auto-vi/post/gta6-randys-wish-list"
-   ],
-   [
-    "arz-wiki.com",
-    "https://arz-wiki.com/gta-6/articles/redkie-mashiny-gta-6/"
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
    ]
   ]
  },
@@ -237,6 +192,73 @@
  },
  {
   "k": "vehicle",
+  "n": "Vapid Hustler (custom 1932-style hot rod; Standout variant name not stated)",
+  "t": "Кастомный хот-род Vapid Hustler в закрытом гараже дома на Rialto Islands. Обойдите дом со стороны заднего двора, войдите через маленькую боковую дверь и откройте ворота кнопкой управления гаражом. Один источник, точный остров не указан.",
+  "u": [
+   [
+    "fandomwire.com",
+    "https://fandomwire.com/rarest-cars-in-gta-6-you-can-get-for-free-ranked/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (model not named)",
+  "t": "Вертолёт (модель не названа) на крыше отеля Rico Huxley Hotels в Downtown, у реки восточнее спортзала Zenith. Поднимитесь на лифте в лобби и взломайте выход на крышу. Один источник, спавн не гарантирован.",
+  "u": [
+   [
+    "dualshockers.com",
+    "https://www.dualshockers.com/gta-6-find-helicopters/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (model not named)",
+  "t": "Вертолёт (модель не названа) на крыше небоскрёба Maven Residences к юго-западу от Panos Square в центре Вайс-Сити. Подъём на лифте из лобби. Район в источнике не указан, спавн непостоянный.",
+  "u": [
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-helicopter-locations/"
+   ],
+   [
+    "happygamer.com",
+    "https://happygamer.com/gta-6-how-to-get-a-helicopter-179627/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (model not named)",
+  "t": "Вертолёт на вертолётной площадке в северной части Flamingo Island (север Вайс-Сити). Модель в гайдах не названа.",
+  "u": [
+   [
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+   ],
+   [
+    "magicgameworld.com",
+    "https://www.magicgameworld.com/gta-6-helicopter-locations-where-to-find-your-first-chopper/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Plane (model not named)",
+  "t": "Самолёт, припаркованный на Flamingo Island на севере Вайс-Сити, рядом с вертолётом. Модель и точное место в источниках не указаны.",
+  "u": [
+   [
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+   ],
+   [
+    "leonipedia.com",
+    "https://leonipedia.com/guides/aircraft-and-military-vehicles/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
   "n": "Übermacht Cypher",
   "t": "Übermacht Cypher из списка Рэнди — в автосалоне Übermacht в Southside. Купить нельзя, только угнать. Один источник.",
   "u": [
@@ -248,23 +270,72 @@
  },
  {
   "k": "vehicle",
-  "n": "Buckingham Valkyrie",
-  "t": "Военный вертолёт Buckingham Valkyrie, по данным одного источника, стоит на базе Mile Zero Air Station (Goose Key). Не подтверждено другими гайдами.",
+  "n": "Gold jet ski x2 (model not named)",
+  "t": "Два золотых гидроцикла в гараже богатого особняка на Starfish Island, рядом с Benefactor Gilded Dubsta. Модель и возможность забрать не подтверждены, один источник.",
   "u": [
    [
-    "damnmodz.com",
-    "https://damnmodz.com/wiki/gta-6/vehicles/police-cars/"
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
    ]
   ]
  },
  {
   "k": "vehicle",
-  "n": "Hauners Cargobob",
-  "t": "Транспортный вертолёт Hauners Cargobob, по данным одного источника, стоит на стоянке авиатехники у взлётной полосы и ангаров базы Mile Zero Air Station. Не подтверждено другими гайдами.",
+  "n": "Benefactor Dubsta (variant not stated; Gilded or Fatstaks)",
+  "t": "Benefactor Dubsta в гараже особняка на северо-востоке Starfish Island, рядом с Vitello и Itali RSX. Обычный трекер; продажа — $20 750. Вариант (Gilded или Fatstaks) в источнике не уточнён.",
   "u": [
    [
-    "damnmodz.com",
-    "https://damnmodz.com/wiki/gta-6/vehicles/police-cars/"
+    "gtaboom.com",
+    "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3"
+   ],
+   [
+    "gta6info.app",
+    "https://gta6info.app/map/rare-vehicles"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Bravado Gauntlet Hellfire",
+  "t": "Bravado Gauntlet Hellfire может стоять на многоуровневой парковке в квартале за отелем Ocean View, сразу за магазином Ferruccio Tucci. Спавн не гарантирован; другой гайд называет парковку бара Fin and Farm.",
+  "u": [
+   [
+    "playstationtrophies.org",
+    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ],
+   [
+    "xboxachievements.com",
+    "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Gallivanter Baller ST-D",
+  "t": "Gallivanter Baller ST-D появляется у небольшой парковки в юго-западном углу восточного острова Уэйнинг-Сэндс, рядом с домами престарелых. По гайду здесь несколько точек спавна; машина нужна для списка Рэнди.",
+  "u": [
+   [
+    "playstationtrophies.org",
+    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ],
+   [
+    "xboxachievements.com",
+    "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Shitzu Squalo",
+  "t": "Катер Shitzu Squalo, по сообщениям игроков, пришвартован рядом с отелем Y в Вашингтон-Бич. Возможно, это тот же розово-голубой Squalo из Ultimate Edition с пристани Washington Beach Marina.",
+  "u": [
+   [
+    "retrobroker.com",
+    "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats"
+   ],
+   [
+    "finalboss.io",
+    "https://finalboss.io/gta-6-boats-marinas-jet-skis"
    ]
   ]
  },
@@ -291,6 +362,21 @@
    [
     "droidfeats.com",
     "https://droidfeats.com/gta-6-grassrivers-what-to-know-about-the-wetlands-map/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Charter boat (Kenton's) - model not stated",
+  "t": "Чартерный катер Кентона у причала рядом с Island Dreams Boat Charters в Ки-Ленто. Модель лодки в источнике не названа, данные из одного гайда.",
+  "u": [
+   [
+    "gta6locations.com",
+    "https://gta6locations.com/gta-6-vehicle-locations/boats-and-watercraft/"
+   ],
+   [
+    "outputlag.com",
+    "https://outputlag.com/guides/gta-6-boats-jet-skis/"
    ]
   ]
  },
@@ -329,6 +415,36 @@
  },
  {
   "k": "vehicle",
+  "n": "Helicopter (model not named in sources)",
+  "t": "К северу от Амброзии (округ Келли) есть точка появления вертолёта. Модель и точное место в источниках не указаны, появление не гарантировано.",
+  "u": [
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-helicopter-and-plane-spawn-locations/"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-helicopter-locations-where-to-find-one/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "LCC Monarch Avarus",
+  "t": "Фиолетовый чоппер LCC Monarch Avarus клуба Final Chapter спрятан в огороженном дворе на восточной окраине Амброзии — проще всего перелезть через стену. Не заперт, сигнализация отключена, трекера нет. Часть гайдов указывает другое место — сарай за байкерским баром The Thirsty Wolf на SR-27.",
+  "u": [
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-monarch-avarus-unique-standout-vehicle-location/"
+   ],
+   [
+    "alcasthq.com",
+    "https://alcasthq.com/gta-6-monarch-avarus/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
   "n": "Nagasaki Hung Carbon RS",
   "t": "Мотоцикл Nagasaki Hung Carbon RS висит на дереве у железной дороги. Данные о защите противоречивы: по одним гайдам нужен клонер ключей и стоит продвинутый трекер, по другим байк не заперт и продаётся за $2 640.",
   "u": [
@@ -339,6 +455,250 @@
    [
     "gta6gps.com",
     "https://gta6gps.com/map/game/unique-vehicles"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Buzzard (military helicopter; make not stated)",
+  "t": "Военный вертолёт Buzzard на заброшенном аэродроме в Моро, на севере округа Ламмокс. Охраны нет, но появление вертолёта не гарантировано.",
+  "u": [
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-helicopter-and-plane-spawn-locations/"
+   ],
+   [
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (model not stated)",
+  "t": "Вертолётная площадка на территории тюрьмы штата Леонида. Вертолёт появляется случайно, модель в источнике не указана.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638692"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Buckingham Windsor Drop",
+  "t": "Кабриолет Buckingham Windsor Drop может стоять у домов на берегу озера Таллалоко на востоке округа Ламмокс. Спавн не гарантирован.",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Pegassi Toros (driven by an NPC)",
+  "t": "Pegassi Toros появляется вместе с NPC возле золотого рудника MacAlister в Моро. Тот же NPC встречается и в Порт-Геллхорне, поэтому машина бывает не всегда.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "\"Alpha Bison\" (name as given by the source)",
+  "t": "Редкий пикап «Alpha Bison» у участка дорожного патруля в Моро. Возможно, это тот же Bravado Bison 1800, что уже отмечен на карте.",
+  "u": [
+   [
+    "fandomwire.com",
+    "https://fandomwire.com/rarest-cars-in-gta-6-you-can-get-for-free-ranked/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-5-rarest-cars-get"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Del Perro Scorcher",
+  "t": "Велосипед Del Perro Scorcher лежит на грунтовой тропе рядом с погибшим велосипедистом, южнее моста US-628. Не заперт.",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Crop duster plane (model not stated)",
+  "t": "Самолёты-кукурузники в районе Пеликан-Вэлли. Точное место в источнике не раскрыто.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638725"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Small propeller planes (model not stated)",
+  "t": "Небольшие винтовые самолёты на аэродроме в Грассриверс. Точное место в источнике не раскрыто.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638725"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Buckingham Shamal (business jet)",
+  "t": "Бизнес-джет Buckingham Shamal стоит у грузовых ангаров международного аэропорта Вайс-Сити. На самолётах аэропорта стоят трекеры: за угон дают розыск и поднимают истребители.",
+  "u": [
+   [
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+   ],
+   [
+    "leonipedia.com",
+    "https://leonipedia.com/guides/aircraft-and-military-vehicles/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (regular-sized; model not stated)",
+  "t": "Вертолёт на крыше небоскрёба Maven Residences юго-западнее Panos Plaza в даунтауне Вайс-Сити. Зайдите в лобби и поднимитесь на лифте на крышу.",
+  "u": [
+   [
+    "playground.ru",
+    "https://www.playground.ru/gta_6/guide/gde_najti_samolyoty_i_vertolyoty_v_gta_6_raspolozhenie_vseh_izvestnyh_vozdushnyh_sudov-1891791"
+   ],
+   [
+    "gamespot.com",
+    "https://www.gamespot.com/articles/how-to-get-a-plane-in-gta-6/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (model not stated)",
+  "t": "Вертолёт на острове Фламинго на севере Вайс-Сити. Точное место и модель в гайдах не указаны.",
+  "u": [
+   [
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Plane (model not stated)",
+  "t": "Самолёт на острове Фламинго на севере Вайс-Сити, там же стоит вертолёт. Точное место и модель в гайдах не указаны.",
+  "u": [
+   [
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-helicopter-plane-locations/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (model not stated)",
+  "t": "Точка появления вертолёта в районе Рокридж, Вайс-Сити. Модель и точное место в источнике не раскрыты.",
+  "u": [
+   [
+    "gta-xtreme.com",
+    "https://www.gta-xtreme.com/gta-6/locations/helicopters"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (random helipad spawn; model not stated)",
+  "t": "Вертолётная площадка на острове Вашингтон. Вертолёт появляется случайно, модель не указана.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638692"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (random helipad spawn; model not stated)",
+  "t": "Вертолётная площадка в Вашингтон-Бич. Вертолёт появляется случайно, модель не указана.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638692"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (random helipad spawn; model not stated)",
+  "t": "Вертолётная площадка на острове Пенмарч. Вертолёт появляется случайно, модель не указана.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638692"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Helicopter (random helipad spawn; model not stated)",
+  "t": "Вертолётная площадка в Пикок-Бэй. Вертолёт появляется случайно, модель не указана.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638692"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Speedboats (models not stated)",
+  "t": "Катера у причалов Key Lento Marina, Brian's Boat Works & Marina и Key Lento Marina Club в Ки-Ленто. Для дорогих катеров нужен Key Cloner.",
+  "u": [
+   [
+    "retrobroker.com",
+    "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats"
+   ],
+   [
+    "dotesports.com",
+    "https://dotesports.com/gta/guides/how-to-get-a-boat-in-gta-6"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "Seashark Revolutionary Azure",
+  "t": "Гидроцикл Seashark Revolutionary Azure (Standout) стоит возле дома в Ки-Ленто. Точный адрес в источнике не указан.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
+    "mapmaster.io",
+    "https://mapmaster.io/games/grand-theft-auto-6/guides/Watercraft"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
+  "n": "APC (armored personnel carrier; model not stated)",
+  "t": "Бронетранспортёры стоят в южной части военной базы Mile Zero Air Station, прямо перед танками. За угон дают от 3 до 6 звёзд розыска.",
+  "u": [
+   [
+    "leonipedia.com",
+    "https://leonipedia.com/guides/aircraft-and-military-vehicles/"
    ]
   ]
  },

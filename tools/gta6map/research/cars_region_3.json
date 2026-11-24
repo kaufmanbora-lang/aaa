@@ -1,0 +1,494 @@
+{
+  "items": [
+    {
+      "list": "other",
+      "name": "Sirius '61 Sungrazer",
+      "island_or_district": "Ocean Beach, Vice Beach",
+      "place_detail": "Parked in front of the Ocean View Hotel on Shore Drive (Shore Dr), Ocean Beach.",
+      "conditions": "Described as 'regularly parked' there. Regular model, not a Standout livery. No chapter or time-of-day requirement stated. The map already has a '61 Sungrazer in Watson Bay; this is a separate spot.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": "$4,620 (one guide)",
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/639171",
+        "https://gta6wiki.eu/vehicles/all/",
+        "https://meowdb.com/gta6/vehicles"
+      ],
+      "verified": true,
+      "conflict": "No disagreement on the place. Game8 and the vehicle-list site use near-identical wording, so they may share one origin. Sell value comes from a single guide.",
+      "desc_ru": "Sirius '61 Sungrazer регулярно стоит перед отелем Ocean View на Shore Drive в Оушен-Бич. Это обычная версия, не Standout; замок и трекер в гайдах не указаны, цена продажи по одному источнику — $4 620."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Windsor Drop",
+      "island_or_district": "Washington Beach, Vice Beach",
+      "place_detail": "Parked outside the Y Hotel (hotel entrance / valet area).",
+      "conditions": "Reported as 'often' parked there, so a frequent but not guaranteed spawn. Randy's wish-list model. Guides say the guaranteed Windsor Drop is at the back of the Status Auto Imports showroom in north Vice City (cloned key needed), which is outside this region.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+      ],
+      "verified": false,
+      "conflict": "Single guide (mirrored on two sister sites). The same guide puts the Y Hotel in Washington Beach in one sentence and in Ocean Beach in another. A different guide says a Windsor Drop is 'usually parked near the Ocean View Hotel in Ocean Beach' instead (the search summary did not say which site).",
+      "desc_ru": "Buckingham Windsor Drop часто припаркован у входа в отель Y в Вашингтон-Бич. Спавн не гарантирован; по другому гайду машину чаще видят у отеля Ocean View в Оушен-Бич."
+    },
+    {
+      "list": "other",
+      "name": "Grotti Itali RSX",
+      "island_or_district": "Ocean Beach, Vice Beach",
+      "place_detail": "Three reported spots: (1) the multi-storey car park above the Hit 'n' Run VC - Ocean Beach race meet-up in the north-west corner of Ocean Beach; (2) outside the Doigt d'Or Hotel in eastern Ocean Beach; (3) outside the Ocean View Poolside Bar, where high-end exotics park.",
+      "conditions": "Random high-end spawn, not guaranteed. Randy's wish-list car. Cannot be driven away until the Key Cloner is unlocked in Chapter 3.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.sportskeeda.com/esports/how-get-grotti-itali-rsx-supercar-gta-6",
+        "https://game8.co/games/GTA-6/archives/639125",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+      ],
+      "verified": false,
+      "conflict": "Several guides agree the RSX spawns in Ocean Beach, but each names a different spot (car park above Hit 'n' Run VC / Doigt d'Or Hotel / Ocean View Poolside Bar), so no single pin is confirmed by two sources. The 'Advanced tracker' note found in the summaries belongs to the garage RSX on Starfish (Vespucci) Island, not to these spawns.",
+      "desc_ru": "Grotti Itali RSX появляется в Оушен-Бич: на многоуровневой парковке над точкой гонок Hit 'n' Run VC на северо-западе района, а также у отеля Doigt d'Or и бара Ocean View Poolside. Спавн случайный, для угона нужен Key Cloner (с 3-й главы)."
+    },
+    {
+      "list": "other",
+      "name": "Bravado Gauntlet Hellfire",
+      "island_or_district": "Ocean Beach, Vice Beach",
+      "place_detail": "Multi-storey car park one block behind the Ocean View Hotel, directly behind the Ferruccio Tucci - Ocean Beach store.",
+      "conditions": "Listed as a spawn point, not a guaranteed car. Randy's wish-list model.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+      ],
+      "verified": false,
+      "conflict": "Gameshorizon names the Fin and Farm Bar parking lot in Ocean Beach instead. Most guides send players to the M7 junkyard in Hamlet (already on the map); Insider Gaming's 'no tracker' remark refers to that Hamlet car, not to this spawn.",
+      "desc_ru": "Bravado Gauntlet Hellfire может стоять на многоуровневой парковке в квартале за отелем Ocean View, сразу за магазином Ferruccio Tucci. Спавн не гарантирован; другой гайд называет парковку бара Fin and Farm."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Tempesta",
+      "island_or_district": "Washington Island, Vice Beach",
+      "place_detail": "Eastern section of Washington Island, inside a building whose parking level is reached by a ramp.",
+      "conditions": "The guide calls it a sure (guaranteed) spawn. Randy's wish-list model.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://need4games.ro/en/gta-6-randy-wishlist-car-locations",
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/"
+      ],
+      "verified": false,
+      "conflict": "One guide only; the search summary did not say which of the listed Randy's-wish-list pages it came from (candidates listed). It may be the same car as the Gold Rush Tempesta that Keen Gamer puts at Crimson Palms Condominiums, Washington Beach, also reached by a ramp. gta6wiki.eu says the plain Tempesta has no fixed spawn.",
+      "desc_ru": "Pegassi Tempesta стоит в восточной части Вашингтон-Айленда, внутри здания с парковкой, куда ведёт пандус. Гайд называет спавн гарантированным; возможно, это тот же золотой Tempesta у Crimson Palms."
+    },
+    {
+      "list": "other",
+      "name": "Gallivanter Baller ST-D",
+      "island_or_district": "Waning Sands (eastern island), Leonard County",
+      "place_detail": "Around the small car park in the south-west corner of the eastern island of Waning Sands, by the retirement homes. The guide says several Baller ST-D spawns are in this area.",
+      "conditions": "Randy's wish-list model; area spawn, not a single fixed car.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+      ],
+      "verified": false,
+      "conflict": "Single guide (mirrored on two sister sites). Insider Gaming points to Vice Beach near the Prestige Fire Arms shop; Power Up Gaming to the Gallivanter showroom and Capri; Gameshorizon and gta.guide list the location as unknown.",
+      "desc_ru": "Gallivanter Baller ST-D появляется у небольшой парковки в юго-западном углу восточного острова Уэйнинг-Сэндс, рядом с домами престарелых. По гайду здесь несколько точек спавна; машина нужна для списка Рэнди."
+    },
+    {
+      "list": "other",
+      "name": "Gallivanter Baller ST-D",
+      "island_or_district": "Vice Beach (sub-district not stated)",
+      "place_detail": "Near the Prestige Fire Arms gun shop.",
+      "conditions": "Randy's wish-list model. No time or chapter condition stated.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+      ],
+      "verified": false,
+      "conflict": "Single source. Other guides place Baller ST-D spawns in Waning Sands (retirement-home car park), at the Gallivanter showroom, in Capri, or call the location unknown.",
+      "desc_ru": "Gallivanter Baller ST-D, по данным одного гайда, встречается в Вайс-Бич возле оружейного магазина Prestige Fire Arms. Точное место другими источниками не подтверждено."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Jubilee",
+      "island_or_district": "Belville, Leonard County",
+      "place_detail": "Parked in front of a house inside the housing complex in north-west Belville (Gameshorizon). PlayStationTrophies describes it as outside a house in southern Belville.",
+      "conditions": "Randy's wish-list model. Push Square and ConsolePCGaming say no fixed spot is confirmed and advise scanning parked cars.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gameshorizon.com/guides/gta-6-all-randys-wishlist-cars-locations/",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://consolepcgaming.com/gta-6-randys-wish-list-cars-locations-map/"
+      ],
+      "verified": false,
+      "conflict": "Two guides agree on Belville and 'in front of a house' but disagree on the part of town (north-west housing complex vs southern Belville); two more say no fixed spawn is confirmed.",
+      "desc_ru": "Buckingham Jubilee припаркован перед домом в жилом комплексе на северо-западе Белвилла (другой гайд пишет о доме на юге города). Машина из списка Рэнди; фиксированный спавн подтверждают не все источники."
+    },
+    {
+      "list": "other",
+      "name": "Lure Predator L35P",
+      "island_or_district": "Washington Island, Vice Beach",
+      "place_detail": "Moored at the docking bay on the western side of the waterfront Trinity Apartments; the first vessel in the row.",
+      "conditions": "Can be stolen and taken out on the water. Trinity Apartments is the 'Dexter' easter-egg building, and Dexter guides mention his 'Slice of Life' boat there; the summaries do not state outright that it is this exact L35P.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://finalboss.io/gta-6-boats-marinas-jet-skis",
+        "https://beebom.com/gta-6-dexter-easter-eggs/",
+        "https://gta6wiki.eu/vehicles/all/",
+        "https://www.theclick.gg/gta-6-dexter-apartment-location/"
+      ],
+      "verified": true,
+      "conflict": "gta6wiki.eu flags the Trinity mooring as coming from a fan checklist not yet confirmed by a press guide. Not the same vehicle as the Standout 'Cold Case L35P' in Watson Bay.",
+      "desc_ru": "Катер Lure Predator L35P пришвартован у причала с западной стороны Trinity Apartments на Вашингтон-Айленде — первый в ряду. Его можно угнать и выйти в море; дом известен пасхалкой по «Декстеру»."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham SuperVolito (hotel-roof helicopter; model named by one source)",
+      "island_or_district": "Ocean Beach, Vice Beach",
+      "place_detail": "Rooftop helipad of a beachfront hotel in Ocean Beach. gtaclub.app: hotel roof just south of the stadium block, a short walk from the sand.",
+      "conditions": "Helipad spawns are not guaranteed; the pad can be empty. How to reach the roof is not described in the summaries.",
+      "access": "Locked",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gtaclub.app/locations/ocean-beach-hotel-roof-helicopter/",
+        "https://www.gtabase.com/gta-6/map/?feature=helipads",
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://game8.co/games/GTA-6/archives/638692",
+        "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6"
+      ],
+      "verified": true,
+      "conflict": "Several guides agree a helicopter sits on a hotel roof in Ocean Beach, but only gtaclub.app names the model (dark SuperVolito) and the Locked status. May be the same pin as 'Maverick (helicopter) | Vice Beach' already on the map.",
+      "desc_ru": "На вертолётной площадке на крыше прибрежного отеля в Оушен-Бич стоит вертолёт — по одному источнику тёмный Buckingham SuperVolito, запертый. Спавн не гарантирован: площадка может быть пустой."
+    },
+    {
+      "list": "other",
+      "name": "Shitzu Squalo",
+      "island_or_district": "Washington Beach, Vice Beach",
+      "place_detail": "Docked beside the Y Hotel.",
+      "conditions": "Marked 'reported by players' in one boat guide (machine-translated there as 'Shih Tzu Swallow').",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://retrobroker.com/en-US/us/blog/gta-6-boat-locations-yachts-speedboats",
+        "https://finalboss.io/gta-6-boats-marinas-jet-skis",
+        "https://www.gtabase.com/properties/gta-6/washington-beach-marina"
+      ],
+      "verified": false,
+      "conflict": "Single player-reported entry; the search summary did not say which boat guide it came from (candidates listed). Probably the same boat as the pink-and-blue Ultimate Edition Squalo that GTABase lists as parked at Washington Beach Marina (already on the map as Shitzu Typhoon Squalo).",
+      "desc_ru": "Катер Shitzu Squalo, по сообщениям игроков, пришвартован рядом с отелем Y в Вашингтон-Бич. Возможно, это тот же розово-голубой Squalo из Ultimate Edition с пристани Washington Beach Marina."
+    },
+    {
+      "list": "other",
+      "name": "Nagasaki Hung Carbos RS",
+      "island_or_district": "Belville (north-west), Leonard County",
+      "place_detail": "Hanging from a tree near the railroad tracks in north-western Belville.",
+      "conditions": "Standout bike. How to get it down is not described in the summaries.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gameta.gg/gta6/guides/rare-cars/",
+        "https://mapmaster.io/games/grand-theft-auto-6/guides/Standout%20Vehicle"
+      ],
+      "verified": false,
+      "conflict": "The map currently lists this bike under Ambrosia. One guide gives the Belville tree spot (exact page not identified in the summary; candidates listed), and a standout table also lists 'a Nagasaki' among Leonard County finds, which supports Belville.",
+      "desc_ru": "Мотоцикл Nagasaki Hung Carbos RS висит на дереве у железной дороги на северо-западе Белвилла. Standout-экземпляр; как его снять, в гайдах не описано."
+    },
+    {
+      "list": "other",
+      "name": "Pfister Pink Licorice Astron",
+      "island_or_district": "Belville, Leonard County",
+      "place_detail": "In a garage at a house in Belville (street not given).",
+      "conditions": "Standout, 'Girlypop' class.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gameta.gg/gta6/map/standout-vehicles/",
+        "https://gameta.gg/gta6/vehicles/standout/",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": "The map currently lists it under Rialto Islands; two separate search summaries of standout lists put it 'in a garage at a house in Belville'. Both summaries may rest on the same list, so this is not counted as two independent sources.",
+      "desc_ru": "Pfister Pink Licorice Astron стоит в гараже жилого дома в Белвилле. Standout класса Girlypop; улица в источниках не указана."
+    },
+    {
+      "list": "other",
+      "name": "LCC Monarch Avarus",
+      "island_or_district": "Belville (north), Leonard County",
+      "place_detail": "In an open shed at the back (north-west part) of The Thirsty Wolf, a Biker Hideout on SR-27 in north Belville.",
+      "conditions": "Standout chopper tied to the Final Chapter biker gang. One player reported the shed empty after registering and then selling the bike; respawn after sale was unconfirmed as of 22 Nov.",
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": "None",
+      "payout": "$5,390 (register $2,100)",
+      "sources": [
+        "https://metaforge.app/gta-6/database/vehicles/lcc-monarch-avarus",
+        "https://game8.co/games/GTA-6/archives/639402",
+        "https://alcasthq.com/gta-6-monarch-avarus/",
+        "https://gta6info.app/vehicles/lcc-monarch-avarus"
+      ],
+      "verified": true,
+      "conflict": "The map currently lists it under Ambrosia. One guide describes the bar as 'east of Ambrosia'; most say north Belville. Databases differ on body condition ('Top' vs 'Excellent').",
+      "desc_ru": "Чоппер LCC Monarch Avarus стоит в открытом сарае за байкерским баром The Thirsty Wolf на шоссе SR-27 на севере Белвилла. Не заперт, сигнализация отключена, трекера нет; продаётся за $5 390, регистрация — $2 100."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Valiant Tempesta",
+      "island_or_district": "Washington Beach, Vice Beach",
+      "place_detail": "Parked in the courtyard in front of the Vice Museum of Art, southern Washington Beach.",
+      "conditions": "Standout. In-game log text quoted by map sites: found at a VCPD recruitment drive in Vice Beach. Guides note that cars with an Advanced tracker cannot be registered at Pay 'n' Spray.",
+      "access": "Key Cloner",
+      "security": "Alarmed",
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Already on the map under Ocean Beach. Sources place it in Washington Beach (museum courtyard), in 'Vice Beach' (log text) or 'north-east of Ocean Beach'. Lock, alarm and tracker values come from one site (gta6map.io). Metaforge's sale figure ($2,145, register $2,150) looks misattributed, since the same figure is attached to a Declasse Bobcat, so it is not recorded.",
+      "desc_ru": "Pegassi Valiant Tempesta стоит во дворе перед Vice Museum of Art на юге Вашингтон-Бич. Нужен Key Cloner; машина с сигнализацией и продвинутым трекером."
+    },
+    {
+      "list": "other",
+      "name": "Pfister Growler",
+      "island_or_district": "Ocean Beach, Vice Beach",
+      "place_detail": "Inside the multi-storey parking garage on Fig Street (Fig St).",
+      "conditions": "Reported to appear around 17:00. Randy's wish-list car; Key Cloner is available from Chapter 3.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://gta6wiki.eu/vehicles/all/",
+        "https://meowdb.com/gta6/vehicles",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+      ],
+      "verified": true,
+      "conflict": "Already on the map (Ocean Beach). One guide points to cars parked along the beachfront on Shore Dr instead; another also lists Capri waterfront spawns. Tracker and access values come from one vehicle database (exact page not identified in the summary).",
+      "desc_ru": "Pfister Growler появляется внутри многоуровневой парковки на Fig Street в Оушен-Бич около 17:00. Нужен Key Cloner, на машине продвинутый трекер."
+    },
+    {
+      "list": "other",
+      "name": "Ascot Paragon",
+      "island_or_district": "Ocean Beach, Vice Beach",
+      "place_detail": "Shore Dr, parked by the main bar of The Banana Hole.",
+      "conditions": "Reported around 18:00. Randy's wish-list car. It has a tracker (type not stated), so the guide advises keeping speed up on the way to Randy.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://neoncoast.org/randys-wish-list"
+      ],
+      "verified": true,
+      "conflict": "Already on the map (Shore Dr, Ocean Beach). Two guides say it carries a tracker, but neither states Standard or Advanced, so the tracker field is left null.",
+      "desc_ru": "Ascot Paragon стоит на Shore Drive в Оушен-Бич у главного бара The Banana Hole, примерно в 18:00. На машине установлен трекер — после угона не сбавляйте скорость."
+    },
+    {
+      "list": "other",
+      "name": "Piccia Dragon Gate Furia",
+      "island_or_district": "Washington Beach, Vice Beach",
+      "place_detail": "Outside the Y Hotel, at the valet: the car arrives with its rude owner in a random encounter.",
+      "conditions": "Random encounter available from Chapter 4. The keys are left in the ignition; the guide recommends stealing it and delivering it to Randy. Returning later, the owner is at reception complaining about the theft. Completed encounters are reported as one-time.",
+      "access": null,
+      "security": null,
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.gtabase.com/gta-6/map/?feature=random-event"
+      ],
+      "verified": false,
+      "conflict": "Already on the map (Washington Beach). Single guide mirrored on two sister sites; it names the Y Hotel in Ocean Beach in one sentence and Washington Beach in another. The summary wording is 'deliver it to Randy with the Advanced Tracker off', so the car is fitted with an Advanced tracker but whether it is active in this encounter is unclear. Access is left null: keys in the ignition, no scan value quoted.",
+      "desc_ru": "Piccia Dragon Gate Furia приезжает к отелю Y в случайной встрече с грубым владельцем (с 4-й главы). Ключи остаются в замке зажигания; на машине продвинутый трекер, её советуют отвезти Рэнди."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Gold Rush Tempesta",
+      "island_or_district": "Ocean Beach / Washington Beach, Vice Beach",
+      "place_detail": "Two reported spots: outside the Cirque de Cuisine restaurant on Shore Drive, eastern side of Ocean Beach; or at Crimson Palms Condominiums in Washington Beach (north side of Vice Beach), on the upper parking level reached by the ramp next to the car park.",
+      "conditions": "Standout gold Tempesta. Needs the Key Cloner (Chapter 3).",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/",
+        "https://gameta.gg/gta6/map/standout-vehicles/",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Already on the map. The Ocean Beach restaurant spot is backed by Keen Gamer plus the standout lists ('outside a restaurant in Ocean Beach'); the Crimson Palms spot and the Key Cloner requirement come from Keen Gamer only.",
+      "desc_ru": "Золотой Pegassi Gold Rush Tempesta стоит у ресторана Cirque de Cuisine на Shore Drive на востоке Оушен-Бич либо у кондоминиумов Crimson Palms в Вашингтон-Бич (верхняя парковка, заезд по пандусу). Нужен Key Cloner."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Brimstone Golfer",
+      "island_or_district": "Leaf Links, Vice Beach",
+      "place_detail": "In a mansion garage on Delamore Dr, south-east Leaf Links.",
+      "conditions": "Standout hot-rod-style golf cart. No tools needed.",
+      "access": "Unlocked",
+      "security": "None",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-vapid-brimstone-golfer-unique-standout-vehicle-location/",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6map.io/location/standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Already on the map (Leaf Links). No disagreement: one source says just 'a garage in Leaf Links', the others add Delamore Dr; three summaries agree it is unlocked with no alarm and no tracker.",
+      "desc_ru": "Vapid Brimstone Golfer — гольф-кар в стиле хот-рода — стоит в гараже особняка на Delamore Dr на юго-востоке Лиф-Линкс. Не заперт, без сигнализации и трекера."
+    },
+    {
+      "list": "other",
+      "name": "Declasse Mamba GT (Randy's call)",
+      "island_or_district": "Leaf Links, Vice Beach",
+      "place_detail": "At a Leaf Links mansion. The car key is inside the main house, in a bowl on a table behind the sofa.",
+      "conditions": "Starts with a call from Randy. Randy says the key cannot be cloned: break into the owner's house (a Snap Gun opens the doors) and take the key. The car has a tracker (type not stated), so expect police on the drive to Randy.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://atlassecrets.app/gta6/secrets/mamba-gt-at-a-leaf-links-mansion/",
+        "https://www.gta-xtreme.com/gta-6/locations/hidden-cars",
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+      ],
+      "verified": true,
+      "conflict": "Already on the map (Leaf Links). Access and tracker fields are left null because no scan values were quoted: the car needs its physical key (Key Cloner does not work) and carries a tracker of unstated type.",
+      "desc_ru": "Mamba GT стоит у особняка в Лиф-Линкс; задание начинается со звонка Рэнди. Ключ клонировать нельзя: нужно вскрыть дом (Snap Gun) и взять ключ из чаши на столе за диваном. На машине трекер."
+    },
+    {
+      "list": "other",
+      "name": "Ocelot Bloodless Jugular",
+      "island_or_district": "Belville (north), Leonard County",
+      "place_detail": "In the garage next to a white villa on Chastity Ave, north Belville.",
+      "conditions": "Standout version of the Ocelot Jugular. Key Cloner is available from Chapter 3.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": "$10,615 (register $28,550)",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://tracker.gg/gta6/map/standout-vehicles",
+        "https://gta6map.io/location/standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "Already on the map (Belville). Two sources agree on Belville; the street, access and prices come from one site (Metaforge).",
+      "desc_ru": "Ocelot Bloodless Jugular стоит в гараже рядом с белой виллой на Chastity Ave на севере Белвилла. Нужен Key Cloner; продаётся за $10 615, регистрация — $28 550."
+    },
+    {
+      "list": "other",
+      "name": "Albany Driveshaft Devanity",
+      "island_or_district": "North Leonard County",
+      "place_detail": "Inside a small barn next to an excavator, in front of a farmhouse.",
+      "conditions": "Standout. Listed as Locked with no alarm and no tracker; no entry method is described for this car specifically (general guides: Slim Jim or break the window for locked cars).",
+      "access": "Locked",
+      "security": "None",
+      "tracker": "None",
+      "payout": "$6,490 (register $21,750)",
+      "sources": [
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://mapmaster.io/games/grand-theft-auto-6/guides/Standout%20Vehicle",
+        "https://gta6map.io/location/standout-vehicle",
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+      ],
+      "verified": true,
+      "conflict": "On the map only as 'Leonida' with no district; several guides agree on the North Leonard County barn. Prices come from one site.",
+      "desc_ru": "Albany Driveshaft Devanity стоит в небольшом сарае рядом с экскаватором перед фермерским домом в Северном округе Леонард. Машина заперта, без сигнализации и трекера; продаётся за $6 490."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Vitello",
+      "island_or_district": "Waning Sands, Leonard County",
+      "place_detail": "In the garage of a gated luxury villa on Flamingo Pkwy (south Vinewood Beach area, opposite the docks), east of Belville.",
+      "conditions": "Climb the fence, open the garage and use a cloned key. Randy's wish-list car. Register cost quoted at about $43,750 (not a sell value).",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.sportskeeda.com/gta/all-supercars-gta-6-locations",
+        "https://gameta.gg/gta6/guides/rare-cars/"
+      ],
+      "verified": true,
+      "conflict": "Already on the map (Waning Sands). No disagreement on the place. Sell value and tracker type were not found.",
+      "desc_ru": "Pegassi Vitello стоит в гараже огороженной виллы на Flamingo Pkwy в Уэйнинг-Сэндс, напротив доков. Перелезьте через забор, откройте гараж и используйте Key Cloner."
+    }
+  ],
+  "meta": {
+    "generated": "2026-11-24",
+    "region": "Vice Beach (Ocean Beach, Washington Beach, Washington Island, Leaf Links) and Leonard County (Waning Sands, Belville, North/South Leonard County, Sharktooth Island)",
+    "method": "30 web searches. Everything is taken from search-result summaries; no page was opened, so attribution of a detail to a specific URL is approximate and every value should be spot-checked in game. Where a summary did not say which page a claim came from, the candidate pages are listed and the conflict field says so.",
+    "verified_rule": "true only when at least two different sites in the summaries agree on the vehicle and its place. Many of these sites are fan guides published within five days of release and may copy each other, so read 'verified' as 'cross-reported'. Mirrored sister sites (playstationtrophies.org / xboxachievements.com) count as one source.",
+    "item_groups": "Items 1-14 are vehicles not on the map for this region (three of them, Hung Carbos RS, Pink Licorice Astron and Monarch Avarus, are on the map under a different district). Items 15-24 are already on the map for this region and are listed because lock, alarm, tracker or price data was found.",
+    "nothing_found": [
+      "Sharktooth Island: no vehicle, boat or helicopter spawn in any summary; only a landmark entry.",
+      "Hyde: no vehicle spawn found for a 'Hyde' area of Vice Beach.",
+      "South Leonard County: no new vehicle found.",
+      "Mission-reward and shipping-container cars: none reported inside this region; the container cars in the summaries are in Mariana County, Hamlet, Kelly County and near Port Gellhorn.",
+      "IGN, PowerPyx standout pages, Sportskeeda, Beebom and Dexerto returned no region-specific spawn beyond what is listed."
+    ],
+    "leads_not_added": [
+      "Maibatsu Donk Boomazoom: standout lists describe it as 'discovered by the coast in Vice Beach'; the map has it under Waning Sands.",
+      "Benefactor Dubsta (Randy's request): one guide places it in the multi-storey car park north-north-west of the Y Hotel on the east coast of Washington Beach; another at the kerb on Shore Drive opposite the Dominion hotel terrace. The map has it under Ocean Beach. No lock data.",
+      "Granforma Zorrusso: the red mission car is on the first level of the fenced parking lot at Hathaway Apartments, Ocean Beach (Chapter 3 mission that gives the Key Cloner). No scan values quoted.",
+      "Shitzu Typhoon Squalo: GTABase lists a pink-and-blue Ultimate Edition Squalo as the parked vehicle at Washington Beach Marina.",
+      "Western Searing Zombie Bobber: ground floor, south-east part of the Farm Fix Meth Lab off Chastity Ave, rural north Belville. No lock data.",
+      "'55 Vapid Stanier (Ultimate Edition): collected near the Ocean View Hotel in Ocean Beach through an exploration task from Chapter 3. No lock data.",
+      "Maibatsu Speedy Boomazoom 'by a luxury apartment building in Washington Beach': appeared in one Russian-language summary and looks like a mix-up with the Big Shot Baller-STD; not added.",
+      "Helipads: GTABase's helipad list also names a Vice Beach police station helipad and a Coast Guard base helipad in Vice Beach, and guides mention a hospital-roof helipad in Vice-Dale County reached by ladder; no model or district detail beyond that.",
+      "Raul's white two-deck houseboat at the far end of the pier at Ocean Beach Marina is a mission vehicle (mission 'Sunset'), not a free spawn.",
+      "An Altchar guide titled 'How to Unlock the Apartment Laptop and Find the Hidden Pfister Growler' surfaced, but its location was not in the summary."
+    ]
+  }
+}
