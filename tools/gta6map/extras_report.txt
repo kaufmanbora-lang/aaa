@@ -1,0 +1,114 @@
+weapons: merged 26 new 45
+vehicles: merged 29 new 13
+secrets placed: 52
+total extras 165 skipped 111
+  xw0    v3   Crabshack VF5                          @ Airgator Dr Sheehan's Airboat
+  xw1    v1 ~ Conspiracist Type 9                    @ Griffin Villa Range
+  xw7    v3   Throttler Verro                        @ Safe - Farm Fix Meth Lab
+  xw9    v3   Eris Fresh DSG                         @ Safe - Illegal Goods Store
+  xw11   v1 ~ Little Friend W-10                     @ район Ocean Beach
+  xw12   v3   Spangled Vatra                         @ Jackson Firearms
+  xw13   v1   Moneymaker W-10                        @ Tequesta Guns & Ammo
+  xw14   v1   Pocketblast DSG                        @ Griffin Shooting Range
+  xw15   v1 ~ Cold War 556                           @ секретный бункер в болотах на северо-западе Grassrivers (рай
+  xw18   v1 ~ Cockroach Xtreme 556                   @ район Tequesta
+  xw20   v3   Star Spangled 556                      @ Phil's Ammu-Nation
+  xw24   v1   Nightmare KZ-59                        @ Rodgers Ranch & Shooting Range
+  xw25   v1   Pete's KZ-59                           @ Sundown Private Airfield
+  xw26   v3   Assassin Nipper .38                    @ Derelict Spy Vessel
+  xw27   v1 ~ Turnt Nipper .38                       @ Bobcat Bight, северо-запад Bobcat Key
+  xw29   v3   Mahi Nipper .38                        @ Chuck's Tackle & Shot
+  xw33   v1   Nite Raptor K17                        @ Black Eagle
+  xw35   v1   Sand Storm ES9                         @ Big Shots
+  xw36   v1   The Guardian ES18                      @ Saber Shipping Yard
+  xw38   v1 ~ Deadringer 1922                        @ район Moreau
+  xw39   v1 ~ Money Bag 1922                         @ район Moreau
+  xw40   v3   The Silver 1922                        @ Big Shots
+  xw41   v1   Martha's 1922                          @ Outlaw's Cabin
+  xw42   v0 ~ Brainwasher 1922                       @ секретный бункер в болотах на северо-западе Grassrivers (рай
+  xw43   v1   Russo's 1922                           @ Presidential Bunker, Sharktooth Island
+  xw44   v3   Black Eagle Import Kalinga .50         @ Black Eagle
+  xw49   v1 ~ Donnie's H&L .38                       @ Donnie's Trailer
+  xw51   v1 ~ Cargo H&L .38                          @ район Port Vice City
+  xw56   v1   Iron & Oak WCR-1                       @ Iron & Oak
+  xw59   v1   Basher Gorse 425                       @ Pawn & Gun - Port Gellhorn
+  xw63   v1 ~ Unpacked Comshot 12                    @ район Key Lento
+  xw66   v3   Marabunta Grande Hobo                  @ Hamlet Pawn
+  xw67   v1   Woodhatch Longshot                     @ Woodhatch
+  xw72   v1   Fincredible Laird 350                  @ Guns Aplenty!
+  xw73   v1 ~ Internal Affairs FF-SR                 @ район Washington Beach
+  xw75   v1 ~ Redneck W-22                           @ район Moreau
+  xw76   v3   Mossy Mediator                         @ Barrage Gun Supply
+  xw77   v0 ~ Gun Nut SMS-01                         @ район Key Lento
+  xw78   v1   Black Eagle Import M306 TMR            @ Black Eagle
+  xw81   v1 ~ Mercenary LMG 6                        @ район Port Vice City
+  xw83   v3   Explorer's Knife                       @ Selkie Hole
+  xw86   v3   Brontasaurus Bat                       @ Dino Golf
+  xw88   v3   Little Cuba Hind                       @ Martez Empeños
+  xw89   v1   Vice City Heathen                      @ Prestige Firearms
+  xw91   v1   Dazzler DQ-9                           @ Iron & Oak
+  xv1    v1 ~ Bravado Banshee                        @ район Capri
+  xv8    v1 ~ Mamba GT                               @ район Leaf Links
+  xv9    v1   Übermacht Cypher                       @ Cirque de Cuisine
+  xv10   v1 ~ Ocelot Jugular                         @ район Ocean Beach
+  xv15   v3   Pegassi Toros                          @ Pool - Pegassi Residences
+  xv17   v1 ~ Truffade Thrax                         @ район Dalton Island
+  xv18   v3   Truffade Thrax                         @ Boone Speedway - Speedway Trial
+  xv20   v1 ~ Pegassi Gold Rush Tempesta             @ Crimson Palms Base Jump
+  xv36   v1 ~ Annis Elegy '90                        @ район Starfish Island
+  xv37   v1   Annis Elegy '90 (drift-built)          @ Gellhorn Raceway - Introduction
+  xv38   v3   Grotti '95 Cheetah                     @ Pool - Pegassi Residences
+  xv42   v1   '64 Mamba GT                           @ Thrillbilly Mud Club - Air Time Stunt Run
+  xv50   v3   Emperor Sultan                         @ Watkins Auto Parts
+  xs0    v3   Похищение НЛО — начало цепочки «Alien  @ Starlet Motel
+  xs1    v3   Лаборатория пришельцев («Зона 51»)     @ Southpoint Airfield
+  xs3    v1 ~ Скунсовая обезьяна (снежный человек)   @ Cottonmouth Lake
+  xs5    v3   Гигантский краб-мутант и заброшенная к @ Airgator Dr Sheehan's Airboat
+  xs8    v3   Маяк St. Lucia: призраки смотрителей,  @ St. Lucia Lighthouse
+  xs9    v1 ~ Отель Marbelle с привидениями (отсылка @ район Crosstown
+  xs10   v1 ~ Ла Йорона — призрак женщины на туманно @ Killtelligence Provisions
+  xs12   v3   Дом «Circles of Hell» — начало битвы с @ Bravado Circles of Hell Youga
+  xs13   v1 ~ Адский костёр и трон                   @ Thrillbilly Mud Club - Air Time Stunt Run
+  xs14   v3   Охота на острове Hyde Island           @ Hyde Island
+  xs15   v3   Буквальная пасхалка: гнездо с крашеным @ Bluegrass Antenna Mast Base Jump
+  xs16   v1 ~ Квартира Декстера Моргана (Trinity Apa @ район Vice Beach
+  xs17   v1 ~ Cool Dog — спасение пса на гидроцикле  @ Gambit Bay
+  xs18   v3   Яхта Майкла из GTA V                   @ Jason's House
+  xs20   v3   Машина «Охотников за привидениями» — D @ Halloween House
+  xs21   v3   Блок Марио и Луиджи («Super Mario Bong @ Lawton Co. Paper Mill
+  xs22   v1 ~ Стена «Looney Tunes» — нарисованный то @ район Decor District
+  xs23   v1 ~ Красный Халк на ферме McKittrick       @ к северо-востоку от Starlet Motel, Frogswater
+  xs24   v3   Тутси — говорящая корова               @ Howe Dairy Farm's Big Udder
+  xs26   v3   Наклейка Love Fist в мотеле Starlet    @ Starlet Motel
+  xs28   v3   Книга «Lethal by Design: A Liberty Cit @ Jason's House
+  xs29   v3   Вестерн о ковбое из Нью-Остина (отсылк @ Jacob's Tavern
+  xs30   v1 ~ Дом в Belville с фото из San Andreas и @ район Belville
+  xs35   v1 ~ Дом — место преступления в духе «Лица  @ район Key Lento
+  xs42   v1   Отель Ocean View — привет из GTA: Vice @ Ocean View Hotel
+  xs43   v3   Каменный круг на вершине Mount Kalaga  @ Mount Kalaga Base Jump
+  xs44   v1 ~ Место падения метеорита у вершины Moun @ Mount Kalaga Base Jump
+  xs46   v3   Monument of Leonidan Supremacy — нераз @ Monument of Leonidan Supremacy
+  xs50   v3   Хосе Бермудес на памятнике Friends of  @ IAA's Friends of Freedom
+  xs51   v3   Бункер президента на Sharktooth Island @ Presidential Bunker, Sharktooth Island
+  xs52   v1 ~ Второй президентский бункер у Big Pine @ секретный бункер в болотах на северо-западе Grassrivers (рай
+  xs54   v3   Mile Zero Air Station — закрытая военн @ Mile Zero Air Station
+  xs57   v1   Derelict Spy Vessel — брошенное шпионс @ Derelict Spy Vessel
+  xs58   v3   Фабрика плюшевых мишек (склад Apollo A @ Vapid Rumpo
+  xs59   v1 ~ Разбившийся самолёт, записка пилота и  @ Bobcat Key
+  xs61   v3   Золотой АК — KZ-59 «La Polilla Negra»  @ Safe - Palmer Fishing Warehouse
+  xs63   v1   Exotic Animals Front — тайник за стено @ Exotic Animals Front
+  xs64   v1   Сейф в доме Джейсона                   @ Jason's House
+  xs70   v1 ~ Затонувший корабль Nuestra Señora de l @ Abismo Key Carcass
+  xs73   v1 ~ Место для дайвинга Belpoint Strait     @ Belpoint Lighthouse
+  xs75   v3   Сейф в офисе Kingpin Bowling           @ Office Safe - Kingpin Bowling
+  xs76   v3   Сейф Brooks Boatworks                  @ Office Safe - Brooks Boatworks
+  xs77   v3   Сейф мотеля La Cascara                 @ Lieutenant Room Safe - La Cascara Motel
+  xs78   v1   Сейф в офисе Delights Cabaret          @ Delights Cabaret
+  xs79   v1   Коды миссии «Lab Fees»: дверь лаборато @ Brian's Lockup
+  xs80   v1   Дверь Janjak's Garage                  @ Safe -Janjak's Garage
+  xs85   v1   Сейф Nova Auto Junkyard                @ Garage Safe - Nova Auto Junkyard
+  xs86   v1   Сейф ломбарда Casa de Empeño           @ Casa de Empeño
+  xs87   v1   Сейф Richardson Jewelry                @ Richardson Jewelry & Diamonds
+  xs88   v1   Сейф Donovan Banks & Co.               @ Donovan Banks & Co.
+  xs92   v1   Машина в контейнере: Progen Purple Dra @ Office Safe - Chatfield Storage & Logistics
+  xs93   v3   Thrillbilly Mud Club — место из трейле @ Thrillbilly Mud Club - Air Time Stunt Run

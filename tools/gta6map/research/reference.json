@@ -1,0 +1,1031 @@
+{
+  "meta": {
+    "generated": "2026-11-24",
+    "game": "Grand Theft Auto VI (released 2026-11-19, PS5 / Xbox Series X|S)",
+    "method": "Web search only (search-result summaries of the pages listed in each entry's sources).",
+    "limitations": [
+      "Direct page fetching was blocked by this session's network allowlist (www.gtabase.com, www.powerpyx.com, game8.co all refused), so NO page was read in full. Every fact below comes from search-result extracts of the cited pages, not from a full read.",
+      "mapgenie.io and ign.com could not be searched at all (both block the search crawler). Rockstar's own site returned nothing usable; the official downloadable Leonida map that PC Gamer says Rockstar posted on 2026-11-19 was NOT opened.",
+      "The web-search budget for the session ran out before the following were researched: individual safehouse names, individual garage names/prices, the GamesRadar map-icon guide, and the unique-weapon icon colours follow-up. Those sections are thinner and marked as such.",
+      "Rockstar has not published official collectible totals. All totals are from guide sites written in the first five days after launch and several pages are marked WIP.",
+      "Fan map sites (gtabase, tracker.gg, gta6-maps.net etc.) report the number of pins they have mapped so far, which is NOT the same as the in-game total. Their counts changed between snapshots within the same site."
+    ],
+    "source_reliability": {
+      "higher": ["powerpyx.com", "gtabase.com", "pushsquare.com", "pcgamer.com", "game8.co", "gamespot.com", "keengamer.com", "insider-gaming.com"],
+      "lower_single_source_or_seo": ["gmtreks.com", "egamers.io", "tilt.app", "aoeah.com", "leonidainsider.com", "leonidamapgta.com", "gta-zone.com", "outputlag.com", "gta6-maps.net", "theclick.gg", "promptowy.com"]
+    },
+    "where_to_check_in_game": "Pause map > Progress > Collections (e.g. Progress > Collections > Collectible Cards; Progress > Collections > WAiNK Locations; Progress > Collections > Exploration > Underwater Discoveries / Meditations / Cocaine Flamingos). A category's counter only appears after the first item is found.",
+    "global_numbers": {
+      "progress_database_total_approx": 3000,
+      "progress_database_note": "PowerPyx: 'around 3000 collectibles' across vehicles, animals, weapons, collection items, activities, robberies and challenges. PowerPyx estimates the 100% checklist is only about 60% of true completion.",
+      "trophies": {"total": 55, "platinum": 1, "gold": 2, "silver": 6, "bronze": 46, "hundred_percent_trophy": "A Long Road"},
+      "story": "Reported as 5 chapters / 91 missions (readdork.com, space4games.com) - not cross-checked against a major guide.",
+      "map_size_per_powerpyx": "175 km2 (16 km x 10.9 km)",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-collectible-guide-progress-database/",
+        "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "https://www.powerpyx.com/gta-6-full-world-map-revealed/",
+        "https://promptowy.com/en/gta-6/gta-6-100-percent-completion/",
+        "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+      ]
+    }
+  },
+
+  "collectibles": [
+    {
+      "type": "collectible_cards",
+      "official_name": "Collectible Cards",
+      "name_ru": "Коллекционные карточки",
+      "total": 480,
+      "required_for_100": "15 of 18 complete sets",
+      "sets": [
+        {"name": "Vice City Flamingos", "cards": 24},
+        {"name": "Vice City Narcos", "cards": 24},
+        {"name": "Vice City Manatees", "cards": 24},
+        {"name": "Vice City Club de Futbol", "cards": 30},
+        {"name": "Backyard Wrestling", "cards": 12},
+        {"name": "America's Next Top Hooker", "cards": 24},
+        {"name": "Delights Dancers", "cards": 18},
+        {"name": "Jack of Hearts Dancers", "cards": 36},
+        {"name": "Nine1Nine Dancers", "cards": 36},
+        {"name": "The Legends of Ratface", "cards": 36},
+        {"name": "Right Wing: America's Hero", "cards": 36},
+        {"name": "Ed Comics Universe", "cards": 36},
+        {"name": "Liberty City sets (individual names NOT retrieved)", "cards": 24, "count_of_sets": "unconfirmed, see note"},
+        {"name": "Los Santos sets (individual names NOT retrieved)", "cards": 24, "count_of_sets": "unconfirmed, see note"}
+      ],
+      "set_count": 18,
+      "editions": ["Standard", "Teal", "Pink (Dusty Pink)", "Gold", "Silver"],
+      "reward": "Trophy 'Don't Touch My Deck' for completing any 3 sets (all sources). Vice City Flamingos set = 'Bubblegum' screen-filter cheat (tilt.app only). No other per-set reward reliably documented (gtadb.net says none documented). Cards can be sold at pawn shops (Vice City Pawn).",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-all-collectible-card-sets-locations/",
+        "https://www.pushsquare.com/guides/gta-6-collectible-card-locations",
+        "https://game8.co/games/GTA-6/archives/638661",
+        "https://www.keengamer.com/articles/guides/all-collectible-cards-in-gta-6-locations-sets-prices-and-rewards/",
+        "https://gta6.wiki.fextralife.com/All_Collectible_Cards_Set_Locations",
+        "https://tilt.app/blog/gta-6-collectible-cards",
+        "https://gtadb.net/articles/gta-6-collectible-cards-locations-guide/",
+        "https://www.gtabase.com/gta-6/map/?feature=card-vice-city-flamingos",
+        "https://promptowy.com/en/gta-6/gta-6-collectible-cards-sets-rewards/"
+      ],
+      "agree": true,
+      "note": "480 cards / 18 sets / 15 sets for 100% is unanimous. Set sizes: five 36-card sets, one 30-card set (Vice City Club de Futbol), one 18 (Delights Dancers), one 12 (Backyard Wrestling), the rest 24. The arithmetic only reaches 480 if there are ten 24-card sets, i.e. six sets between 'Liberty City' and 'Los Santos' (5x36 + 30 + 10x24 + 18 + 12 = 480) - that split is MY derivation, the six set names were not retrieved. gtabase confirms Vice City Flamingos = 24. Rewards are where sources disagree. Fan-map pin counts for cards (tracker.gg 90, gta6heists.com 100) are mapping progress, not totals. Yellow loot boxes can randomly drop cards (Fextralife)."
+    },
+    {
+      "type": "waink_locations",
+      "official_name": "WAiNK Locations",
+      "name_ru": "Локации WAiNK (фото-сканы)",
+      "total": null,
+      "total_candidates": {"gmtreks.com": 112, "IGN (as relayed by a third-party guide)": 108, "first_three_sets_only": 89},
+      "required_for_100": 100,
+      "sets": [
+        {"name": "Landmarks", "name_ru": "Достопримечательности", "count": 31, "confidence": "high"},
+        {"name": "Curiosities", "name_ru": "Диковинки", "count": 35, "confidence": "high"},
+        {"name": "Sculptures", "name_ru": "Скульптуры", "count": 23, "confidence": "high"},
+        {"name": "No Flusher Tags", "name_ru": "Теги No Flusher", "count": 23, "confidence": "low - count from gmtreks.com only"},
+        {"name": "Fifth set - name disputed ('Peewees Billboards' per a relay of IGN; unnamed/locked per egamers.io and theclick.gg)", "name_ru": "Пятый набор (возможно, билборды Peewees)", "count": null, "confidence": "unconfirmed"}
+      ],
+      "reward": "Trophy/achievement 'You WAiNKer!' for 100 scans; the same 100 scans satisfy the 100% checklist.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-all-waink-scan-locations/",
+        "https://www.powerpyx.com/gta-6-all-landmark-scan-locations/",
+        "https://www.powerpyx.com/gta-6-all-sculptures-scan-locations/",
+        "https://game8.co/games/GTA-6/archives/639715",
+        "https://egamers.io/gta-6-waink-scans-explained-the-100-that-count-for-the-trophy/",
+        "https://gmtreks.com/gta6/page/01M7R0PJ8N9EG5Y2EBNA7GXN86",
+        "https://www.theclick.gg/gta-6-you-wainker-trophy/",
+        "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "https://allthings.how/how-many-collectibles-are-in-gta-6-and-where-to-track-them/"
+      ],
+      "agree": false,
+      "note": "AGREED: 5 sets; 100 scans needed; Landmarks 31 / Curiosities 35 / Sculptures 23 (in-game counter reported as 0/31, 0/35, 0/23). 31+35+23 = 89, so at least 11 scans must come from the other two sets. DISAGREED: size and name of sets 4 and 5, hence the grand total (112 vs 108 vs unknown). thebiglead says two categories are still locked early on. AHOL Street Art, 1010 Murals and vehicle scans do NOT count toward the 100. Game8's list is WIP (about 9 landmarks / 20 sculptures / 40 curiosity rows in the extract) - do not use it as a total."
+    },
+    {
+      "type": "magazines_books_comics",
+      "official_name": "Magazines, Books & Comics",
+      "name_ru": "Журналы, книги и комиксы",
+      "total": 27,
+      "required_for_100": "30 of 34 (27 Magazines, Books & Comics + 7 Book Swaps counted together)",
+      "sets": [],
+      "reward": "None reported beyond 100% checklist progress.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-all-magazines-books-comics-locations/",
+        "https://www.pushsquare.com/guides/gta-6-magazines-books-and-comics-locations",
+        "https://www.gamespot.com/articles/gta-6-magazines-books-comics-locations-guide/",
+        "https://metaforge.app/gta-6/gta-6-magazines-books-comics-locations",
+        "https://www.gtabase.com/gta-6/map/?feature=magazine"
+      ],
+      "agree": true,
+      "note": "27 unique publications is consistent (PowerPyx, GameSpot, metaforge). Some are MISSABLE: the ones inside Jason's house in Key Lento disappear after Chapter 1. gtabase's 'Magazine & Book' map category shows 87 / 88 / 91 pins depending on snapshot - that is a location count (it evidently includes more than the 27 unique collectibles) and must not be used as the total. Example items named by guides: 'RX Men' magazine (247 store, Key Lento), '11:59 Survivalist Culture' (Mount Kalaga National Park), 'Ratface' comic (Xero Food Mart, Vice City)."
+    },
+    {
+      "type": "book_swaps",
+      "official_name": "Book Swaps",
+      "name_ru": "Книгообмен (Book Swaps)",
+      "total": 7,
+      "required_for_100": "counted inside the 30-of-34 magazines/books requirement",
+      "sets": [],
+      "reward": "None reported.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-all-magazines-books-comics-locations/",
+        "https://metaforge.app/gta-6/gta-6-magazines-books-comics-locations",
+        "https://www.gtabase.com/gta-6/map/?feature=book-swap"
+      ],
+      "agree": true,
+      "note": "Tracked separately from the 27 in-game. The seven individual locations were not retrieved."
+    },
+    {
+      "type": "unique_playlists",
+      "official_name": "Unique Playlists",
+      "name_ru": "Уникальные плейлисты",
+      "total": 2,
+      "required_for_100": 2,
+      "sets": [
+        {"name": "The Sniper of La Perle", "posters_to_scan": 4},
+        {"name": "The Vault Radio", "posters_to_scan": 1}
+      ],
+      "reward": "Unlocks the playlist itself; both required for 100%.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-all-unique-playlist-collectible-locations/",
+        "https://gta6-maps.net/",
+        "https://www.gtacorner.com/collectibles"
+      ],
+      "agree": false,
+      "note": "2 playlists is agreed. Marker count differs: guides say 5 scannable posters (4 + 1); gta6-maps.net shows 7 location pins. For a marker dataset expect 5-7 points, not 2."
+    },
+    {
+      "type": "murals_1010",
+      "official_name": "1010 Murals",
+      "name_ru": "Муралы 1010",
+      "total": 5,
+      "required_for_100": 0,
+      "sets": [],
+      "reward": "None reported; not on the 100% checklist.",
+      "sources": [
+        "https://gta6-maps.net/categories/murals",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-mural-locations-1010-street-art/",
+        "https://www.gtabase.com/gta-6/map/?feature=mural",
+        "https://gta-zone.com/news/gta-6-collectibles/"
+      ],
+      "agree": true,
+      "note": "All five in Vice City: Downtown x2, Rockridge x1, Ocean Beach x1, Crosstown x1."
+    },
+    {
+      "type": "ahol_street_art",
+      "official_name": "AHOL Street Art",
+      "name_ru": "Стрит-арт AHOL",
+      "total": 112,
+      "total_candidates": {"gta-zone.com": 112, "games.gg": 112, "gtabase.com map": 56, "gta6-maps.net": 50},
+      "required_for_100": 0,
+      "sets": [],
+      "reward": "None reported; not on the 100% checklist and does not count as a WAiNK scan.",
+      "sources": [
+        "https://gta-zone.com/news/gta-6-collectibles/",
+        "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-mural-locations-1010-street-art/",
+        "https://www.gtabase.com/gta-6/map/?feature=mural",
+        "https://gta6-maps.net/categories/murals"
+      ],
+      "agree": false,
+      "note": "112 is the reported in-game collection size; 56 and 50 are how many the two map sites had pinned. Also written 'Ahol Street Art'; one guide associates the name 'Geographies of Trash' with it."
+    },
+    {
+      "type": "meteorite_chunks",
+      "official_name": "Meteorite Chunks",
+      "name_ru": "Обломки метеорита",
+      "total": null,
+      "required_for_100": "not listed on any 100% checklist retrieved",
+      "sets": [],
+      "reward": "Sellable at pawn shops (pawn shops have a 'Collectible Items' tab for meteorites and doubloons; Vice City Pawn buys cards, doubloons and meteorites).",
+      "sources": [
+        "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "https://vicecitydb.org/collectibles",
+        "https://www.gtabase.com/gta-6/map/?feature=meteorite",
+        "https://gtaculture.com/guides/gta-6-collectibles"
+      ],
+      "agree": false,
+      "note": "CONFIRMED TO EXIST, TOTAL NOT FOUND in any source. One known spot: under the lighthouse on the small island in Leonida Bay. Do not assert a total."
+    },
+    {
+      "type": "cocaine_flamingos",
+      "official_name": "Cocaine Flamingos",
+      "name_ru": "Кокаиновые фламинго",
+      "total": 125,
+      "required_for_100": 100,
+      "sets": [],
+      "reward": "Destroy 50 = 'Inflatable Flamingo' vehicle spawn cheat (cheats usable only after finishing the main story, per one guide). 100 = 100% checklist line. All 125 = no confirmed extra reward. Each drops cocaine that can be fenced.",
+      "sources": [
+        "https://game8.co/games/GTA-6/archives/638636",
+        "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "https://promptowy.com/en/gta-6/gta-6-cocaine-flamingos/",
+        "https://vicecitydb.org/collectibles/cocaine-flamingos",
+        "https://gmtreks.com/gta6/page/01M7R0NDXV2A4TFKEQR0EC1AK9",
+        "https://www.gtabase.com/gta-6/map/?feature=hidden-packages"
+      ],
+      "agree": true,
+      "note": "125 total / 100 needed is unanimous. Only flamingos with black-and-white beaks count (gtabase). Related checklist line 'fenced narcotics' is given as $200,000 by one guide and $100,000 by others - unresolved."
+    },
+    {
+      "type": "underwater_discoveries",
+      "official_name": "Underwater Discoveries",
+      "name_ru": "Подводные находки",
+      "total": 33,
+      "required_for_100": 33,
+      "sets": [],
+      "reward": "100% checklist line; items sell to Kenton (about $200 per piece per one guide).",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "https://www.pushsquare.com/guides/gta-6-underwater-discoveries-locations-and-kentons-treasures",
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-kentons-treasure-set-locations-and-rewards/",
+        "https://game-checklists.com/gta6/underwater-discoveries-checklist/",
+        "https://promptowy.com/en/gta-6/gta-6-completion-checklist/"
+      ],
+      "agree": true,
+      "note": "33 total, all required - consistent. This counter is NOT the sum of treasure items in Kenton's wrecks (those add up to about 45, see kentons_treasures), so the two must be validated separately."
+    },
+    {
+      "type": "kentons_treasures",
+      "official_name": "Kenton's Treasures (Kenton's Treasure Sets)",
+      "name_ru": "Сокровища Кентона",
+      "total": 7,
+      "required_for_100": "5 of 7 sets",
+      "sets": [
+        {"name": "Nuestra Señora del Ocio", "items": 10, "note": "all Gold Doubloons; the mission wreck"},
+        {"name": "Nuestra Señora de la Noche", "items": 7, "note": "SE of the southern tip of Key Lento; includes the Stained Doubloon in a buried chest"},
+        {"name": "Nuestra Señora de la Ética Laxa", "items": 5, "note": "south of La Noche, off Abismo Key"},
+        {"name": "Urca de Cinco Torres", "items": 6, "note": "off south-eastern Key Lento"},
+        {"name": "Nuestra Señora Lujuriosa", "items": 6},
+        {"name": "Urca de Santa Sierra", "items": 6, "note": "added later in Kenton's questline"},
+        {"name": "Seventh set - 'Belpoint Strait' (5 items) per one guide, 'not yet confirmed' per another", "items": null}
+      ],
+      "reward": "Kenton buys the haul (about $200 per piece, one source). No set-completion reward confirmed.",
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-underwater-discoveries-locations-and-kentons-treasures",
+        "https://www.keengamer.com/articles/guides/gta-6-all-7-kentons-treasure-set-locations-and-rewards/",
+        "https://bo3.gg/games/articles/gta-6-underwater-discoveries-all-kentons-treasure-locations-and-shipwrecks",
+        "https://outputlag.com/guides/gta-6-treasure-locations/",
+        "https://retrogems.fr/en/gta-6-kentons-treasures-guide-underwater-discoveries/",
+        "https://www.gtabase.com/gta-6/map/?feature=treasure"
+      ],
+      "agree": false,
+      "note": "7 sets / 5 needed is agreed. Seventh wreck is unconfirmed; gtabase's Treasure category shows 5 or 6 pins and retrogems says 6 shipwrecks. Starts in Chapter 1 mission 'Island Dreams' (talk to Kenton)."
+    },
+    {
+      "type": "stunts_total",
+      "official_name": "Stunts (four categories combined)",
+      "name_ru": "Трюки (всего)",
+      "total": 397,
+      "required_for_100": 300,
+      "sets": [
+        {"name": "Stunt Jumps", "count": 130},
+        {"name": "Under the Bridges", "count": 202},
+        {"name": "Knife Flights", "count": 40},
+        {"name": "Base Jumps", "count": 25}
+      ],
+      "reward": "Trophy 'Cunning Stunts' (silver) for any 250 stunts; any 300 of 397 for the 100% checklist. No cash reward listed.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-all-stunt-jump-locations/",
+        "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "https://www.gtabase.com/gta-6/map/?feature=stunt-jumps",
+        "https://egamers.io/gta-6-stunt-guide-all-397-stunts-the-cunning-stunts-trophy-and-the-100-target/",
+        "https://www.theclick.gg/gta-6-cunning-stunts-trophy-guide/",
+        "https://tracker.gg/gta6/map"
+      ],
+      "agree": true,
+      "note": "130 + 202 + 40 + 25 = 397, identical on PowerPyx, gtabase, tracker.gg, gta6-maps.net and others. Categories can be mixed freely for both thresholds."
+    },
+    {
+      "type": "stunt_jumps",
+      "official_name": "Stunt Jumps",
+      "name_ru": "Трюковые прыжки",
+      "total": 130,
+      "required_for_100": "part of 300 of 397 stunts",
+      "sets": [
+        {"name": "Vice-Dale County", "count": 55},
+        {"name": "Kelly County", "count": 29},
+        {"name": "Mariana County", "count": 17},
+        {"name": "Lummox County", "count": 16},
+        {"name": "Leonard County", "count": 13}
+      ],
+      "reward": "One guide says 50 stunt jumps unlock the 'Unlimited Nitrous' cheat - single source, unverified.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=stunt-jumps",
+        "https://www.powerpyx.com/gta-6-all-stunt-jump-locations/",
+        "https://showgamer.com/en/guides/7821-vse-kaskaderskie-pryzhki-v-gta-6-gde-nayti-130-tramplinov-na-karte",
+        "https://tracker.gg/gta6/map"
+      ],
+      "agree": true,
+      "note": "County split (55/29/17/16/13) is from gtabase and sums to 130; PowerPyx independently gives Mariana County = 17."
+    },
+    {
+      "type": "under_the_bridges",
+      "official_name": "Under the Bridges",
+      "name_ru": "Пролёты под мостами",
+      "total": 202,
+      "required_for_100": "part of 300 of 397 stunts",
+      "sets": [],
+      "reward": "See stunts_total.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/",
+        "https://gta6-maps.net/categories/under-the-bridge",
+        "https://gta6info.com/wiki/Under_the_Bridges",
+        "https://tracker.gg/gta6/map"
+      ],
+      "agree": true,
+      "note": "gtabase labels the category 'Under the Bridge' (singular); PowerPyx and others use 'Under the Bridges'. Exact in-game label not verified first-hand."
+    },
+    {
+      "type": "knife_flights",
+      "official_name": "Knife Flights",
+      "name_ru": "Полёты «на ноже»",
+      "total": 40,
+      "required_for_100": "part of 300 of 397 stunts",
+      "sets": [],
+      "reward": "See stunts_total.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=knife-flight",
+        "https://gmtreks.com/gta6/page/01M7SG8BDF99FKAZ03AWPFH0XA"
+      ],
+      "agree": true,
+      "note": "Flown between towers; one guide says they are concentrated in Vice City (mostly Downtown and Tequesta)."
+    },
+    {
+      "type": "base_jumps",
+      "official_name": "Base Jumps",
+      "name_ru": "Бейс-прыжки",
+      "total": 25,
+      "required_for_100": "part of 300 of 397 stunts",
+      "sets": [],
+      "reward": "See stunts_total.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=base-jump",
+        "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/"
+      ],
+      "agree": true,
+      "note": "gtabase writes 'BASE Jump'; PowerPyx writes 'Base Jumps'."
+    },
+    {
+      "type": "meditations",
+      "official_name": "Meditations (Meditation Spots)",
+      "name_ru": "Медитации",
+      "total": 18,
+      "required_for_100": 15,
+      "sets": [],
+      "reward": "Trophy 'Positive Mental Attitude'.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-all-meditation-spot-locations/",
+        "https://www.gtabase.com/gta-6/map/?feature=meditation",
+        "https://outputlag.com/guides/gta-6-meditation-spots/",
+        "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+      ],
+      "agree": true,
+      "note": "18 meditations at 10 map locations (each spot counts once per character; gtabase's map therefore shows 10). MISSABLE: the Chapter 1 meditation at Jason's house (Lucia's balcony). Sources disagree whether that one is needed for the trophy: PowerPyx's meditation page says no, PowerPyx's trophy index and KeenGamer say 'potentially' - do it before leaving Chapter 1."
+    },
+    {
+      "type": "basketball_hoops",
+      "official_name": "Basketball Hoops",
+      "name_ru": "Баскетбольные кольца",
+      "total": 100,
+      "required_for_100": 90,
+      "sets": [],
+      "reward": "100% checklist line only.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "https://outputlag.com/guides/gta-6-stunt-jumps-hoops/"
+      ],
+      "agree": true,
+      "note": "Each of 90 different hoops must be scored once; repeated scoring at one hoop does not count."
+    },
+    {
+      "type": "brets_target_decks",
+      "official_name": "Bret's Target Decks",
+      "name_ru": "Наборы мишеней Брета (Target Decks)",
+      "total": 15,
+      "required_for_100": 15,
+      "sets": [],
+      "reward": "100% checklist line.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "https://gta-zone.com/news/gta-6-collectibles/"
+      ],
+      "agree": true,
+      "note": "Nature of the activity not described in the extracts retrieved."
+    },
+    {
+      "type": "discovered_styles",
+      "official_name": "Discovered Styles",
+      "name_ru": "Открытые стили",
+      "total": 79,
+      "required_for_100": 70,
+      "sets": [],
+      "reward": "100% checklist line.",
+      "sources": [
+        "https://promptowy.com/en/gta-6/gta-6-discovered-styles-watches-tattoos/",
+        "https://promptowy.com/en/gta-6/gta-6-completion-checklist/",
+        "https://gta-zone.com/news/gta-6-collectibles/",
+        "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/"
+      ],
+      "agree": true,
+      "note": "Includes luxury watches and tattoos. gtabase's 'Luxury Watches' map category shows 15 / 22 / 23 pins depending on snapshot."
+    },
+    {
+      "type": "vehicles_scanned",
+      "official_name": "Vehicles (WAiNK vehicle scans) - Base Models",
+      "name_ru": "Транспорт (сканы WAiNK), базовые модели",
+      "total": 277,
+      "required_for_100": 200,
+      "sets": [
+        {"name": "Base Models", "count": 277},
+        {"name": "Standout", "count": 280}
+      ],
+      "reward": "100% checklist line.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-collectible-guide-progress-database/",
+        "https://www.powerpyx.com/gta-6-how-to-study-animals-scan-vehicles/",
+        "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "https://vicecheats.com/guides/gta-6-collectibles/"
+      ],
+      "agree": true,
+      "note": "557 vehicles in the database = 277 base models + 280 standout. Only base models count for the 200. Vehicle scans use a separate counter from WAiNK Locations."
+    },
+    {
+      "type": "standout_vehicles",
+      "official_name": "Standout Vehicles",
+      "name_ru": "Особые автомобили (Standout)",
+      "total": 280,
+      "total_candidates": {"powerpyx.com": 280, "gtabase.com map": 281, "tracker.gg map": 85},
+      "required_for_100": 0,
+      "sets": [],
+      "reward": "None for the checklist; tracked in their own 'Standout' tab.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-collectible-guide-progress-database/",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://tracker.gg/gta6/map/standout-vehicles",
+        "https://game-checklists.com/gta6/standout-vehicles-checklist/"
+      ],
+      "agree": false,
+      "note": "280 (PowerPyx database count) vs 281 (gtabase pins) - off by one; 85 on tracker.gg is mapping progress. One checklist site groups them into 25 standout vehicle types."
+    },
+    {
+      "type": "animals_studied",
+      "official_name": "Animals",
+      "name_ru": "Животные",
+      "total": 255,
+      "required_for_100": 100,
+      "sets": [],
+      "reward": "100% checklist line.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-how-to-study-animals-scan-vehicles/",
+        "https://www.powerpyx.com/gta-6-collectible-guide-progress-database/",
+        "https://gta-zone.com/news/gta-6-collectibles/"
+      ],
+      "agree": true,
+      "note": "Every dog and cat breed counts separately; fish count if you swim near them."
+    },
+    {
+      "type": "weapons",
+      "official_name": "Weapons (database) / Unique Weapons",
+      "name_ru": "Оружие / уникальное оружие",
+      "total": 196,
+      "required_for_100": "not stated in extracts",
+      "sets": [
+        {"name": "Unique weapon variants pinned on gtabase", "count": 104}
+      ],
+      "reward": "Unique variants are permanent once picked up (stored in the weapon locker) but cannot be modified.",
+      "sources": [
+        "https://www.powerpyx.com/gta-6-collectible-guide-progress-database/",
+        "https://www.gtabase.com/gta-6/map/?feature=unique-weapon",
+        "https://outputlag.com/guides/gta-6-unique-weapons-locations/",
+        "https://detonated.com/gta-6-weapon-variant-locations"
+      ],
+      "agree": true,
+      "note": "196 = PowerPyx database total for all weapons. 104 = gtabase's count of unique-weapon locations; whether 104 is the full in-game unique list was not confirmed."
+    },
+    {
+      "type": "hidden_packages",
+      "official_name": "Hidden Package (gtabase map category - NOT confirmed as an in-game collection name)",
+      "name_ru": "Спрятанные пакеты (тайники)",
+      "total": null,
+      "total_candidates": {"gtabase snapshots": [75, 105, 118, 135]},
+      "required_for_100": 0,
+      "sets": [],
+      "reward": "Loose loot: cocaine bricks, lockboxes, gear, easter eggs.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=hidden-packages",
+        "https://gta6locations.com/gta-6-collectibles/hidden-packages/"
+      ],
+      "agree": false,
+      "note": "This is a fan-site grouping whose count is still growing; no guide lists 'Hidden Packages' as a counted in-game collectible. Do not treat 135 as a completion total."
+    },
+    {
+      "type": "scoop_containers",
+      "official_name": "SCOOP Containers (Yellow Scoop Containers)",
+      "name_ru": "Контейнеры SCOOP",
+      "total": 23,
+      "required_for_100": "not stated",
+      "sets": [],
+      "reward": "Contain vehicles and weapons.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=scoop-container",
+        "https://game8.co/games/GTA-6/archives/639464",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/"
+      ],
+      "agree": true,
+      "note": "23 is gtabase's pin count only (single source for the number). Opening them requires the Cut-Off Tool, obtained in the Chapter 3 mission 'Meet the Heders'."
+    },
+    {
+      "type": "gold_doubloons",
+      "official_name": "Gold Doubloons",
+      "name_ru": "Золотые дублоны",
+      "total": null,
+      "required_for_100": "only via Kenton's Treasures / Underwater Discoveries",
+      "sets": [],
+      "reward": "Sellable at pawn shops and to Kenton.",
+      "sources": [
+        "https://nerdschalk.com/gta-6-underwater-treasure-gold-doubloons",
+        "https://www.pushsquare.com/guides/gta-6-underwater-discoveries-locations-and-kentons-treasures",
+        "https://gtaculture.com/guides/gta-6-collectibles"
+      ],
+      "agree": true,
+      "note": "Not a separately counted collection in the guides retrieved; the Nuestra Señora del Ocio wreck holds ten."
+    },
+    {
+      "type": "vinyl_records",
+      "official_name": null,
+      "name_ru": "Виниловые пластинки",
+      "total": null,
+      "required_for_100": null,
+      "sets": [],
+      "reward": null,
+      "sources": [
+        "https://gmtreks.com/gta6/page/01M7Q14Z47TMRMR101MF07KYYA"
+      ],
+      "agree": false,
+      "note": "NOT CONFIRMED AS AN IN-GAME COLLECTIBLE. Only one low-reliability page title mentions it; no guide gives a name, count or location. The only verified 'vinyl' is Rockstar Store merchandise. If your dataset has vinyl markers, treat them as unverified."
+    },
+    {
+      "type": "paintings",
+      "official_name": null,
+      "name_ru": "Картины",
+      "total": null,
+      "required_for_100": null,
+      "sets": [],
+      "reward": null,
+      "sources": [
+        "https://gmtreks.com/gta6/page/01M7Q14Z47TMRMR101MF07KYYA"
+      ],
+      "agree": false,
+      "note": "NOT CONFIRMED AS AN IN-GAME COLLECTIBLE. Same single low-reliability page title; nothing else found."
+    }
+  ],
+
+  "hundred_percent_checklist": {
+    "source_primary": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+    "corroborating": [
+      "https://promptowy.com/en/gta-6/gta-6-completion-checklist/",
+      "https://www.gtabase.com/articles/gta-6/gta-6-100-completion-guide-interactive-checklist",
+      "https://gta-zone.com/news/gta-6-collectibles/",
+      "https://vicecheats.com/guides/gta-6-collectibles/"
+    ],
+    "items": [
+      {"line": "Collectible Card Sets", "need": 15, "of": 18},
+      {"line": "WAiNK Locations scanned", "need": 100, "of": null},
+      {"line": "Cocaine Flamingos", "need": 100, "of": 125},
+      {"line": "Magazines, Books & Comics (incl. Book Swaps)", "need": 30, "of": 34},
+      {"line": "Unique Playlists", "need": 2, "of": 2},
+      {"line": "Underwater Discoveries", "need": 33, "of": 33},
+      {"line": "Kenton's Treasure Sets", "need": 5, "of": 7},
+      {"line": "Meditations", "need": 15, "of": 18},
+      {"line": "Stunts (any of the four types)", "need": 300, "of": 397},
+      {"line": "Basketball Hoops", "need": 90, "of": 100},
+      {"line": "Bret's Target Decks", "need": 15, "of": 15},
+      {"line": "Discovered Styles", "need": 70, "of": 79},
+      {"line": "Vehicles scanned (base models)", "need": 200, "of": 277},
+      {"line": "Animals studied", "need": 100, "of": 255},
+      {"line": "Optional Tasks", "need": 100, "of": null},
+      {"line": "Gang Operations", "need": 39, "of": 39},
+      {"line": "Bank Jobs", "need": 22, "of": 22},
+      {"line": "Challenges", "need": 70, "of": 80},
+      {"line": "Unique Races", "need": 30, "of": 40},
+      {"line": "Drone Time Trials", "need": 42, "of": 42},
+      {"line": "Fenced narcotics", "need": "$200,000 per one guide, $100,000 per others - DISPUTED", "of": null}
+    ]
+  },
+
+  "regions": [
+    {
+      "name": "Mariana County",
+      "kind": "county",
+      "position": "south / south-west (Keys and Grassrivers)",
+      "districts": ["Southwind", "Key Lento", "Bobcat Key", "Pelican Valley", "Watson Bay", "Grassrivers", "Capri", "North Mariana County"],
+      "districts_source": "PowerPyx in-game map breakdown (list may be incomplete - page was not read in full)",
+      "other_reported_places": ["Goose Key", "Mile Zero Air Station (on Goose Key)", "Big Pine", "Shoeless Keys", "Corsair Key", "Riquezas Keys", "Permit Keys", "Abismo Key", "Bobcat Bight", "Tola Bay", "Tortoise Lake", "Capri Sound", "Belpoint", "Nehrling River", "Gulf of Leonida", "T.H. Power Station"],
+      "disputed": [
+        "Capri: Mariana County per PowerPyx and gtabase; Kelly County per PC Gamer, outputlag and grandleonida.",
+        "Hamlet: listed under Mariana County by Insider Gaming and outputlag, but under Vice-Dale County by PowerPyx and GTA Wiki."
+      ],
+      "sources": [
+        "https://www.powerpyx.com/gta-6-full-world-map-revealed/",
+        "https://insider-gaming.com/gta-6-map-location-poi/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
+        "https://outputlag.com/guides/gta-6-map/",
+        "https://www.gtabase.com/gta-6/map-locations/"
+      ]
+    },
+    {
+      "name": "Vice-Dale County",
+      "kind": "county",
+      "position": "south-east (around Vice City)",
+      "districts": ["Vice City", "Vice Beach", "Rialto Islands", "Hamlet", "VCIA", "South Vice-Dale County", "West Vice-Dale County"],
+      "districts_source": "PowerPyx in-game map breakdown",
+      "other_reported_places": ["Port Vice City", "Starfish Island", "Waxman Island", "Gloriana Key", "Catalan Key", "Dalton Island", "Bluegrass", "Tequesta Retreat", "Vice City Oceanarium", "Fleeca Field", "Merlin's Palace Casino"],
+      "disputed": [
+        "Hamlet county assignment (see Mariana County).",
+        "Belville is placed in Vice-Dale by one gtabase page but in Leonard County by PowerPyx, outputlag, Beebom, GTA Wiki and another gtabase page - Leonard is the majority."
+      ],
+      "sources": [
+        "https://www.powerpyx.com/gta-6-full-world-map-revealed/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/",
+        "https://gta.fandom.com/wiki/State_of_Leonida",
+        "https://www.gtabase.com/gta-6/map-locations/",
+        "https://outputlag.com/guides/gta-6-map/"
+      ]
+    },
+    {
+      "name": "Vice City",
+      "kind": "city",
+      "parent": "Vice-Dale County",
+      "districts": ["Southside", "Peacock Bay", "Tequesta", "Tequesta Retreat", "Downtown", "Little Cuba", "Salton", "Rockridge", "Crosstown", "Bayside", "La Perle", "Balsero", "Stockyard", "Decor District", "Leaf Links"],
+      "districts_source": "PowerPyx (15 sub-areas). Insider Gaming's extract independently shows Bayside, Balsero, Rockridge, Crosstown, Little Cuba, Downtown, Salton, Tequesta, Peacock Bay (plus a label 'FLAM' that I could not interpret). outputlag confirms Downtown, Little Cuba, Bayside, Stockyard, Decor District, Tequesta, Southside.",
+      "other_reported_places": ["Ekanfinaka", "Tisha-Wocka", "South Vice City", "Vice City International Airport"],
+      "disputed": [
+        "Spelling: 'Rockridge' on PowerPyx's map page and most sites; another PowerPyx page prints 'Rock Rudge' (likely a typo). Use 'Rockridge' unless the in-game map says otherwise.",
+        "GTA Wiki writes 'Downtown Vice City' and adds Ekanfinaka, Tisha-Wocka, South Vice City; these wiki pages still carry pre-release wording and may be stale.",
+        "Leaf Links: a Vice City sub-area per PowerPyx, a Vice Beach neighbourhood per GTA Wiki, and placed in Leonard County by one fan map.",
+        "Salton: PowerPyx lists 'Salton' as a Vice City sub-area; GTA Wiki only has 'Salton Memorial Island' under Vice Beach.",
+        "District counts on other sites range from 14 to 28 to '87 districts across 5 counties' - none verified.",
+        "Real-world names (Little Havana, Little Haiti, South Beach, Wynwood, Venetian Islands) that appear on gtabase's guide are Miami analogues, not in-game names."
+      ],
+      "sources": [
+        "https://www.powerpyx.com/gta-6-full-world-map-revealed/",
+        "https://insider-gaming.com/gta-6-map-location-poi/",
+        "https://outputlag.com/guides/gta-6-map/",
+        "https://gta.fandom.com/wiki/Vice_City_(HD_Universe)",
+        "https://mmoculture.com/tips-guides/gta-6-map-guide/"
+      ]
+    },
+    {
+      "name": "Vice Beach",
+      "kind": "city",
+      "parent": "Vice-Dale County",
+      "districts": ["Ocean Beach", "Washington Beach"],
+      "districts_source": "PowerPyx; GTA Wiki agrees on both and adds Leaf Links as a third",
+      "other_reported_places": ["Salton Memorial Island", "Casanova Island", "Vespucci Island", "Catalan Island"],
+      "disputed": ["Leaf Links placement (see Vice City)."],
+      "sources": [
+        "https://www.powerpyx.com/gta-6-full-world-map-revealed/",
+        "https://gta.fandom.com/wiki/Vice_Beach_(HD_Universe)"
+      ]
+    },
+    {
+      "name": "Rialto Islands",
+      "kind": "island group",
+      "parent": "Vice-Dale County",
+      "districts": ["Starfish Island", "Waxman Island", "Port Vice City"],
+      "districts_source": "PowerPyx ('plus several keys' - not individually retrieved)",
+      "other_reported_places": [],
+      "disputed": [],
+      "sources": ["https://www.powerpyx.com/gta-6-full-world-map-revealed/"]
+    },
+    {
+      "name": "Kelly County",
+      "kind": "county",
+      "position": "west / north-west",
+      "districts": ["South Kelly County", "Port Gellhorn", "Draper Island", "North Kelly County"],
+      "districts_source": "PowerPyx in-game map breakdown (may be incomplete)",
+      "other_reported_places": ["Emerald Springs", "Gellhorn Raceway (also written Gellhorn International Raceway)", "Thrillbilly Mud Club (Route 32)", "Manifest Canyon", "Buckskin Swamp", "Zephyr Islands", "Wild Hog Airfield"],
+      "disputed": [
+        "Capri: Kelly per PC Gamer/outputlag, Mariana per PowerPyx/gtabase.",
+        "Ambrosia: Kelly per gtabase, GTA Wiki and Insider Gaming; Leonard per PC Gamer and outputlag."
+      ],
+      "sources": [
+        "https://www.powerpyx.com/gta-6-full-world-map-revealed/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/",
+        "https://insider-gaming.com/gta-6-map-location-poi/",
+        "https://gta6-maps.net/guides/cities-and-towns",
+        "https://grandleonida.com/guides/leonida-map-explained/"
+      ]
+    },
+    {
+      "name": "Leonard County",
+      "kind": "county",
+      "position": "centre / north-east",
+      "districts": ["South Leonard County", "Belville", "Waning Sands", "North Leonard County"],
+      "districts_source": "PowerPyx in-game map breakdown (may be incomplete)",
+      "other_reported_places": ["Lake Leonida", "Richard Barebone State Park", "Ambrosia (disputed)"],
+      "disputed": ["Ambrosia county assignment (see Kelly County)."],
+      "sources": [
+        "https://www.powerpyx.com/gta-6-full-world-map-revealed/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/",
+        "https://outputlag.com/guides/gta-6-map/",
+        "https://beebom.com/gta-6-map/"
+      ]
+    },
+    {
+      "name": "Lummox County",
+      "kind": "county",
+      "position": "north",
+      "districts": ["South West Lummox County", "Grayson", "Bonanza", "East Lummox County"],
+      "districts_source": "PowerPyx in-game map breakdown (may be incomplete)",
+      "other_reported_places": ["Millport", "Moreau", "Mount Kalaga National Park", "Featherstone Islands", "Saint Attaway Islands", "Hyde Island", "San Malo Bay", "Okchiloha Bay", "MacAlister Gold Mine", "Frampton Islands", "Yorktown (one source only)"],
+      "disputed": [
+        "Spelling: 'Millport' (gtabase, outputlag, Insider Gaming) vs 'Milsport' (GTA Wiki extract). Use 'Millport'.",
+        "'Featherstone Islands' (PowerPyx, outputlag) vs a garbled wiki rendering - use 'Featherstone'.",
+        "Yorktown appears only on gtabase/gta6-maps.net lists."
+      ],
+      "sources": [
+        "https://www.powerpyx.com/gta-6-full-world-map-revealed/",
+        "https://insider-gaming.com/gta-6-map-location-poi/",
+        "https://outputlag.com/guides/gta-6-map/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
+      ]
+    },
+    {
+      "name": "Rockstar marketing regions (NOT the in-game administrative split)",
+      "kind": "marketing",
+      "districts": ["Vice City", "Leonida Keys", "Grassrivers", "Port Gellhorn", "Ambrosia", "Mount Kalaga National Park"],
+      "districts_source": "Rockstar's pre-release site, as repeated by every guide",
+      "other_reported_places": [],
+      "disputed": [
+        "Rockstar marketed six regions; in game Leonida is divided into five counties. One fan site (leonidamapgta.com) claims 12 counties - it is counting PowerPyx-style sub-areas such as 'North Mariana County' and should be ignored."
+      ],
+      "sources": [
+        "https://gtascoop.com/map/",
+        "https://allthings.how/gta-6-map-locations-every-confirmed-region-in-leonida/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/"
+      ]
+    }
+  ],
+
+  "categories": [
+    {"name": "Ammu-Nation", "name_ru": "Ammu-Nation (оружейные магазины)", "count": 24, "agree": true, "note": "gtabase 24 and tracker.gg 24 gun stores. Stores have stock tiers; 'Expanded' carries the widest range.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=ammu-nation", "https://tracker.gg/gta6/map", "https://www.powerpyx.com/gta-6-all-ammu-nation-gun-stores-locations/"]},
+    {"name": "Pay 'n' Spray", "name_ru": "Pay 'n' Spray (покраска и ремонт)", "count": 19, "agree": true, "note": "Present in all five counties. Single numeric source.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=pay-n-spray", "https://www.powerpyx.com/gta-6-all-pay-n-spray-locations/"]},
+    {"name": "Mod Shop", "name_ru": "Тюнинг-мастерские", "count": 14, "agree": true, "note": "gtabase index only.", "sources": ["https://www.gtabase.com/gta-6/map/"]},
+    {"name": "Clothing", "name_ru": "Магазины одежды", "count": 69, "agree": false, "note": "gtabase page title says 69, its own text says 67.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=clothing", "https://www.powerpyx.com/gta-6-all-clothing-stores-locations/"]},
+    {"name": "Hair & Beauty", "name_ru": "Парикмахерские и салоны красоты", "count": 18, "agree": true, "note": "Examples: Kurt's Barber Shop (Hamlet), Crosstown Cutz (Vice City).", "sources": ["https://www.gtabase.com/gta-6/map/?feature=haircut"]},
+    {"name": "Tattoo", "name_ru": "Тату-салоны", "count": 11, "agree": true, "note": "Examples: The Inked Mermaid, Layin' Ink.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=tattoo"]},
+    {"name": "Safehouse", "name_ru": "Убежища", "count": 5, "agree": false, "note": "gtabase 5; other sites say 4 or 5. Not purchasable.", "sources": ["https://www.gtabase.com/gta-6/map/", "https://www.gtabase.com/gta-6/properties/", "https://thedroidguy.com/gta-6-safehouses-list-unlock-1295219"]},
+    {"name": "Garage", "name_ru": "Гаражи", "count": 14, "agree": false, "note": "gtabase 14; other sites 15 or 16; another says 8 purchasable + 4 free = 12.", "sources": ["https://www.gtabase.com/gta-6/map/", "https://lootmapped.com/gta-6/map/properties/", "https://www.wikigtavi.com/guides/gta-6-safehouses-garages"]},
+    {"name": "Illegal Operation (Gang Operations)", "name_ru": "Нелегальные операции (банды)", "count": 39, "agree": false, "note": "PowerPyx: all 39 gang operations needed for 100%. gtabase map: 41 'Illegal Operation' pins. Insider Gaming: 40. Each has key valuables/codes.", "sources": ["https://www.powerpyx.com/gta-6-100-completion-checklist-guide/", "https://www.gtabase.com/gta-6/map/", "https://insider-gaming.com/all-illegal-operations-locations-key-valuables-in-gta-6/", "https://outputlag.com/guides/gta-6-gang-hideouts-key-valuables/"]},
+    {"name": "Gang Compound", "name_ru": "Базы банд", "count": 2, "agree": true, "note": "gtabase index only.", "sources": ["https://www.gtabase.com/gta-6/map/"]},
+    {"name": "Bank (Bank Jobs)", "name_ru": "Банки (ограбления банков)", "count": 22, "agree": true, "note": "PowerPyx: all 22 bank jobs for 100%; gtabase: 22 Bank pins.", "sources": ["https://www.powerpyx.com/gta-6-100-completion-checklist-guide/", "https://www.gtabase.com/gta-6/map/"]},
+    {"name": "Smash 'n' Grab", "name_ru": "Ограбления Smash 'n' Grab", "count": 35, "agree": true, "note": "gtabase index only.", "sources": ["https://www.gtabase.com/gta-6/map/"]},
+    {"name": "Payday Loan", "name_ru": "Конторы Payday Loan", "count": 7, "agree": true, "note": "gtabase index only.", "sources": ["https://www.gtabase.com/gta-6/map/"]},
+    {"name": "Safe (Safe Codes)", "name_ru": "Сейфы (коды)", "count": 101, "agree": false, "note": "101 on the dedicated page, 96 on the index.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=safe"]},
+    {"name": "Fence", "name_ru": "Скупщики краденого", "count": 14, "agree": true, "note": "gtabase 14. PC Gamer names Dunk and Moses in Port Gellhorn, Kelly County.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=fence", "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/"]},
+    {"name": "Race", "name_ru": "Гонки", "count": 53, "agree": false, "note": "40 unique races (Hit 'N Run VC, Gellhorn Raceway, Thrillbilly Mud Club) + 13 race challenges = 53; gtabase title says 54; gta6-maps.net 52. 100% needs 30 of 40 unique races.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=race", "https://gta6-maps.net/categories/races", "https://www.powerpyx.com/gta-6-all-unique-race-locations-racing-activities/"]},
+    {"name": "Drone Race (Drone Time Trials)", "name_ru": "Гонки дронов (испытания на время)", "count": 42, "agree": true, "note": "gtabase 42 pins; PowerPyx 42 of 42 for 100%.", "sources": ["https://www.gtabase.com/gta-6/map/", "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/"]},
+    {"name": "Challenges", "name_ru": "Испытания", "count": 80, "agree": true, "note": "70 of 80 for 100%. Not a map category.", "sources": ["https://www.powerpyx.com/gta-6-all-challenges-guide/", "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/"]},
+    {"name": "Fishing", "name_ru": "Рыбалка", "count": 36, "agree": true, "note": "gtabase index only.", "sources": ["https://www.gtabase.com/gta-6/map/"]},
+    {"name": "Meditation", "name_ru": "Медитация", "count": 10, "agree": true, "note": "10 map locations = 18 meditations (per character).", "sources": ["https://www.gtabase.com/gta-6/map/?feature=meditation", "https://www.powerpyx.com/gta-6-all-meditation-spot-locations/"]},
+    {"name": "Basketball Hoops", "name_ru": "Баскетбольные кольца", "count": 100, "agree": true, "note": "90 needed.", "sources": ["https://www.powerpyx.com/gta-6-100-completion-checklist-guide/", "https://outputlag.com/guides/gta-6-stunt-jumps-hoops/"]},
+    {"name": "Arcade Machine", "name_ru": "Аркадные автоматы", "count": 31, "agree": true, "note": "gtabase only.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=arcade"]},
+    {"name": "Strip Club", "name_ru": "Стрип-клубы", "count": 3, "agree": true, "note": "outputlag: 3 locations incl. Jack of Hearts; Nine1Nine is another chain named by Insider Gaming.", "sources": ["https://outputlag.com/guides/gta-6-jack-of-hearts-location/", "https://insider-gaming.com/strip-club-locations-gta-6/", "https://www.powerpyx.com/gta-6-all-strip-club-locations/"]},
+    {"name": "Random Event", "name_ru": "Случайные события", "count": 280, "agree": true, "note": "gtabase only.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=random-event"]},
+    {"name": "Yellow Loot Box", "name_ru": "Жёлтые ящики с лутом", "count": 319, "agree": false, "note": "319 on index vs 227 on the dedicated page (different snapshots). Randomised containers, can drop collectible cards.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=yellow-loot-box", "https://gta6.wiki.fextralife.com/All_Collectible_Cards_Set_Locations"]},
+    {"name": "ATM", "name_ru": "Банкоматы", "count": 194, "agree": false, "note": "194 / 195 depending on gtabase page.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=atm"]},
+    {"name": "Bus Stop", "name_ru": "Автобусные остановки", "count": 276, "agree": true, "note": "gtabase only.", "sources": ["https://www.gtabase.com/gta-6/map/"]},
+    {"name": "Airport & Airfield", "name_ru": "Аэропорты и аэродромы", "count": 10, "agree": false, "note": "gtabase 10; gta6-maps.net 11.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=airports", "https://gta6-maps.net/categories/airports"]},
+    {"name": "Police Station", "name_ru": "Полицейские участки", "count": 17, "agree": true, "note": "gtabase only.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=police-station"]},
+    {"name": "City & Town", "name_ru": "Города и посёлки", "count": 10, "agree": true, "note": "gtabase: Vice Beach, Millport, Belville, Waning Sands, Capri, Watson Bay, Hamlet, Key Lento, Goose Key, Gloriana Key, Port Vice City (the extract lists 11 names against a stated 10).", "sources": ["https://www.gtabase.com/gta-6/map/?feature=city-town"]},
+    {"name": "Luxury Watches", "name_ru": "Люксовые часы", "count": null, "agree": false, "note": "gtabase shows 15 / 22 / 23 across pages; part of Discovered Styles.", "sources": ["https://www.gtabase.com/gta-6/map/", "https://promptowy.com/en/gta-6/gta-6-discovered-styles-watches-tattoos/"]},
+    {"name": "Vehicle Dealer", "name_ru": "Автосалоны", "count": null, "agree": true, "note": "Category exists on gtabase; count not retrieved.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=vehicle-dealer"]},
+    {"name": "Gas Station", "name_ru": "Заправки", "count": null, "agree": true, "note": "Category exists (gtabase, PowerPyx); count not retrieved.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=gas-station", "https://www.powerpyx.com/gta-6-all-gas-stations-locations/"]},
+    {"name": "Bar", "name_ru": "Бары", "count": null, "agree": true, "note": "Category exists; count not retrieved.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=bar"]},
+    {"name": "Fire Station", "name_ru": "Пожарные части", "count": null, "agree": true, "note": "Category exists; count not retrieved.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=fire-station"]},
+    {"name": "Helipads", "name_ru": "Вертолётные площадки", "count": null, "agree": true, "note": "Category exists; count not retrieved.", "sources": ["https://www.gtabase.com/gta-6/map/?feature=helipads"]},
+    {"name": "Train Stations", "name_ru": "Железнодорожные станции", "count": null, "agree": true, "note": "PowerPyx guide exists; count not retrieved.", "sources": ["https://www.powerpyx.com/gta-6-all-train-stations-locations/"]},
+    {"name": "Street Food Vendors", "name_ru": "Уличная еда", "count": null, "agree": true, "note": "PowerPyx guide exists; count not retrieved.", "sources": ["https://www.powerpyx.com/gta-6-all-street-food-vendors-locations/"]},
+    {"name": "Pool Opponents", "name_ru": "Соперники по бильярду", "count": null, "agree": true, "note": "PowerPyx guide exists; count not retrieved.", "sources": ["https://www.powerpyx.com/gta-6-all-pool-opponent-locations/"]},
+    {"name": "Casino", "name_ru": "Казино", "count": null, "agree": true, "note": "Merlin's Palace Casino (Vice City) named; total not retrieved.", "sources": ["https://insider-gaming.com/gta-6-casino/"]},
+    {"name": "Pawn Shop", "name_ru": "Ломбарды", "count": null, "agree": true, "note": "Buy cards, doubloons, meteorites (e.g. Vice City Pawn); total not retrieved.", "sources": ["https://gtaculture.com/guides/gta-6-collectibles"]},
+    {"name": "Kitty Litter labs", "name_ru": "Лаборатории Kitty Litter", "count": null, "agree": true, "note": "PC Gamer guide exists; count not retrieved.", "sources": ["https://www.pcgamer.com/games/grand-theft-auto/gta-6-kitty-litter-lab-locations/"]},
+    {"name": "Strangers & Freaks side missions", "name_ru": "Побочные миссии «Чужаки и чудаки»", "count": null, "agree": true, "note": "PowerPyx guide exists; count not retrieved.", "sources": ["https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/"]},
+    {"name": "Optional Tasks", "name_ru": "Необязательные задания", "count": null, "agree": true, "note": "100 needed for 100%; total not retrieved.", "sources": ["https://www.powerpyx.com/gta-6-100-completion-checklist-guide/"]},
+    {"name": "Fan-map grand totals (for sanity checks only)", "name_ru": "Итоги фан-карт (только для сверки)", "count": null, "agree": false, "note": "gtabase: 4336 locations / 102 categories (updated 23-24 Nov 2026). tracker.gg: 2590 pins / 79 categories. vice-city.app (via PC Guide): 6812 pins / 14 categories (Collectibles 930, Robberies and hideouts 668, Sports and activities 635, Trailer and screenshot spots 140). Eklipse: 829 / 19. gta6-maps wiki: 837 / 38. Totals are not comparable across sites.", "sources": ["https://www.gtabase.com/gta-6/map/", "https://tracker.gg/gta6/map", "https://www.pcguide.com/news/gta-6-interactive-map-already-has-more-than-6800-points-of-interest-as-fans-discover-leonida/", "https://eklipse.gg/tool/gta-6-map/"]}
+  ],
+
+  "rarity_and_legend": {
+    "loot_rarity_colours": {
+      "confirmed": false,
+      "summary": "No reliable source describes a gold/purple/blue rarity ladder for loot, weapons or vehicles. Do NOT ship rarity colours as a game fact.",
+      "weapons": {
+        "what_guides_describe": "Weapon icon colour shows OWNERSHIP, not rarity: owned = light-blue handgun icon (can be modified at Ammu-Nation, recoverable from an owned car trunk or weapon locker); unowned = white icon (cannot be modified, lost when the trunk empties); unique variant = yellow/gold icon (cannot be modified, kept in the weapon locker once either character picks it up).",
+        "outlier": "aoeah.com alone claims Common (green) / Rare (blue) / Epic (purple) / Legendary (yellow-gold) inventory tiers. It contradicts the other guides and is unverified.",
+        "terminology": "Guides call the gold ones 'unique weapons' / 'unique variants'; Insider Gaming's headline uses 'Legendary weapon variants' informally.",
+        "sources": [
+          "https://ombrix.org/guide/weapon-icons.html",
+          "https://www.g2a.com/news/gta-6-news/gta-6-full-weapons-guide/",
+          "https://insider-gaming.com/gta-6-full-weapons-guide-types-and-how-to-buy/",
+          "https://games.gg/grand-theft-auto-vi/guides/gta-6-weapon-guide/",
+          "https://outputlag.com/guides/gta-6-unique-weapons-locations/",
+          "https://www.aoeah.com/news/4945--gta-6-gunweapon-tier-list--best-pistols-rifles-smgs-throwables--knives-ranked"
+        ]
+      },
+      "vehicles": {
+        "what_guides_describe": "Two database groups: Base Models (277) and Standout (280), shown in separate tabs. No rarity colour documented. 'Legendary/Epic' labels on one site (egamersworld) and Dexerto's tiers are editorial rankings, not in-game rarity.",
+        "sources": [
+          "https://www.powerpyx.com/gta-6-collectible-guide-progress-database/",
+          "https://www.dexerto.com/wikis/gta-6/best-standout-vehicles/",
+          "https://egamersworld.com/blog/gta-6-standout-vehicles-all-rare-car-types-and-whe-dha39M0YT8"
+        ]
+      },
+      "collectible_cards": {
+        "what_guides_describe": "Each card comes in one of five editions: Standard, Teal, Pink (Dusty Pink), Gold, Silver. This is the only colour-coded tiering confirmed by a major guide.",
+        "sources": ["https://game8.co/games/GTA-6/archives/638661"]
+      },
+      "containers": {
+        "what_guides_describe": "Randomised world containers are yellow: yellow loot boxes, wall-mounted yellow phone boxes, yellow toolboxes; plus large yellow SCOOP shipping containers (need the Cut-Off Tool). No colour-by-rarity scheme reported.",
+        "sources": [
+          "https://www.gtabase.com/gta-6/map/?feature=yellow-loot-box",
+          "https://gta6.wiki.fextralife.com/All_Collectible_Cards_Set_Locations",
+          "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/"
+        ]
+      }
+    },
+    "map_legend": {
+      "official_legend_published_by_rockstar": false,
+      "how_to_open": "Touchpad (PS5) / View button (Xbox) opens the satellite pause map; D-pad Right slides out the Map Index.",
+      "index_tabs": [
+        {"tab": "Personal", "symbol": "arrow", "contains": "personal vehicles, residence, garages, ATMs", "name_ru": "Личное"},
+        {"tab": "Story", "symbol": "diary", "contains": "story missions first, then optional ones", "name_ru": "Сюжет"},
+        {"tab": "Robberies", "symbol": "cash sack", "contains": "robbery opportunities, gang locations, drop-offs", "name_ru": "Ограбления"},
+        {"tab": "Activities", "symbol": "weights", "contains": "activities", "name_ru": "Занятия"},
+        {"tab": "Exploration", "symbol": "magnifying glass", "contains": "exploration / collectibles", "name_ru": "Исследование"},
+        {"tab": "Vehicles", "symbol": "car", "contains": "vehicle services", "name_ru": "Транспорт"},
+        {"tab": "Weapons", "symbol": "gun", "contains": "weapon stores", "name_ru": "Оружие"},
+        {"tab": "Style", "symbol": "shirt", "contains": "clothing, hair, tattoos", "name_ru": "Стиль"},
+        {"tab": "Food", "symbol": "knife and fork", "contains": "restaurants, bars, vendors", "name_ru": "Еда"}
+      ],
+      "pins_described_by_guides": [
+        {"what": "Safehouse", "look": "black house on a teal pin", "confidence": "medium"},
+        {"what": "Ammu-Nation", "look": "gun on a pale pink pin", "confidence": "medium"},
+        {"what": "Tattoo parlour", "look": "heart and banner on the same pale pink pin colour", "confidence": "medium"},
+        {"what": "Hospital", "look": "cross in a square", "confidence": "medium"},
+        {"what": "Route to destination", "look": "pink line", "confidence": "medium"},
+        {"what": "Player", "look": "arrow in a black circle", "confidence": "low"},
+        {"what": "Newly discovered opportunity", "look": "orange diamond in the Index", "confidence": "low"},
+        {"what": "Optional side quests / character strands", "look": "dark pins with pink lettering", "confidence": "low"},
+        {"what": "Main story mission", "look": "pink marker with black letter", "confidence": "low - weak source"},
+        {"what": "Food and bars", "look": "plate = sit-down restaurant, burger = fast food, cocktail glass = cocktail bar, beer glass = bar", "confidence": "low - community reading"}
+      ],
+      "note": "Pay 'n' Spray, mod shops, gas stations, ATMs, clothing stores and salons each have their own icon, but their look was not described in the extracts retrieved. The GamesRadar icon guide that the Index-tab list is attributed to could not be queried (search budget exhausted). Treat pin colours as guide descriptions, not as an official palette.",
+      "sources": [
+        "https://gta6-life.com/en/guides/gta-6-map-icons/",
+        "https://www.theclick.gg/gta-6-map-icons-explained/",
+        "https://beebom.com/gta-6-map/",
+        "https://retrobroker.com/en-US/us/blog/gta-6-map-icons-legend-guide",
+        "https://techwiser.com/gta-6-icons-meaning/",
+        "https://www.itechguides.com/what-do-gta-6-map-icons-mean-find-restaurants-bars-and-more/"
+      ]
+    }
+  },
+
+  "safehouses": [
+    {
+      "name": "Jason's house (stilt house) - the Leonida Keys safehouse",
+      "district": "Key Lento, Leonida Keys (Mariana County)",
+      "price": "free - not purchasable",
+      "unlock": "Available from the start of Chapter 1. Owned by Brian Heder, who lets Jason live there rent-free in return for work.",
+      "note": "LOST after Chapter 1 (the house and anything collectible inside it become inaccessible).",
+      "sources": [
+        "https://www.gtabase.com/gta-6/properties/",
+        "https://thedroidguy.com/gta-6-safehouses-list-unlock-1295219",
+        "https://outputlag.com/guides/gta-6-missables/"
+      ]
+    },
+    {
+      "name": "Other story safehouses (individual names NOT retrieved)",
+      "district": null,
+      "price": "free - safehouses cannot be bought in GTA 6",
+      "unlock": "Unlock automatically as Jason and Lucia's living situation changes across the chapters.",
+      "note": "Total safehouses: 5 per gtabase's map and one other site, 4 per another catalogue - unresolved. Names, districts and unlock missions for the remaining 3-4 could not be researched before the search budget ran out.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/properties/",
+        "https://www.gtabase.com/gta-6/map/",
+        "https://www.wikigtavi.com/guides/gta-6-safehouses-garages",
+        "https://egamers.io/gta-6-property-guide-what-you-can-and-cant-buy-in-leonida-at-launch/"
+      ]
+    },
+    {
+      "name": "Purchasable garages (8) - the only property type that can be bought",
+      "district": "across Leonida (individual names/districts NOT retrieved)",
+      "price": "$4,000 to $40,000 each; $160,000 for all eight",
+      "unlock": "Vice City Real Estate app, after the Chapter 2 mission 'Daily Driver'. Each holds one car.",
+      "note": "Buying all eight awards the 'Little Boxes' trophy.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/properties/",
+        "https://lootmapped.com/gta-6/map/properties/",
+        "https://www.wikigtavi.com/guides/gta-6-safehouses-garages",
+        "https://gta6guide.fr/en/gta-6/properties"
+      ]
+    },
+    {
+      "name": "Free story garages (4)",
+      "district": null,
+      "price": "free",
+      "unlock": "Through story progression.",
+      "note": "Single source. Garage totals disagree: 12 (8 + 4), 14 (gtabase map), 15, 16.",
+      "sources": [
+        "https://www.wikigtavi.com/guides/gta-6-safehouses-garages",
+        "https://www.gtabase.com/gta-6/map/"
+      ]
+    },
+    {
+      "name": "Purchasable houses / penthouses / businesses",
+      "district": null,
+      "price": null,
+      "unlock": null,
+      "note": "NOT IN THE GAME according to every reliable source. leonidainsider.com's list (e.g. a '$4,500,000 Ocean View Penthouse') contradicts all others and should be treated as fabricated. No purchasable business has been confirmed.",
+      "sources": [
+        "https://leonidainsider.com/maps/safehouses-properties/",
+        "https://egamers.io/gta-6-property-guide-what-you-can-and-cant-buy-in-leonida-at-launch/",
+        "https://gta6gang.com/pages/gta6-properties.html"
+      ]
+    }
+  ],
+
+  "missables": [
+    {
+      "item": "Magazines, Books & Comics inside Jason's house (Key Lento)",
+      "chapter": 1,
+      "cutoff": "End of Chapter 1 - the house is no longer accessible",
+      "affects_100": "Probably not: 30 of 34 are needed, so some slack exists, and PowerPyx says missable ones are not required.",
+      "sources": ["https://www.powerpyx.com/gta-6-all-magazines-books-comics-locations/", "https://metaforge.app/gta-6/gta-6-magazines-books-comics-locations", "https://outputlag.com/guides/gta-6-missables/"]
+    },
+    {
+      "item": "Chapter 1 meditation at Jason's house (Lucia's balcony)",
+      "chapter": 1,
+      "cutoff": "End of Chapter 1",
+      "affects_100": "Disputed. 15 of 18 meditations are needed for 100%, so it is not required there. For the 'Positive Mental Attitude' trophy PowerPyx's meditation page says not needed; PowerPyx's trophy index and KeenGamer flag it as potentially missable. Push Square: no missable trophies known yet.",
+      "sources": ["https://www.powerpyx.com/gta-6-all-meditation-spot-locations/", "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/", "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"]
+    },
+    {
+      "item": "Optional errands 'Get Shirley's Rum' and 'Steal the Scooter'",
+      "chapter": 1,
+      "cutoff": "Starting the mission 'Tourist Trap' (the Chapter 1 point of no return)",
+      "affects_100": "Not required for trophies or 100% per PowerPyx.",
+      "sources": ["https://outputlag.com/guides/gta-6-missables/", "https://metaforge.app/gta-6/gta-6-chapter-1-missables-point-of-no-return", "https://www.theclick.gg/gta-6-missable-missions/"]
+    },
+    {
+      "item": "Mission-only pickups in Chapter 1: optional cash in the white-and-red trailer at the Kingfisher camp ('Gone Fishing'); Macizo cigars ('Pipework'); Donnie's aviators and his H&L .38 in the Blista's boot ('Don Gone'); Lucia's sunglasses from a couple on the yacht's middle deck ('Day Release')",
+      "chapter": 1,
+      "cutoff": "During / right after each mission",
+      "affects_100": "No evidence they count.",
+      "sources": ["https://outputlag.com/guides/gta-6-missables/", "https://www.nexzyapp.com/games/grand-theft-auto-vi/guide/gta-6-chapter-1-missables", "https://culturedvultures.com/gta-6-missable-missions-content/"]
+    },
+    {
+      "item": "Lucia's gifts: the $475 necklace at The Siren's Chest and her clothes from Andy; Andy's jacket only if you reach the car undetected in 'Home Sweet Home'",
+      "chapter": 1,
+      "cutoff": "End of Chapter 1 / the mission itself",
+      "affects_100": "Unknown.",
+      "sources": ["https://outputlag.com/guides/gta-6-missables/", "https://outputlag.com/guides/gta-6-coming-home-mission/"]
+    },
+    {
+      "item": "'Clock Out' - timed Lucia ride to the Key Lento Community Center (must happen before 4pm in-game)",
+      "chapter": 1,
+      "cutoff": "In-game time limit",
+      "affects_100": "Unknown.",
+      "sources": ["https://outputlag.com/guides/gta-6-missables/"]
+    },
+    {
+      "item": "Chapter 1 cash, the Key Lento house and personal vehicles do NOT carry over; Family Savings in BuckMe (up to $5,000) and unique weapons DO carry over",
+      "chapter": 1,
+      "cutoff": "End of Chapter 1",
+      "affects_100": "No.",
+      "sources": ["https://outputlag.com/guides/gta-6-missables/", "https://metaforge.app/gta-6/gta-6-chapter-1-missables-point-of-no-return"]
+    },
+    {
+      "item": "'Ambulance Chaser' - dispose of the ambulance before starting 'Slam Dunk'",
+      "chapter": 2,
+      "cutoff": "Starting 'Slam Dunk'",
+      "affects_100": "Unknown.",
+      "sources": ["https://www.keengamer.com/articles/guides/gta-6-chapter-2-guide-all-missables-and-things-to-do-before-checking-out/", "https://www.theclick.gg/gta-6-missable-missions/"]
+    },
+    {
+      "item": "'Race Against Yago' - time-sensitive",
+      "chapter": 2,
+      "cutoff": "Story progression in Chapter 2",
+      "affects_100": "Unknown.",
+      "sources": ["https://www.keengamer.com/articles/guides/gta-6-chapter-2-guide-all-missables-and-things-to-do-before-checking-out/", "https://www.theclick.gg/gta-6-missable-missions/"]
+    },
+    {
+      "item": "General statement",
+      "chapter": null,
+      "cutoff": null,
+      "affects_100": "PowerPyx's main trophy guide: zero missable trophies; nothing missable is needed for 100%. No source reports any world collectible outside Jason's house becoming unobtainable, but no single complete missables list exists yet.",
+      "sources": ["https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/"]
+    }
+  ]
+}

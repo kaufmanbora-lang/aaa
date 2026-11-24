@@ -21,6 +21,7 @@ ap.add_argument('--ign')
 ap.add_argument('--ppx')
 ap.add_argument('--tr')
 ap.add_argument('--extras')
+ap.add_argument('--unplaced')
 ap.add_argument('--docs', default=os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'docs'))
 args = ap.parse_args()
 
@@ -250,6 +251,7 @@ LEAK = re.compile(r'^l\d+$')
 photo_dir = os.path.join(args.docs, 'photos')
 markers = []
 lm_xy, lm_area, lm_name, lm_id, lm_tags, lm_photo = [], [], [], [], [], []
+lm_pw = []
 TAG_RU = {
     'hotel': 'отель', 'residential': 'жилое здание', 'retail': 'торговля', 'transportation': 'транспорт',
     'natural': 'природный объект', 'industrial': 'промышленный объект', 'leisure': 'досуг',
@@ -307,6 +309,7 @@ for key, it in G.items():
         rl_name = rl_addr.split(',')[0].strip()
     lm_xy.append((xy[0], xy[1])); lm_area.append(area); lm_name.append(name); lm_id.append(key)
     lm_tags.append(set(tags)); lm_photo.append(has_photo)
+    lm_pw.append(_igp[0] if isinstance(_igp, list) and _igp else 0)
     cat = lm_category(tags)
     title = name or (f'Прототип: {rl_name}' if rl_name else f'Объект {key}')
     facts = []
@@ -384,8 +387,8 @@ def near_photo(x, y, maxd=140):
     for i, d in nearest_lm(x, y, 12):
         if d > maxd:
             break
-        if lm_photo[i]:
-            return {'p': f'photos/{lm_id[i]}.jpg', 'n': lm_name[i] or 'здание рядом', 'd': int(round(d))}
+        if lm_photo[i] and lm_name[i] and lm_pw[i] >= 320:
+            return {'p': f'photos/{lm_id[i]}.jpg', 'n': lm_name[i], 'd': int(round(d))}
     return None
 
 
@@ -613,9 +616,12 @@ by_name = collections.defaultdict(list)
 for d in derived + ign_markers:
     by_name[norm(d['n'])].append(d)
 final_extras = []
+_by_id = {q['id']: q for q in derived + ign_markers}
 for e in extras:
-    tgt = None
-    for key in [norm(e['n'])] + [norm(a) for a in e.get('aka', [])]:
+    tgt = _by_id.get(e.get('merge')) if e.get('merge') else None
+    if e.get('merge') and tgt is None:
+        continue
+    for key in ([] if (tgt is not None or e.get('force_new')) else [norm(e['n'])] + [norm(a) for a in e.get('aka', [])]):
         if key in by_name:
             cands = [q for q in by_name[key] if q['c'] == e['c'] or (e['c'].startswith('veh') and q['c'].startswith('veh'))]
             if cands:
@@ -627,7 +633,7 @@ for e in extras:
             tgt.setdefault('u', []).append(u)
         if 'web' not in tgt['s']:
             tgt['s'].append('web')
-        if e.get('v', 0) >= 2:
+        if e.get('v', 0) >= 3:
             tgt['v'] = 3
         for f in e.get('f', []):
             if f[0] not in [q[0] for q in tgt.get('f', [])]:
@@ -637,7 +643,7 @@ for e in extras:
         continue
     if 'x' not in e:
         continue
-    final_extras.append({k: v for k, v in e.items() if k not in ('aka', 'force_new')})
+    final_extras.append({k: v for k, v in e.items() if k not in ('aka', 'force_new', 'merge') and v not in (None, [], '')})
 print('extras merged into existing markers:', len(extras) - len(final_extras), 'added as new:', len(final_extras))
 
 # ----------------------------------------------------------------------------- finish
@@ -668,6 +674,7 @@ data = {
     'cats': cats,
     'sources': SOURCES,
     'labels': labels,
+    'unplaced': json.load(open(args.unplaced, encoding='utf8')) if args.unplaced and os.path.exists(args.unplaced) else [],
     'markers': out,
 }
 os.makedirs(os.path.join(args.docs, 'data'), exist_ok=True)

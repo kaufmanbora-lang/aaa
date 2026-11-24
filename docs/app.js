@@ -55,7 +55,7 @@
     DATA.cats.forEach(function (c) { CAT[c.id] = c; });
     DATA.markers.forEach(function (m, i) {
       m._i = i; BYID[m.id] = m;
-      m._s = norm(m.n + ' ' + (m.sub || '') + ' ' + (m.a || '') + ' ' + CAT[m.c].n);
+      m._s = norm(m.n + ' ' + (m.sub || '') + ' ' + (m.a || '') + ' ' + CAT[m.c].n + ' ' + (m.f || []).map(function (f) { return f[1]; }).join(' '));
     });
     var saved = LS.get('cats', null);
     state.cats = new Set(saved || DATA.cats.filter(function (c) { return c.on; }).map(function (c) { return c.id; }));
@@ -77,7 +77,7 @@
     });
   }
   function svg(name) { return '<svg viewBox="0 0 24 24"><path d="' + (ICONS[name] || '') + '"/></svg>'; }
-  function mini(cat, r) { return '<span class="mini" style="--c:' + RAR[r || 1].c + '">' + svg(cat.i) + '</span>'; }
+  function mini(cat, r, ic) { return '<span class="mini" style="--c:' + RAR[r || 1].c + '">' + svg(ic || cat.i) + '</span>'; }
 
   // ------------------------------------------------------------------ map
   function buildMap() {
@@ -158,14 +158,13 @@
       g.setTransform(DPR, 0, 0, DPR, 0, 0);
       g.clearRect(0, 0, w, h);
       var ox = o.x + min.x, oy = o.y + min.y;
-      if (state.labels) this._labels(g, scale, ox, oy, w, h, z);
       var base = z < 1 ? 17 : z < 2 ? 20 : z < 3 ? 23 : z < 4 ? 27 : z < 5 ? 31 : 35;
       var sel = null;
       for (var i = 0; i < visible.length; i++) {
         var mk = visible[i];
         var px = (mk.x / 32 + 512) * scale - ox, py = (-mk.y / 32 + 512) * scale - oy;
         if (px < -24 || py < -24 || px > w + 24 || py > h + 24) continue;
-        var r = mk.r, dot = (r === 1 && z < 2.5) || (r === 2 && z < 1.25);
+        var r = mk.r, dot = (r === 1 && z < 2.5) || (r === 2 && z < 1.5) || (r === 3 && z < 0.75);
         if (mk === state.sel) { sel = [px, py]; dot = false; }
         if (dot) {
           var rad = z < 1.5 ? 2.6 : 3.4;
@@ -173,12 +172,13 @@
           g.fillStyle = RAR[r].c; g.fill(); g.lineWidth = 1; g.strokeStyle = 'rgba(8,12,18,.85)'; g.stroke();
           hits.push(px, py, 9, i);
         } else {
-          var s = base + (r >= 5 ? 5 : r === 4 ? 3 : 0);
-          var sp = sprite(CAT[mk.c].i, r, s, state.found.has(mk.id));
+          var s = base + (r >= 5 ? 5 : r === 4 ? 3 : (r === 3 && z < 1.5) ? -3 : 0);
+          var sp = sprite(mk.ic || CAT[mk.c].i, r, s, state.found.has(mk.id));
           g.drawImage(sp, px - sp._half, py - sp._half, sp._css, sp._css);
           hits.push(px, py, s / 2 + 5, i);
         }
       }
+      if (state.labels) this._labels(g, scale, ox, oy, w, h, z);
       if (sel) {
         g.beginPath(); g.arc(sel[0], sel[1], base / 2 + 7, 0, 6.2832);
         g.lineWidth = 3; g.strokeStyle = '#fff'; g.stroke();
@@ -445,7 +445,7 @@
     res.sort(function (a, b) { return b[0] - a[0]; });
     var h = res.slice(0, 40).map(function (x) {
       var m = x[1], c = CAT[m.c];
-      return '<button type="button" class="res" data-id="' + esc(m.id) + '">' + mini(c, m.r) + '<div><b>' + esc(m.n) + '</b><small>' +
+      return '<button type="button" class="res" data-id="' + esc(m.id) + '">' + mini(c, m.r, m.ic) + '<div><b>' + esc(m.n) + '</b><small>' +
         esc(c.n) + (m.a ? ' · ' + esc(m.a) : '') + '</small></div></button>';
     }).join('');
     box.innerHTML = h || '<div class="res-empty">Ничего не найдено. Попробуйте название на английском, как в игре.</div>';
@@ -496,19 +496,22 @@
   function showDetail(m) {
     var c = CAT[m.c], v = VER[m.v] || VER[1], h = '';
     var ph = m.p && m.p[0] ? { src: m.p[0], cap: 'Игровое фото · GTADB (CC BY 4.0)' } :
-      m.img ? { src: m.img.u, cap: m.img.c || '', remote: true } :
-        m.np ? { src: m.np.p, cap: 'Ориентир рядом: ' + m.np.n + ' (≈' + m.np.d + ' м) · GTADB' } : null;
+      m.img ? { src: m.img.u, cap: m.img.c || '', remote: true } : null;
+    var near = !ph && m.np ? { src: m.np.p, cap: 'Ориентир рядом: ' + m.np.n + ' (≈' + m.np.d + ' м) · фото GTADB' } : null;
     if (ph) {
       h += '<figure class="d-photo" data-src="' + esc(ph.src) + '" data-cap="' + esc(ph.cap) + '"><img src="' + esc(ph.src) + '" alt="" loading="lazy"' +
         (ph.remote ? ' referrerpolicy="no-referrer"' : '') + ' onerror="this.parentNode.hidden=true"><figcaption>' + esc(ph.cap) + '</figcaption></figure>';
     }
-    h += '<div class="d-head">' + mini(c, m.r) + '<div class="d-title"><h3>' + esc(m.n) + '</h3><p>' + esc(c.n) + (m.sub ? ' · ' + esc(m.sub) : '') + '</p></div></div>';
+    h += '<div class="d-head">' + mini(c, m.r, m.ic) + '<div class="d-title"><h3>' + esc(m.n) + '</h3><p>' + esc(c.n) + (m.sub ? ' · ' + esc(m.sub) : '') + '</p></div></div>';
     h += '<div class="tags"><span class="tag rar" style="--c:' + RAR[m.r].c + '">' + RAR[m.r].n + '</span>' +
       '<span class="tag ' + v.k + '">' + v.m + ' ' + v.t + '</span>' +
       (m.lk ? '<span class="tag leak">из слива 2022</span>' : '') +
       (m.ap ? '<span class="tag unk">≈ место примерное</span>' : '') + '</div>';
     if (m.a) h += '<p class="d-area">' + svg('ui-pin') + '<span>' + esc(m.a) + '</span></p>';
     if (m.t) h += '<p class="d-text">' + esc(m.t) + '</p>';
+    if (near) {
+      h += '<figure class="d-photo near" data-src="' + esc(near.src) + '" data-cap="' + esc(near.cap) + '"><img src="' + esc(near.src) + '" alt="" loading="lazy" onerror="this.parentNode.hidden=true"><figcaption>' + esc(near.cap) + '</figcaption></figure>';
+    }
     if (m.f && m.f.length) {
       h += '<table class="facts">' + m.f.map(function (f) { return '<tr><td>' + esc(f[0]) + '</td><td>' + esc(f[1]) + '</td></tr>'; }).join('') + '</table>';
     }
@@ -540,10 +543,11 @@
       else if (navigator.clipboard) navigator.clipboard.writeText(url).then(function () { toast('Ссылка скопирована'); });
       else toast(url);
     };
-    var fig = $('detail-body').querySelector('.d-photo');
-    if (fig) fig.onclick = function () {
-      var lb = $('lightbox'); lb.querySelector('img').src = fig.dataset.src; $('lightbox-cap').textContent = fig.dataset.cap; lb.hidden = false;
-    };
+    $('detail-body').querySelectorAll('.d-photo').forEach(function (fig) {
+      fig.onclick = function () {
+        var lb = $('lightbox'); lb.querySelector('img').src = fig.dataset.src; $('lightbox-cap').textContent = fig.dataset.cap; lb.hidden = false;
+      };
+    });
   }
   function toast(t) {
     var d = document.createElement('div'); d.className = 'toast'; d.textContent = t; document.body.appendChild(d);
@@ -584,8 +588,24 @@
       '<li>Уникальное оружие, редкие машины и секреты — гайды и находки игроков; ссылки есть в карточках.</li>' +
       '<li>Значки — Material Design Icons (Apache 2.0), движок карты — Leaflet (BSD-2).</li></ul>' +
       '<p>Фотографии из слива 2022 года на сайте не публикуются; места, известные только по сливу, собраны в отдельную категорию и помечены.</p>' +
+      (DATA.unplaced && DATA.unplaced.length ? '<h4>Известно, но не нанесено на карту</h4><p>' + DATA.unplaced.length +
+        ' находок из гайдов без надёжного места (или слухи и опровергнутые фейки). На карту они не поставлены, чтобы не вводить в заблуждение.</p>' +
+        '<button type="button" class="abtn wide" id="unplaced-btn">Показать список</button><div id="unplaced" hidden></div>' : '') +
       '<h4>Важно</h4><p>Сайт не связан с Rockstar Games и Take-Two Interactive. Grand Theft Auto, карта и изображения из игры принадлежат правообладателям. Отметки «найдено» хранятся только в этом браузере.</p>';
   }
+  var UK = { weapon: 'Оружие', vehicle: 'Транспорт', secret: 'Секрет', rumor: 'Слух (не подтверждён)', fake: 'Фейк (опровергнут)' };
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest || !e.target.closest('#unplaced-btn')) return;
+    var box = $('unplaced');
+    if (!box.innerHTML) {
+      box.innerHTML = DATA.unplaced.map(function (u) {
+        return '<div class="up"><b>' + esc(u.n) + '</b> <span class="tag ' + (u.k === 'fake' || u.k === 'rumor' ? 'unk' : '') + '">' + (UK[u.k] || '') + '</span>' +
+          (u.t ? '<p>' + esc(u.t) + '</p>' : '') +
+          (u.u && u.u.length ? '<p class="src">' + u.u.map(function (l) { return '<a target="_blank" rel="noopener" href="' + esc(l[1]) + '">' + esc(l[0]) + '</a>'; }).join(' · ') + '</p>' : '') + '</div>';
+      }).join('');
+    }
+    box.hidden = !box.hidden;
+  });
   var RDESC = {
     5: 'уникальные варианты оружия, самые дорогие машины, крупнейшая добыча',
     4: 'суперкары, ценные часы, объекты с высокой охраной',

@@ -1,0 +1,6220 @@
+[
+ {
+  "n": "Crabshack VF5",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет-пулемёт VF5. Лежит в лодочном сарае заброшенной исследовательской станции крабов в Пеликан-Вэлли, за дверью с кодовым замком: включите рубильник, найдите код на мостках и введите его.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/crabshack-vf5"
+   ],
+   [
+    "outputlag.com",
+    "https://outputlag.com/guides/gta-6-unique-weapons-locations/"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Airgator Dr Sheehan's Airboat"
+   ],
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Vom Feuer VF5"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw0",
+  "x": -3916,
+  "y": -4101,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Conspiracist Type 9",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП Type 9. Спрятан в подземном арсенале под люком в полу трейлера в Бальсеро, к юго-западу от стрельбища Griffin Shooting Range; лежит на столе.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/conspiracist-type-9"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8035-vse-legendarnoe-oruzhie-v-gta-6-gde-nayti-unikalnye-pushki-i-nozhi"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Griffin Villa Range"
+   ],
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Zhang Wu Type 9"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw1",
+  "x": -2658,
+  "y": 1326,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Chronic Vatra",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП Vatra. Ключевая добыча нелегальной операции Industrial Weed Grow в Северной Мариане, севернее Тола-Бэй и Биг-Пайн.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/chronic-vatra"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант BZI Vatra"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091981-0",
+  "v": 3
+ },
+ {
+  "n": "Kolt & Associates Vatra",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный тяжёлый ПП Vatra банды Kolt & Associates в Порт-Геллхорне. Источники расходятся: склад June Import & Export или операция Stash House — проверьте в игре.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-8-legendary-weapon-locations-in-port-gellhorn/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ],
+   [
+    "meowdb.com",
+    "https://meowdb.com/gta6/weapons/kolt-and-associates-vatra"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант BZI Vatra"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091959-0",
+  "v": 3
+ },
+ {
+  "n": "Scrapper VF5C",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП VF5C. Находится в открытом оружейном кейсе в охраняемой комнате на верхнем этаже заброшенного мотеля La Cascara на западе Порт-Геллхорна (операция против Kolt & Associates).",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/scrapper-vf5c"
+   ],
+   [
+    "meowdb.com",
+    "https://meowdb.com/gta6/weapons/scrapper-vf5c"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-8-legendary-weapon-locations-in-port-gellhorn/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Vom Feuer VF5C"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091957-0",
+  "v": 3
+ },
+ {
+  "n": "Guardia Brothers VF5",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП VF5 банды братьев Гуардия. По данным GTABase лежит на журнальном столике на втором этаже склада на грузовом объекте в Бальсеро (не подтверждено вторым источником).",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/guardia-brothers-vf5"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Vom Feuer VF5"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091977-1",
+  "v": 3
+ },
+ {
+  "n": "Throttler Verro",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП Verro. Ключевая добыча нелегальной операции Farm Fix Meth Lab на складе в Белвилле (район озера Леонида).",
+  "u": [
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Safe - Farm Fix Meth Lab"
+   ],
+   [
+    "Класс",
+    "Пистолет-пулемёт"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw7",
+  "x": -1180,
+  "y": 3730,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Marabunta Grande Type 9",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП Type 9 банды Marabunta Grande. Добывается в нелегальной операции Weed Grow в округе Ист-Ламмокс.",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-gang-operations-locations"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "respec.net",
+    "https://www.respec.net/guide/319-gta6-gang-operations-locations-list-robbery-opportunity-rewards"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Zhang Wu Type 9"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091961-0",
+  "v": 3
+ },
+ {
+  "n": "Eris Fresh DSG",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП DSG. Лежит на столе в дальнем конце офиса, под настольной лампой, в нелегальной операции Illegal Goods Store на севере Саутсайда (Вайс-Сити).",
+  "u": [
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-illegal-goods-store-key-valuable-locations/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-gang-operations-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Safe - Illegal Goods Store"
+   ],
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Deever Tech DSG"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw9",
+  "x": -1706,
+  "y": -1818,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Chromium W-10",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный микро-ПП W-10. Лежит в открытом оружейном кейсе в одной из комнат притона La Perle Trap House в центре района Ла-Перл (Вайс-Сити).",
+  "u": [
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-la-perle-trap-house-robbery-guide-key-valuables-locations/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/chromium-w-10"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Wortham W-10"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091968-0",
+  "v": 3
+ },
+ {
+  "n": "Little Friend W-10",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный микро-ПП W-10. Лежит в комнате — месте преступления на втором этаже мотеля Sunlite на Шор-драйв в Оушен-Бич.",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ],
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Ocean Beach"
+   ],
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Wortham W-10"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw11",
+  "x": 1734,
+  "y": 750,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Spangled Vatra",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП Vatra, продаётся только в магазине Jackson Firearms на юго-востоке Бальсеро за $2 520. Доступен после миссии Gear Up (глава 1), нужен банковский счёт.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638772"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Jackson Firearms"
+   ],
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант BZI Vatra"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw12",
+  "x": -1723,
+  "y": 415,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Moneymaker W-10",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП W-10, продаётся только в Tequesta Guns & Ammo (Текеста) за $1 557.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/moneymaker-w-10"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638946"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Tequesta Guns & Ammo"
+   ],
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Wortham W-10"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw13",
+  "x": -1169,
+  "y": -1196,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Pocketblast DSG",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ПП DSG, продаётся только на стрельбище Griffin Shooting Range (цена в источнике не указана).",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/pocketblast-dsg"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Griffin Shooting Range"
+   ],
+   [
+    "Класс",
+    "Пистолет-пулемёт · вариант Deever Tech DSG"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw14",
+  "x": -2329,
+  "y": 1257,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Cold War 556",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный карабин 556. Стоит у ящика сразу за входом в подземный бункер в Биг-Пайн (Северная Мариана); вход с юго-западной стороны.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/cold-war-556"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/cold-war-556/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "секретный бункер в болотах на северо-западе Grassrivers (район Big Pine)"
+   ],
+   [
+    "Класс",
+    "Автомат · вариант Duke 556"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw15",
+  "x": -5703,
+  "y": -1639,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Clunker 556",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный карабин 556. Лежит в оружейном кейсе в офисе на втором этаже малого здания верфи Brooks Boatworks в Порт-Геллхорне (нелегальная операция).",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-8-legendary-weapon-locations-in-port-gellhorn/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/clunker-556"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Автомат · вариант Duke 556"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091955-0",
+  "v": 3
+ },
+ {
+  "n": "GRX 556",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный карабин 556. Добывается во время нелегальной операции на складе Leonida Carrier Warehouse в центре Бальсеро.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/grx-556"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ],
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Автомат · вариант Duke 556"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091982-1",
+  "v": 3
+ },
+ {
+  "n": "Cockroach Xtreme 556",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный карабин 556. Спрятан за штабелем туалетной бумаги в одноместном гараже во дворе мотеля Sunrise в Текесте.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/cockroach-xtreme-556"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Tequesta"
+   ],
+   [
+    "Класс",
+    "Автомат · вариант Duke 556"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw18",
+  "x": -895,
+  "y": -1125,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Kolt & Associates 556",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный карабин 556 банды Kolt & Associates. Добывается во время нелегальной операции Stash House на севере Порт-Геллхорна.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/kolt-associates-556"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-8-legendary-weapon-locations-in-port-gellhorn/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-legendary-weapons/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Автомат · вариант Duke 556"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091958-0",
+  "v": 3
+ },
+ {
+  "n": "Star Spangled 556",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный карабин 556 в звёздно-полосатой раскраске. Продаётся только в Phil's Ammu-Nation на юге округа Вайс-Дейл за $3 050.",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ],
+   [
+    "screenrant.com",
+    "https://screenrant.com/gta-6-unique-weapons-locations/"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-all-unique-weapons-where-to-get-them/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Phil's Ammu-Nation"
+   ],
+   [
+    "Класс",
+    "Автомат · вариант Duke 556"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw20",
+  "x": -1796,
+  "y": -2481,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Marabunta Grande KZ-59",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный автомат KZ-59 банды Marabunta Grande. Добывается на автосвалке Nova Auto Junkyard в центре Хэмлета (нелегальная операция); по одному из гайдов лежит в открытом контейнере во дворе.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/marabunta-grande-kz-59"
+   ],
+   [
+    "meowdb.com",
+    "https://meowdb.com/gta6/weapons/marabunta-grande-kz-59"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Автомат · вариант Kozlov KZ-59"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091960-0",
+  "v": 3
+ },
+ {
+  "n": "La Polilla Negra KZ-59",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный «золотой» автомат KZ-59. Ключевая добыча нелегальной операции на складе Palmer Fishing Warehouse в юго-восточном углу Бобкэт-Ки, к западу от Уотсон-Бэй; лежит в сейфе.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/la-polilla-negra-kz-59"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-secret-golden-ak-47-location-safe-code/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Автомат · вариант Kozlov KZ-59"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091962-0",
+  "v": 3
+ },
+ {
+  "n": "Nightmare KZ-59",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный автомат KZ-59. Продаётся только на ранчо Rodgers Ranch за $2 630 и лишь после золота на всех его стрельбищах.",
+  "u": [
+   [
+    "meowdb.com",
+    "https://meowdb.com/gta6/unique-weapons"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Rodgers Ranch & Shooting Range"
+   ],
+   [
+    "Класс",
+    "Автомат · вариант Kozlov KZ-59"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw24",
+  "x": -5960,
+  "y": 4561,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Pete's KZ-59",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный автомат KZ-59. По данным The Game Haus лежит на столе в комнате с красной дверью на частном аэродроме Sundown во время миссии пилота Пита (Джейсон, с 4-й главы); другие гайды место ещё не нашли.",
+  "u": [
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8035-vse-legendarnoe-oruzhie-v-gta-6-gde-nayti-unikalnye-pushki-i-nozhi"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Sundown Private Airfield"
+   ],
+   [
+    "Класс",
+    "Автомат · вариант Kozlov KZ-59"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw25",
+  "x": -827,
+  "y": 4357,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Assassin Nipper .38",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет Nipper .38 с глушителем. Спрятан в маленьком люке в палубе разбитого шпионского судна на южной оконечности юго-восточного острова Пермит-Кис, восточнее авиабазы Mile Zero.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/assassin-nipper-38"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/weapons/pistols/assassin-nipper-38/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Derelict Spy Vessel"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Nipper .38"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw26",
+  "x": -5545,
+  "y": -6722,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Turnt Nipper .38",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет Nipper .38. Висит на разбившемся параплане, застрявшем в дереве на северо-западе Бобкэт-Байт: отстрелите стропы у сиденья, и оружие упадёт.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639349"
+   ],
+   [
+    "grandtheft.gg",
+    "https://grandtheft.gg/gta-6-turnt-nipper-38-unique-weapon"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Bobcat Bight, северо-запад Bobcat Key"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Nipper .38"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw27",
+  "x": -6325,
+  "y": -5138,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Zodiac Nipper .38",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет Nipper .38. Лежит в оружейном кейсе в глубине гаража в переулке — нелегальная операция Ocean Beach Lab в Оушен-Бич.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639351"
+   ],
+   [
+    "vicecity.codes",
+    "https://vicecity.codes/gangs/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет · вариант Nipper .38"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091991-0",
+  "v": 3
+ },
+ {
+  "n": "Mahi Nipper .38",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет Nipper .38 «Mahi». Продаётся только в магазине Chuck's Tackle & Shot в Ки-Ленто за $1 160; нужен банковский счёт и пройденная миссия Gear Up.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638754"
+   ],
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Chuck's Tackle & Shot"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Nipper .38"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw29",
+  "x": -2127,
+  "y": -5528,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "PTT Youngin$ K17",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет K17 банды Youngin$. Лежит в оружейном кейсе в кладовой южного здания общественного центра Kamar Devon в Саутсайде (нелегальная операция).",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639737"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/weapons/pistols/ptt-youngin-k17/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-unique-weapons-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет · вариант Klose K17"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091973-1",
+  "v": 3
+ },
+ {
+  "n": "San4San K17",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет K17 банды San4San. Добывается во время нелегальной операции в студии Sound4Sound в районе Стокъярд (Вайс-Сити).",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/san4san-k17"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет · вариант Klose K17"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091970-0",
+  "v": 3
+ },
+ {
+  "n": "Nite Raptor K17",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет K17. Продаётся только в магазине Black Eagle в Бальсеро за $2 050 после миссии Gear Up; нужен банковский счёт.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638843"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Black Eagle"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Klose K17"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw33",
+  "x": -2579,
+  "y": 1369,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Quarter Mile ES9",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет ES9. Добывается во время нелегальной операции Chatfield Storage & Logistics на острове Ваксман (Вайс-Сити).",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/quarter-mile-es9"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Пистолет · вариант Girardi ES9"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091985-0",
+  "v": 3
+ },
+ {
+  "n": "Sand Storm ES9",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный армейский пистолет ES9. По одному из гайдов продаётся в магазине Big Shots на востоке Хэмлета за $1 470.",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Big Shots"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Girardi ES9"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw35",
+  "x": -2323,
+  "y": -3392,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "The Guardian ES18",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет ES18 с отсечкой очереди. По данным гайдов добывается в нелегальной операции Saber Shipping Yard в Литл-Кубе (вероятно, из сейфа).",
+  "u": [
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ],
+   [
+    "screenrant.com",
+    "https://screenrant.com/gta-6-unique-weapons-locations/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-unique-weapons-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Saber Shipping Yard"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант ES18"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw36",
+  "x": -1424,
+  "y": 171,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Deadringer 1922",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет 1922. Лежит на полу сразу у входа в одинокий трейлер на южном берегу реки Моро (Ист-Ламмокс); там же находится Money Bag 1922.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/deadringer-1992"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/weapons/deadringer-1922/"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Moreau"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Duke 1922"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw38",
+  "x": -3895,
+  "y": 7905,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Money Bag 1922",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет 1922. Находится в том же трейлере на южном берегу реки Моро, что и Deadringer 1922, — на диване или рядом на полу.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/weapons/deadringer-1922/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Moreau"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Duke 1922"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw39",
+  "x": -3875,
+  "y": 7899,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "The Silver 1922",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет 1922. Продаётся только в магазине Big Shots в Хэмлете за $2 210 после миссии Gear Up; нужен банковский счёт.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638934"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/the-silver-1922"
+   ],
+   [
+    "meowdb.com",
+    "https://meowdb.com/gta6/unique-weapons"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Big Shots"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Duke 1922"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw40",
+  "x": -2318,
+  "y": -3389,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Martha's 1922",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет 1922. По одному гайду спрятан в камине заброшенной «Хижины разбойника» в Моро (вход через подвал с юго-востока), по карте GTABase — в духовке дома в районе Амброзии. Требует проверки.",
+  "u": [
+   [
+    "6cheats.com",
+    "https://www.6cheats.com/en/guides/gta-6-unique-legendary-weapons-locations"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/marthas-1992"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Outlaw's Cabin"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Duke 1922"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw41",
+  "x": -3563,
+  "y": 8142,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Brainwasher 1922",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет 1922. Награда за головоломку с временной петлёй («промывка мозгов») в секретном объекте IAA возле Биг-Пайн: после решения лежит у телевизора. Второй источник указывает бункер в Уотсон-Бэй.",
+  "u": [
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-brainwashing-puzzle/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "секретный бункер в болотах на северо-западе Grassrivers (район Big Pine)"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Duke 1922"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw42",
+  "x": -5679,
+  "y": -1637,
+  "v": 0,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Russo's 1922",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет 1922 президента Руссо. Находится в его тайном бункере на острове Шарктус; попасть туда можно в ходе мирового события «Президент Руссо».",
+  "u": [
+   [
+    "outputlag.com",
+    "https://outputlag.com/guides/gta-6-unique-weapons-locations/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-unique-weapons-locations"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-walkthrough-how-complete-president-russo-world-event-bunker-locations-codes-loot"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Presidential Bunker, Sharktooth Island"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Duke 1922"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw43",
+  "x": 197,
+  "y": 5286,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Black Eagle Import Kalinga .50",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный пистолет Kalinga .50. Лежит в сейфе офиса склада Black Eagle в Бальсеро; код сейфа написан на офисном компьютере.",
+  "u": [
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/weapons/pistols/black-eagle-import-kalinga/"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/weapons/black-eagle-import-kalinga-50/"
+   ],
+   [
+    "youtube.com",
+    "https://www.youtube.com/watch?v=OS1LzjkB5U4"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Black Eagle"
+   ],
+   [
+    "Класс",
+    "Пистолет · вариант Fairview Kalinga .50"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw44",
+  "x": -2566,
+  "y": 1366,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Donnie's H&L .38",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный револьвер H&L .38. Лежит в багажнике красной Dinka Blista Донни во время миссии Don Gone (конец 1-й главы, Ки-Ленто). Пропускаемый: заберите до уничтожения машины.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/donnies-h-l-38"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638610"
+   ],
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-donnies-unique-revolver-location/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Donnie's Trailer"
+   ],
+   [
+    "Класс",
+    "Револьвер · вариант Hawk & Little .38"
+   ],
+   [
+    "Можно пропустить",
+    "да — доступно только во время миссии"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw49",
+  "x": -2686,
+  "y": -6061,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Cargo H&L .38",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный револьвер H&L .38. Лежит в жёлтом контейнере Scoop в грузовой зоне порта Вайс-Сити; добираться нужно по крышам контейнеров.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/cargo-h-l-38"
+   ],
+   [
+    "meowdb.com",
+    "https://meowdb.com/gta6/weapons"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Port Vice City"
+   ],
+   [
+    "Класс",
+    "Револьвер · вариант Hawk & Little .38"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw51",
+  "x": 585,
+  "y": -501,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Ride Free H&L .38",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный револьвер H&L .38 байкеров. Лежит в оружейном кейсе под чёрным флагом в байкерском логове возле Амброзии (нелегальная операция).",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/best-early-game-loot-spots-gta-6"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ],
+   [
+    "meowdb.com",
+    "https://meowdb.com/gta6/weapons"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Револьвер · вариант Hawk & Little .38"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091967-0",
+  "v": 3
+ },
+ {
+  "n": "Kingfishers Akulus",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный револьвер Akulus банды Kingfishers. Добывается во время нелегальной операции в трейлерном парке Sunrise RV Park севернее озера Коттонмаут, к северо-западу от Ки-Ленто.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/kingfishers-akulus"
+   ],
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/all-illegal-operations-locations-key-valuables-in-gta-6/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Револьвер · вариант Akulus"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091952-0",
+  "v": 3
+ },
+ {
+  "n": "Iron & Oak WCR-1",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный компактный револьвер WCR-1. Продаётся в оружейном магазине Iron & Oak в районе Стокъярд за $1 260.",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/iron-oak-wcr-1"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Iron & Oak"
+   ],
+   [
+    "Класс",
+    "Револьвер"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw56",
+  "x": -273,
+  "y": 1854,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "San4San Gorse 425",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный дробовик Gorse 425 банды San4San. Ключевая добыча нелегальной операции Parlor Apartments в районе Рокридж (Вайс-Сити).",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/san4san-gorse-425"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/san4san-gorse-425/"
+   ],
+   [
+    "vicecity.codes",
+    "https://vicecity.codes/gangs/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Дробовик · вариант Gorse 425"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091971-0",
+  "v": 3
+ },
+ {
+  "n": "Basher Gorse 425",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный дробовик Gorse 425. Продаётся в магазине Pawn & Gun в Порт-Геллхорне (цена в источниках расходится).",
+  "u": [
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-8-legendary-weapon-locations-in-port-gellhorn/"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Pawn & Gun - Port Gellhorn"
+   ],
+   [
+    "Класс",
+    "Дробовик · вариант Gorse 425"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw59",
+  "x": -6352,
+  "y": 3366,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Gutterball Moreland 850",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный дробовик Moreland 850. Лежит на бильярдном столе в северо-восточном углу заброшенного боулинга Kingpin Bowling на юге Порт-Геллхорна (ограбление Hit Kingpin Bowling).",
+  "u": [
+   [
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-hit-kingpin-bowling-walkthrough/"
+   ],
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-8-legendary-weapon-locations-in-port-gellhorn/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Дробовик · вариант Moreland 850"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091956-0",
+  "v": 3
+ },
+ {
+  "n": "Final Chapter KVGA-12",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный автоматический дробовик KVGA-12 байкеров Final Chapter. Ключевая добыча нелегальной операции Irons Building Supply в Амброзии, юго-западнее озера Леонида.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/final-chapter-kvga-12"
+   ],
+   [
+    "vicecity.codes",
+    "https://vicecity.codes/gangs/"
+   ],
+   [
+    "meowdb.com",
+    "https://meowdb.com/gta6/weapons/final-chapter-kvga-12"
+   ],
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Дробовик · вариант Kozlov KVGA-12"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091965-0",
+  "v": 3
+ },
+ {
+  "n": "Final Chapter Shortstraw",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный обрез Shortstraw байкеров Final Chapter. Находится в гараже Hog Stars в Амброзии: поднимитесь по лестнице на крышу и спуститесь через открытый люк.",
+  "u": [
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-legendary-weapons-locations-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Дробовик"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091964-0",
+  "v": 3
+ },
+ {
+  "n": "Unpacked Comshot 12",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный боевой дробовик Comshot 12. Стоит за дверью ванной в дальней спальне второго этажа дома на северо-западном берегу Ки-Ленто. В доме сигнализация — приедет полиция.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/unpacked-comshot-12"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638610"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Key Lento"
+   ],
+   [
+    "Класс",
+    "Дробовик · вариант Goodwin Comshot 12"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw63",
+  "x": -2438,
+  "y": -5865,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Hostile Super400",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный дробовик Super400. Лежит в оружейном кейсе на складе радарной базы Mill Station в Грассриверс, севернее Уотсон-Бэй; тихий вход — с тыла.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639642"
+   ],
+   [
+    "vicecity.codes",
+    "https://vicecity.codes/gangs/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Дробовик"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091986-0",
+  "v": 3
+ },
+ {
+  "n": "Marabunta Grande Hobo",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный дробовик Hobo банды Marabunta Grande. Лежит в открытом оружейном кейсе на полу склада Hamlet Storage за ломбардом Hamlet Pawn в Хэмлете.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-legendary-weapons/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Hamlet Pawn"
+   ],
+   [
+    "Класс",
+    "Дробовик · вариант Hobo"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw66",
+  "x": -2545,
+  "y": -3610,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Woodhatch Longshot",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный дробовик Longshot. Продаётся только в магазине Woodhatch в районе Капри за $2 990.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/woodhatch-longshot"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Woodhatch"
+   ],
+   [
+    "Класс",
+    "Дробовик · вариант Mason & Keen Longshot"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw67",
+  "x": -6773,
+  "y": -106,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Kingfishers Laird 350",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальная снайперская винтовка Laird 350 банды Kingfishers. Лежит в открытом кейсе в комнате сразу за «тигриной» в мотеле Manatee (нелегальная операция): убейте тигра и идите вдоль правой стены.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/where-to-find-the-unique-weapon-kingfishers-laird-350-sniper-in-gta-6"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/gta-6-legendary-weapons/"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Снайперская винтовка · вариант Laird 350"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091953-0",
+  "v": 3
+ },
+ {
+  "n": "Fincredible Laird 350",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальная спортивная снайперская винтовка Laird 350. Продаётся в магазине Guns Aplenty! в Уотсон-Бэй за $2 000.",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/fincredible-laird-350"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Guns Aplenty!"
+   ],
+   [
+    "Класс",
+    "Снайперская винтовка · вариант Laird 350"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw72",
+  "x": -4847,
+  "y": -3370,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Internal Affairs FF-SR",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальная снайперская винтовка FF-SR. Лежит на северо-западном краю крыши самого высокого здания на Нортсайд-авеню в Вашингтон-Бич (небоскрёб с вертолётной площадкой).",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/internal-affairs-ff-sr"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Washington Beach"
+   ],
+   [
+    "Класс",
+    "Снайперская винтовка · вариант Fairview FF-SR"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw73",
+  "x": 1786,
+  "y": 2151,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Kingfishers W-22",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальная мелкокалиберная винтовка W-22 банды Kingfishers. Лежит в оружейном кейсе в главной хижине рыбацких лачуг в Уэтмен-Бэй (нелегальная операция); если зона закрыта — дождитесь сообщения Донни.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/best-early-game-loot-spots-gta-6"
+   ],
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ],
+   [
+    "screenrant.com",
+    "https://screenrant.com/gta-6-unique-weapons-locations/"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638610"
+   ]
+  ],
+  "f": [
+   [
+    "Класс",
+    "Винтовка · вариант Wortham W-22"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091954-0",
+  "v": 3
+ },
+ {
+  "n": "Redneck W-22",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальная мелкокалиберная винтовка W-22. Лежит за заброшенным жёлтым вагоном на северном берегу реки в Моро.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/redneck-w-22"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Moreau"
+   ],
+   [
+    "Класс",
+    "Винтовка · вариант Wortham W-22"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw75",
+  "x": -3891,
+  "y": 7897,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Mossy Mediator",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальная мелкокалиберная винтовка Mediator. Продаётся только в магазине Barrage Gun Supply за $1 890.",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-weapon-variant-locations"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-all-unique-weapons-where-to-get-them/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Barrage Gun Supply"
+   ],
+   [
+    "Класс",
+    "Винтовка"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw76",
+  "x": -6411,
+  "y": -6342,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Gun Nut SMS-01",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальная винтовка SMS-01. Лежит в кейсе на кухонной стойке «дома оружейного маньяка» на пляже Ки-Ленто напротив бара у бассейна; вход по наружной лестнице.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/gun-nut-sms-01"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Key Lento"
+   ],
+   [
+    "Класс",
+    "Винтовка · вариант Shrewsbury SMS-01"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw77",
+  "x": -2457,
+  "y": -5863,
+  "v": 0,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Black Eagle Import M306 TMR",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный вариант оружия M306 TMR. Находится на складе Black Eagle рядом с одноимённым магазином в Бальсеро; попасть внутрь через гаражный проём может только Люсия.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/black-eagle-import-m306-tmr"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Black Eagle"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw78",
+  "x": -2567,
+  "y": 1365,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Guardia Brothers FRA",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный вариант оружия FRA братьев Гуардия. Добывается во время нелегальной операции Casa Guardia в северо-восточном углу Литл-Кубы.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/guardia-brothers-fra"
+   ],
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ]
+  ],
+  "f": [],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091978-0",
+  "v": 3
+ },
+ {
+  "n": "Mercenary LMG 6",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный ручной пулемёт LMG 6. Лежит в жёлтом контейнере Scoop в северной части грузовой зоны порта Вайс-Сити: зайдите с воды, поднимитесь по лестнице и перепрыгните с синего контейнера на бежевый.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/mercenary-lmg-6"
+   ],
+   [
+    "gamerhour.net",
+    "https://gamerhour.net/locations/gta-6-mercenary-lmg-6-legendary-lmg-location/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Port Vice City"
+   ],
+   [
+    "Класс",
+    "Пулемёт · вариант Goodwin LMG 6"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw81",
+  "x": 606,
+  "y": -506,
+  "v": 1,
+  "s": [
+   "web"
+  ],
+  "ap": 1
+ },
+ {
+  "n": "Explorer's Knife",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный нож исследователя. Спрятан глубоко в подводной системе пещер реки Эмералд; вход через Селки-Хоул, акваланг и фонарь выдаются на месте.",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-underwater-discoveries-locations"
+   ],
+   [
+    "6cheats.com",
+    "https://www.6cheats.com/en/guides/gta-6-unique-legendary-weapons-locations"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8035-vse-legendarnoe-oruzhie-v-gta-6-gde-nayti-unikalnye-pushki-i-nozhi"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-all-unique-weapons-where-to-get-them/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Selkie Hole"
+   ],
+   [
+    "Класс",
+    "Нож"
+   ],
+   [
+    "Расхождение в гайдах",
+    "источники называют разные места — проверьте оба варианта"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw83",
+  "x": -4533,
+  "y": 2681,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Brontasaurus Bat",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальная бейсбольная бита. Лежит в одной из клеток для отбивания мячей в парке Dino Golf (Dino World) у трассы SR-32 в Фрогсуотере.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-unique-weapons-locations-stats/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-unique-weapons-locations"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8035-vse-legendarnoe-oruzhie-v-gta-6-gde-nayti-unikalnye-pushki-i-nozhi"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Dino Golf"
+   ],
+   [
+    "Класс",
+    "Бита"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия",
+  "id": "xw86",
+  "x": -4507,
+  "y": 3820,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Little Cuba Hind",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный вариант оружия Hind. Продаётся только в ломбарде Martez Empeños в Литл-Кубе за $3 570 после миссии Gear Up; нужен банковский счёт.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638892"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/weapons/little-cuba-hind"
+   ],
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Martez Empeños"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw88",
+  "x": -1221,
+  "y": 126,
+  "v": 3,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Vice City Heathen",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный вариант оружия Heathen. По одному гайду продаётся в магазине Prestige Firearms севернее Оушен-Бич.",
+  "u": [
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Prestige Firearms"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw89",
+  "x": 1684,
+  "y": 1379,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "n": "Kingpin Heathen",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный вариант оружия Heathen. По одному гайду добывается во время нелегальной операции в особняке Vespucci Mansion на острове Веспуччи.",
+  "u": [
+   [
+    "outputlag.com",
+    "https://outputlag.com/guides/gta-6-unique-weapons-locations/"
+   ]
+  ],
+  "f": [],
+  "sub": "Уникальный вариант оружия",
+  "merge": "k1091980-0",
+  "v": 3
+ },
+ {
+  "n": "Dazzler DQ-9",
+  "c": "weapon",
+  "r": 5,
+  "t": "Уникальный вариант оружия DQ-9. По одному гайду продаётся в магазине Iron & Oak в районе Стокъярд за $3 680.",
+  "u": [
+   [
+    "thegamehaus.com",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Iron & Oak"
+   ],
+   [
+    "Как получить",
+    "продаётся только в этом магазине"
+   ]
+  ],
+  "sub": "Уникальный вариант оружия · продаётся в магазине",
+  "id": "xw91",
+  "x": -263,
+  "y": 1836,
+  "v": 1,
+  "s": [
+   "web"
+  ]
+ },
+ {
+  "merge": "i1091163",
+  "n": "Granforma Zorrusso",
+  "c": "veh_randy",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+   ],
+   [
+    "destructoid.com",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639283"
+   ],
+   [
+    "xboxachievements.com",
+    "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "id": "xv1",
+  "n": "Bravado Banshee",
+  "c": "veh_randy",
+  "r": 4,
+  "x": -6861,
+  "y": 260,
+  "t": "Спорткар из списка Рэнди. Стоит у мотеля Sweetbay Inn на East Buckley Drive в Капри глубокой ночью (около 03:00); нужен клонер ключей.",
+  "u": [
+   [
+    "destructoid.com",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/"
+   ],
+   [
+    "tech.yahoo.com",
+    "https://tech.yahoo.com/gaming/articles/randy-wishlist-car-locations-gta-083314767.html"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/guides/rare-cars/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Capri"
+   ],
+   [
+    "В гайдах",
+    "Randy's Wish List"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков",
+  "ap": 1
+ },
+ {
+  "merge": "i1091167",
+  "n": "Bravado Banshee",
+  "c": "veh_randy",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-randy-vehicle-locations-gta-6"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+   ],
+   [
+    "khelnow.com",
+    "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091170",
+  "n": "Bravado Gauntlet Hellfire",
+  "c": "veh_randy",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-5-rarest-cars-get"
+   ],
+   [
+    "hotcars.com",
+    "https://www.hotcars.com/gta-6s-5-rarest-cars-how-to-get-them/"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+   ],
+   [
+    "destructoid.com",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091165",
+  "n": "Invetero Coquette D10",
+  "c": "veh_randy",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+   ],
+   [
+    "destructoid.com",
+    "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091164",
+  "n": "Pegassi '96 Infernus",
+  "c": "veh_randy",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-5-rarest-cars-get"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8036-samye-redkie-mashiny-v-gta-6-gde-nayti-i-kak-poluchit-unikalnye-avto"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-best-car-locations/"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091168",
+  "n": "Ascot Paragon",
+  "c": "veh_randy",
+  "u": [
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-all-randy-wish-list-vehicles-locations/"
+   ],
+   [
+    "macetesgta6.com.br",
+    "https://macetesgta6.com.br/en/tip/gta-6-rare-car-locations-randy/"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/where-to-find-the-ascot-paragon-in-gta-6/"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ]
+  ],
+  "v": 2,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091169",
+  "n": "Piccia Furia",
+  "c": "veh_randy",
+  "u": [
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/vehicles-checklist/"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/where-to-find-the-piccia-furia-in-gta-6/"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "id": "xv8",
+  "n": "Mamba GT",
+  "c": "veh_randy",
+  "r": 4,
+  "x": 393,
+  "y": 2408,
+  "t": "Классический Mamba GT, который Рэнди добавляет в список позже (4-я глава). Появляется в районе Лиф-Линкс, Вайс-Бич.",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639137"
+   ],
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/where-to-find-the-mamba-gt-in-gta-6/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Leaf Links"
+   ],
+   [
+    "В гайдах",
+    "Randy's Wish List (added later, Chapter 4)"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков",
+  "ap": 1
+ },
+ {
+  "id": "xv9",
+  "n": "Übermacht Cypher",
+  "c": "veh_randy",
+  "r": 4,
+  "x": 1991,
+  "y": 798,
+  "t": "Автомобиль из списка Рэнди. По одному гайду припаркован у ресторана Cirque de Cuisine в Оушен-Бич; стандартный трекер.",
+  "u": [
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/car-theft-missions-checklist/"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639137"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Cirque de Cuisine"
+   ],
+   [
+    "В гайдах",
+    "Randy's Wish List"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков"
+ },
+ {
+  "id": "xv10",
+  "n": "Ocelot Jugular",
+  "c": "veh_randy",
+  "r": 4,
+  "x": 1743,
+  "y": 728,
+  "t": "Четырёхдверный спортседан из списка Рэнди. Стоит перед заведением BITE на Atlantic Avenue у Оушен-Бич; стандартный трекер.",
+  "u": [
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-all-randy-wish-list-vehicles-locations/"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639137"
+   ],
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Ocean Beach"
+   ],
+   [
+    "В гайдах",
+    "Randy's Wish List"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков",
+  "ap": 1
+ },
+ {
+  "merge": "i1091166",
+  "n": "Pegassi Vitello",
+  "c": "veh_randy",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-5-rarest-cars-get"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "id": "xv15",
+  "n": "Pegassi Toros",
+  "c": "veh_randy",
+  "r": 4,
+  "x": 16,
+  "y": -948,
+  "t": "Стандартный внедорожник Pegassi Toros из списка Рэнди стоит у Pegassi Residences на Bayside Drive в Текеста-Ритрит.",
+  "u": [
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/where-to-find-the-pegassi-toros-in-gta-6/"
+   ],
+   [
+    "khelnow.com",
+    "https://khelnow.com/gaming/all-randys-wishlist-cars-in-gta-6-202611"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Pool - Pegassi Residences"
+   ],
+   [
+    "В гайдах",
+    "Randy's Wish List"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "force_new": 1,
+  "sub": "По гайдам игроков"
+ },
+ {
+  "id": "xv17",
+  "n": "Truffade Thrax",
+  "c": "veh_randy",
+  "r": 4,
+  "x": 1722,
+  "y": -1384,
+  "t": "Финальная машина списка Рэнди — гиперкар Truffade Thrax на задней парковке клуба Dalton Island Club. На остров ходит паром с острова Ваксман; метку даёт Рэнди после сдачи остальных машин.",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639137"
+   ],
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-all-randy-wish-list-vehicles-locations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/where-find-truffade-thrax-gta-6-rare-ultra-luxe-hypercar"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Dalton Island"
+   ],
+   [
+    "В гайдах",
+    "Randy's Wish List (final car, 'Thrax Mansion')"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков",
+  "ap": 1
+ },
+ {
+  "id": "xv18",
+  "n": "Truffade Thrax",
+  "c": "veh_standout",
+  "r": 4,
+  "x": -3077,
+  "y": -3371,
+  "t": "Самый быстрый способ получить гиперкар Thrax: он стоит на автовозе у южного въезда на Boone Speedway в Хэмлете и появляется заново.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/where-find-truffade-thrax-gta-6-rare-ultra-luxe-hypercar"
+   ],
+   [
+    "thebestmods.com",
+    "https://thebestmods.com/gta-6/thrax-location/"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/truffade-thrax-location-how-to-find-grand-theft-auto-6/"
+   ],
+   [
+    "gta-xtreme.com",
+    "https://www.gta-xtreme.com/en/gta-6-truffade-thrax-location"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Boone Speedway - Speedway Trial"
+   ],
+   [
+    "В гайдах",
+    "Fastest car (free respawning spawn)"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "force_new": 1,
+  "sub": "По гайдам игроков"
+ },
+ {
+  "merge": "i1091155",
+  "n": "Andrew Node's Thrax (Truffade Thrax)",
+  "c": "veh_standout",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/where-find-truffade-thrax-gta-6-rare-ultra-luxe-hypercar"
+   ],
+   [
+    "thebestmods.com",
+    "https://thebestmods.com/gta-6/thrax-location/"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/truffade-thrax-location-how-to-find-grand-theft-auto-6/"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "id": "xv20",
+  "n": "Pegassi Gold Rush Tempesta",
+  "c": "veh_standout",
+  "r": 5,
+  "x": 1641,
+  "y": 2507,
+  "t": "Золотой Pegassi Gold Rush Tempesta стоит под навесом верхнего яруса парковки кондоминиума Crimson Palms на Вашингтон-Бич. Угнать можно только с клонером ключей (3-я глава).",
+  "u": [
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/how-get-golden-lamborghini-urus-huracan-gta-6"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639164"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/vehicles/gold-rush-tempesta"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Crimson Palms Base Jump"
+   ],
+   [
+    "В гайдах",
+    "Standout Vehicle (gold)"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков",
+  "ap": 1
+ },
+ {
+  "merge": "i1091191",
+  "n": "Pegassi Charred Toros",
+  "c": "veh_standout",
+  "u": [
+   [
+    "thebestmods.com",
+    "https://thebestmods.com/gta-6/hidden-cars/"
+   ],
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-pegassi-toros-location/"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-car-locations-urus-drift-car-zorrusso/"
+   ],
+   [
+    "youtube.com",
+    "https://www.youtube.com/shorts/RXiRHQ350DY"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091188",
+  "n": "Progen Royal Ruby Emerus",
+  "c": "veh_standout",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-best-car-locations/"
+   ],
+   [
+    "thebestmods.com",
+    "https://thebestmods.com/gta-6/hidden-cars/"
+   ],
+   [
+    "gta-xtreme.com",
+    "https://www.gta-xtreme.com/en/gta-6-progen-emerus-location"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "merge": "i1091182",
+  "n": "Progen Purple Drank Emerus",
+  "c": "veh_standout",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639160"
+   ],
+   [
+    "hotcars.com",
+    "https://www.hotcars.com/gta-6s-5-rarest-cars-how-to-get-them/"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8182-gta-6-ograblenie-ostrova-vaksman-kod-seyfa-pistolet-i-superkar"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-waxman-island-safe-code-purple-drank-emerus/"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091193",
+  "n": "Bravado Devil's Rope Gauntlet",
+  "c": "veh_standout",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "leonidahub.org",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/best-standout-vehicles/"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091144",
+  "n": "Pegassi Gold Rope Infernus",
+  "c": "veh_standout",
+  "u": [
+   [
+    "hotcars.com",
+    "https://www.hotcars.com/gta-6s-5-rarest-cars-how-to-get-them/"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/best-standout-vehicles/"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "merge": "i1091189",
+  "n": "Canis Gunrunner Kamacho",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/guides/rare-cars/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ],
+   [
+    "leonidahub.org",
+    "https://leonidahub.org/en/news/gta-6-unique-cars-the-best-standout-vehicles-where-to-find-them-and-how-to-keep-them"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "merge": "i1091176",
+  "n": "Black Moth Kamacho",
+  "c": "veh_standout",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639138"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "merge": "i1091197",
+  "n": "Firebug Dominator",
+  "c": "veh_standout",
+  "u": [
+   [
+    "thebestmods.com",
+    "https://thebestmods.com/gta-6/hidden-cars/"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639138"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "merge": "i1091099",
+  "n": "Ghosts Exposed Parkland",
+  "c": "veh_standout",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639138"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "merge": "i1091198",
+  "n": "Vapid Smuggler Caracara",
+  "c": "veh_standout",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-key-valuables-brooks-boatworks-gta-6-get"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "id": "xv36",
+  "n": "Annis Elegy '90",
+  "c": "veh_standout",
+  "r": 3,
+  "x": 806,
+  "y": 452,
+  "t": "Annis Elegy '90 — местный аналог Nissan Skyline GT-R. Стоковый экземпляр стоит на подъездной дорожке особняка на острове Старфиш.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-fast-furious-cars-gta-6-find"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-fast-and-furious-secret-car-location/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "район Starfish Island"
+   ],
+   [
+    "В гайдах",
+    "Fast & Furious-style car"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков",
+  "ap": 1
+ },
+ {
+  "id": "xv37",
+  "n": "Annis Elegy '90 (drift-built)",
+  "c": "veh_standout",
+  "r": 5,
+  "x": -6685,
+  "y": 2325,
+  "t": "Дрифтовый Annis Elegy '90 стоит в гараже за трассой Gellhorn Raceway в Порт-Геллхорне. Другой гайд описывает там же дрифтовый Penumbra в контейнере.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-fast-furious-cars-gta-6-find"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-car-locations-urus-drift-car-zorrusso/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Gellhorn Raceway - Introduction"
+   ],
+   [
+    "В гайдах",
+    "Drift car"
+   ],
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков"
+ },
+ {
+  "id": "xv38",
+  "n": "Grotti '95 Cheetah",
+  "c": "veh_standout",
+  "r": 5,
+  "x": 16,
+  "y": -948,
+  "t": "Эксклюзив Ultimate Edition — Grotti Cheetah 1995 года в стиле Testarossa из «Полиции Майами». Ждёт в подземном паркинге Pegassi Residences в Текеста-Ритрит с 5-й главы.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-5-rarest-cars-get"
+   ],
+   [
+    "powerpyx.com",
+    "https://www.powerpyx.com/gta-6-how-to-get-ultimate-edition-rewards/"
+   ],
+   [
+    "ultimateeditionguide.net",
+    "https://ultimateeditionguide.net/vehicles"
+   ],
+   [
+    "gtabay.com",
+    "https://gtabay.com/en/guides/gta-6-rare-cars-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Pool - Pegassi Residences"
+   ],
+   [
+    "В гайдах",
+    "Ultimate Edition reward"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "force_new": 1,
+  "sub": "По гайдам игроков"
+ },
+ {
+  "id": "xv42",
+  "n": "'64 Mamba GT",
+  "c": "veh_standout",
+  "r": 3,
+  "x": -3994,
+  "y": 4901,
+  "t": "Третья машина коллекции Уаймана. Четыре остова разбросаны от севера тюрьмы штата Леонида до побережья: один в обломках моста у Бонанзы, другой утоплен в бассейне Thrillbilly Mud Club.",
+  "u": [
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
+   ],
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-wymans-classic-car-locations"
+   ],
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-wyman-car-locations/"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Thrillbilly Mud Club - Air Time Stunt Run"
+   ],
+   [
+    "В гайдах",
+    "Wyman's Classic Car Collection (Ultimate Edition), car 3"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 1,
+  "force_new": 1,
+  "sub": "По гайдам игроков"
+ },
+ {
+  "merge": "i1091183",
+  "n": "Canis '82 Crawler",
+  "c": "veh_moses",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/"
+   ],
+   [
+    "gamespot.com",
+    "https://www.gamespot.com/articles/how-to-complete-all-moses-missions-in-gta-6/"
+   ],
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-all-7-moses-vehicle-locations/"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091185",
+  "n": "Annis Hellion",
+  "c": "veh_moses",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/"
+   ],
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-moses-vehicle-drop-offs/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "merge": "i1091172",
+  "n": "Declasse Yosemite 1500",
+  "c": "veh_moses",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/"
+   ],
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-all-7-moses-vehicle-locations/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091173",
+  "n": "Karin Futo",
+  "c": "veh_moses",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/"
+   ],
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-all-7-moses-vehicle-locations/"
+   ],
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-moses-vehicle-drop-offs/"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091186",
+  "n": "Western Nightblade",
+  "c": "veh_moses",
+  "u": [
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/"
+   ],
+   [
+    "gameshorizon.com",
+    "https://gameshorizon.com/guides/gta-6-all-7-moses-vehicle-locations/"
+   ],
+   [
+    "aoeah.com",
+    "https://www.aoeah.com/news/4951--gta-6-moses-mission-unlock-location-rewards-walkthrough--vehicles"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091184",
+  "n": "Declasse '74 Vamos",
+  "c": "veh_moses",
+  "u": [
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/car-theft-missions-checklist/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+   ],
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-moses-vehicle-drop-offs/"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091187",
+  "n": "BF Bandito",
+  "c": "veh_moses",
+  "u": [
+   [
+    "game-checklists.com",
+    "https://game-checklists.com/gta6/car-theft-missions-checklist/"
+   ],
+   [
+    "retrobroker.com",
+    "https://retrobroker.com/en-US/us/blog/gta-6-moses-and-randy-vehicle-deliveries"
+   ],
+   [
+    "aoeah.com",
+    "https://www.aoeah.com/news/4951--gta-6-moses-mission-unlock-location-rewards-walkthrough--vehicles"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "id": "xv50",
+  "n": "Emperor Sultan",
+  "c": "veh_standout",
+  "r": 3,
+  "x": -6433,
+  "y": 3266,
+  "t": "Бесплатная награда от Мозеса за все семь угнанных для него машин. После его сообщения о подарке заберите авто в мастерской в Порт-Геллхорне.",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-moses-vehicle-drop-off-locations"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-7-moses-vehicle-drop-off-locations/"
+   ],
+   [
+    "gamespot.com",
+    "https://www.gamespot.com/articles/how-to-complete-all-moses-missions-in-gta-6/"
+   ],
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-steal-vehicles-for-moses"
+   ]
+  ],
+  "f": [
+   [
+    "Привязка на карте",
+    "Watkins Auto Parts"
+   ],
+   [
+    "В гайдах",
+    "Mission reward (Moses)"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "force_new": 1,
+  "sub": "По гайдам игроков"
+ },
+ {
+  "merge": "i1091165",
+  "n": "Invetero Coquette (rusted container find)",
+  "c": "veh_randy",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
+    "gta-xtreme.com",
+    "https://www.gta-xtreme.com/gta-6/locations/hidden-cars"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "merge": "i1091147",
+  "n": "Declasse Caliente Picador",
+  "c": "veh_standout",
+  "u": [
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-container-cars-locations-how-to-open-them/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+   ]
+  ],
+  "v": 3,
+  "f": [
+   [
+    "Расхождение в гайдах",
+    "встречаются и другие места появления — см. источники"
+   ]
+  ]
+ },
+ {
+  "merge": "i1091114",
+  "n": "Ghost Cruiser",
+  "c": "veh_standout",
+  "u": [
+   [
+    "gta6info.app",
+    "https://gta6info.app/map/rare-vehicles"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
+    "techwiser.com",
+    "https://techwiser.com/gta-6-bikes/"
+   ]
+  ],
+  "v": 3,
+  "f": []
+ },
+ {
+  "id": "xs0",
+  "n": "Похищение НЛО — начало цепочки «Alien Dreams»",
+  "c": "secret",
+  "r": 4,
+  "x": -5341,
+  "y": 3462,
+  "t": "Ночью (после 02:00, со 2-й главы) на грунтовке к северо-западу от мотеля Starlet стоит брошенная машина с мигающими фарами: рядом НЛО похищает человека, а затем и вас. Во сне нужно решить головоломки с кодом и лампами - так начинается цепочка «Alien Dreams».",
+  "u": [
+   [
+    "videogameschronicle.com",
+    "https://www.videogameschronicle.com/guide/gta-6-full-alien-ufo-questline-walkthrough/"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/easter-eggs/ufo-easter-egg/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/gta-6-walkthrough-how-complete-alien-quest-all-encounters-explained"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-alien-dreams-walkthrough-ufo-abduction/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Пасхалка"
+   ],
+   [
+    "Привязка на карте",
+    "Starlet Motel"
+   ],
+   [
+    "Название в гайдах",
+    "UFO abduction"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Пасхалка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs1",
+  "n": "Лаборатория пришельцев («Зона 51»)",
+  "c": "secret",
+  "r": 4,
+  "x": -2778,
+  "y": -4407,
+  "t": "Заброшенная огороженная база в болотах к югу от Хамлета, у аэродрома South Point. Внутри в контейнере лежит инопланетянин: вынесите его наружу к НЛО и получите постоянную прибавку к здоровью, выносливости и концентрации.",
+  "u": [
+   [
+    "videogameschronicle.com",
+    "https://www.videogameschronicle.com/guide/gta-6-full-alien-ufo-questline-walkthrough/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/gta-6-walkthrough-how-complete-alien-quest-all-encounters-explained"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8017-kak-nayti-inoplanetyan-v-gta-6-kod-ot-zony-51-i-spasenie-prishelca"
+   ],
+   [
+    "holdtoreset.com",
+    "https://holdtoreset.com/gta-6-alien-abduction-dream-and-alien-rescue-guide/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Скрытое место"
+   ],
+   [
+    "Привязка на карте",
+    "Southpoint Airfield"
+   ],
+   [
+    "Название в гайдах",
+    "Alien lab / 'Abandoned Site'"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Скрытое место",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs3",
+  "n": "Скунсовая обезьяна (снежный человек)",
+  "c": "secret",
+  "r": 4,
+  "x": -3475,
+  "y": -4801,
+  "t": "В болотах у озера Коттонмаут (к югу от Хамлета, через залив Гамбит от дома Джейсона) можно застать Скунсовую обезьяну - местного бигфута, поедающего оленя. Погоня приводит к деревянному чучелу, после осмотра которого герой теряет сознание.",
+  "u": [
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/"
+   ],
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-bigfoot-location-where-to-find/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-bigfoot-location-guide/"
+   ],
+   [
+    "esports.gg",
+    "https://esports.gg/guides/grand-theft-auto-6/bigfoot-in-gta-6/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Пасхалка"
+   ],
+   [
+    "Привязка на карте",
+    "Cottonmouth Lake"
+   ],
+   [
+    "Название в гайдах",
+    "Skunk Ape (Bigfoot) sighting"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Пасхалка",
+  "v": 1,
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xs5",
+  "n": "Гигантский краб-мутант и заброшенная крабовая станция",
+  "c": "secret",
+  "r": 4,
+  "x": -3935,
+  "y": -4090,
+  "t": "Заброшенная станция по изучению крабов в болоте Gullet Marsh. Пароль компьютера CLEAVES, сейф 0072, дверь домика на причале 0212 - внутри легендарный ПП Crabshack VF5 и сумка с $10 000; по пути на героя нападает гигантский краб-мутант.",
+  "u": [
+   [
+    "gamespot.com",
+    "https://www.gamespot.com/articles/gta-6-easter-eggs-list-and-locations/"
+   ],
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-pelican-valley-outpost-safe-code-how-get-crabshack-vf5-smg/"
+   ],
+   [
+    "tech.yahoo.com",
+    "https://tech.yahoo.com/gaming/articles/gta-6-pelican-valley-crab-134156659.html"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Airgator Dr Sheehan's Airboat"
+   ],
+   [
+    "Название в гайдах",
+    "Giant mutant crab ('Karkinos') and the Pelican Valley crab research outpost"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 3,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs8",
+  "n": "Маяк St. Lucia: призраки смотрителей, корабль-призрак и Проклятый нож",
+  "c": "secret",
+  "r": 4,
+  "x": 671,
+  "y": 6344,
+  "t": "Маяк Сент-Люсия на острове Литтл-Хардин: ночью на балконе дерутся призраки смотрителей, а около 01:30 в море виден светящийся корабль-призрак. К востоку от маяка на дне лежит уникальный «Проклятый нож».",
+  "u": [
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-ghost-ship-lighthouse-mystery-easter-egg/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-where-find-ghost-ship"
+   ],
+   [
+    "middleeastgamer.com",
+    "https://www.middleeastgamer.com/gta-6-ghost-ship-easter-egg/"
+   ],
+   [
+    "youtube.com",
+    "https://www.youtube.com/watch?v=vZxfYK6-9HA"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Загадка"
+   ],
+   [
+    "Привязка на карте",
+    "St. Lucia Lighthouse"
+   ],
+   [
+    "Название в гайдах",
+    "St. Lucia Lighthouse: ghost keepers, ghost ship and the Cursed Knife"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Загадка",
+  "v": 3,
+  "force_new": 1,
+  "ic": "ghost"
+ },
+ {
+  "id": "xs9",
+  "n": "Отель Marbelle с привидениями (отсылка к Silent Hill) и сейф",
+  "c": "secret",
+  "r": 4,
+  "x": -657,
+  "y": 1181,
+  "t": "Заброшенный отель Marbelle на юге Кросстауна - отсылка к Silent Hill: крыша затянута туманом, там лежит записка с кодом 955214. Сейф на первом этаже хранит деньги и коллекционные часы Crowex.",
+  "u": [
+   [
+    "bloody-disgusting.com",
+    "https://bloody-disgusting.com/video-games/3976448/grand-theft-auto-vi-easter-eggs-found-involving-satanic-rituals-aliens-manhunt-and-silent-hill/"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8043-otel-s-prizrakami-v-gta-6-kod-seyfa-i-pashalka-na-silent-hill"
+   ],
+   [
+    "holdtoreset.com",
+    "https://holdtoreset.com/gta-6-marbelle-hotel-guide-silent-hill-easter-egg/"
+   ],
+   [
+    "talkesport.com",
+    "https://www.talkesport.com/gta-6/gta-6-marbelle-hotel-safe-code/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "район Crosstown"
+   ],
+   [
+    "Коды",
+    "955214"
+   ],
+   [
+    "Название в гайдах",
+    "Haunted Marbelle Hotel (Silent Hill nod) and its safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe",
+  "ap": 1
+ },
+ {
+  "id": "xs10",
+  "n": "Ла Йорона — призрак женщины на туманной дороге",
+  "c": "secret",
+  "r": 4,
+  "x": -2799,
+  "y": 7612,
+  "t": "Ночью (01:00-04:00) на сельской дороге на востоке округа Ламмокс под зелёным фонарём сгущается туман, машина глохнет, и на лобовом стекле появляется женщина-призрак - Ла Йорона. Точная дорога у разных игроков называется по-разному.",
+  "u": [
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-ghost-woman-easter-egg-location-la-llorona/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/gta-6-weirdest-things-can-find"
+   ],
+   [
+    "pocket-lint.com",
+    "https://www.pocket-lint.com/every-movie-reference-in-grand-theft-auto-vi/"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-haunted-hotel-safe-code-ghost-girl-location/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Пасхалка"
+   ],
+   [
+    "Привязка на карте",
+    "Killtelligence Provisions"
+   ],
+   [
+    "Статус",
+    "существует, но источники расходятся в деталях"
+   ],
+   [
+    "Название в гайдах",
+    "La Llorona - ghost woman on the foggy road"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Пасхалка",
+  "v": 1,
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xs12",
+  "n": "Дом «Circles of Hell» — начало битвы с Сатаной",
+  "c": "secret",
+  "r": 4,
+  "x": -6347,
+  "y": 4392,
+  "t": "Дом с открытым гаражом на севере Порт-Геллхорна, где ночью играют двое металлистов. Похвалите их музыку - и вас отправят к костру, через который можно попасть в ад на бой с Сатаной.",
+  "u": [
+   [
+    "gamingbible.com",
+    "https://www.gamingbible.com/news/gta-6-secret-hell-mission-satan-location-rewards-623661-20261123"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-secret-satan-boss-guide-how-unlock-permanent-hp-buff-legendary-hellspawn-shotgun"
+   ],
+   [
+    "dreadcentral.com",
+    "https://www.dreadcentral.com/gaming/598519/gta-6-horror-easter-eggs-2/"
+   ],
+   [
+    "youtube.com",
+    "https://www.youtube.com/watch?v=OUctwzU3Vys"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Пасхалка"
+   ],
+   [
+    "Привязка на карте",
+    "Bravado Circles of Hell Youga"
+   ],
+   [
+    "Название в гайдах",
+    "Circles of Hell House - start of the Satan boss fight"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Пасхалка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs13",
+  "n": "Адский костёр и трон",
+  "c": "secret",
+  "r": 4,
+  "x": -4370,
+  "y": 5261,
+  "t": "Лагерь с костром и троном на севере округа Келли, к северо-западу от клуба Thrillbilly. Взгляд в огонь переносит в ад на бой с Сатаной; награда - легендарный дробовик Hellspawn Comshot 12 и постоянный бонус к здоровью.",
+  "u": [
+   [
+    "gamingbible.com",
+    "https://www.gamingbible.com/news/gta-6-secret-hell-mission-satan-location-rewards-623661-20261123"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-secret-satan-boss-guide-how-unlock-permanent-hp-buff-legendary-hellspawn-shotgun"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-legendary-weapons/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=unique-weapon"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Скрытое место"
+   ],
+   [
+    "Привязка на карте",
+    "Thrillbilly Mud Club - Air Time Stunt Run"
+   ],
+   [
+    "Название в гайдах",
+    "Hell campfire and throne"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Скрытое место",
+  "v": 1,
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xs14",
+  "n": "Охота на острове Hyde Island",
+  "c": "secret",
+  "r": 4,
+  "x": -2753,
+  "y": 8817,
+  "t": "На отдалённом острове Хайд героя усыпляют дротиком: он просыпается в запертом контейнере с ошейником, а неизвестный по старому телевизору объявляет охоту. Отсылка к Manhunt и «Пиле».",
+  "u": [
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/easter-eggs/hyde-island-hunt-easter-egg-manhuntsaw/"
+   ],
+   [
+    "bloody-disgusting.com",
+    "https://bloody-disgusting.com/video-games/3976448/grand-theft-auto-vi-easter-eggs-found-involving-satanic-rituals-aliens-manhunt-and-silent-hill/"
+   ],
+   [
+    "screenrealm.com",
+    "https://screenrealm.com/gta-6-movie-easter-eggs-references-grand-theft-auto/"
+   ],
+   [
+    "pocket-lint.com",
+    "https://www.pocket-lint.com/every-movie-reference-in-grand-theft-auto-vi/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Случайное событие"
+   ],
+   [
+    "Привязка на карте",
+    "Hyde Island"
+   ],
+   [
+    "Название в гайдах",
+    "Hyde Island hunt"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Случайное событие",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs15",
+  "n": "Буквальная пасхалка: гнездо с крашеными яйцами на радиомачте",
+  "c": "secret",
+  "r": 4,
+  "x": -2540,
+  "y": -2326,
+  "t": "На самой вершине высочайшей радиомачты (Bluegrass Radio Mast, округ Вайс-Дейл) лежит гнездо с раскрашенными пасхальными яйцами. Если сбросить яйцо вниз, включится секретная сценка; подъём занимает 5-7 минут.",
+  "u": [
+   [
+    "gamespot.com",
+    "https://www.gamespot.com/articles/gta-6-easter-eggs-list-and-locations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-secret-locations-gta-6"
+   ],
+   [
+    "redbull.com",
+    "https://www.redbull.com/int-en/gta-6-easter-eggs"
+   ],
+   [
+    "gta.wiki",
+    "https://gta.wiki/w/Secrets_and_Easter_Eggs_in_GTA_VI"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Пасхалка"
+   ],
+   [
+    "Привязка на карте",
+    "Bluegrass Antenna Mast Base Jump"
+   ],
+   [
+    "Статус",
+    "существует, но источники расходятся в деталях"
+   ],
+   [
+    "Название в гайдах",
+    "The literal Easter egg: painted-egg nest on the Bluegrass Radio Mast"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Пасхалка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs16",
+  "n": "Квартира Декстера Моргана (Trinity Apartments)",
+  "c": "secret",
+  "r": 4,
+  "x": 1677,
+  "y": 1141,
+  "t": "Жилой комплекс Trinity Apartments на острове Вашингтон (Вайс-Бич) повторяет квартиру Декстера Моргана из сериала. Внутрь не попасть, но на крыше лежит «набор убийцы», а у причала стоит лодка, похожая на Slice of Life.",
+  "u": [
+   [
+    "gamespot.com",
+    "https://www.gamespot.com/articles/how-to-find-dexter-morgans-apartment-in-gta-6/"
+   ],
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/easter-eggs/dexter-easter-eggs/"
+   ],
+   [
+    "bloody-disgusting.com",
+    "https://bloody-disgusting.com/video-games/3976301/grand-theft-auto-vi-contains-a-dexter-easter-egg/"
+   ],
+   [
+    "dreadcentral.com",
+    "https://www.dreadcentral.com/news/598306/theres-a-dexter-easter-egg-in-gta-vi-because-of-course-there-is/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Отсылка"
+   ],
+   [
+    "Привязка на карте",
+    "район Vice Beach"
+   ],
+   [
+    "Название в гайдах",
+    "Dexter Morgan's apartment (Trinity Apartments), kill kit and boat"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Отсылка",
+  "v": 1,
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xs17",
+  "n": "Cool Dog — спасение пса на гидроцикле и Собачий остров",
+  "c": "secret",
+  "r": 4,
+  "x": -2790,
+  "y": -5245,
+  "t": "Если оказаться в открытом море далеко от берега и лодки (чаще всего в заливе Гамбит западнее Ки-Ленто), через несколько минут на помощь приплывёт пёс в тёмных очках на гидроцикле. Не слезайте - он отвезёт на Собачий остров с тайником на $1 218.",
+  "u": [
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/638747"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-jet-ski-dog/"
+   ],
+   [
+    "tech.yahoo.com",
+    "https://tech.yahoo.com/gaming/articles/gta-6-players-losing-over-154800125.html"
+   ],
+   [
+    "playday.one",
+    "https://playday.one/2026/11/19/gta-6-cool-dog-easter-egg/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Случайное событие"
+   ],
+   [
+    "Привязка на карте",
+    "Gambit Bay"
+   ],
+   [
+    "Название в гайдах",
+    "Cool Dog - the jet-ski dog rescue, and Dog Island"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Случайное событие",
+  "v": 1,
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xs18",
+  "n": "Яхта Майкла из GTA V",
+  "c": "secret",
+  "r": 4,
+  "x": -2344,
+  "y": -5542,
+  "t": "У дома Джейсона на Ки-Ленто пришвартована яхта, похожая на угнанную Marquis Майкла из GTA V; на её приборной панели видна мини-карта GTA V. В телефоне можно выбрать и рингтон Майкла Wind Chimes.",
+  "u": [
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/11-biggest-gta-series-easter-eggs-in-gta-6-from-michaels-boat-to-vice-city/"
+   ],
+   [
+    "redbull.com",
+    "https://www.redbull.com/int-en/gta-6-easter-eggs"
+   ],
+   [
+    "buzzfeed.com",
+    "https://www.buzzfeed.com/mariamsharia/gta-6-easter-eggs-players-have-already-found"
+   ],
+   [
+    "mobalytics.gg",
+    "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-easter-eggs"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Отсылка"
+   ],
+   [
+    "Привязка на карте",
+    "Jason's House"
+   ],
+   [
+    "Название в гайдах",
+    "Michael's yacht from GTA V"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Отсылка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs20",
+  "n": "Машина «Охотников за привидениями» — Declasse Ghosts Exposed Parkland",
+  "c": "secret",
+  "r": 4,
+  "x": -6659,
+  "y": 54,
+  "t": "На Фортуна-стрит в Капри у дома, украшенного к Хэллоуину, стоит универсал в стиле Ecto-1 из «Охотников за привидениями». Двери открыты; поездка разблокирует его ливрею в тюнинг-ателье (со 2-й главы).",
+  "u": [
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-how-get-ghostbusters-car-easter-egg-declasse-ghost-exposed-parkland/"
+   ],
+   [
+    "ghostbustersnews.com",
+    "https://ghostbustersnews.com/2026/11/22/grand-theft-auto-vi-includes-a-nod-to-gta-onlines-ghostbusters-parody/"
+   ],
+   [
+    "gamer.org",
+    "https://www.gamer.org/gta-6-ghostbusters-car-declasse-ghost-exposed-parkland/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Отсылка"
+   ],
+   [
+    "Привязка на карте",
+    "Halloween House"
+   ],
+   [
+    "Название в гайдах",
+    "Ghostbusters car - Declasse 'Ghost Exposed' Parkland"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Отсылка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs21",
+  "n": "Блок Марио и Луиджи («Super Mario Bong»)",
+  "c": "secret",
+  "r": 4,
+  "x": -4082,
+  "y": 7379,
+  "t": "В лесу на юго-западе Моро (округ Ламмокс, севернее горы Калага) у руин лежит фиолетовый брезент с бонгом. Покурив и встав в дым на руинах, вы увидите парящий блок - разбейте его и получите кепки «J» и «L» в стиле Марио и Луиджи.",
+  "u": [
+   [
+    "kotaku.com",
+    "https://kotaku.com/gta-6-includes-a-mario-and-luigi-easter-egg-2000759536"
+   ],
+   [
+    "gamespot.com",
+    "https://www.gamespot.com/articles/gta-6-has-a-super-mario-bros-easter-egg-and-its-a-trip/"
+   ],
+   [
+    "nintendolife.com",
+    "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world"
+   ],
+   [
+    "tweaktown.com",
+    "https://www.tweaktown.com/news/114843/gta-6-has-a-hidden-mario-and-luigi-easter-egg-that-lets-jason-and-lucia-dress-like-nintendos-iconic-plumbers/index.html"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Пасхалка"
+   ],
+   [
+    "Привязка на карте",
+    "Lawton Co. Paper Mill"
+   ],
+   [
+    "Название в гайдах",
+    "Mario & Luigi block ('Super Mario Bong') - J and L hats"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Пасхалка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs22",
+  "n": "Стена «Looney Tunes» — нарисованный тоннель",
+  "c": "secret",
+  "r": 4,
+  "x": -283,
+  "y": 2232,
+  "t": "В районе Vice Decor District у магазина Fufu на стене нарисован тоннель с уходящей вдаль дорогой - как в мультфильмах про Хитрого Койота. Игроки на скорости врезаются в глухую стену.",
+  "u": [
+   [
+    "thegamer.com",
+    "https://www.thegamer.com/gta-6-painted-tunnel-prank/"
+   ],
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-trolling-players-best-way/"
+   ],
+   [
+    "techjuice.pk",
+    "https://www.techjuice.pk/gamers-are-literally-ramming-into-a-looney-tunes-easter-egg-in-gta-6/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Пасхалка"
+   ],
+   [
+    "Привязка на карте",
+    "район Decor District"
+   ],
+   [
+    "Название в гайдах",
+    "'Looney Tunes Wall' - painted fake tunnel"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Пасхалка",
+  "v": 1,
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xs23",
+  "n": "Красный Халк на ферме McKittrick",
+  "c": "secret",
+  "r": 4,
+  "x": -4998,
+  "y": 3814,
+  "t": "Ферма Маккиттрика во Фрогсуотере (округ Келли). Задания фермера Кайла о гигантской клубнике начинаются с листовки у мотеля Starlet и в 3-й главе заканчиваются его превращением в огромного «Красного Халка».",
+  "u": [
+   [
+    "dexerto.com",
+    "https://www.dexerto.com/wikis/gta-6/easter-eggs/red-hulk-easter-egg/"
+   ],
+   [
+    "kotaku.com",
+    "https://kotaku.com/are-we-going-too-crazy-heres-why-rockstar-put-a-red-hulk-in-gta-6-2000758505"
+   ],
+   [
+    "tech.yahoo.com",
+    "https://tech.yahoo.com/gaming/articles/gta-6-red-hulk-surprising-154106681.html"
+   ],
+   [
+    "game8.co",
+    "https://game8.co/games/GTA-6/archives/639194"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Пасхалка"
+   ],
+   [
+    "Привязка на карте",
+    "к северо-востоку от Starlet Motel, Frogswater"
+   ],
+   [
+    "Название в гайдах",
+    "Red Hulk at McKittrick Farm"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Пасхалка",
+  "v": 1,
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xs24",
+  "n": "Тутси — говорящая корова",
+  "c": "secret",
+  "r": 4,
+  "x": -5061,
+  "y": 3388,
+  "t": "В округе Келли у молочной фермы Howe Dairy фермер просит поймать сбежавшую нарядную корову Тутси. Успокоенная корова заговорит и попросит её спасти - можно вернуть её хозяину или отпустить.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-bizarre-encounters-gta-6-find-kraken-ghosts-talking-cow-more"
+   ],
+   [
+    "gfinityesports.com",
+    "https://www.gfinityesports.com/article/gta-6-how-to-find-the-talking-cow-tootsie-save-her"
+   ],
+   [
+    "ixbt.games",
+    "https://ixbt.games/en/articles/2026/11/23/samye-interesnye-otsylki-i-pasxalki-v-gta-vi-ot-krasnogo-xalka-do-spaseniia-inoplanetian.html"
+   ],
+   [
+    "youtube.com",
+    "https://www.youtube.com/watch?v=VT6Z3VM7ymA"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Случайное событие"
+   ],
+   [
+    "Привязка на карте",
+    "Howe Dairy Farm's Big Udder"
+   ],
+   [
+    "Название в гайдах",
+    "Tootsie, the talking cow"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Случайное событие",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs26",
+  "n": "Наклейка Love Fist в мотеле Starlet",
+  "c": "secret",
+  "r": 4,
+  "x": -5341,
+  "y": 3465,
+  "t": "На одной из дверей мотеля Starlet наклеен стикер рок-группы Love Fist из GTA: Vice City.",
+  "u": [
+   [
+    "gta.wiki",
+    "https://gta.wiki/w/Secrets_and_Easter_Eggs_in_GTA_VI"
+   ],
+   [
+    "buzzfeed.com",
+    "https://www.buzzfeed.com/mariamsharia/gta-6-easter-eggs-players-have-already-found"
+   ],
+   [
+    "redbull.com",
+    "https://www.redbull.com/int-en/gta-6-easter-eggs"
+   ],
+   [
+    "gta6info.com",
+    "https://gta6info.com/wiki/Easter_Eggs"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Отсылка"
+   ],
+   [
+    "Привязка на карте",
+    "Starlet Motel"
+   ],
+   [
+    "Название в гайдах",
+    "Love Fist sticker at the Starlet Motel"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Отсылка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs28",
+  "n": "Книга «Lethal by Design: A Liberty City Memoir»",
+  "c": "secret",
+  "r": 4,
+  "x": -2366,
+  "y": -5538,
+  "t": "В доме Джейсона на Ки-Ленто лежит книга «Lethal by Design: A Liberty City Memoir» - мемуары бывшего бандита из Либерти-Сити о событиях 2008 года, времени действия GTA IV.",
+  "u": [
+   [
+    "gta.wiki",
+    "https://gta.wiki/w/Secrets_and_Easter_Eggs_in_GTA_VI"
+   ],
+   [
+    "sport-express.ru",
+    "https://www.sport-express.ru/cybersport/videogames/reviews/sekrety-i-pashalki-gta-6-mesta-otsylki-i-nahodki-2476922/"
+   ],
+   [
+    "leonidaverse.com",
+    "https://leonidaverse.com/en/codex/gta-6-easter-eggs"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Отсылка"
+   ],
+   [
+    "Привязка на карте",
+    "Jason's House"
+   ],
+   [
+    "Название в гайдах",
+    "'Lethal by Design: A Liberty City Memoir'"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Отсылка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs29",
+  "n": "Вестерн о ковбое из Нью-Остина (отсылка к Red Dead)",
+  "c": "secret",
+  "r": 4,
+  "x": -1099,
+  "y": 6469,
+  "t": "В таверне Jacob's Tavern в Миллпорте можно прочитать вестерн о ковбое из Нью-Остина - региона из серии Red Dead Redemption.",
+  "u": [
+   [
+    "gamespot.com",
+    "https://www.gamespot.com/articles/gta-6-easter-eggs-list-and-locations/"
+   ],
+   [
+    "gta6info.com",
+    "https://gta6info.com/wiki/Easter_Eggs"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Отсылка"
+   ],
+   [
+    "Привязка на карте",
+    "Jacob's Tavern"
+   ],
+   [
+    "Название в гайдах",
+    "Western novel about a New Austin cowboy"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Отсылка",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs30",
+  "n": "Дом в Belville с фото из San Andreas и гараж конспиролога",
+  "c": "secret",
+  "r": 4,
+  "x": -1429,
+  "y": 2938,
+  "t": "Дом в Белвилле (округ Леонард) совпадает с загадочной фотографией из бара Lil' Probe'Inn в ремастере San Andreas 2021 года. В гараже - логово конспиролога, уверенного, что он заперт в Леониде; на стене упомянуты «J» и «L».",
+  "u": [
+   [
+    "kami-labs.fr",
+    "https://kami-labs.fr/en/grand-theft-auto-6/gta-6-maison-photo-san-andreas-belville/"
+   ],
+   [
+    "gtaviceguides.com",
+    "https://gtaviceguides.com/guides/gta-6-belville-house-conspiracy-garage/"
+   ],
+   [
+    "a90skid.com",
+    "https://www.a90skid.com/gta-6-fan-identifies-belville-house-with-a-conspiracy-easter-egg-in-its-garage/"
+   ],
+   [
+    "buzzfeed.com",
+    "https://www.buzzfeed.com/mariamsharia/gta-6-easter-eggs-players-have-already-found"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Загадка"
+   ],
+   [
+    "Привязка на карте",
+    "район Belville"
+   ],
+   [
+    "Название в гайдах",
+    "Belville house from the San Andreas 'Lil' Probe'Inn' photo, with a conspiracy garage"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Загадка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "ghost",
+  "ap": 1
+ },
+ {
+  "id": "xs35",
+  "n": "Дом — место преступления в духе «Лица со шрамом»",
+  "c": "secret",
+  "r": 4,
+  "x": -2462,
+  "y": -5866,
+  "t": "Дом на юге Ки-Ленто, опечатанный как место преступления: залитая кровью ванная отсылает к сцене с бензопилой из «Лица со шрамом». При входе срабатывает сигнализация и приезжает полиция.",
+  "u": [
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-easter-eggs/"
+   ],
+   [
+    "screenrealm.com",
+    "https://screenrealm.com/gta-6-movie-easter-eggs-references-grand-theft-auto/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Отсылка"
+   ],
+   [
+    "Привязка на карте",
+    "район Key Lento"
+   ],
+   [
+    "Название в гайдах",
+    "Scarface crime-scene house"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Отсылка",
+  "v": 1,
+  "force_new": 1,
+  "ap": 1
+ },
+ {
+  "id": "xs42",
+  "n": "Отель Ocean View — привет из GTA: Vice City",
+  "c": "secret",
+  "r": 2,
+  "x": 1951,
+  "y": 650,
+  "t": "Среди отсылок к Vice City называют отель Ocean View - первое убежище Томми Версетти; по описаниям, рядом припаркован бело-жёлтый Oceanic, как в игре 2002 года. Точное место не уточнено.",
+  "u": [
+   [
+    "sport-express.ru",
+    "https://www.sport-express.ru/cybersport/videogames/reviews/sekrety-i-pashalki-gta-6-mesta-otsylki-i-nahodki-2476922/"
+   ],
+   [
+    "gta6info.com",
+    "https://gta6info.com/wiki/Easter_Eggs"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Отсылка"
+   ],
+   [
+    "Привязка на карте",
+    "Ocean View Hotel"
+   ],
+   [
+    "Название в гайдах",
+    "Ocean View Hotel callback"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Отсылка",
+  "v": 1,
+  "force_new": 1
+ },
+ {
+  "id": "xs43",
+  "n": "Каменный круг на вершине Mount Kalaga",
+  "c": "secret",
+  "r": 4,
+  "x": -3472,
+  "y": 6472,
+  "t": "На вершине горы Калага стоит круг из камней с пирамидкой в центре и брошенными фонарями - местный аналог тайны горы Чилиад. Назначение круга неизвестно, загадка не решена.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/gta-6-mount-kalaga-mystery-what-s-top-get"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8063-tayna-gory-kalaga-v-gta-6-gde-nayti-meteorit-i-chto-skryvaet-vershina"
+   ],
+   [
+    "nuclearcoffee.org",
+    "https://nuclearcoffee.org/mount-kalaga-mystery-in-gta-6/"
+   ],
+   [
+    "redbull.com",
+    "https://www.redbull.com/int-en/gta-6-easter-eggs"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Загадка"
+   ],
+   [
+    "Привязка на карте",
+    "Mount Kalaga Base Jump"
+   ],
+   [
+    "Статус",
+    "загадка не разгадана"
+   ],
+   [
+    "Название в гайдах",
+    "Mount Kalaga summit stone circle"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Загадка",
+  "v": 3,
+  "force_new": 1,
+  "ic": "ghost"
+ },
+ {
+  "id": "xs44",
+  "n": "Место падения метеорита у вершины Mount Kalaga",
+  "c": "secret",
+  "r": 4,
+  "x": -3331,
+  "y": 6384,
+  "t": "Недалеко от вершины горы Калага - раздавленная палатка и дымящийся кратер со свежим метеоритом. Камень можно подобрать и продать в ломбарде; зачем он нужен ещё, пока неизвестно.",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/gta-6-mount-kalaga-mystery-what-s-top-get"
+   ],
+   [
+    "showgamer.com",
+    "https://showgamer.com/en/guides/8063-tayna-gory-kalaga-v-gta-6-gde-nayti-meteorit-i-chto-skryvaet-vershina"
+   ],
+   [
+    "macetesgta6.com.br",
+    "https://macetesgta6.com.br/en/tip/gta-6-meteorite-location-sell/"
+   ],
+   [
+    "redbull.com",
+    "https://www.redbull.com/int-en/gta-6-easter-eggs"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Загадка"
+   ],
+   [
+    "Привязка на карте",
+    "Mount Kalaga Base Jump"
+   ],
+   [
+    "Статус",
+    "загадка не разгадана"
+   ],
+   [
+    "Название в гайдах",
+    "Mount Kalaga meteorite crash site"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Загадка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "ghost",
+  "ap": 1
+ },
+ {
+  "id": "xs46",
+  "n": "Monument of Leonidan Supremacy — неразгаданный монумент",
+  "c": "secret",
+  "r": 4,
+  "x": -5885,
+  "y": 5557,
+  "t": "Монумент «Превосходства Леониды» к северу от Порт-Геллхорна: на головах коней закреплены металлические «звёздные карты», рядом вибрирует геймпад и слышен писк, похожий на азбуку Морзе. Игроки ищут здесь новую «тайну Чилиада»; решения пока нет.",
+  "u": [
+   [
+    "kantan.news",
+    "https://kantan.news/news/new-mystery-similar-to-mount-chiliad-discovered-in-gta-6-map"
+   ],
+   [
+    "gtavioffair.com",
+    "https://gtavioffair.com/gta-6-statue-mystery/"
+   ],
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-waink-sculpture-locations"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=waink-sculpture"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Загадка"
+   ],
+   [
+    "Привязка на карте",
+    "Monument of Leonidan Supremacy"
+   ],
+   [
+    "Статус",
+    "загадка не разгадана"
+   ],
+   [
+    "Название в гайдах",
+    "Monument of Leonidan Supremacy"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Загадка",
+  "v": 3,
+  "force_new": 1,
+  "ic": "ghost"
+ },
+ {
+  "id": "xs50",
+  "n": "Хосе Бермудес на памятнике Friends of Freedom",
+  "c": "secret",
+  "r": 4,
+  "x": -375,
+  "y": -76,
+  "t": "Днём у монумента Friends of Freedom в восточном Даунтауне ветеран Хосе Бермудес даёт первую зацепку. В его квартире в Литтл-Кубе диктофон и фото раскрывают коды президентских бункеров.",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-free-tank-secret-bunker-location/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-walkthrough-how-complete-president-russo-world-event-bunker-locations-codes-loot"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-how-to-get-a-tank-secret-bunker-quest/"
+   ],
+   [
+    "techwiser.com",
+    "https://techwiser.com/gta-6-free-tank-secret-bunker-location-codes/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Скрытое место"
+   ],
+   [
+    "Привязка на карте",
+    "IAA's Friends of Freedom"
+   ],
+   [
+    "Коды",
+    "See the two bunker entries (010317, 085355)"
+   ],
+   [
+    "Название в гайдах",
+    "José Bermúdez at the Friends of Freedom landmark"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Скрытое место",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs51",
+  "n": "Бункер президента на Sharktooth Island",
+  "c": "secret",
+  "r": 4,
+  "x": 211,
+  "y": 5268,
+  "t": "Первый президентский бункер на острове Шарктус у северо-восточного побережья. Дверь открывает код 010317 - дата рождения президента Джо Руссо.",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-free-tank-secret-bunker-location/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-walkthrough-how-complete-president-russo-world-event-bunker-locations-codes-loot"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-how-to-get-a-tank-secret-bunker-quest/"
+   ],
+   [
+    "techwiser.com",
+    "https://techwiser.com/gta-6-free-tank-secret-bunker-location-codes/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Presidential Bunker, Sharktooth Island"
+   ],
+   [
+    "Коды",
+    "010317"
+   ],
+   [
+    "Название в гайдах",
+    "President's Bunker on Sharktooth Island"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 3,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs52",
+  "n": "Второй президентский бункер у Big Pine",
+  "c": "secret",
+  "r": 4,
+  "x": -5689,
+  "y": -1622,
+  "t": "Второй бункер спрятан у Биг-Пайн к северо-западу от Грассриверс: код 085355 вводится на панели, прикреплённой к дереву. Красная кнопка в пункте управления открывает ангар с бесплатным танком.",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-free-tank-secret-bunker-location/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-walkthrough-how-complete-president-russo-world-event-bunker-locations-codes-loot"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-how-to-get-a-tank-secret-bunker-quest/"
+   ],
+   [
+    "techwiser.com",
+    "https://techwiser.com/gta-6-free-tank-secret-bunker-location-codes/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "секретный бункер в болотах на северо-западе Grassrivers (район Big Pine)"
+   ],
+   [
+    "Название в гайдах",
+    "Second presidential bunker near Big Pine"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe",
+  "ap": 1
+ },
+ {
+  "id": "xs54",
+  "n": "Mile Zero Air Station — закрытая военная база",
+  "c": "secret",
+  "r": 4,
+  "x": -6967,
+  "y": -6412,
+  "t": "Закрытая военная база Mile Zero Air Station на острове Гус-Ки (юго-запад округа Мариана). Солдаты стреляют по нарушителям, но отсюда можно угнать истребитель и танк.",
+  "u": [
+   [
+    "insider-gaming.com",
+    "https://insider-gaming.com/military-base-gta-6-mile-zero-air-station/"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/articles/gta-6-military-base-location"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-military-base-location/"
+   ],
+   [
+    "tech.yahoo.com",
+    "https://tech.yahoo.com/gaming/articles/steal-fighter-jet-military-gta-225443337.html"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Скрытое место"
+   ],
+   [
+    "Привязка на карте",
+    "Mile Zero Air Station"
+   ],
+   [
+    "Название в гайдах",
+    "Mile Zero Air Station"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Скрытое место",
+  "v": 3,
+  "force_new": 1
+ },
+ {
+  "id": "xs57",
+  "n": "Derelict Spy Vessel — брошенное шпионское судно",
+  "c": "secret",
+  "r": 2,
+  "x": -5567,
+  "y": -6710,
+  "t": "Заброшенное «шпионское судно» на восточном берегу Ки-Ленто, упомянутое в заметках карты GTABase как ориентир для метеорита. Подробностей нет.",
+  "u": [
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=meteorite"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Скрытое место"
+   ],
+   [
+    "Привязка на карте",
+    "Derelict Spy Vessel"
+   ],
+   [
+    "Название в гайдах",
+    "Derelict Spy Vessel"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Скрытое место",
+  "v": 1,
+  "force_new": 1
+ },
+ {
+  "id": "xs58",
+  "n": "Фабрика плюшевых мишек (склад Apollo Aggregates)",
+  "c": "secret",
+  "r": 4,
+  "x": -1846,
+  "y": -2910,
+  "t": "Красный склад Apollo Aggregates к юго-востоку от Хамлета - «фабрика плюшевых мишек». Охрана уже мертва: внутри около $13 000 наличными и товаром, а в сейфе - коллекционная карточка Leroy Rook за $6 000.",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-best-money-spots/"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-best-early-money-farming-spots-and-secret-cash-stashes/"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-secret-loot-rooms-early-cash-weapons/"
+   ],
+   [
+    "alcasthq.com",
+    "https://alcasthq.com/gta-6-teddy-bear-factory/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Тайник / клад"
+   ],
+   [
+    "Привязка на карте",
+    "Vapid Rumpo"
+   ],
+   [
+    "Название в гайдах",
+    "Teddy bear factory (Apollo Aggregates warehouse) loot"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Тайник / клад",
+  "v": 3,
+  "force_new": 1,
+  "ic": "chest"
+ },
+ {
+  "id": "xs59",
+  "n": "Разбившийся самолёт, записка пилота и яхта UNDAUNTED",
+  "c": "secret",
+  "r": 4,
+  "x": -6470,
+  "y": -1531,
+  "t": "В разбитом самолёте на берегу в Пеликан-Вэлли лежит блокнот погибшего пилота с подсказкой про Бобкэт-Ки и яхту UNDAUNTED. От бухты Бобкэт-Ки плывите строго на запад - там дрейфует яхта, где сорвалась сделка.",
+  "u": [
+   [
+    "shacknews.com",
+    "https://www.shacknews.com/article/151472/find-bobcat-key-map-stash-gta-6"
+   ],
+   [
+    "youtube.com",
+    "https://www.youtube.com/watch?v=cnp_lLeIis4"
+   ],
+   [
+    "x.com",
+    "https://x.com/GermanStrands/status/2124509728965353875"
+   ],
+   [
+    "alcasthq.com",
+    "https://alcasthq.com/gta-6-airplane-crash-event/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Тайник / клад"
+   ],
+   [
+    "Привязка на карте",
+    "Bobcat Key"
+   ],
+   [
+    "Название в гайдах",
+    "Crashed plane, dead pilot's note and the UNDAUNTED yacht"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Тайник / клад",
+  "v": 1,
+  "force_new": 1,
+  "ic": "chest",
+  "ap": 1
+ },
+ {
+  "id": "xs61",
+  "n": "Золотой АК — KZ-59 «La Polilla Negra»",
+  "c": "secret",
+  "r": 4,
+  "x": -5402,
+  "y": -3116,
+  "t": "На складе Palmer Fishing в западной части Уотсон-Бэй, который держит картель La Polilla Negra, на втором этаже лежит золотой автомат KZ-59. Код сейфа 1886 указан не всеми источниками.",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-secret-golden-ak-47-location-safe-code/"
+   ],
+   [
+    "techwiser.com",
+    "https://techwiser.com/gta-6-golden-ak-47/"
+   ],
+   [
+    "detonated.com",
+    "https://detonated.com/gta-6-secret-loot-rooms-early-cash-weapons/"
+   ],
+   [
+    "x.com",
+    "https://x.com/Techjunkie_Aman/status/2123831908769624180"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Тайник / клад"
+   ],
+   [
+    "Привязка на карте",
+    "Safe - Palmer Fishing Warehouse"
+   ],
+   [
+    "Коды",
+    "1886 (reported by Beebom/TechWiser; disputed)"
+   ],
+   [
+    "Статус",
+    "существует, но источники расходятся в деталях"
+   ],
+   [
+    "Название в гайдах",
+    "Golden AK - 'La Polilla Negra' KZ-59 at the cartel compound"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Тайник / клад",
+  "v": 3,
+  "force_new": 1,
+  "ic": "chest"
+ },
+ {
+  "id": "xs63",
+  "n": "Exotic Animals Front — тайник за стеной с попугаем",
+  "c": "secret",
+  "r": 2,
+  "x": -2447,
+  "y": -5975,
+  "t": "В «Exotic Animals Front» на Ки-Ленто после зачистки говорящий попугай подсказывает, где в стене спрятан тайник. Всего здесь около $2 300.",
+  "u": [
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-best-early-money-farming-spots-and-secret-cash-stashes/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-best-money-spots/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Тайник / клад"
+   ],
+   [
+    "Привязка на карте",
+    "Exotic Animals Front"
+   ],
+   [
+    "Название в гайдах",
+    "Exotic Animals Front - talking parrot wall stash"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Тайник / клад",
+  "v": 1,
+  "force_new": 1,
+  "ic": "chest"
+ },
+ {
+  "id": "xs64",
+  "n": "Сейф в доме Джейсона",
+  "c": "secret",
+  "r": 2,
+  "x": -2360,
+  "y": -5519,
+  "t": "Сейф в доме Джейсона на Ки-Ленто - самые первые и безопасные деньги в игре, по словам одного гайда.",
+  "u": [
+   [
+    "thebestmods.com",
+    "https://thebestmods.com/gta-6/where-to-find-money/"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-best-early-money-farming-spots-and-secret-cash-stashes/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Тайник / клад"
+   ],
+   [
+    "Привязка на карте",
+    "Jason's House"
+   ],
+   [
+    "Название в гайдах",
+    "Jason's house safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Тайник / клад",
+  "v": 1,
+  "force_new": 1,
+  "ic": "chest"
+ },
+ {
+  "id": "xs70",
+  "n": "Затонувший корабль Nuestra Señora de la Ética Laxa",
+  "c": "secret",
+  "r": 4,
+  "x": -4459,
+  "y": -7439,
+  "t": "Затонувший корабль Nuestra Señora de la Ética Laxa южнее Ки-Ленто и Абисмо-Ки: 5 сокровищ.",
+  "u": [
+   [
+    "bo3.gg",
+    "https://bo3.gg/games/articles/gta-6-underwater-discoveries-all-kentons-treasure-locations-and-shipwrecks"
+   ],
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-underwater-discoveries-locations-and-kentons-treasures"
+   ],
+   [
+    "retrogems.fr",
+    "https://retrogems.fr/en/gta-6-kentons-treasures-guide-underwater-discoveries/"
+   ],
+   [
+    "keengamer.com",
+    "https://www.keengamer.com/articles/guides/gta-6-all-7-kentons-treasure-set-locations-and-rewards/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Тайник / клад"
+   ],
+   [
+    "Привязка на карте",
+    "Abismo Key Carcass"
+   ],
+   [
+    "Название в гайдах",
+    "Shipwreck: Nuestra Señora de la Ética Laxa"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Тайник / клад",
+  "v": 1,
+  "force_new": 1,
+  "ic": "chest",
+  "ap": 1
+ },
+ {
+  "id": "xs73",
+  "n": "Место для дайвинга Belpoint Strait",
+  "c": "secret",
+  "r": 4,
+  "x": -7978,
+  "y": -512,
+  "t": "Место погружения в проливе Белпойнт у северной оконечности Бобкэт-Байт: 5 сокровищ, включая «Грааль влюблённых» и «Золотую рыбку».",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/gta-6-top-10-secret-treasure-spots"
+   ],
+   [
+    "games.gg",
+    "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-underwater-research-facility-location/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Тайник / клад"
+   ],
+   [
+    "Привязка на карте",
+    "Belpoint Lighthouse"
+   ],
+   [
+    "Название в гайдах",
+    "Belpoint Strait dive site"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Тайник / клад",
+  "v": 1,
+  "force_new": 1,
+  "ic": "chest",
+  "ap": 1
+ },
+ {
+  "id": "xs75",
+  "n": "Сейф в офисе Kingpin Bowling",
+  "c": "secret",
+  "r": 4,
+  "x": -6373,
+  "y": 3240,
+  "t": "Сейф в подсобке боулинга Kingpin Bowling в Порт-Геллхорне открывается кодом 0300.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ],
+   [
+    "tracker.gg",
+    "https://tracker.gg/gta6/safe-codes"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Office Safe - Kingpin Bowling"
+   ],
+   [
+    "Коды",
+    "0300"
+   ],
+   [
+    "Название в гайдах",
+    "Kingpin Bowling back-office safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 3,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs76",
+  "n": "Сейф Brooks Boatworks",
+  "c": "secret",
+  "r": 4,
+  "x": -6594,
+  "y": 4292,
+  "t": "Сейф на верфи Brooks Boatworks в Порт-Геллхорне: код 6823.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ],
+   [
+    "tracker.gg",
+    "https://tracker.gg/gta6/safe-codes"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Office Safe - Brooks Boatworks"
+   ],
+   [
+    "Коды",
+    "6823"
+   ],
+   [
+    "Название в гайдах",
+    "Brooks Boatworks safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 3,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs77",
+  "n": "Сейф мотеля La Cascara",
+  "c": "secret",
+  "r": 4,
+  "x": -6851,
+  "y": 3967,
+  "t": "Сейф в мотеле La Cascara в Порт-Геллхорне: код 6969.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ],
+   [
+    "tracker.gg",
+    "https://tracker.gg/gta6/safe-codes"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Lieutenant Room Safe - La Cascara Motel"
+   ],
+   [
+    "Коды",
+    "6969"
+   ],
+   [
+    "Название в гайдах",
+    "La Cascara Motel safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 3,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs78",
+  "n": "Сейф в офисе Delights Cabaret",
+  "c": "secret",
+  "r": 2,
+  "x": -6364,
+  "y": 3590,
+  "t": "Сейф в офисе кабаре Delights: код 2008 присылает Вики во время миссии Afternoon Delight.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ],
+   [
+    "tracker.gg",
+    "https://tracker.gg/gta6/safe-codes"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Delights Cabaret"
+   ],
+   [
+    "Коды",
+    "2008"
+   ],
+   [
+    "Название в гайдах",
+    "Delights Cabaret office safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs79",
+  "n": "Коды миссии «Lab Fees»: дверь лаборатории и Brian's Lockup",
+  "c": "secret",
+  "r": 2,
+  "x": -3264,
+  "y": -6540,
+  "t": "Коды из миссии Lab Fees (глава 1): дверь кислотной лаборатории - 0420, склад Брайана (Brian's Lockup) - 7700.",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ],
+   [
+    "tracker.gg",
+    "https://tracker.gg/gta6/safe-codes"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Brian's Lockup"
+   ],
+   [
+    "Коды",
+    "Acid lab door: 0420; Brian's Lockup: 7700"
+   ],
+   [
+    "Название в гайдах",
+    "'Lab Fees' codes: acid lab door and Brian's Lockup"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs80",
+  "n": "Дверь Janjak's Garage",
+  "c": "secret",
+  "r": 2,
+  "x": -1274,
+  "y": 1192,
+  "t": "Гараж Janjak's Garage открывается кодом 4444 (точный район в источниках не указан).",
+  "u": [
+   [
+    "outputlag.com",
+    "https://outputlag.com/guides/gta-6-safe-garage-codes/"
+   ],
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Safe -Janjak's Garage"
+   ],
+   [
+    "Коды",
+    "4444"
+   ],
+   [
+    "Название в гайдах",
+    "Janjak's Garage door"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs85",
+  "n": "Сейф Nova Auto Junkyard",
+  "c": "secret",
+  "r": 2,
+  "x": -2474,
+  "y": -3402,
+  "t": "Свалка Nova Auto Junkyard в Хамлете (логово банды M7): сейф открывается кодом 7777 (по сообщениям).",
+  "u": [
+   [
+    "grandleonida.com",
+    "https://grandleonida.com/guides/gta-6-golden-ak-47-kz-59-nova-auto-junkyard/"
+   ],
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Garage Safe - Nova Auto Junkyard"
+   ],
+   [
+    "Коды",
+    "7777"
+   ],
+   [
+    "Название в гайдах",
+    "Nova Auto Junkyard safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs86",
+  "n": "Сейф ломбарда Casa de Empeño",
+  "c": "secret",
+  "r": 2,
+  "x": 1772,
+  "y": 1034,
+  "t": "Ломбард Casa de Empeño: код сейфа 1680 (место не уточнено).",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ],
+   [
+    "tracker.gg",
+    "https://tracker.gg/gta6/safe-codes"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Casa de Empeño"
+   ],
+   [
+    "Коды",
+    "1680"
+   ],
+   [
+    "Название в гайдах",
+    "Casa de Empeño pawn shop safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs87",
+  "n": "Сейф Richardson Jewelry",
+  "c": "secret",
+  "r": 2,
+  "x": -697,
+  "y": -102,
+  "t": "Ювелирный магазин Richardson Jewelry: код сейфа 6815 (место не уточнено).",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ],
+   [
+    "tracker.gg",
+    "https://tracker.gg/gta6/safe-codes"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Richardson Jewelry & Diamonds"
+   ],
+   [
+    "Коды",
+    "6815"
+   ],
+   [
+    "Название в гайдах",
+    "Richardson Jewelry safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs88",
+  "n": "Сейф Donovan Banks & Co.",
+  "c": "secret",
+  "r": 2,
+  "x": -1210,
+  "y": -1728,
+  "t": "Donovan Banks & Co.: код сейфа 0104 (место не уточнено).",
+  "u": [
+   [
+    "space4games.com",
+    "https://space4games.com/en/games-en/gta-6-safe-codes-combinations-locations/"
+   ],
+   [
+    "culturedvultures.com",
+    "https://culturedvultures.com/gta-6-all-door-codes-and-safe-combinations/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/esports/all-safe-locker-codes-gta-6"
+   ],
+   [
+    "tracker.gg",
+    "https://tracker.gg/gta6/safe-codes"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Код / головоломка"
+   ],
+   [
+    "Привязка на карте",
+    "Donovan Banks & Co."
+   ],
+   [
+    "Коды",
+    "0104"
+   ],
+   [
+    "Название в гайдах",
+    "Donovan Banks & Co. safe"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Код / головоломка",
+  "v": 1,
+  "force_new": 1,
+  "ic": "safe"
+ },
+ {
+  "id": "xs92",
+  "n": "Машина в контейнере: Progen Purple Drank Emerus",
+  "c": "secret",
+  "r": 2,
+  "x": 128,
+  "y": 352,
+  "t": "На складе Chatfield Storage & Logistics на острове Ваксман у контейнера стоит суперкар Progen Emerus в ливрее «Purple Drank». Один источник.",
+  "u": [
+   [
+    "metaforge.app",
+    "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Скрытое место"
+   ],
+   [
+    "Привязка на карте",
+    "Office Safe - Chatfield Storage & Logistics"
+   ],
+   [
+    "Название в гайдах",
+    "Container car: Progen 'Purple Drank' Emerus"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Скрытое место",
+  "v": 1,
+  "force_new": 1
+ },
+ {
+  "id": "xs93",
+  "n": "Thrillbilly Mud Club — место из трейлера",
+  "c": "secret",
+  "r": 4,
+  "x": -3999,
+  "y": 4925,
+  "t": "Грязевой клуб Thrillbilly Mud Club в округе Келли впервые мелькнул в первом трейлере. В вышедшей игре он есть - гайды используют его как ориентир.",
+  "u": [
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-thrillbilly-mud-club-real-life-inspiration-explained/"
+   ],
+   [
+    "gta6.how",
+    "https://gta6.how/map/ambrosia/thrillbilly-mud-club/"
+   ],
+   [
+    "map.gtadb.org",
+    "https://map.gtadb.org/"
+   ],
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-legendary-weapons/"
+   ]
+  ],
+  "f": [
+   [
+    "Тип",
+    "Место из трейлера"
+   ],
+   [
+    "Привязка на карте",
+    "Thrillbilly Mud Club - Air Time Stunt Run"
+   ],
+   [
+    "Название в гайдах",
+    "Thrillbilly Mud Club"
+   ]
+  ],
+  "s": [
+   "web"
+  ],
+  "sub": "Место из трейлера",
+  "v": 3,
+  "force_new": 1
+ }
+]
