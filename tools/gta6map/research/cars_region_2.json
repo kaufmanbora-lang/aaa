@@ -1,0 +1,508 @@
+{
+  "items": [
+    {
+      "list": "other",
+      "name": "Piccia Big Cat Furia",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Gated mansion in the north-east (top-right) of the island: on the circular driveway / courtyard by the fountain and front steps, outside the garage that holds the Vitello, Itali RSX and Dubsta",
+      "conditions": "Leopard-print Standout. Needs the Key Cloner (story unlock in Chapter 3). Randy calls asking for the car once you leave the mansion.",
+      "access": "Key Cloner",
+      "security": "Alarmed",
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://gamerhour.net/locations/gta-6-piccia-big-cat-furia-special-car-location/",
+        "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3",
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://gta6info.app/map/rare-vehicles",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/"
+      ],
+      "verified": true,
+      "conflict": "Exact spot differs: GamerHour says beside the courtyard fountain, GTABoom says the driveway by the front steps (not in the garage), Detonated's summary says 'inside the mansion'. The Advanced tracker is stated by GTABoom only.",
+      "desc_ru": "Piccia Big Cat Furia — суперкар с леопардовой окраской (Standout). Стоит во дворе огороженного особняка на северо-востоке Starfish Island, у фонтана и парадной лестницы. Нужен Key Cloner (глава 3); машина на сигнализации, по одному источнику — с продвинутым трекером."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Windsor Drop",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Mansion on Starfish Island, parked right next to the Pegassi Vitello",
+      "conditions": "Randy's Wishlist car; spawn is unmarked on the map.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://gamerant.com/gta-6-all-randy-wish-list-vehicles-locations/",
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
+      ],
+      "verified": false,
+      "conflict": "Only Beebom places it on Starfish Island. GameRant: random spawn at houses in the rich part of Capri; Insider Gaming: Status Auto Imports showroom between La Perle and Bayside; Push Square lists it as a random spawn.",
+      "desc_ru": "Buckingham Windsor Drop из списка Рэнди. По данным Beebom стоит у особняка на Starfish Island рядом с Pegassi Vitello; другие гайды называют Capri и салон Status Auto Imports. Не подтверждено вторым источником."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Windsor Drop",
+      "island_or_district": "Downtown",
+      "place_detail": "Car meet in the car park of the harbour area, near the ferris wheel",
+      "conditions": "Only in the daytime on a sunny day (car meet spawn).",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+      ],
+      "verified": false,
+      "conflict": "Both URLs carry the same guide (sister sites), so this is one source. No other site in the search results mentions the car meet.",
+      "desc_ru": "Buckingham Windsor Drop на встрече автолюбителей: парковка в портовой части Downtown, рядом с колесом обозрения. Появляется только днём в солнечную погоду. Один источник."
+    },
+    {
+      "list": "other",
+      "name": "Vapid Hustler (custom 1932-style hot rod; Standout variant name not stated)",
+      "island_or_district": "Rialto Islands",
+      "place_detail": "Behind a closed garage door at a residence: go round to the backyard, enter through the smaller side door, then use the garage control to open the main door",
+      "conditions": "Garage must be opened from inside via the side door.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://fandomwire.com/rarest-cars-in-gta-6-you-can-get-for-free-ranked/"
+      ],
+      "verified": false,
+      "conflict": "Single source; which Rialto island (Vespucci or Casanova) is not stated. Could be the same Standout as a Hustler already mapped elsewhere (Red Hot Hustler in Capri, DriveShaft Hustler in Key Lento).",
+      "desc_ru": "Кастомный хот-род Vapid Hustler в закрытом гараже дома на Rialto Islands. Обойдите дом со стороны заднего двора, войдите через маленькую боковую дверь и откройте ворота кнопкой управления гаражом. Один источник, точный остров не указан."
+    },
+    {
+      "list": "other",
+      "name": "Piccia Furia",
+      "island_or_district": "Peacock Estates",
+      "place_detail": "Mansion on Palladia Lane (yellow villa at the southernmost corner of Peacock Estates, south of Peacock Bay): detached garage, open the left garage door",
+      "conditions": "Randy's Wishlist car (location marked after Randy's tip). Deliver to Randy at Leonida Auto World; $10,000 bonus for a pristine car.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/",
+        "https://www.sportskeeda.com/esports/all-randy-vehicle-locations-gta-6",
+        "https://sixcentral.co.uk/guides/gta6-piccia-furia",
+        "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6/",
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+      ],
+      "verified": true,
+      "conflict": "Destructoid found it in the 'Vespucci Islands'; Beebom lists a marked Furia on Starfish Island; Insider Gaming calls the area 'Peacock Island'. May be the same car as the map's existing 'Piccia Furia | Vice City' entry.",
+      "desc_ru": "Piccia Furia из списка Рэнди. Стоит в отдельном гараже жёлтой виллы на Palladia Lane, в самом южном углу Peacock Estates — нужно открыть левые ворота. За машину в идеальном состоянии Рэнди доплачивает $10 000."
+    },
+    {
+      "list": "other",
+      "name": "Buckingham Swift (white and red)",
+      "island_or_district": "Port Vice City",
+      "place_detail": "Bow helipad of the Lazaretto cruise ship (Reef Clipper II) moored along the north pier of the cruise terminal; reach the decks by climbing to the terminal roof",
+      "conditions": "A 'Break In' prompt appears when boarding; taking the helicopter brings armed security and wanted stars soon after take-off.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gtaviceguides.com/guides/gta-6-cruise-ship-helicopter-port-vice-city/",
+        "https://www.cruisehive.com/what-its-like-onboard-the-cruise-ship-in-grand-theft-auto-vi/224020"
+      ],
+      "verified": true,
+      "conflict": "The model name 'Buckingham Swift' and the 'Break In' prompt come from gtaviceguides only; Cruise Hive confirms a hijackable helicopter on the ship's bow helipad without naming the model.",
+      "desc_ru": "Вертолёт Buckingham Swift (бело-красный) на носовой вертолётной площадке круизного лайнера Lazaretto у северного пирса терминала Port Vice City. На палубу попадают через крышу терминала. После угона сразу появляются охрана и розыск."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not named)",
+      "island_or_district": "Downtown",
+      "place_detail": "Rooftop helipad of Rico Huxley Hotels, on the river just east of the Zenith gym: take the elevator to the lobby level, then break into the roof access area",
+      "conditions": "Rooftop spawn is not guaranteed; helipads show an H icon on the zoomed-in map.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.dualshockers.com/gta-6-find-helicopters/"
+      ],
+      "verified": false,
+      "conflict": "One guide only, and the page is identified from a search summary (most likely DualShockers). A follow-up search found no second mention of Rico Huxley Hotels. May or may not be the same roof as the Dragonfly Volatus already on the map (New Quay Plaza, Catalan Blvd).",
+      "desc_ru": "Вертолёт (модель не названа) на крыше отеля Rico Huxley Hotels в Downtown, у реки восточнее спортзала Zenith. Поднимитесь на лифте в лобби и взломайте выход на крышу. Один источник, спавн не гарантирован."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not named)",
+      "island_or_district": "Vice City (central, district not stated; possibly Downtown)",
+      "place_detail": "Rooftop helipad of Maven Residences, a skyscraper southwest of Panos Square; reached by the lobby elevator",
+      "conditions": "Spawns vary; if the pad is empty, try another marked helipad.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.theclick.gg/gta-6-helicopter-locations/",
+        "https://happygamer.com/gta-6-how-to-get-a-helicopter-179627/"
+      ],
+      "verified": false,
+      "conflict": "District is not given, so it may fall outside this region. The exact source page could not be pinned down from the search summaries (one of the helicopter guides returned; the two listed are candidates).",
+      "desc_ru": "Вертолёт (модель не названа) на крыше небоскрёба Maven Residences к юго-западу от Panos Square в центре Вайс-Сити. Подъём на лифте из лобби. Район в источнике не указан, спавн непостоянный."
+    },
+    {
+      "list": "other",
+      "name": "Helicopter (model not named)",
+      "island_or_district": "Flamingo Island",
+      "place_detail": "Helipad in the northern part of Flamingo Island (north of Vice City)",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://www.magicgameworld.com/gta-6-helicopter-locations-where-to-find-your-first-chopper/",
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/",
+        "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6"
+      ],
+      "verified": true,
+      "conflict": "Several guides agree a helicopter sits on Flamingo Island, but none names the model (one table lists it as 'Not named').",
+      "desc_ru": "Вертолёт на вертолётной площадке в северной части Flamingo Island (север Вайс-Сити). Модель в гайдах не названа."
+    },
+    {
+      "list": "other",
+      "name": "Plane (model not named)",
+      "island_or_district": "Flamingo Island",
+      "place_detail": "Parked on Flamingo Island, north of Vice City (exact spot not stated)",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.powerpyx.com/gta-6-helicopter-plane-locations/",
+        "https://leonipedia.com/guides/aircraft-and-military-vehicles/",
+        "https://www.sportskeeda.com/gta/all-helicopter-plane-locations-gta-6"
+      ],
+      "verified": true,
+      "conflict": "Two guides say a plane is parked on Flamingo Island; neither names the model or the exact spot.",
+      "desc_ru": "Самолёт, припаркованный на Flamingo Island на севере Вайс-Сити, рядом с вертолётом. Модель и точное место в источниках не указаны."
+    },
+    {
+      "list": "other",
+      "name": "Übermacht Cypher",
+      "island_or_district": "Southside",
+      "place_detail": "Übermacht dealership in Southside",
+      "conditions": "Randy's Wishlist car; showrooms are theft spots, not shops.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+      ],
+      "verified": false,
+      "conflict": "Named explicitly only by Beebom. The map already has a Cypher on Shore Dr, Ocean Beach. Other guides stress that GTA 6 has no working car dealerships.",
+      "desc_ru": "Übermacht Cypher из списка Рэнди — в автосалоне Übermacht в Southside. Купить нельзя, только угнать. Один источник."
+    },
+    {
+      "list": "other",
+      "name": "Pfister Growler",
+      "island_or_district": "Southside",
+      "place_detail": "Marlin Motors new and used car showroom, north-east corner of Southside (El Joven Blvd per a fan map)",
+      "conditions": "Randy's Wishlist car, unmarked on the map; described as the guaranteed Growler spawn besides Vanessa's Growler.",
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations",
+        "https://gta6maps.wiki/map/vehicle-dealers/"
+      ],
+      "verified": true,
+      "conflict": "Two guides give Marlin Motors (Beebom by name; the second is most likely the PlayStationTrophies guide). Other guides send players to Shore Dr, Ocean Beach for a Growler, which is already on the map.",
+      "desc_ru": "Pfister Growler из списка Рэнди стоит в автосалоне Marlin Motors в северо-восточном углу Southside (El Joven Blvd). На карте игры не отмечен; считается гарантированным местом появления Growler."
+    },
+    {
+      "list": "other",
+      "name": "Gold jet ski x2 (model not named)",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Garage of a wealthy residence on Starfish Island, next to the Gilded Dubsta",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": "Mentioned only in the GTABase listing for the Gilded Dubsta; nothing confirms the model or whether the jet skis can be taken.",
+      "desc_ru": "Два золотых гидроцикла в гараже богатого особняка на Starfish Island, рядом с Benefactor Gilded Dubsta. Модель и возможность забрать не подтверждены, один источник."
+    },
+    {
+      "list": "other",
+      "name": "Albany Narcos Cavalcade (Cavalcade XL, Vice City Narcos promo livery)",
+      "island_or_district": "Downtown",
+      "place_detail": "Parking garage in Downtown (exact garage not given)",
+      "conditions": null,
+      "access": null,
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gameta.gg/gta6/map/standout-vehicles/",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": false,
+      "conflict": "The map currently has this Standout in Shoreline; the standout listings describe it as 'Discovered in a parking garage in Downtown'. The wording looks like one shared listing text, so independence of the sources is not established.",
+      "desc_ru": "Albany Narcos Cavalcade — Cavalcade XL в рекламной окраске Vice City Narcos. По спискам Standout-машин стоит в паркинге в Downtown, а не в Shoreline, как сейчас на карте. Точный паркинг не указан."
+    },
+    {
+      "list": "other",
+      "name": "Pfister Class Act Comet",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Corner of a mansion driveway in the south-west of the island, in front of two garage doors",
+      "conditions": "Needs the Key Cloner, which the story hands over in Chapter 3.",
+      "access": "Key Cloner",
+      "security": "Alarmed",
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://detonated.com/gta-6-best-car-locations/",
+        "https://gta6info.app/map/rare-vehicles"
+      ],
+      "verified": false,
+      "conflict": "Already on the map. The lock data appears in several search summaries but seems to trace to one guide; the exact page could not be isolated (candidates listed).",
+      "desc_ru": "Pfister Class Act Comet стоит в углу подъездной дорожки особняка на юго-западе Starfish Island, перед двумя гаражными воротами. Машина на сигнализации, нужен Key Cloner (глава 3)."
+    },
+    {
+      "list": "other",
+      "name": "Truffade Andrew Node's Thrax",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Garage of the large mansion off Sabal Cir on the south side of the island",
+      "conditions": "GTABase adds that reaching it may need a keypad code from a hidden garage, obtained by completing the 'No Flusher' tag side quest. Registration costs $70,000.",
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": "None",
+      "payout": "$23,375",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/andrew-nodes-thrax",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://gta6info.app/map/rare-vehicles",
+        "https://www.youtube.com/watch?v=Mu4eYoqOwII"
+      ],
+      "verified": true,
+      "conflict": "Sources agree the car itself is unlocked with no tracker; only GTABase mentions the keypad code for the garage.",
+      "desc_ru": "Truffade Andrew Node's Thrax в гараже большого особняка у Sabal Cir на юге Starfish Island. Машина открыта, сигнализация отключена, трекера нет; продажа — $23 375. Для гаража может понадобиться код от кодовой панели (побочный квест с тегом No Flusher)."
+    },
+    {
+      "list": "other",
+      "name": "Progen Royal Ruby Emerus",
+      "island_or_district": "Rialto Islands (Vespucci Island)",
+      "place_detail": "Small garage at the entrance of the Vespucci Mansion, off Neptune Circle",
+      "conditions": null,
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle",
+        "https://gta6info.app/map/rare-vehicles",
+        "https://gameta.gg/gta6/guides/rare-cars/"
+      ],
+      "verified": true,
+      "conflict": "Other listings describe the place only as 'the home of a drug lord on Rialto Islands', which may be the same mansion. Lock data comes from one guide.",
+      "desc_ru": "Progen Royal Ruby Emerus в маленьком гараже у въезда в особняк Vespucci Mansion на Neptune Circle, остров Vespucci (Rialto Islands). Машина открыта, сигнализация отключена, трекера нет."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Lustrous Toros",
+      "island_or_district": "Rialto Islands (Casanova Island)",
+      "place_detail": "Inside a private mansion garage on Casanova Island, the easternmost of the Rialto Islands",
+      "conditions": "Gold Toros; Key Cloner unlocks in Chapter 3.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.keengamer.com/articles/guides/gta-6-gold-lamborghini-urus-and-huracan-locations/",
+        "https://gameta.gg/gta6/map/standout-vehicles/"
+      ],
+      "verified": true,
+      "conflict": "KeenGamer gives Casanova Island; the other listing says only 'at a residence in Rialto Islands'.",
+      "desc_ru": "Золотой Pegassi Lustrous Toros стоит в гараже частного особняка на Casanova Island — самом восточном из Rialto Islands. Для угона нужен Key Cloner."
+    },
+    {
+      "list": "other",
+      "name": "Progen Purple Drank Emerus",
+      "island_or_district": "Waxman Island",
+      "place_detail": "Chatfield Storage & Logistics: inside a shipping container by the water, sometimes parked in front of the containers",
+      "conditions": "Guarded yard marked as an illegal operation.",
+      "access": "Unlocked",
+      "security": "Deactivated",
+      "tracker": null,
+      "payout": "$33,000",
+      "sources": [
+        "https://www.hotcars.com/gta-6s-5-rarest-cars-how-to-get-them/",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations",
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+      ],
+      "verified": true,
+      "conflict": "The map lists this car under Vice-Dale County; the guides name Waxman Island specifically.",
+      "desc_ru": "Progen Purple Drank Emerus на охраняемой площадке Chatfield Storage & Logistics на Waxman Island — в контейнере у воды или перед контейнерами. Машина открыта, сигнализация выключена; продажа — $33 000."
+    },
+    {
+      "list": "other",
+      "name": "Maibatsu '97 Penumbra FF (Paul Walker tribute)",
+      "island_or_district": "Rialto Islands (Vespucci Island)",
+      "place_detail": "Inside the garage of a house/villa on Vespucci Island; break into the garage",
+      "conditions": "May not be there on a first visit, return later. Slim Jim (from Chapter 2) or break the window and hotwire. Can be taken early in free roam and registered.",
+      "access": "Locked",
+      "security": "Alarmed",
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/",
+        "https://insider-gaming.com/paul-walker-gta-6-easter-egg/",
+        "https://beebom.com/gta-6-paul-walker-fast-and-furious-car-location/",
+        "https://www.jalopnik.com/2322396/gta-6-grand-theft-auto-paul-walker-fast-and-furious-toyota-supra-turbo-tribute/",
+        "https://www.vice.com/en/article/gta-6-paul-walker-mitsubishi-eclipse-location/"
+      ],
+      "verified": true,
+      "conflict": "Guides differ on the alarm: one says wait for the Snap Gun in Chapter 3, another says cut the alarm box on the garage wall, so the alarm may belong to the garage rather than the car.",
+      "desc_ru": "Maibatsu '97 Penumbra FF в честь Пола Уокера стоит в гараже виллы на острове Vespucci (Rialto Islands). Машина заперта: нужен Slim Jim либо разбить стекло и завести напрямую; есть сигнализация. При первом визите может не появиться."
+    },
+    {
+      "list": "other",
+      "name": "Grotti Itali RSX (red)",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Garage of the mansion in the north-east of the island, together with a Pegassi Vitello and a Benefactor Dubsta",
+      "conditions": "Advanced-tracker cars can be registered only after Randy's Mamba GT job.",
+      "access": null,
+      "security": null,
+      "tracker": "Advanced",
+      "payout": "$40,650",
+      "sources": [
+        "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3",
+        "https://gta6info.app/map/rare-vehicles"
+      ],
+      "verified": true,
+      "conflict": "Beebom's Randy's Wishlist guide places the Itali RSX inside mansions on Rialto Island instead. Tracker and price come from GTABoom only.",
+      "desc_ru": "Красный Grotti Itali RSX в гараже особняка на северо-востоке Starfish Island, вместе с Vitello и Dubsta. Продвинутый трекер; продажа — $40 650."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Vitello (striped; likely Dante's Vitello)",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Garage of the mansion in the north-east of the island (Dante Fresh's mansion per standout listings), together with the Itali RSX and a Dubsta",
+      "conditions": "One guide says a Vitello needs the Key Cloner from Chapter 3, without making clear which Vitello.",
+      "access": null,
+      "security": null,
+      "tracker": "Advanced",
+      "payout": null,
+      "sources": [
+        "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3",
+        "https://gta6info.app/map/rare-vehicles",
+        "https://metaforge.app/gta-6/gta-6-standout-vehicles-locations"
+      ],
+      "verified": true,
+      "conflict": "GTABoom mentions the striped Vitello in text but leaves it out of its own garage table. That it is the Dante's Vitello Standout is an inference from the standout listings, not stated by GTABoom.",
+      "desc_ru": "Полосатый Pegassi Vitello (вероятно, Dante's Vitello) в гараже особняка на северо-востоке Starfish Island, рядом с Itali RSX и Dubsta. По одному источнику — продвинутый трекер."
+    },
+    {
+      "list": "other",
+      "name": "Benefactor Gilded Dubsta",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Garage of a wealthy residence on Starfish Island, parked next to two gold jet skis",
+      "conditions": "Standard-tracker cars can be registered at Pay 'n' Spray from early Chapter 3.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": "Standard",
+      "payout": null,
+      "sources": [
+        "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle",
+        "https://metaforge.app/gta-6/checklist/vehicles"
+      ],
+      "verified": true,
+      "conflict": "Lock data from the GTABase listing only. It may be the same car as the standard-tracker Dubsta GTABoom describes in the north-east mansion garage.",
+      "desc_ru": "Золотой Benefactor Gilded Dubsta в гараже богатого особняка на Starfish Island, рядом с двумя золотыми гидроциклами. Нужен Key Cloner; на машине обычный трекер."
+    },
+    {
+      "list": "other",
+      "name": "Benefactor Dubsta (variant not stated; Gilded or Fatstaks)",
+      "island_or_district": "Starfish Island",
+      "place_detail": "Garage of the mansion in the north-east of the island, together with the Pegassi Vitello and Grotti Itali RSX",
+      "conditions": "The only standard-tracker car in that garage; take it to a Pay 'n' Spray once shops accept standard trackers in Chapter 3.",
+      "access": null,
+      "security": null,
+      "tracker": "Standard",
+      "payout": "$20,750",
+      "sources": [
+        "https://www.gtaboom.com/gta-6-starfish-island-mansion-garage-4cf3",
+        "https://gta6info.app/map/rare-vehicles"
+      ],
+      "verified": true,
+      "conflict": "GTABoom does not say which Dubsta variant this is; both Gilded and Fatstaks Dubsta are already on the map for Starfish Island.",
+      "desc_ru": "Benefactor Dubsta в гараже особняка на северо-востоке Starfish Island, рядом с Vitello и Itali RSX. Обычный трекер; продажа — $20 750. Вариант (Gilded или Fatstaks) в источнике не уточнён."
+    },
+    {
+      "list": "other",
+      "name": "Maibatsu Tropical Manchez",
+      "island_or_district": "Southside",
+      "place_detail": "Southside, Vice City (exact spot not given in the summary)",
+      "conditions": null,
+      "access": "Unlocked",
+      "security": "None",
+      "tracker": "None",
+      "payout": null,
+      "sources": [
+        "https://gta6map.io/location/standout-vehicle"
+      ],
+      "verified": false,
+      "conflict": "Already on the map; lock data from a single map site.",
+      "desc_ru": "Maibatsu Tropical Manchez в Southside. По данным одной карты мотоцикл открыт, без сигнализации и без трекера."
+    },
+    {
+      "list": "other",
+      "name": "Pegassi Toros",
+      "island_or_district": "Tequesta Retreat",
+      "place_detail": "Parked outside the Pegassi Residences on Bayside Dr",
+      "conditions": "Seen around 6:30 PM. Security patrols the area. Randy's Wishlist car; GTABay says nearly all wishlist supercars carry an advanced tracker, but does not state it for this car.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://gtabay.com/en/guides/gta-6-rare-cars-locations",
+        "https://game-checklists.com/gta6/vehicles-checklist/"
+      ],
+      "verified": true,
+      "conflict": "Sources call this a standard spawn rather than a Standout. The 6:30 PM time comes from one guide's own game.",
+      "desc_ru": "Pegassi Toros припаркован у Pegassi Residences на Bayside Dr в Tequesta Retreat, замечен около 18:30. Территорию патрулирует охрана — ключ лучше клонировать незаметно (нужен Key Cloner)."
+    },
+    {
+      "list": "other",
+      "name": "Grotti Itali RSX (probably the Dolce Vita RSX Standout)",
+      "island_or_district": "Rialto Islands",
+      "place_detail": "Garage of a luxury villa / mansion on Rialto Islands",
+      "conditions": "A cloned key is needed to drive it out of the garage.",
+      "access": "Key Cloner",
+      "security": null,
+      "tracker": null,
+      "payout": null,
+      "sources": [
+        "https://beebom.com/gta-6-randys-wishlist-car-locations/",
+        "https://gameta.gg/gta6/map/standout-vehicles/",
+        "https://gta6info.app/map/rare-vehicles"
+      ],
+      "verified": false,
+      "conflict": "It is not clear whether the Key Cloner RSX is the Dolce Vita RSX Standout (luxury villa, per standout listings) or a plain Randy's Wishlist Itali RSX (Beebom). GTABoom places a red Itali RSX on Starfish Island.",
+      "desc_ru": "Grotti Itali RSX (вероятно, Dolce Vita RSX) в гараже роскошной виллы на Rialto Islands. Чтобы выехать из гаража, нужен клонированный ключ (Key Cloner)."
+    }
+  ]
+}

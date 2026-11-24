@@ -237,6 +237,17 @@
  },
  {
   "k": "vehicle",
+  "n": "Übermacht Cypher",
+  "t": "Übermacht Cypher из списка Рэнди — в автосалоне Übermacht в Southside. Купить нельзя, только угнать. Один источник.",
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-randys-wishlist-car-locations/"
+   ]
+  ]
+ },
+ {
+  "k": "vehicle",
   "n": "Buckingham Valkyrie",
   "t": "Военный вертолёт Buckingham Valkyrie, по данным одного источника, стоит на базе Mile Zero Air Station (Goose Key). Не подтверждено другими гайдами.",
   "u": [
