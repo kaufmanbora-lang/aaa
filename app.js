@@ -504,7 +504,7 @@
     var c = CAT[m.c], v = VER[m.v] || VER[1], h = '';
     var ph = m.p && m.p[0] ? { src: m.p[0], cap: 'Игровое фото · GTADB (CC BY 4.0)' } :
       m.img ? { src: m.img.u, cap: m.img.c || '', remote: true } :
-        m.mp ? { src: m.mp.u, cap: 'Та же модель в другом исполнении: ' + m.mp.n + ' · Open GTA 6 Map', remote: true } : null;
+        m.mp ? { src: m.mp.u, cap: m.mp.off ? 'Кадр из игры (Rockstar Games): так выглядит эта модель' : 'Та же модель в другом исполнении: ' + m.mp.n + ' · Open GTA 6 Map', remote: true } : null;
     var near = !ph && m.np ? { src: m.np.p, cap: 'Ориентир рядом: ' + m.np.n + ' (≈' + m.np.d + ' м) · фото GTADB' } : null;
     if (ph) {
       h += '<figure class="d-photo" data-src="' + esc(ph.src) + '" data-cap="' + esc(ph.cap) + '"><img src="' + esc(ph.src) + '" alt="" loading="lazy"' +
@@ -547,6 +547,8 @@
     h += '<p class="src">Источники: ' + (m.s || []).map(function (s) { var d = DATA.sources[s]; return d ? esc(d.n) : esc(s); }).join('; ') + '</p>';
     h += '<p class="coords">Координаты в игре: X ' + m.x + ', Y ' + m.y + '</p>';
     $('detail-body').innerHTML = h;
+    $('detail-body').setAttribute('data-id', m.id);
+    if (!ph && m.wq) wikiFill(m);
     $('detail').hidden = false; $('detail').scrollTop = 0;
     document.body.classList.add('has-detail');
     $('a-found').onclick = function () {
@@ -564,6 +566,70 @@
       fig.onclick = function () {
         var lb = $('lightbox'); lb.querySelector('img').src = fig.dataset.src; $('lightbox-cap').textContent = fig.dataset.cap; lb.hidden = false;
       };
+    });
+  }
+  // ---- picture of the base model from the GTA wikis, only for cards that have no picture of their own.
+  // The request goes from the visitor's browser; nothing is copied into this site.
+  var WIKIS = [
+    { n: 'GTA Wiki', api: 'https://gta.wiki/api.php', page: 'https://gta.wiki/wiki/' },
+    { n: 'GTA Wiki (Fandom)', api: 'https://gta.fandom.com/api.php', page: 'https://gta.fandom.com/wiki/' }
+  ];
+  var wikiMem = {};
+  function wikiStore() { try { return JSON.parse(localStorage.getItem('gta6map.wiki') || '{}') || {}; } catch (e) { return {}; } }
+  function wikiNorm(s) { return String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim(); }
+  function wikiPhoto(q) {
+    if (wikiMem[q]) return wikiMem[q];
+    var hit = wikiStore()[q];
+    if (hit && Date.now() - hit.t < (hit.u ? 14 : 2) * 864e5) return (wikiMem[q] = Promise.resolve(hit.u ? hit : null));
+    if (!window.fetch) return Promise.resolve(null);
+    var want = wikiNorm(q), answered = false;
+    function ask(i) {
+      if (i >= WIKIS.length) return Promise.resolve(null);
+      var w = WIKIS[i], ctl = window.AbortController ? new AbortController() : null;
+      var timer = setTimeout(function () { if (ctl) ctl.abort(); }, 7000);
+      var url = w.api + '?action=query&format=json&origin=*&generator=search&gsrnamespace=0&gsrlimit=8&gsrsearch=' + encodeURIComponent(q) +
+        '&prop=pageimages&piprop=thumbnail&pithumbsize=720&pilimit=8';
+      return fetch(url, ctl ? { signal: ctl.signal } : {}).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+        clearTimeout(timer);
+        var pages = d && d.query && d.query.pages, best = null;
+        if (d) answered = true;
+        Object.keys(pages || {}).forEach(function (k) {
+          var p = pages[k], t = wikiNorm(p.title), src = p.thumbnail && p.thumbnail.source;
+          if (!src || !/^https:\/\//.test(src)) return;
+          var exact = t === want;
+          if (!exact && (' ' + t + ' ').indexOf(' ' + want + ' ') < 0) return;      // the page must be about this model
+          var score = (exact ? 0 : 100) + t.length + (p.index || 0);
+          if (!best || score < best.s) best = { s: score, u: src, n: p.title, w: w.n, h: w.page + encodeURIComponent(String(p.title).replace(/ /g, '_')) };
+        });
+        return best || ask(i + 1);
+      }).catch(function () { clearTimeout(timer); return ask(i + 1); });
+    }
+    return (wikiMem[q] = ask(0).then(function (r) {
+      if (r || answered) {
+        try { var s = wikiStore(); s[q] = r ? { u: r.u, n: r.n, w: r.w, h: r.h, t: Date.now() } : { t: Date.now() }; localStorage.setItem('gta6map.wiki', JSON.stringify(s)); } catch (e) { }
+      } else delete wikiMem[q];        // the wikis did not answer at all: try again next time
+      return r;
+    }));
+  }
+  function wikiFill(m) {
+    wikiPhoto(m.wq).then(function (r) {
+      var body = $('detail-body'), hero = body.querySelector('.hero');
+      if (!r || !hero || body.getAttribute('data-id') !== m.id) return;
+      var cap = 'Так выглядит модель «' + r.n + '» · фото: ' + r.w + ' (кадр может быть из другой части серии)';
+      var fig = document.createElement('figure'), img = new Image();
+      fig.className = 'd-photo wiki';
+      img.alt = ''; img.referrerPolicy = 'no-referrer';
+      img.onload = function () {
+        if (!hero.parentNode || body.getAttribute('data-id') !== m.id) return;
+        var fc = document.createElement('figcaption'), a = document.createElement('a');
+        fc.textContent = cap + ' · ';
+        a.href = r.h; a.target = '_blank'; a.rel = 'noopener'; a.textContent = 'страница';
+        a.onclick = function (e) { e.stopPropagation(); };
+        fc.appendChild(a); fig.appendChild(img); fig.appendChild(fc);
+        fig.onclick = function () { var lb = $('lightbox'); lb.querySelector('img').src = r.u; $('lightbox-cap').textContent = cap; lb.hidden = false; };
+        hero.parentNode.replaceChild(fig, hero);
+      };
+      img.src = r.u;
     });
   }
   function liveSync() {
@@ -644,6 +710,7 @@
       '<li>Интерактивная карта <a href="https://www.ign.com/maps/gta-6/leonida" target="_blank" rel="noopener">IGN / MapGenie</a> — факты о предметах и транспорте (замок, трекер, цена); тексты написаны заново.</li>' +
       '<li>Миссии и банки — по скриншотам прохождений <a href="https://www.powerpyx.com/" target="_blank" rel="noopener">PowerPyx</a>.</li>' +
       '<li>Уникальное оружие, редкие машины, секреты и баги — гайды и находки игроков; ссылки есть в карточках.</li>' +
+      '<li>Если у предмета нет своего снимка, карточка показывает фото базовой модели из <a href="https://gta.wiki" target="_blank" rel="noopener">GTA Wiki</a> — оно загружается прямо с вики и подписано.</li>' +
       '<li>Значки — Material Design Icons (Apache 2.0), движок карты — Leaflet (BSD-2).</li></ul>' +
       '<p>Баги и глитчи показаны только те, что ещё работают; после каждого патча список перепроверяется. Фотографии из слива 2022 года не публикуются.</p>' +
       (DATA.unplaced && DATA.unplaced.length ? '<h4>Известно, но не нанесено на карту</h4><p>' + DATA.unplaced.length +
