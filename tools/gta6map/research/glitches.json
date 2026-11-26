@@ -19,12 +19,17 @@
    "No story-mode vehicle, weapon or item duplication glitch was found in written sources; only YouTube video titles claim one.",
    "No respawning-safe, cash-register or ATM exploit other than the Apollo Aggregates warehouse was found."
   ],
-  "last_checked": "2026-11-25",
+  "last_checked": "2026-11-26",
   "check_log": [
    {
     "date": "2026-11-25",
     "searches": 7,
     "result": "No update newer than 01.002.002 found; no source reports a status change for the listed glitches; no new glitch or secret with a location confirmed by two independent sources."
+   },
+   {
+    "date": "2026-11-26",
+    "searches": 5,
+    "result": "No update newer than 01.002.002. Outlets dated after the 23 November patch (GTA BOOM, RetroBroker, GameSpot) still describe the Apollo Aggregates loot respawn as working. Nothing found on the Missing Persons softlock or the Donnie payment bug. Secrets mentioned in round-ups (presidential bunkers, radio-mast egg nest, ghost ship, Marbelle hotel) were already on the map."
    }
   ]
  },
@@ -75,7 +80,7 @@
    "gives": "Repeatable cash: about $8,000-11,000 per run reported (higher claims of $12,000-15,000; PC Gamer reports about $50,000 in 15 minutes).",
    "status": "working",
    "status_basis": "post_patch_reports",
-   "last_confirmed": "2026-11-23",
+   "last_confirmed": "2026-11-25",
    "version": "01.002.002",
    "patched_in": null,
    "sources": [
@@ -93,7 +98,10 @@
     "https://libertycity.net/guides/gta-6/10581-gta-6-unlimited-money-glitch-warehouse.html",
     "https://traxion.gg/grand-theft-auto-6-infinite-money-glitch/",
     "https://www.gtaboom.com/gta-6-apollo-aggregates-warehouse-stash-5820",
-    "https://gta6carte.com/en/place/l2453-apollo-aggregates"
+    "https://gta6carte.com/en/place/l2453-apollo-aggregates",
+    "https://www.gtaboom.com/gta-6-nude-glitch-and-money-exploit-survives-first-patch-cd3d",
+    "https://retrobroker.com/en-US/us/blog/gta-6-teddy-bear-van-money-glitch-guide",
+    "https://www.gamespot.com/articles/gta-6-infinite-cash-money-cheat-exploit/"
    ],
    "verified": true,
    "desc_ru": "Денежный глитч на складе Apollo Aggregates («красный амбар») к востоку от Хэмлета, севернее Ки-Ленто. Соберите кокаин и наличку в сумки, сложите их в багажник личной машины Джейсона, сделайте ручное сохранение и загрузите его — добыча на складе появится снова, а сумки останутся в машине (примерно $8–11 тыс. за заход). По сообщениям игроков, работает после патча 01.002.002 от 23.11.2026, но Rockstar может исправить его в любой момент.",

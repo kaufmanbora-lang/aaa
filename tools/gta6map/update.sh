@@ -23,5 +23,12 @@ if curl -fsSL --retry 2 -m 120 "$RAW/dablon/gta-vi-strategic-map/HEAD/public/dis
 fi
 python3 "$HERE/fetch_photos.py" || echo "photo sync skipped"
 python3 "$HERE/fetch_shots.py" || echo "screenshot sync skipped"
+# cars found in guides are matched against the refreshed map again, so a spot the open maps have just added is not pinned twice
+if python3 "$HERE/build_data.py" --no-cars >/dev/null 2>&1 && cp "$HERE/extras_cars.json" "$TMP/cars_prev.json" && python3 "$HERE/make_cars.py" >"$TMP/cars.txt" 2>&1; then
+  tail -1 "$TMP/cars.txt"
+else
+  [ -f "$TMP/cars_prev.json" ] && cp "$TMP/cars_prev.json" "$HERE/extras_cars.json"
+  echo "car re-match skipped (make_cars.py failed) - previous extras_cars.json kept"; tail -3 "$TMP/cars.txt" 2>/dev/null
+fi
 python3 "$HERE/build_data.py"
 rm -rf "$TMP"

@@ -104,13 +104,13 @@
   "f": []
  },
  {
-  "id": "xcc5-1",
+  "id": "xcc5-39cf5",
   "n": "Pfister Growler",
   "c": "veh_randy",
   "r": 4,
   "sub": "Заказ Рэнди",
-  "x": 1721,
-  "y": 749,
+  "x": 1739,
+  "y": 730,
   "t": "Pfister Growler стоит на многоуровневой парковке на Fig Street в Ocean Beach, чаще всего около 17:00. Другие гайды называют Shore Drive и автосалон Marlin Motors в Southside.",
   "u": [
    [
@@ -178,16 +178,17 @@
   "v": 3,
   "fld": {},
   "force_new": 1,
-  "ap": 1
+  "ap": 1,
+  "nomerge": 1
  },
  {
-  "id": "xcc6-2",
+  "id": "xcc6-cc505",
   "n": "Ascot Paragon",
   "c": "veh_randy",
   "r": 4,
   "sub": "Заказ Рэнди",
-  "x": 1939,
-  "y": 478,
+  "x": 1925,
+  "y": 489,
   "t": "Ascot Paragon припаркован у бара The Banana Hole на Shore Drive в Ocean Beach, обычно около 18:00. Альтернативные точки из других гайдов — дома на севере Capri и особняк на севере Belville.",
   "u": [
    [
@@ -276,13 +277,13 @@
   "f": []
  },
  {
-  "id": "xcc8-3",
+  "id": "xcc8-adbce",
   "n": "Ocelot Jugular",
   "c": "veh_randy",
   "r": 4,
   "sub": "Заказ Рэнди",
-  "x": -1398,
-  "y": 2935,
+  "x": -1408,
+  "y": 2912,
   "t": "Второй спавн Ocelot Jugular — гараж особняка в Belville, по Push Square к северу от Druthers State Bank. Нужно попасть на территорию и открыть гараж.",
   "u": [
    [
@@ -427,13 +428,13 @@
   "f": []
  },
  {
-  "id": "xcc15-4",
+  "id": "xcc15-9d802",
   "n": "Buckingham Windsor Drop",
   "c": "veh_randy",
   "r": 4,
   "sub": "Заказ Рэнди",
-  "x": -7163,
-  "y": 618,
+  "x": -7149,
+  "y": 633,
   "t": "У Buckingham Windsor Drop нет фиксированной точки: кабриолет случайно появляется припаркованным у богатых домов Capri. Сканируйте машины через WAiNK и перезагружайте сохранение, если его нет.",
   "u": [
    [
@@ -443,6 +444,14 @@
    [
     "gta6.house",
     "https://gta6.house/library/activities/randys-wish-list"
+   ],
+   [
+    "playstationtrophies.org",
+    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
+   ],
+   [
+    "xboxachievements.com",
+    "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
    ]
   ],
   "f": [
@@ -464,13 +473,13 @@
   "ap": 1
  },
  {
-  "id": "xcc16-5",
+  "id": "xcc16-8ca78",
   "n": "Buckingham Jubilee",
   "c": "veh_randy",
   "r": 4,
   "sub": "Заказ Рэнди",
-  "x": -7169,
-  "y": 553,
+  "x": -7179,
+  "y": 573,
   "t": "Buckingham Jubilee (внедорожник) случайно появляется у домов в богатом районе Capri, фиксированной точки нет. Проверяйте припаркованные машины через WAiNK.",
   "u": [
    [
@@ -505,24 +514,6 @@
   "ap": 1
  },
  {
-  "merge_any": "o-vehicle-request-017",
-  "n": "Benefactor Dubsta",
-  "c": "veh_randy",
-  "u": [
-   [
-    "playstationtrophies.org",
-    "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
-   ],
-   [
-    "xboxachievements.com",
-    "https://www.xboxachievements.com/game/grand-theft-auto-6/guide/gta-6-all-randys-wish-list-car-locations"
-   ]
-  ],
-  "v": 2,
-  "fld": {},
-  "f": []
- },
- {
   "merge_any": "o-vehicle-spawn-010",
   "n": "Pfister Neon",
   "c": "veh_standout",
@@ -549,13 +540,13 @@
   "f": []
  },
  {
-  "id": "xcc19-6",
+  "id": "xcc19-18f4d",
   "n": "Grotti Carbonizzare",
   "c": "veh_randy",
   "r": 4,
   "sub": "Заказ Рэнди",
-  "x": -7103,
-  "y": 493,
+  "x": -7109,
+  "y": 489,
   "t": "Grotti Carbonizzare часто стоит на общественных парковках на севере Capri. Спавн случайный — при необходимости перезагрузите сохранение.",
   "u": [
    [
@@ -604,14 +595,9 @@
   "f": []
  },
  {
-  "id": "xcc21-7",
+  "merge_any": "o-vehicle-spawn-091",
   "n": "Gallivanter Baller ST-D",
-  "c": "veh_randy",
-  "r": 4,
-  "sub": "Заказ Рэнди",
-  "x": 788,
-  "y": 452,
-  "t": "Gallivanter Baller ST-D (не обычный Baller) встречается у домов на Starfish Island и Rialto Islands. Ещё одна вероятная точка — у салона Gallivanter на El Joven Blvd в Southside.",
+  "c": "veh_standout",
   "u": [
    [
     "beebom.com",
@@ -624,29 +610,11 @@
    [
     "neoncoast.org",
     "https://neoncoast.org/randys-wish-list"
-   ],
-   [
-    "insider-gaming.com",
-    "https://insider-gaming.com/where-to-find-all-of-randys-wishlist-supercars-in-gta-6-car-locations-tips/"
    ]
-  ],
-  "f": [
-   [
-    "Привязка на карте",
-    "у домов на Starfish Island"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
   ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
   "merge_any": "i1091165",
@@ -893,13 +861,13 @@
   "f": []
  },
  {
-  "id": "xcc32-8",
+  "id": "xcc32-ddd97",
   "n": "Sirius '67 Transgressor (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -6527,
-  "y": 3610,
+  "x": -6552,
+  "y": 3607,
   "t": "Первый остов Transgressor '67 стоит в трейлерном парке на Tanglewood Lane, к северу от Sarena's Bargain Store, на асфальтовой площадке у загона со свиньями. Отсканируйте его через WAiNK.",
   "u": [
    [
@@ -934,13 +902,13 @@
   "ap": 1
  },
  {
-  "id": "xcc33-9",
+  "id": "xcc33-7bfda",
   "n": "Sirius '67 Transgressor (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -6370,
-  "y": 4324,
+  "x": -6360,
+  "y": 4332,
   "t": "Второй остов Transgressor '67 стоит у дома на Gellhorn Avenue напротив Kolt & Associates Stash House, восточнее Brooks Boatworks. Достаточно отсканировать через WAiNK.",
   "u": [
    [
@@ -975,13 +943,13 @@
   "ap": 1
  },
  {
-  "id": "xcc34-10",
+  "id": "xcc34-78404",
   "n": "Sirius '67 Transgressor (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -6400,
-  "y": 2778,
+  "x": -6393,
+  "y": 2790,
   "t": "Третий остов Transgressor '67 находится за мотомагазином Dirt Merchants в Port Gellhorn. После трёх сканов Уайман попросит $1,500 за восстановление.",
   "u": [
    [
@@ -1041,13 +1009,13 @@
   "f": []
  },
  {
-  "id": "xcc37-11",
+  "id": "xcc37-b0c68",
   "n": "'70 Riata (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -2410,
-  "y": -4847,
+  "x": -2418,
+  "y": -4871,
   "t": "Остов Riata '70 лежит за заброшенной заправкой к северу от Grassrivers Cafe & Deli в Shoeless Keys (подъезд по Old Fort Road). Это зона на четыре звезды — возможен полицейский вертолёт.",
   "u": [
    [
@@ -1085,13 +1053,13 @@
   "force_new": 1
  },
  {
-  "id": "xcc38-12",
+  "id": "xcc38-07168",
   "n": "'64 Mamba GT (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -5067,
-  "y": 1824,
+  "x": -5061,
+  "y": 1819,
   "t": "Остов Mamba GT '64 стоит в гараже фермерского дома к северу от тюрьмы Leonida State Prison. Сломайте частные ворота напротив здания Gruppe6 и зайдите в гараж слева от дома через заднюю дверь.",
   "u": [
    [
@@ -1144,13 +1112,13 @@
   "f": []
  },
  {
-  "id": "xcc40-13",
+  "id": "xcc40-98a3c",
   "n": "'64 Mamba GT (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
   "x": -3994,
-  "y": 4753,
+  "y": 4754,
   "t": "Остов Mamba GT '64 наполовину затоплен в небольшом пруду чуть восточнее маркера «Mud Club - Dirt Track Races». Сканировать можно прямо с берега.",
   "u": [
    [
@@ -1180,13 +1148,13 @@
   "force_new": 1
  },
  {
-  "id": "xcc42-14",
+  "id": "xcc42-3f15e",
   "n": "Reynolds Kit Car (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -7570,
-  "y": 3288,
+  "x": -7574,
+  "y": 3284,
   "t": "Остов Reynolds Kit Car заперт в контейнере SCOOP на полуострове Wild Hog Point. Чтобы срезать замок, нужен Cut-Off Tool из миссии Meet the Heders (глава 3).",
   "u": [
    [
@@ -1228,13 +1196,13 @@
   "force_new": 1
  },
  {
-  "id": "xcc43-15",
+  "id": "xcc43-85b61",
   "n": "Reynolds Kit Car (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -1420,
-  "y": -571,
+  "x": -1425,
+  "y": -569,
   "t": "Остов Reynolds Kit Car стоит в автосервисе Willie's Service Center на SW 7th Ave в Salton. Внутрь попадают через запертую боковую дверь.",
   "u": [
    [
@@ -1269,13 +1237,13 @@
   "ap": 1
  },
  {
-  "id": "xcc44-16",
+  "id": "xcc44-3f5c7",
   "n": "Reynolds Kit Car (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -6828,
-  "y": 222,
+  "x": -6831,
+  "y": 225,
   "t": "Остов Reynolds Kit Car спрятан в гараже особняка на севере Capri, на изогнутом полуострове с домами. Придётся взломать гараж.",
   "u": [
    [
@@ -1310,13 +1278,13 @@
   "ap": 1
  },
  {
-  "id": "xcc45-17",
+  "id": "xcc45-07d6d",
   "n": "Reynolds Kit Car (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -4849,
-  "y": -3369,
+  "x": -4824,
+  "y": -3364,
   "t": "Остов Reynolds Kit Car стоит за автомастерской Donnies Auto Repair в Watson Bay. Идите по гравийной дорожке вокруг дома.",
   "u": [
    [
@@ -1347,13 +1315,13 @@
   "ap": 1
  },
  {
-  "id": "xcc46-18",
+  "id": "xcc46-984b1",
   "n": "Reynolds Kit Car (остов)",
   "c": "veh_randy",
   "r": 3,
   "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": 1253,
-  "y": 1450,
+  "x": 1250,
+  "y": 1447,
   "t": "Остов Reynolds Kit Car стоит на подъездной дорожке особняка на Casanova Island (Rialto Islands). Отсканируйте его через WAiNK.",
   "u": [
    [
@@ -1506,13 +1474,13 @@
   "f": []
  },
  {
-  "id": "xcc54-19",
+  "id": "xcc54-e4f43",
   "n": "Company Cars",
   "c": "veh_standout",
   "r": 4,
   "sub": "Бесплатная / наградная машина",
-  "x": -547,
-  "y": 1480,
+  "x": -537,
+  "y": 1458,
   "t": "В миссии Company Cars (глава 4) в салоне Status Auto Imports в Bayside можно бесплатно выбрать две машины из пяти — одну Джейсону, одну Люсии. Обе остаются у вас навсегда.",
   "u": [
    [
@@ -1572,20 +1540,6 @@
   "f": []
  },
  {
-  "merge_any": "o-standout-vehicle-087",
-  "n": "Invetero Coquette (rusted Retro standout)",
-  "c": "veh_standout",
-  "u": [
-   [
-    "gtabase.com",
-    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
-   ]
-  ],
-  "v": 2,
-  "fld": {},
-  "f": []
- },
- {
   "merge_any": "o-standout-vehicle-293",
   "n": "Western Obsidian Sovereign (one-off Sovereign 107)",
   "c": "veh_standout",
@@ -1626,13 +1580,13 @@
   "f": []
  },
  {
-  "id": "xcc59-20",
+  "id": "xcc59-aaca6",
   "n": "Royal Sanchez",
   "c": "veh_standout",
   "r": 3,
   "sub": "Машина в контейнере",
-  "x": -3948,
-  "y": -2070,
+  "x": -3933,
+  "y": -2049,
   "t": "Мотоцикл Royal Sanchez спрятан в оранжевом контейнере на контейнерной площадке в North Mariana County, к северу от Grassrivers. Там же стоит контейнер с Caliente Picador.",
   "u": [
    [
@@ -1670,14 +1624,9 @@
   "force_new": 1
  },
  {
-  "id": "xcc60-21",
-  "n": "Maibatsu Penumbra",
+  "merge_any": "o-vehicle-spawn-124",
+  "n": "Maibatsu Penumbra (Blue Drake / race-livery standout)",
   "c": "veh_standout",
-  "r": 3,
-  "sub": "Машина в контейнере",
-  "x": -6684,
-  "y": 2339,
-  "t": "Penumbra в гоночной ливрее стоит в жёлтом контейнере SCOOP в огороженном дворе у северного края трассы Port Gellhorn Raceway, за белыми деревянными воротами. Нужен Cut-Off Tool.",
   "u": [
    [
     "games.gg",
@@ -1686,43 +1635,16 @@
    [
     "gtabase.com",
     "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
-   ],
-   [
-    "sportskeeda.com",
-    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
-   ],
-   [
-    "gameta.gg",
-    "https://gameta.gg/gta6/map/standout-vehicles/"
    ]
-  ],
-  "f": [
-   [
-    "Привязка на карте",
-    "огороженная площадка у северного края Gellhorn Raceway"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
   ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
-  "id": "xcc62-22",
+  "merge_any": "o-standout-vehicle-296",
   "n": "Progen Black Widow Emerus",
   "c": "veh_standout",
-  "r": 3,
-  "sub": "Машина в контейнере",
-  "x": 419,
-  "y": -413,
-  "t": "Progen Black Widow Emerus — гоночная версия с паутиной на кузове — спрятана в морском контейнере в Port Vice City. Точный контейнер в источниках не описан.",
   "u": [
    [
     "gameta.gg",
@@ -1733,23 +1655,9 @@
     "https://www.gtabase.com/gta-6/vehicles/black-widow-emerus"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "контейнер в Port Vice City"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
   "merge_any": "i1091182",
@@ -1890,13 +1798,13 @@
   "f": []
  },
  {
-  "id": "xcr10-23",
+  "id": "xcr10-9d802",
   "n": "Buckingham Windsor Drop",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": -543,
-  "y": 1454,
+  "x": -545,
+  "y": 1480,
   "t": "Buckingham Windsor Drop из списка желаний Рэнди. Стоит в автосалоне Status Auto Imports на западе Бэйсайда: зайдите внутрь, сразу направо и в дальний конец шоурума. Появляется не всегда — если машины нет, вернитесь позже.",
   "u": [
    [
@@ -1946,12 +1854,12 @@
   "force_new": 1
  },
  {
-  "id": "xcr11-24",
+  "id": "xcr11-6595f",
   "n": "Grotti Itali RSX",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": -540,
+  "x": -539,
   "y": 1478,
   "t": "Grotti Itali RSX из списка желаний Рэнди. Часто стоит в шоуруме Status Auto Imports на западе Бэйсайда. Спавн не гарантирован — если машины нет, зайдите позже.",
   "u": [
@@ -2018,13 +1926,13 @@
   "force_new": 1
  },
  {
-  "id": "xcr12-25",
+  "id": "xcr12-8ca78",
   "n": "Buckingham Jubilee",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина — один источник",
-  "x": -558,
-  "y": 1463,
+  "x": -545,
+  "y": 1480,
   "t": "Buckingham Jubilee из списка Рэнди. По данным одного гайда встречается в автосалоне Status Auto Imports на западе Бэйсайда. Не подтверждено другими источниками — проверяйте сканером WAiNK.",
   "u": [
    [
@@ -2066,13 +1974,13 @@
   "force_new": 1
  },
  {
-  "id": "xcr14-26",
+  "id": "xcr14-91b95",
   "n": "Benefactor Dubsta",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина — один источник",
-  "x": -534,
-  "y": 1462,
+  "x": -547,
+  "y": 1480,
   "t": "Benefactor Dubsta из списка Рэнди. По одному гайду стоит на парковке автосалона Status Auto Imports на западе Бэйсайда. Спавн случайный, точка не подтверждена — просканируйте машины на парковке через WAiNK.",
   "u": [
    [
@@ -2326,13 +2234,13 @@
   "f": []
  },
  {
-  "id": "xcr25-27",
+  "id": "xcr25-2813a",
   "n": "Buckingham Swift",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": 591,
-  "y": -490,
+  "x": 594,
+  "y": -489,
   "t": "Вертолёт Buckingham Swift (бело-красный) на носовой вертолётной площадке круизного лайнера Lazaretto у северного пирса терминала Port Vice City. На палубу попадают через крышу терминала. После угона сразу появляются охрана и розыск.",
   "u": [
    [
@@ -2347,7 +2255,7 @@
   "f": [
    [
     "Привязка на карте",
-    "район Port Vice City"
+    "круизный терминал Port Vice City"
    ],
    [
     "Расхождение в гайдах",
@@ -2360,7 +2268,8 @@
   "v": 3,
   "fld": {},
   "force_new": 1,
-  "ap": 1
+  "ap": 1,
+  "nomerge": 1
  },
  {
   "merge_any": "o-standout-vehicle-112",
@@ -2562,7 +2471,7 @@
   "f": []
  },
  {
-  "merge_any": "o-standout-vehicle-248",
+  "merge_any": "o-vehicle-spawn-110",
   "n": "Pegassi Vitello (striped; likely Dante's Vitello)",
   "c": "veh_standout",
   "u": [
@@ -2624,13 +2533,13 @@
   "f": []
  },
  {
-  "id": "xcr30-28",
+  "id": "xcr30-17d1e",
   "n": "Sirius '61 Sungrazer",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": 1956,
-  "y": 627,
+  "x": 1962,
+  "y": 626,
   "t": "Sirius '61 Sungrazer регулярно стоит перед отелем Ocean View на Shore Drive в Оушен-Бич. Это обычная версия, не Standout; замок и трекер в гайдах не указаны, цена продажи по одному источнику — $4 620.",
   "u": [
    [
@@ -2686,13 +2595,13 @@
   "f": []
  },
  {
-  "id": "xcr38-29",
+  "id": "xcr38-b222a",
   "n": "Lure Predator L35P",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": 1689,
-  "y": 1147,
+  "x": 1667,
+  "y": 1133,
   "t": "Катер Lure Predator L35P пришвартован у причала с западной стороны Trinity Apartments на Вашингтон-Айленде — первый в ряду. Его можно угнать и выйти в море; дом известен пасхалкой по «Декстеру».",
   "u": [
    [
@@ -2730,13 +2639,13 @@
   "force_new": 1
  },
  {
-  "id": "xcr39-30",
+  "id": "xcr39-c3b68",
   "n": "Buckingham SuperVolito",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": 1718,
-  "y": 743,
+  "x": 1744,
+  "y": 738,
   "t": "На вертолётной площадке на крыше прибрежного отеля в Оушен-Бич стоит вертолёт — по одному источнику тёмный Buckingham SuperVolito, запертый. Спавн не гарантирован: площадка может быть пустой.",
   "u": [
    [
@@ -2951,13 +2860,13 @@
   "f": []
  },
  {
-  "id": "xcr320-31",
+  "id": "xcr320-7481b",
   "n": "Declasse Mamba GT",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": 388,
-  "y": 2409,
+  "x": 380,
+  "y": 2433,
   "t": "Mamba GT стоит у особняка в Лиф-Линкс; задание начинается со звонка Рэнди. Ключ клонировать нельзя: нужно вскрыть дом (Snap Gun) и взять ключ из чаши на столе за диваном. На машине трекер.",
   "u": [
    [
@@ -3054,13 +2963,13 @@
   "f": []
  },
  {
-  "id": "xcr40-32",
+  "id": "xcr40-265dc",
   "n": "Hauners APC",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
   "x": -6954,
-  "y": -6390,
+  "y": -6416,
   "t": "Бронетранспортёр Hauners APC на военной базе Mile Zero Air Station (Goose Key): стоит в южной части базы перед рядом танков Rhino. База закрытая — заехать можно через трамплин из грунта в юго-восточном углу или подойти на лодке к грузовому причалу; ждите 3 звезды розыска.",
   "u": [
    [
@@ -3098,7 +3007,7 @@
   "force_new": 1
  },
  {
-  "id": "xcr41-33",
+  "id": "xcr41-f5566",
   "n": "Bottcher 015A",
   "c": "veh_standout",
   "r": 3,
@@ -3138,13 +3047,13 @@
   "force_new": 1
  },
  {
-  "id": "xcr42-34",
+  "id": "xcr42-7653d",
   "n": "Bottcher Buzzard",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": -6943,
-  "y": -6404,
+  "x": -6957,
+  "y": -6390,
   "t": "Вертолёт Bottcher Buzzard на военной базе Mile Zero Air Station (Goose Key). Возможно, это уже отмеченный на карте «Military Helicopter» — здесь уточнена модель. База закрытая, вход даёт розыск.",
   "u": [
    [
@@ -3182,13 +3091,13 @@
   "force_new": 1
  },
  {
-  "id": "xcr43-35",
+  "id": "xcr43-99d47",
   "n": "Buckingham Valkyrie",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина — один источник",
-  "x": -6965,
-  "y": -6393,
+  "x": -6950,
+  "y": -6391,
   "t": "Военный вертолёт Buckingham Valkyrie, по данным одного источника, стоит на базе Mile Zero Air Station (Goose Key). Не подтверждено другими гайдами.",
   "u": [
    [
@@ -3218,13 +3127,13 @@
   "force_new": 1
  },
  {
-  "id": "xcr44-36",
+  "id": "xcr44-83e72",
   "n": "Hauners Cargobob",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина — один источник",
-  "x": -6956,
-  "y": -6416,
+  "x": -6943,
+  "y": -6406,
   "t": "Транспортный вертолёт Hauners Cargobob, по данным одного источника, стоит на стоянке авиатехники у взлётной полосы и ангаров базы Mile Zero Air Station. Не подтверждено другими гайдами.",
   "u": [
    [
@@ -3254,13 +3163,13 @@
   "force_new": 1
  },
  {
-  "id": "xcr45-37",
+  "id": "xcr45-7e4cc",
   "n": "Mammoth Dodo",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": -6242,
-  "y": -6586,
+  "x": -6250,
+  "y": -6583,
   "t": "Гидросамолёты Mammoth Dodo в Саутвинде: небольшой ангар у воды рядом с Sherwin Boatworks, к югу от причала с вертолётом Maverick. Не охраняются, можно забрать уже в первой главе.",
   "u": [
    [
@@ -3307,13 +3216,13 @@
   "ap": 1
  },
  {
-  "id": "xcr46-38",
+  "id": "xcr46-fa83c",
   "n": "Bottcher Duster",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": -3313,
-  "y": -4701,
+  "x": -3290,
+  "y": -4709,
   "t": "Кукурузник Bottcher Duster на маленькой взлётной полосе у Boundary Road в округе Мариана, у ангаров, примерно в 1,4 км от дома Джейсона в Ки-Ленто. Не охраняется; по одному гайду доступен после миссии Gone Fishing.",
   "u": [
    [
@@ -3360,27 +3269,13 @@
   "ap": 1
  },
  {
-  "merge_any": "o-vehicle-spawn-041",
-  "n": "Airgator Airboat (Thorpe Adventures)",
-  "c": "veh_standout",
-  "u": [
-   [
-    "magicgameworld.com",
-    "https://www.magicgameworld.com/gta-6-where-to-get-an-airboat-in-grassrivers-without-cheats/"
-   ]
-  ],
-  "v": 2,
-  "fld": {},
-  "f": []
- },
- {
-  "id": "xcr411-39",
+  "id": "xcr411-3ee63",
   "n": "Vapid '70 Riata (остов)",
   "c": "veh_standout",
   "r": 3,
   "sub": "Редкая машина (по гайдам)",
-  "x": -2768,
-  "y": -6153,
+  "x": -2766,
+  "y": -6149,
   "t": "Остов '70 Riata для коллекции Ваймана в Ки-Ленто: на Sunset Dr, в нескольких домах к юго-западу от «рождественского дома» (другой гайд: к западу от Key Lento Mini Mart, на боковой дороге у берега). Не на ходу — сканируется приложением WAiNK.",
   "u": [
    [
@@ -4182,6 +4077,42 @@
   "f": []
  },
  {
+  "merge_any": "o-vehicle-spawn-124",
+  "n": "Maibatsu Blue Drake Penumbra",
+  "c": "veh_standout",
+  "u": [
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
+   ],
+   [
+    "gtabase.com",
+    "https://www.gtabase.com/gta-6/map/?feature=standout-vehicle"
+   ],
+   [
+    "gameta.gg",
+    "https://gameta.gg/gta6/map/standout-vehicles/"
+   ]
+  ],
+  "v": 2,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "o-vehicle-spawn-090",
+  "n": "Buckingham Windsor Drop",
+  "c": "veh_standout",
+  "u": [
+   [
+    "pushsquare.com",
+    "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations"
+   ]
+  ],
+  "v": 2,
+  "fld": {},
+  "f": []
+ },
+ {
   "merge_any": "i1091171",
   "n": "Pegassi Tempesta",
   "c": "veh_randy",
@@ -4391,7 +4322,7 @@
   "ic": "tank"
  },
  {
-  "merge_any": "o-standout-vehicle-248",
+  "merge_any": "o-vehicle-spawn-110",
   "n": "Pegassi Vitello (dark, green/white/red stripe; gtabase lists the custom 'Dante's Vitello' at Dante Fresh's mansion on Starfish Island)",
   "c": "veh_standout",
   "u": [
@@ -4726,13 +4657,13 @@
   "f": []
  },
  {
-  "id": "xcs15-45",
+  "id": "xcs15-5212d",
   "n": "Pegassi Gold Rush Tempesta",
   "c": "veh_standout",
   "r": 4,
   "sub": "Редкая машина (по гайдам)",
-  "x": 1634,
-  "y": 2531,
+  "x": 1641,
+  "y": 2513,
   "t": "Золотой Pegassi Gold Rush Tempesta стоит под навесом наверху изогнутого пандуса паркинга высотки Crimson Palms Condominiums в Washington Beach. Нужен Key Cloner (3-я глава).",
   "u": [
    [
@@ -4901,13 +4832,13 @@
   "f": []
  },
  {
-  "id": "xcs22-47",
+  "id": "xcs22-bc00d",
   "n": "Pegassi Tempesta",
   "c": "veh_standout",
   "r": 4,
   "sub": "Редкая машина (по гайдам)",
-  "x": 16,
-  "y": -940,
+  "x": -7,
+  "y": -929,
   "t": "У входа в Pegassi Residences (East Tower, Bayside Dr) в Tequesta Retreat под навесом стоит фиолетовый Pegassi Toros с фирменной надписью - одна из самых лёгких машин списка Рэнди. Рядом сообщают и о брендированном Pegassi Tempesta.",
   "u": [
    [
@@ -5020,13 +4951,13 @@
   "f": []
  },
  {
-  "id": "xcs25-49",
+  "id": "xcs25-25184",
   "n": "Invetero Coquette D10",
   "c": "veh_standout",
   "r": 4,
   "sub": "Редкая машина (по гайдам)",
-  "x": 1728,
-  "y": 727,
+  "x": 1741,
+  "y": 748,
   "t": "В многоэтажном паркинге на Fig Street в Ocean Beach около 17:00 появляется Pfister Growler; там же замечали Coquette D10. Нужен Key Cloner.",
   "u": [
    [
@@ -5062,7 +4993,8 @@
   "v": 3,
   "fld": {},
   "force_new": 1,
-  "ap": 1
+  "ap": 1,
+  "nomerge": 1
  },
  {
   "id": "xl27",
@@ -5294,7 +5226,7 @@
   "f": []
  },
  {
-  "merge_any": "o-vehicle-spawn-073",
+  "merge_any": "o-vehicle-spawn-006",
   "n": "Buckingham Maverick (helicopter)",
   "c": "veh_standout",
   "u": [

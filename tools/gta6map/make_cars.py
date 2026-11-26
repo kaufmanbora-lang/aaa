@@ -8,6 +8,7 @@ independent sources agree on are pinned; the rest go to extras_cars_skipped.json
 
 Usage: build markers.json without car extras first:  build_data.py --no-cars ; make_cars.py ; build_data.py
 """
+import hashlib
 import json, math, os, re, unicodedata
 from urllib.parse import urlparse
 
@@ -134,6 +135,7 @@ MAN = {
     ('c', 39): A('Wyatt Motors', ap=1, where='гараж у заправки Xero рядом с Wyatt Motors, Ambrosia'),
     ('r2', 0): {'merge': 'o-standout-vehicle-101', 'x': 899, 'y': 643, 'where': 'Starfish Island', 'ap': 0},
     ('r2', 4): MG('Piccia Furia'),
+    ('r2', 5): {'x': 596, 'y': -502, 'where': 'круизный терминал Port Vice City', 'ap': 1, 'nomerge': 1},   # on the cruise ship, not the rooftop pad nearby
     ('c', 0): None, ('c', 51): None, ('r4', 9): None, ('r6', 3): None,      # story car / conflicting or unnamed spot: not a pin
     ('c', 23): {'merge': 'xv17', 'x': 1722, 'y': -1384, 'where': 'Dalton Island', 'ap': 0},
     ('s', 29): MG('Piccia Dragon Gate Furia'),
@@ -197,7 +199,8 @@ def existing(name, p):
     c = [(identity(name, m['n']), math.hypot(m['x'] - p['x'], m['y'] - p['y']), m) for m in VEH]
     c = [q for q in c if q[0]]
     exact = [q for q in c if q[0] == 2]
-    if len(exact) == 1 and (exact[0][1] <= 4500 or len(tokens(name, False)) >= 3):
+    # a plain "vehicle spawn" pin is one of many places an ordinary model appears: only a nearby one is the same find
+    if len(exact) == 1 and not exact[0][2]['id'].startswith('o-vehicle-spawn') and (exact[0][1] <= 4500 or len(tokens(name, False)) >= 3):
         prev = used.get(exact[0][2]['id'])
         if not prev or math.hypot(prev[0] - p['x'], prev[1] - p['y']) <= 300:
             used[exact[0][2]['id']] = (p['x'], p['y'])
@@ -274,15 +277,18 @@ def emit(kind, i, name, cat, sub, it, p, verified, r=4, extra_facts=()):
         report.append(f"skip  {name[:34]:34s} ({'no place' if not p else 'one source'})")
         return
     seq += 1
-    ang = seq * 2.4
+    ang = int(hashlib.md5(norm(name).encode('utf8')).hexdigest()[:6], 16) % 628 / 100      # small fixed offset so pins at one anchor do not stack
     facts = [['Привязка на карте', p['where']]] + list(extra_facts)
     if it.get('conflict'):
         facts.append(['Расхождение в гайдах', 'встречаются и другие места появления — см. источники'])
-    e = {'id': f'xc{kind}{i}-{seq}', 'n': re.sub(r'\s*(—|\().*$', '', name).strip() + (' (остов)' if 'wreck' in name else ''), 'c': cat, 'r': r, 'sub': sub,
+    # the id must not depend on how many other finds were pinned before this one: "found" marks and shared links use it
+    e = {'id': f'xc{kind}{i}-' + hashlib.md5(norm(name).encode('utf8')).hexdigest()[:5], 'n': re.sub(r'\s*(—|\().*$', '', name).strip() + (' (остов)' if 'wreck' in name else ''), 'c': cat, 'r': r, 'sub': sub,
          'x': round(p['x'] + 13 * math.cos(ang)), 'y': round(p['y'] + 13 * math.sin(ang)), 't': it.get('desc_ru'), 'u': u,
          'f': facts, 's': ['web'], 'v': 3, 'fld': fld, 'force_new': 1}
     if p['ap']:
         e['ap'] = 1
+    if p.get('nomerge'):
+        e['nomerge'] = 1        # a different spawn of the same model is pinned nearby: keep this one separate
     if single:
         e['v'] = 1
         e['sub'] = sub.replace(' (по гайдам)', '') + ' — один источник'

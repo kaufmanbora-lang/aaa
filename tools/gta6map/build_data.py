@@ -565,7 +565,7 @@ for e in extras:
         tgt = _any_id.get(e['merge_any']) or next((q for q in final_extras if q.get('id') == e['merge_any']), None)
         if tgt is None:
             continue
-    if tgt is None and e.get('c') in ('weapon', 'veh_standout', 'veh_randy') and 'x' in e:
+    if tgt is None and e.get('c') in ('weapon', 'veh_standout', 'veh_randy') and 'x' in e and not e.get('nomerge'):
         # the same named item pinned by the community map: keep that (exact) pin and attach the guide info to it
         fam = ('weapon',) if e['c'] == 'weapon' else VEHS
         cands = [q for q in _by_name.get(norm(re.sub(r'\(.*?\)', '', e['n'])), []) if q['c'] in fam]
@@ -596,7 +596,7 @@ for e in extras:
         continue
     if 'x' not in e:
         continue
-    ne = {k: v for k, v in e.items() if k not in ('aka', 'force_new', 'merge', 'merge_any', 'fld') and v not in (None, [], '')}
+    ne = {k: v for k, v in e.items() if k not in ('aka', 'force_new', 'merge', 'merge_any', 'fld', 'nomerge') and v not in (None, [], '')}
     if e.get('fld'):
         ne['_fld'] = dict(e['fld'])
         for k, val in e['fld'].items():
