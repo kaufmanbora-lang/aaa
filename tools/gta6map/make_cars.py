@@ -188,6 +188,13 @@ def existing(name, p):
         return None
     if p.get('merge'):
         return next((m for m in VEH if m['id'] == p['merge']), None)
+    if 'wreck' in name.lower():
+        # Wyman's wrecks: the open map pins every part exactly, so a guide's "wreck near X" belongs to the nearest part of that car
+        model = next((w for w in ('transgressor', 'riata', 'mamba', 'kit car') if w in name.lower()), None)
+        parts = [(math.hypot(m['x'] - p['x'], m['y'] - p['y']), m) for m in VEH if m['id'].startswith('o-wyman-car') and model and model in m['n'].lower()]
+        parts = [q for q in parts if q[0] <= 1700]
+        if parts:
+            return min(parts, key=lambda q: q[0])[1]
     nomerge = p.get('nomerge')
     for (cn, cx, cy, ce) in created:
         idn = max(identity(name, cn), identity(cn, name))

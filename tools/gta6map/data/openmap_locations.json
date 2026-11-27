@@ -68569,5 +68569,1465 @@
         "type": "Random event",
         "description": "Show up at nighttime",
         "screenshot": "screenshots/gta6-random-event-331.webp"
+    },
+    {
+        "id": "street-food-160",
+        "kind": "food",
+        "x": 463.4375,
+        "y": 374.78125,
+        "name": "La Parrilla Cubana",
+        "type": "Street food",
+        "description": "",
+        "screenshot": "screenshots/gta6-street-food-160.webp"
+    },
+    {
+        "id": "cocaine-flamingo-026",
+        "kind": "other",
+        "x": 293.21875,
+        "y": 493.4375,
+        "name": "Cocaine Flamingo (roadside shop)",
+        "type": "Cocaine Flamingo",
+        "description": "Outside the shop by the road: use Focus to see it.",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-026.webp"
+    },
+    {
+        "id": "hidden-package-205",
+        "kind": "package",
+        "x": 416.1875,
+        "y": 391.28125,
+        "name": "Drug Stash (trailer)",
+        "type": "Hidden package",
+        "description": "Crystal and other drugs all over the trailer.",
+        "screenshot": "screenshots/gta6-hidden-package-205.webp"
+    },
+    {
+        "id": "cocaine-flamingo-027",
+        "kind": "other",
+        "x": 362.75,
+        "y": 605.3125,
+        "name": "Cocaine Flamingo (front door)",
+        "type": "Cocaine Flamingo",
+        "description": "To the right of the front door.",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-027.webp"
+    },
+    {
+        "id": "meteorite-112",
+        "kind": "meteorite",
+        "x": 467.625,
+        "y": 698.34375,
+        "name": "Meteorite Fragment (helicopter wreck)",
+        "type": "Meteorite",
+        "description": "Underwater: follow the floating skeleton down to a helicopter wreck with another skeleton inside; the meteorite is there.",
+        "screenshot": "screenshots/gta6-meteorite-112.webp"
+    },
+    {
+        "id": "card-delights-022",
+        "kind": "card",
+        "x": 345.0625,
+        "y": 402.21875,
+        "name": "Delights card: Vicki (Standard)",
+        "type": "Delights card",
+        "description": "Starlet Motel: on the floor next to the toilet in the reception bathroom (main entrance, then right through the glass door). Second spot for this card.",
+        "screenshot": "screenshots/gta6-card-delights-022.webp"
+    },
+    {
+        "id": "cocaine-flamingo-028",
+        "kind": "other",
+        "x": 468.6875,
+        "y": 584.59375,
+        "name": "Cocaine Flamingo (Emory Ave)",
+        "type": "Cocaine Flamingo",
+        "description": "On Emory Ave.",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-028.webp"
+    },
+    {
+        "id": "yellow-loot-box-437",
+        "kind": "other",
+        "x": 364.65625,
+        "y": 605.84375,
+        "name": "Yellow Loot Box (garage)",
+        "type": "Yellow Loot Box",
+        "description": "Inside the garage, near the door opener.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-437.webp"
+    },
+    {
+        "id": "unique-weapon-083",
+        "kind": "other",
+        "x": 471.03125,
+        "y": 498.1875,
+        "name": "Low Point Nipper .38",
+        "type": "Unique Weapon",
+        "description": "Lucia's gun from the prologue. Opposite the Payday Loans store in Little Cuba, on the roof inside a ventilation shaft.",
+        "screenshot": "screenshots/gta6-unique-weapon-083.webp"
+    },
+    {
+        "id": "scoop-container-109",
+        "kind": "other",
+        "x": 526.15625,
+        "y": 553.5,
+        "name": "SCOOP Container (water treatment plant)",
+        "type": "Scoop Container",
+        "description": "Use a forklift or an excavator to move the objects out of the way. A member found rifles and ammo inside.",
+        "screenshot": "screenshots/gta6-scoop-container-109.webp"
+    },
+    {
+        "id": "magazine-112",
+        "kind": "magazine",
+        "x": 316.84375,
+        "y": 403.46875,
+        "name": "Ashes of Glory",
+        "type": "Magazine",
+        "description": "",
+        "screenshot": "screenshots/gta6-magazine-112.webp"
+    },
+    {
+        "id": "yellow-loot-box-440",
+        "kind": "other",
+        "x": 470.65625,
+        "y": 421.15625,
+        "name": "Yellow Loot Box (rooftop)",
+        "type": "Yellow Loot Box",
+        "description": "On the roof.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-440.webp"
+    },
+    {
+        "id": "meteorite-114",
+        "kind": "meteorite",
+        "x": 209.4375,
+        "y": 404.625,
+        "name": "Meteorite Fragment (near Underwater Facility 3)",
+        "type": "Meteorite",
+        "description": "Underwater, near the research site.",
+        "screenshot": "screenshots/gta6-meteorite-114.webp"
+    },
+    {
+        "id": "safe-123",
+        "kind": "safe",
+        "x": 313.71875,
+        "y": 406.96875,
+        "name": "Safe (Pawn & Gun - Port Gellhorn)",
+        "type": "Safe",
+        "description": "In the corner behind the left counter. A member reports the code 8668.",
+        "screenshot": "screenshots/gta6-safe-123.webp"
+    },
+    {
+        "id": "random-event-440",
+        "kind": "event",
+        "x": 488.34375,
+        "y": 482.625,
+        "name": "Matching Tattoos",
+        "type": "Random event",
+        "description": "As you pass this tattoo salon, Lucia gives an idea to get a matching tattoos. If you pull up to the shop You will get an extra cutscene and a bonus to the relationship.",
+        "screenshot": "screenshots/gta6-random-event-440.webp"
+    },
+    {
+        "id": "easter-egg-054",
+        "kind": "other",
+        "x": 429.28125,
+        "y": 700.46875,
+        "name": "Tower Lever and Button",
+        "type": "Easter Egg",
+        "description": "Pull the lever and press the button: an animation plays on the TV at the top of the tower.",
+        "screenshot": "screenshots/gta6-easter-egg-054.webp"
+    },
+    {
+        "id": "safe-124",
+        "kind": "safe",
+        "x": 419.84375,
+        "y": 595.03125,
+        "name": "Safe",
+        "type": "Safe",
+        "description": "Inside the building.",
+        "screenshot": "screenshots/gta6-safe-124.webp"
+    },
+    {
+        "id": "magazine-113",
+        "kind": "magazine",
+        "x": 298,
+        "y": 494.90625,
+        "name": "High Rollerz Magazine",
+        "type": "Magazine",
+        "description": "In the magazine rack of the LTD Food Mart - Capri.",
+        "screenshot": "screenshots/gta6-magazine-113.webp"
+    },
+    {
+        "id": "yellow-loot-box-443",
+        "kind": "other",
+        "x": 413.5,
+        "y": 595.46875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Next to the sewer drain.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-443.webp"
+    },
+    {
+        "id": "yellow-loot-box-444",
+        "kind": "other",
+        "x": 439.3125,
+        "y": 693.96875,
+        "name": "Yellow Loot Box (billboard)",
+        "type": "Yellow Loot Box",
+        "description": "On top of the billboard: climb the ladder and go round to the other side.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-444.webp"
+    },
+    {
+        "id": "vehicle-spawn-138",
+        "kind": "vehicle",
+        "x": 542.375,
+        "y": 493,
+        "name": "Invetero Coquette '64",
+        "type": "Standout vehicle",
+        "description": "Spawns here most of the time.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-138.webp"
+    },
+    {
+        "id": "random-event-442",
+        "kind": "event",
+        "x": 501.53125,
+        "y": 461.375,
+        "name": "Bank Robbery (Lombank - Bayside)",
+        "type": "Random event",
+        "description": "Four men try to rob the bank; you can stop them.",
+        "screenshot": "screenshots/gta6-random-event-442.webp"
+    },
+    {
+        "id": "yellow-loot-box-447",
+        "kind": "other",
+        "x": 572.125,
+        "y": 499.0625,
+        "name": "Yellow Loot Box (roof)",
+        "type": "Yellow Loot Box",
+        "description": "On the roof.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-447.webp"
+    },
+    {
+        "id": "safe-125",
+        "kind": "safe",
+        "x": 517.25,
+        "y": 473.625,
+        "name": "Safe (garage)",
+        "type": "Safe",
+        "description": "Small safe with jewelry in the garage.",
+        "screenshot": "screenshots/gta6-safe-125.webp"
+    },
+    {
+        "id": "hidden-package-208",
+        "kind": "package",
+        "x": 370.28125,
+        "y": 586.4375,
+        "name": "Weed Stash (cabin)",
+        "type": "Hidden package",
+        "description": "Inside the cabin.",
+        "screenshot": "screenshots/gta6-hidden-package-208.webp"
+    },
+    {
+        "id": "yellow-loot-box-449",
+        "kind": "other",
+        "x": 317.15625,
+        "y": 536.625,
+        "name": "Yellow Loot Box (Xero gas station)",
+        "type": "Yellow Loot Box",
+        "description": "On the roof above the Xero gas station.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-449.webp"
+    },
+    {
+        "id": "safe-126",
+        "kind": "safe",
+        "x": 523.53125,
+        "y": 472.46875,
+        "name": "Safe (first floor)",
+        "type": "Safe",
+        "description": "Small safe with jewelry on the first floor.",
+        "screenshot": "screenshots/gta6-safe-126.webp"
+    },
+    {
+        "id": "yellow-loot-box-450",
+        "kind": "other",
+        "x": 489.5,
+        "y": 516.8125,
+        "name": "Yellow Loot Box (generator room)",
+        "type": "Yellow Loot Box",
+        "description": "The second box in this building, in the room with the power generators.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-450.webp"
+    },
+    {
+        "id": "vehicle-spawn-139",
+        "kind": "vehicle",
+        "x": 522.71875,
+        "y": 473.21875,
+        "name": "Vapid Hustler (1932)",
+        "type": "Standout vehicle",
+        "description": "In the garage.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-139.webp"
+    },
+    {
+        "id": "vehicle-spawn-140",
+        "kind": "vehicle",
+        "x": 304.28125,
+        "y": 427.0625,
+        "name": "Bravado Gauntlet Hellfire (modified)",
+        "type": "Standout vehicle",
+        "description": "A modified one among the parked cars.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-140.webp"
+    },
+    {
+        "id": "ahol-street-art-085",
+        "kind": "streetart",
+        "x": 554.625,
+        "y": 498.71875,
+        "name": "Ahol Street Art: Geographies of Trash (buckets)",
+        "type": "Ahol Street Art",
+        "description": "In a parking space at the side of the buildings.",
+        "screenshot": "screenshots/gta6-ahol-street-art-085.webp"
+    },
+    {
+        "id": "easter-egg-056",
+        "kind": "other",
+        "x": 465.1875,
+        "y": 418.84375,
+        "name": "Self-Aware NPC House",
+        "type": "Easter Egg",
+        "description": "Inside the garage are handwritten notes and theories by an NPC who believes he lives in a simulation, with the number 6 everywhere.",
+        "screenshot": "screenshots/gta6-easter-egg-056.webp"
+    },
+    {
+        "id": "vehicle-spawn-141",
+        "kind": "vehicle",
+        "x": 318.78125,
+        "y": 531.8125,
+        "name": "Declasse Bobcat 500 (1955, Jack Sheepe livery)",
+        "type": "Standout vehicle",
+        "description": "Red and white Bobcat with the Jack Sheepe livery.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-141.webp"
+    },
+    {
+        "id": "random-event-446",
+        "kind": "event",
+        "x": 297.9375,
+        "y": 505.9375,
+        "name": "Golden Street Performer",
+        "type": "Random event",
+        "description": "Tip the golden statue performer: she warns you about the police, then two officers turn up and chase her away.",
+        "screenshot": "screenshots/gta6-random-event-446.webp"
+    },
+    {
+        "id": "parachuting-011",
+        "kind": "basejump",
+        "x": 469.28125,
+        "y": 548.34375,
+        "name": "Parachute (roof)",
+        "type": "Parachuting",
+        "description": "Free parachute on the roof.",
+        "screenshot": "screenshots/gta6-parachuting-011.webp"
+    },
+    {
+        "id": "meteorite-116",
+        "kind": "meteorite",
+        "x": 540.1875,
+        "y": 338,
+        "name": "Meteorite Fragment (Underwater Facility 2)",
+        "type": "Meteorite",
+        "description": "On a table inside the underwater facility (sea base).",
+        "screenshot": "screenshots/gta6-meteorite-116.webp"
+    },
+    {
+        "id": "random-event-448",
+        "kind": "event",
+        "x": 312.65625,
+        "y": 711.9375,
+        "name": "Let Me Hold It (cashier)",
+        "type": "Random event",
+        "description": "Rob the store at night: the cashier asks to hold your weapon. Give it to him and he hands over the money without calling the police.",
+        "screenshot": "screenshots/gta6-random-event-448.webp"
+    },
+    {
+        "id": "yellow-loot-box-452",
+        "kind": "other",
+        "x": 283.84375,
+        "y": 497.40625,
+        "name": "Yellow Loot Box (house roof)",
+        "type": "Yellow Loot Box",
+        "description": "On the roof of the house, next to the air conditioning unit.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-452.webp"
+    },
+    {
+        "id": "random-event-449",
+        "kind": "event",
+        "x": 470.625,
+        "y": 501.375,
+        "name": "Mugged by Two Women",
+        "type": "Random event",
+        "description": "Two women try to mug you.",
+        "screenshot": "screenshots/gta6-random-event-449.webp"
+    },
+    {
+        "id": "scoop-container-114",
+        "kind": "other",
+        "x": 312.75,
+        "y": 419.5,
+        "name": "SCOOP Container",
+        "type": "Scoop Container",
+        "description": "A member found a Cypher with a flames livery here.",
+        "screenshot": "screenshots/gta6-scoop-container-114.webp"
+    },
+    {
+        "id": "yellow-loot-box-454",
+        "kind": "other",
+        "x": 307.15625,
+        "y": 309.53125,
+        "name": "Yellow Loot Box (red tent)",
+        "type": "Yellow Loot Box",
+        "description": "Next to the red camping tent; visible from the air.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-454.webp"
+    },
+    {
+        "id": "easter-egg-057",
+        "kind": "other",
+        "x": 407.1875,
+        "y": 344.96875,
+        "name": "Tommy Vercetti? (vineyard)",
+        "type": "Easter Egg",
+        "description": "An old man drinking red wine with a woman, talking in an Italian accent about his past gangster life and that he is 75 years old.",
+        "screenshot": "screenshots/gta6-easter-egg-057.webp"
+    },
+    {
+        "id": "random-event-451",
+        "kind": "event",
+        "x": 328.09375,
+        "y": 332.71875,
+        "name": "Alien Fan",
+        "type": "Random event",
+        "description": "A man invites you to join him and talks about Area 69 in San Andreas, the alien event near the motel in Port Gellhorn, and aliens talking to people through dreams.",
+        "screenshot": "screenshots/gta6-random-event-451.webp"
+    },
+    {
+        "id": "card-vice-city-flamingos-032",
+        "kind": "card",
+        "x": 443.375,
+        "y": 675.75,
+        "name": "Vice City Flamingos card: Julian Hall (Standard)",
+        "type": "Vice City Flamingos card",
+        "description": "In the garage. Second spot for this card.",
+        "screenshot": "screenshots/gta6-card-vice-city-flamingos-032.webp"
+    },
+    {
+        "id": "meteorite-117",
+        "kind": "meteorite",
+        "x": 465.21875,
+        "y": 732.5,
+        "name": "Meteorite Fragment (beneath the submarine)",
+        "type": "Meteorite",
+        "description": "Underwater, beneath the sunken submarine.",
+        "screenshot": "screenshots/gta6-meteorite-117.webp"
+    },
+    {
+        "id": "yellow-loot-box-455",
+        "kind": "other",
+        "x": 444.3125,
+        "y": 645.375,
+        "name": "Yellow Loot Box (under the bridge)",
+        "type": "Yellow Loot Box",
+        "description": "Under the bridge.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-455.webp"
+    },
+    {
+        "id": "easter-egg-058",
+        "kind": "other",
+        "x": 464.59375,
+        "y": 734.40625,
+        "name": "Sunken Submarine",
+        "type": "Easter Egg",
+        "description": "A submarine on the sea floor; a meteorite fragment lies beneath it.",
+        "screenshot": "screenshots/gta6-easter-egg-058.webp"
+    },
+    {
+        "id": "vehicle-spawn-142",
+        "kind": "vehicle",
+        "x": 381.75,
+        "y": 603.96875,
+        "name": "Declasse Bobcat 500 (1955)",
+        "type": "Standout vehicle",
+        "description": "",
+        "screenshot": "screenshots/gta6-vehicle-spawn-142.webp"
+    },
+    {
+        "id": "hidden-package-211",
+        "kind": "package",
+        "x": 390.125,
+        "y": 251.28125,
+        "name": "Purple Drank and Weed (building)",
+        "type": "Hidden package",
+        "description": "Purple drank and weed inside the building.",
+        "screenshot": "screenshots/gta6-hidden-package-211.webp"
+    },
+    {
+        "id": "cocaine-flamingo-030",
+        "kind": "other",
+        "x": 351.3125,
+        "y": 622.21875,
+        "name": "Cocaine Flamingo (alley)",
+        "type": "Cocaine Flamingo",
+        "description": "At the side of the alley by the candy shop.",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-030.webp"
+    },
+    {
+        "id": "hidden-package-210",
+        "kind": "package",
+        "x": 325.0625,
+        "y": 408.53125,
+        "name": "Weed Stash (box)",
+        "type": "Hidden package",
+        "description": "A box with weed.",
+        "screenshot": "screenshots/gta6-hidden-package-210.webp"
+    },
+    {
+        "id": "random-event-452",
+        "kind": "event",
+        "x": 477.90625,
+        "y": 515.0625,
+        "name": "Dumpster Lawyer",
+        "type": "Random event",
+        "description": "",
+        "screenshot": "screenshots/gta6-random-event-452.webp"
+    },
+    {
+        "id": "yellow-loot-box-456",
+        "kind": "other",
+        "x": 444.65625,
+        "y": 685.3125,
+        "name": "Yellow Loot Box (gun store)",
+        "type": "Yellow Loot Box",
+        "description": "Up the ladder at the side of the gun store.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-456.webp"
+    },
+    {
+        "id": "yellow-loot-box-432",
+        "kind": "other",
+        "x": 489.0625,
+        "y": 376.96875,
+        "name": "Yellow Loot Box (Sundown Private Airfield)",
+        "type": "Yellow Loot Box",
+        "description": "To the right of the small white hut.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-432.webp"
+    },
+    {
+        "id": "scoop-container-116",
+        "kind": "other",
+        "x": 460.125,
+        "y": 485.5625,
+        "name": "SCOOP Container",
+        "type": "Scoop Container",
+        "description": "",
+        "screenshot": "screenshots/gta6-scoop-container-116.webp"
+    },
+    {
+        "id": "scoop-container-115",
+        "kind": "other",
+        "x": 437.75,
+        "y": 600.3125,
+        "name": "SCOOP Container (farm)",
+        "type": "Scoop Container",
+        "description": "Next to the farm machinery.",
+        "screenshot": "screenshots/gta6-scoop-container-115.webp"
+    },
+    {
+        "id": "random-event-450",
+        "kind": "event",
+        "x": 340.46875,
+        "y": 379.125,
+        "name": "Bud: Something Falls from the Sky",
+        "type": "Random event",
+        "description": "You've met Bud before: something falls from the sky. Follow Bud to find out what.",
+        "screenshot": "screenshots/gta6-random-event-450.webp"
+    },
+    {
+        "id": "scoop-container-108",
+        "kind": "other",
+        "x": 487.125,
+        "y": 373.84375,
+        "name": "SCOOP Container (warehouse)",
+        "type": "Scoop Container",
+        "description": "On the left side of the hall, next to the pallets.",
+        "screenshot": "screenshots/gta6-scoop-container-108.webp"
+    },
+    {
+        "id": "yellow-loot-box-453",
+        "kind": "other",
+        "x": 485.21875,
+        "y": 515.28125,
+        "name": "Yellow Loot Box (stairs)",
+        "type": "Yellow Loot Box",
+        "description": "From the ground floor, go up the stairs beside the elevator.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-453.webp"
+    },
+    {
+        "id": "cocaine-flamingo-029",
+        "kind": "other",
+        "x": 499.375,
+        "y": 487,
+        "name": "Cocaine Flamingo (Bayside, chess game)",
+        "type": "Cocaine Flamingo",
+        "description": "Take the elevator in the building up to the chess game.",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-029.webp"
+    },
+    {
+        "id": "luxury-watch-038",
+        "kind": "other",
+        "x": 447.25,
+        "y": 689.5625,
+        "name": "Luxury Watch (party house)",
+        "type": "Luxury Watch",
+        "description": "Go up the outside stairs and enter through the upstairs door. In the first room on the left, on the table.",
+        "screenshot": "screenshots/gta6-luxury-watch-038.webp"
+    },
+    {
+        "id": "atm-196",
+        "kind": "bank",
+        "x": 472.1875,
+        "y": 314.21875,
+        "name": "ATM: Xero Gas Station - Millport",
+        "type": "ATM",
+        "description": "At the Xero gas station.",
+        "screenshot": "screenshots/gta6-atm-196.webp"
+    },
+    {
+        "id": "random-event-447",
+        "kind": "event",
+        "x": 423.53125,
+        "y": 707.4375,
+        "name": "Van Robbery",
+        "type": "Random event",
+        "description": "Two men are loading a van, probably with goods stolen from the store. You can take it: about $1,200 cash in the bag.",
+        "screenshot": "screenshots/gta6-random-event-447.webp"
+    },
+    {
+        "id": "magazine-114",
+        "kind": "magazine",
+        "x": 522.6875,
+        "y": 373.34375,
+        "name": "Book: Ashes of Glory",
+        "type": "Magazine",
+        "description": "On a small table in the library inside the building.",
+        "screenshot": "screenshots/gta6-magazine-114.webp"
+    },
+    {
+        "id": "hidden-package-209",
+        "kind": "package",
+        "x": 365.96875,
+        "y": 288.5625,
+        "name": "Cocaine Stash (washing machine)",
+        "type": "Hidden package",
+        "description": "Hidden in the blue container behind the plank; two packs of drugs in the washing machine.",
+        "screenshot": "screenshots/gta6-hidden-package-209.webp"
+    },
+    {
+        "id": "yellow-loot-box-451",
+        "kind": "other",
+        "x": 318.84375,
+        "y": 531.8125,
+        "name": "Yellow Loot Box (boxes)",
+        "type": "Yellow Loot Box",
+        "description": "Next to the stack of boxes.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-451.webp"
+    },
+    {
+        "id": "random-event-445",
+        "kind": "event",
+        "x": 348.125,
+        "y": 337.84375,
+        "name": "Leave the Tower (loudspeaker)",
+        "type": "Random event",
+        "description": "A woman on the loudspeaker tells you to leave the tower. Let her finish, then answer the call.",
+        "screenshot": "screenshots/gta6-random-event-445.webp"
+    },
+    {
+        "id": "weapon-spawn-131",
+        "kind": "weapon",
+        "x": 472.65625,
+        "y": 474.84375,
+        "name": "Hawk & Little Mediator",
+        "type": "Weapon pickup",
+        "description": "By the hatch on the roof of Janjak's Garage.",
+        "screenshot": "screenshots/gta6-weapon-spawn-131.webp"
+    },
+    {
+        "id": "scoop-container-113",
+        "kind": "other",
+        "x": 434.53125,
+        "y": 386.90625,
+        "name": "SCOOP Container (floating platform)",
+        "type": "Scoop Container",
+        "description": "On the floating platform behind all the containers.",
+        "screenshot": "screenshots/gta6-scoop-container-113.webp"
+    },
+    {
+        "id": "random-event-444",
+        "kind": "event",
+        "x": 559.8125,
+        "y": 484.4375,
+        "name": "Former CEO",
+        "type": "Random event",
+        "description": "A man tells you about his past as a CEO and about AI models.",
+        "screenshot": "screenshots/gta6-random-event-444.webp"
+    },
+    {
+        "id": "easter-egg-055",
+        "kind": "other",
+        "x": 421.40625,
+        "y": 616.53125,
+        "name": "Grove Street (San Andreas reference)",
+        "type": "Easter Egg",
+        "description": "A nod to Grove Street from GTA San Andreas.",
+        "screenshot": "screenshots/gta6-easter-egg-055.webp"
+    },
+    {
+        "id": "random-event-443",
+        "kind": "event",
+        "x": 564.5,
+        "y": 516.9375,
+        "name": "Voice in the Sewer",
+        "type": "Random event",
+        "description": "A voice comes from the drain grate in front of the ice cream shop.",
+        "screenshot": "screenshots/gta6-random-event-443.webp"
+    },
+    {
+        "id": "yellow-loot-box-448",
+        "kind": "other",
+        "x": 477.75,
+        "y": 491.8125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "",
+        "screenshot": "screenshots/gta6-yellow-loot-box-448.webp"
+    },
+    {
+        "id": "yellow-loot-box-446",
+        "kind": "other",
+        "x": 346.625,
+        "y": 475.3125,
+        "name": "Yellow Loot Box (tower)",
+        "type": "Yellow Loot Box",
+        "description": "At the top of the tower, near the card.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-446.webp"
+    },
+    {
+        "id": "yellow-loot-box-445",
+        "kind": "other",
+        "x": 474.8125,
+        "y": 490.4375,
+        "name": "Yellow Loot Box (store dock)",
+        "type": "Yellow Loot Box",
+        "description": "On a chair in the store's dock area.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-445.webp"
+    },
+    {
+        "id": "scoop-container-112",
+        "kind": "other",
+        "x": 304.34375,
+        "y": 395.75,
+        "name": "SCOOP Container",
+        "type": "Scoop Container",
+        "description": "Between two containers.",
+        "screenshot": "screenshots/gta6-scoop-container-112.webp"
+    },
+    {
+        "id": "meteorite-115",
+        "kind": "meteorite",
+        "x": 450.25,
+        "y": 251.4375,
+        "name": "Meteorite Fragment (shore, below the cliff)",
+        "type": "Meteorite",
+        "description": "Next to a bush by the shore, at the bottom of the cliff.",
+        "screenshot": "screenshots/gta6-meteorite-115.webp"
+    },
+    {
+        "id": "magazine-110",
+        "kind": "magazine",
+        "x": 387.1875,
+        "y": 253,
+        "name": "Book: Martha and Lyle's Scrapbook",
+        "type": "Magazine",
+        "description": "Inside the old barn at the dead end of a road in Bonanza (the same shed as Lyle's H&L .38).",
+        "screenshot": "screenshots/gta6-magazine-110.webp"
+    },
+    {
+        "id": "card-americas-next-top-hooker-036",
+        "kind": "card",
+        "x": 505.84375,
+        "y": 448.6875,
+        "name": "America's Next Top Hooker card: Chastity (Standard)",
+        "type": "Americas Next Top Hooker card",
+        "description": "Inside the warehouse, next to the computer. Second spot for this card.",
+        "screenshot": "screenshots/gta6-card-americas-next-top-hooker-036.webp"
+    },
+    {
+        "id": "luxury-watch-037",
+        "kind": "other",
+        "x": 557.15625,
+        "y": 508.53125,
+        "name": "Luxury Watch: Crowex Submerge 'Ratface'",
+        "type": "Luxury Watch",
+        "description": "Between the bags next to the couches.",
+        "screenshot": "screenshots/gta6-luxury-watch-037.webp"
+    },
+    {
+        "id": "scoop-container-111",
+        "kind": "other",
+        "x": 341.84375,
+        "y": 295.6875,
+        "name": "SCOOP Container (jewelry)",
+        "type": "Scoop Container",
+        "description": "Orange container with jewelry inside.",
+        "screenshot": "screenshots/gta6-scoop-container-111.webp"
+    },
+    {
+        "id": "vehicle-spawn-137",
+        "kind": "vehicle",
+        "x": 536.8125,
+        "y": 401.84375,
+        "name": "Ascot Paragon",
+        "type": "Standout vehicle",
+        "description": "",
+        "screenshot": "screenshots/gta6-vehicle-spawn-137.webp"
+    },
+    {
+        "id": "easter-egg-053",
+        "kind": "other",
+        "x": 474.0625,
+        "y": 700.6875,
+        "name": "Sunken Cargo Ship",
+        "type": "Easter Egg",
+        "description": "A sunken cargo ship on the sea floor; a meteorite fragment lies inside.",
+        "screenshot": "screenshots/gta6-easter-egg-053.webp"
+    },
+    {
+        "id": "hidden-package-207",
+        "kind": "package",
+        "x": 338.625,
+        "y": 607.8125,
+        "name": "Makeshift Toilet Stash",
+        "type": "Hidden package",
+        "description": "Kick over the makeshift toilet: cash and drugs.",
+        "screenshot": "screenshots/gta6-hidden-package-207.webp"
+    },
+    {
+        "id": "yellow-loot-box-442",
+        "kind": "other",
+        "x": 479.40625,
+        "y": 419.46875,
+        "name": "Yellow Loot Box (Paper Boys factory)",
+        "type": "Yellow Loot Box",
+        "description": "Behind the Paper Boys factory. A member found the Vice City Flamingos card Sammy Woodsworth here.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-442.webp"
+    },
+    {
+        "id": "ahol-street-art-084",
+        "kind": "streetart",
+        "x": 564.65625,
+        "y": 477.9375,
+        "name": "Ahol Street Art: Bucket 313",
+        "type": "Ahol Street Art",
+        "description": "Ocean Beach.",
+        "screenshot": "screenshots/gta6-ahol-street-art-084.webp"
+    },
+    {
+        "id": "easter-egg-052",
+        "kind": "other",
+        "x": 396.5625,
+        "y": 378.875,
+        "name": "Sex Toy Shed",
+        "type": "Easter Egg",
+        "description": "A small shed full of sex toys.",
+        "screenshot": "screenshots/gta6-easter-egg-052.webp"
+    },
+    {
+        "id": "yellow-loot-box-441",
+        "kind": "other",
+        "x": 522.40625,
+        "y": 355.34375,
+        "name": "Yellow Loot Box (lifeguard tower)",
+        "type": "Yellow Loot Box",
+        "description": "Inside, on the back shelf.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-441.webp"
+    },
+    {
+        "id": "meteorite-113",
+        "kind": "meteorite",
+        "x": 473.5625,
+        "y": 701.34375,
+        "name": "Meteorite Fragment (sunken cargo ship)",
+        "type": "Meteorite",
+        "description": "Enter the ship through the hole: the meteorite is clearly visible.",
+        "screenshot": "screenshots/gta6-meteorite-113.webp"
+    },
+    {
+        "id": "random-event-439",
+        "kind": "event",
+        "x": 479.53125,
+        "y": 546.125,
+        "name": "Drunk Woman and the Police",
+        "type": "Random event",
+        "description": "A drunk woman tries to charm the police officers so they don't arrest her.",
+        "screenshot": "screenshots/gta6-random-event-439.webp"
+    },
+    {
+        "id": "card-los-santos-corkers-033",
+        "kind": "card",
+        "x": 345.28125,
+        "y": 404.5625,
+        "name": "Los Santos Corkers card: Victor Maravilla (Standard)",
+        "type": "Los Santos Corkers card",
+        "description": "Starlet Motel: on the fridge in the shared kitchen. Second spot for this card.",
+        "screenshot": "screenshots/gta6-card-los-santos-corkers-033.webp"
+    },
+    {
+        "id": "yellow-loot-box-439",
+        "kind": "other",
+        "x": 430.125,
+        "y": 497.03125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "",
+        "screenshot": "screenshots/gta6-yellow-loot-box-439.webp"
+    },
+    {
+        "id": "yellow-loot-box-438",
+        "kind": "other",
+        "x": 526.3125,
+        "y": 335.5,
+        "name": "Yellow Loot Box (cave)",
+        "type": "Yellow Loot Box",
+        "description": "In the cave. A member found the Si-Woo Choo card here.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-438.webp"
+    },
+    {
+        "id": "scoop-container-110",
+        "kind": "other",
+        "x": 319.5,
+        "y": 387.84375,
+        "name": "SCOOP Container (Smokescreen Carbon RS)",
+        "type": "Scoop Container",
+        "description": "Use the bulldozer nearby to get to the container. A member found a Smokescreen Carbon RS inside.",
+        "screenshot": "screenshots/gta6-scoop-container-110.webp"
+    },
+    {
+        "id": "random-event-438",
+        "kind": "event",
+        "x": 399.84375,
+        "y": 249.0625,
+        "name": "Bud: Watching the Sky",
+        "type": "Random event",
+        "description": "Bud sits in his truck looking at the landscape and talks about aliens and Area 51 (possibly only at night).",
+        "screenshot": "screenshots/gta6-random-event-438.webp"
+    },
+    {
+        "id": "safe-122",
+        "kind": "safe",
+        "x": 491.25,
+        "y": 475.15625,
+        "name": "Safe (second floor)",
+        "type": "Safe",
+        "description": "In the room on the second floor of the building, on the shelf.",
+        "screenshot": "screenshots/gta6-safe-122.webp"
+    },
+    {
+        "id": "easter-egg-051",
+        "kind": "other",
+        "x": 278.4375,
+        "y": 603.5,
+        "name": "Giant Skeleton (underwater)",
+        "type": "Easter Egg",
+        "description": "A huge animal skeleton on the sea floor.",
+        "screenshot": "screenshots/gta6-easter-egg-051.webp"
+    },
+    {
+        "id": "card-vice-city-narcos-029",
+        "kind": "card",
+        "x": 344.40625,
+        "y": 403.4375,
+        "name": "Vice City Narcos card: Bryson Powers (Standard)",
+        "type": "Vice City Narcos card",
+        "description": "Starlet Motel. Second spot for this card.",
+        "screenshot": "screenshots/gta6-card-vice-city-narcos-029.webp"
+    },
+    {
+        "id": "hidden-package-206",
+        "kind": "package",
+        "x": 308.0625,
+        "y": 394.625,
+        "name": "Wallet (trailer)",
+        "type": "Hidden package",
+        "description": "Inside the trailer, on the corner of the bed.",
+        "screenshot": "screenshots/gta6-hidden-package-206.webp"
+    },
+    {
+        "id": "yellow-loot-box-436",
+        "kind": "other",
+        "x": 284.90625,
+        "y": 494.875,
+        "name": "Yellow Loot Box (balcony)",
+        "type": "Yellow Loot Box",
+        "description": "On the balcony.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-436.webp"
+    },
+    {
+        "id": "magazine-111",
+        "kind": "magazine",
+        "x": 552.3125,
+        "y": 426.65625,
+        "name": "Magazine (behind Neptune Rises)",
+        "type": "Magazine",
+        "description": "Just behind the Neptune Rises sculpture, below the bridge support, next to the small white chair and bag. On the ground.",
+        "screenshot": "screenshots/gta6-magazine-111.webp"
+    },
+    {
+        "id": "random-event-437",
+        "kind": "event",
+        "x": 356.65625,
+        "y": 368.28125,
+        "name": "Shooting Contest (ecologists)",
+        "type": "Random event",
+        "description": "Follow the sound of gunshots and shoot against the ecologists: $250 if you win.",
+        "screenshot": "screenshots/gta6-random-event-437.webp"
+    },
+    {
+        "id": "yellow-loot-box-435",
+        "kind": "other",
+        "x": 480.25,
+        "y": 398.875,
+        "name": "Yellow Loot Box (small building)",
+        "type": "Yellow Loot Box",
+        "description": "In the small building.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-435.webp"
+    },
+    {
+        "id": "yellow-loot-box-434",
+        "kind": "other",
+        "x": 293.15625,
+        "y": 492.25,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "In the back.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-434.webp"
+    },
+    {
+        "id": "yellow-loot-box-433",
+        "kind": "other",
+        "x": 564.375,
+        "y": 457.875,
+        "name": "Yellow Loot Box (phone box)",
+        "type": "Yellow Loot Box",
+        "description": "",
+        "screenshot": "screenshots/gta6-yellow-loot-box-433.webp"
+    },
+    {
+        "id": "random-event-441",
+        "kind": "event",
+        "x": 410.5625,
+        "y": 658.71875,
+        "name": "Skunk Ape Effigy",
+        "type": "Random event",
+        "description": "",
+        "screenshot": "screenshots/gta6-random-event-441.webp"
+    },
+    {
+        "id": "kitty-litter-lab-001",
+        "kind": "other",
+        "x": 491.253125,
+        "y": 462.63125,
+        "name": "Kitty Litter Lab: East La Perle Trailer",
+        "type": "Kitty Litter Lab",
+        "description": "The first lab, sent by Dook after Here, Kitty Kitty. Go in through the green gate on the north-west side, turn right, then left after the white van: the green house with purple smoke.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-002",
+        "kind": "other",
+        "x": 492.4875,
+        "y": 476.828125,
+        "name": "Kitty Litter Lab: Crosstown Condo",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van by the plaza entrance on the south side. The lab is apartment 103: the white door on the second floor with purple cans in front.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-003",
+        "kind": "other",
+        "x": 478.28125,
+        "y": 477.03125,
+        "name": "Kitty Litter Lab: Rockridge Lockup",
+        "type": "Kitty Litter Lab",
+        "description": "Next to Peterson's Autoshop. Move the laundry van parked beside the shop to uncover the shutter.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-004",
+        "kind": "other",
+        "x": 468.265625,
+        "y": 486.621875,
+        "name": "Kitty Litter Lab: Rockridge Condo",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van by the open gate. Take the stairs on the right of the parking lot: apartment 5, the middle grey door upstairs.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-005",
+        "kind": "other",
+        "x": 475.478125,
+        "y": 470.38125,
+        "name": "Kitty Litter Lab: West La Perle Trailer",
+        "type": "Kitty Litter Lab",
+        "description": "Enter the trailer park through the double gate on the east side: the last trailer on the right. The people outside open fire.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-006",
+        "kind": "other",
+        "x": 429.36875,
+        "y": 492.821875,
+        "name": "Kitty Litter Lab: Balsero Trailer",
+        "type": "Kitty Litter Lab",
+        "description": "Enter the trailer park from the south-east and turn left: the green-trim trailer with purple smoke, the laundry van at its door.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-007",
+        "kind": "other",
+        "x": 453.228125,
+        "y": 497.25625,
+        "name": "Kitty Litter Lab: South Balsero Lockup",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van by a fence at the alley. Go through the guarded gate ahead: the lab is left of the kitty picture.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-008",
+        "kind": "other",
+        "x": 450.2625,
+        "y": 485.928125,
+        "name": "Kitty Litter Lab: North Balsero Lockup",
+        "type": "Kitty Litter Lab",
+        "description": "The shutter is behind the large gate next to the laundry van. Keypad code 1999 (the number on the billboard to the right).",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-009",
+        "kind": "other",
+        "x": 499.521875,
+        "y": 445.871875,
+        "name": "Kitty Litter Lab: Decor District",
+        "type": "Kitty Litter Lab",
+        "description": "Run through the parking lot from the south and open the shutter.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-010",
+        "kind": "other",
+        "x": 479.94375,
+        "y": 507.69375,
+        "name": "Kitty Litter Lab: Little Cuba Condo",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van in front of the apartments: the lab is the second door on the left.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-011",
+        "kind": "other",
+        "x": 466.85625,
+        "y": 552.359375,
+        "name": "Kitty Litter Lab: Salton Condo",
+        "type": "Kitty Litter Lab",
+        "description": "The lab door (top floor, second door) is locked: go round the right side to the back, climb the green dumpster and get in through the open window.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-012",
+        "kind": "other",
+        "x": 461.1,
+        "y": 510.015625,
+        "name": "Kitty Litter Lab: Salton Lockup",
+        "type": "Kitty Litter Lab",
+        "description": "Two laundry vans in the big parking lot. Jump the fence and go left through the gate: the shutter next to the van, with a guard.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-013",
+        "kind": "other",
+        "x": 476.759375,
+        "y": 542.471875,
+        "name": "Kitty Litter Lab: Tequesta Condo",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van by an apartment block with two stairways. Take the right-hand stairs: the lab is the door at the top.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-014",
+        "kind": "other",
+        "x": 484.253125,
+        "y": 482.940625,
+        "name": "Kitty Litter Lab: Vice City Lockup",
+        "type": "Kitty Litter Lab",
+        "description": "Run past the laundry van down the alley to the yellow shutters: the one just left of the alley, by the kitty picture.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-015",
+        "kind": "other",
+        "x": 464.115625,
+        "y": 533.215625,
+        "name": "Kitty Litter Lab: Vice-Dale Trailer",
+        "type": "Kitty Litter Lab",
+        "description": "Follow the path through the trailer park to the parked car, then climb in through the open window of the white trailer.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-016",
+        "kind": "other",
+        "x": 490.359375,
+        "y": 482.8375,
+        "name": "Kitty Litter Lab: Central Crosstown Lockup",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van in the tattoo parlour's parking lot. The brown shutter is behind the parlour, with a guard in front.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-017",
+        "kind": "other",
+        "x": 473.85625,
+        "y": 480.884375,
+        "name": "Kitty Litter Lab: Central Rockridge Lockup",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van in a parking lot. Go round the right of the building: the lab is behind the brown shutter.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-018",
+        "kind": "other",
+        "x": 479.59375,
+        "y": 487.125,
+        "name": "Kitty Litter Lab: East Rockridge Condo",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van outside the apartment block. The lab is the white door on the ground floor, at the side of the block.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-019",
+        "kind": "other",
+        "x": 487.95625,
+        "y": 475.175,
+        "name": "Kitty Litter Lab: North Crosstown Condo",
+        "type": "Kitty Litter Lab",
+        "description": "Laundry van in front of the block. Take the stairs in the parking lot: the white door furthest right on the second floor.",
+        "screenshot": null
+    },
+    {
+        "id": "kitty-litter-lab-020",
+        "kind": "other",
+        "x": 492.334375,
+        "y": 478.884375,
+        "name": "Kitty Litter Lab: North Crosstown Lockup",
+        "type": "Kitty Litter Lab",
+        "description": "The laundry van is parked in front of the shutter.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-001",
+        "kind": "other",
+        "x": 308.55625,
+        "y": 394.4625,
+        "name": "'67 Transgressor part 1/3",
+        "type": "Wyman Car",
+        "description": "Trailer park on Tanglewood Ln, north of Sarena's Bargain Store: a paved spot in the field with the pigs.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-002",
+        "kind": "other",
+        "x": 311.1875,
+        "y": 375.934375,
+        "name": "'67 Transgressor part 2/3",
+        "type": "Wyman Car",
+        "description": "North Port Gellhorn, Gellhorn Ave: go down the right side of the blue house with the sunflower garden to the garage at the back.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-003",
+        "kind": "other",
+        "x": 311.0625,
+        "y": 427.446875,
+        "name": "'67 Transgressor part 3/3",
+        "type": "Wyman Car",
+        "description": "Southern tip of Port Gellhorn: behind a wooden hut next to a broken fence.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-004",
+        "kind": "other",
+        "x": 424.709375,
+        "y": 705.825,
+        "name": "'70 Riata part 1/3",
+        "type": "Wyman Car",
+        "description": "Sunset Dr, Key Lento, opposite the police impound: under the house, in front of a shed.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-005",
+        "kind": "other",
+        "x": 315.896875,
+        "y": 712.375,
+        "name": "'70 Riata part 2/3",
+        "type": "Wyman Car",
+        "description": "Southwind, at the end of Cangrejo St (west of the Xero gas station): in the carport.",
+        "screenshot": "screenshots/gta6-wyman-car-005.webp"
+    },
+    {
+        "id": "wyman-car-006",
+        "kind": "other",
+        "x": 431.21875,
+        "y": 653.259375,
+        "name": "'70 Riata part 3/3",
+        "type": "Wyman Car",
+        "description": "Old Fort Rd, Shoreless Keys, north of Grassrivers Cafe & Deli: behind the abandoned gas station.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-007",
+        "kind": "other",
+        "x": 356.5,
+        "y": 436.9375,
+        "name": "'64 Mamba GT part 1/4",
+        "type": "Wyman Car",
+        "description": "East Gellhorn, north of Leonida State Prison: open the garage of the grey farmhouse.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-008",
+        "kind": "other",
+        "x": 429.9875,
+        "y": 384.03125,
+        "name": "'64 Mamba GT part 2/4",
+        "type": "Wyman Car",
+        "description": "Ambrosia, in the alley south of the Xero gas station: open the grey garage door of the green building.",
+        "screenshot": "screenshots/gta6-wyman-car-008.webp"
+    },
+    {
+        "id": "wyman-car-009",
+        "kind": "other",
+        "x": 405.371875,
+        "y": 251.125,
+        "name": "'64 Mamba GT part 3/4",
+        "type": "Wyman Car",
+        "description": "Broken bridge in north Moreau, north of Buck Creek Country Store: take the path down to the water.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-010",
+        "kind": "other",
+        "x": 390.928125,
+        "y": 366.3125,
+        "name": "'64 Mamba GT part 4/4",
+        "type": "Wyman Car",
+        "description": "In the pond east of the Thrillbilly Mud Club dirt track: the car is in the water.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-011",
+        "kind": "other",
+        "x": 467.55,
+        "y": 529.24375,
+        "name": "Reynolds Kit Car part 1/5",
+        "type": "Wyman Car",
+        "description": "Salton, Willie's Service Center on SW 7th Ave: break into the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-012",
+        "kind": "other",
+        "x": 538.25,
+        "y": 468.778125,
+        "name": "Reynolds Kit Car part 2/5",
+        "type": "Wyman Car",
+        "description": "North Casanova Island: behind the wooden gate of a house next to an empty plot.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-013",
+        "kind": "other",
+        "x": 269.721875,
+        "y": 413.01875,
+        "name": "Reynolds Kit Car part 3/5",
+        "type": "Wyman Car",
+        "description": "Wild Hog Point coast, far west of Port Gellhorn: open the SCOOP container.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-014",
+        "kind": "other",
+        "x": 357.171875,
+        "y": 619.40625,
+        "name": "Reynolds Kit Car part 4/5",
+        "type": "Wyman Car",
+        "description": "Watson Bay, Donnie's Auto Repair next to the Pay 'n' Spray: in the alley behind, in front of the shutters.",
+        "screenshot": null
+    },
+    {
+        "id": "wyman-car-015",
+        "kind": "other",
+        "x": 279.721875,
+        "y": 493.31875,
+        "name": "Reynolds Kit Car part 5/5",
+        "type": "Wyman Car",
+        "description": "North-west Capri: the house with two bins opposite a building site. Break into the garage down the right-hand driveway.",
+        "screenshot": null
+    },
+    {
+        "id": "garage-017",
+        "kind": "safehouse",
+        "x": 468.08125,
+        "y": 552.084375,
+        "name": "Southside Storage",
+        "type": "Garage",
+        "description": "Reward for finding all 5 1010 Murals: the garage comes with the unique 1010 Cheetah inside. 1 parking spot.",
+        "screenshot": null
+    },
+    {
+        "id": "garage-018",
+        "kind": "safehouse",
+        "x": 455.265625,
+        "y": 498.190625,
+        "name": "Domestic Timbers",
+        "type": "Garage",
+        "description": "Randy gives you this garage, together with the Tempesta, when you finish his questline (Randy's Wish List). 1 parking spot.",
+        "screenshot": null
+    },
+    {
+        "id": "waink-noflusher-001",
+        "kind": "other",
+        "x": 552.625,
+        "y": 430.28125,
+        "name": "No Flusher Tag 6: Mariposa Avenue",
+        "type": "Waink Noflusher",
+        "description": "On the sidewalk of Mariposa Ave, outside the tan and teal apartment block (north Washington Beach). Scan it with WAiNK.",
+        "screenshot": null
+    },
+    {
+        "id": "waink-noflusher-002",
+        "kind": "other",
+        "x": 562,
+        "y": 473.875,
+        "name": "No Flusher Tag 12: Tootsie Katz",
+        "type": "Waink Noflusher",
+        "description": "On the sidewalk of Cabega St, outside the Tootsie Katz Shrimp House (north Ocean Beach). Scan it with WAiNK.",
+        "screenshot": "screenshots/gta6-waink-noflusher-002.webp"
+    },
+    {
+        "id": "garage-019",
+        "kind": "safehouse",
+        "x": 490.875,
+        "y": 468.75,
+        "name": "Caledonia Boulevard Garage (GTA+)",
+        "type": "Garage",
+        "description": "The GTA+ garage: GTA+ members claim it together with the Annis Venturas BLVD Elegy, which is parked here.",
+        "screenshot": "screenshots/gta6-garage-019.webp"
     }
 ]

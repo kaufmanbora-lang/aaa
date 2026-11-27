@@ -19,7 +19,7 @@
    "No story-mode vehicle, weapon or item duplication glitch was found in written sources; only YouTube video titles claim one.",
    "No respawning-safe, cash-register or ATM exploit other than the Apollo Aggregates warehouse was found."
   ],
-  "last_checked": "2026-11-26",
+  "last_checked": "2026-11-27",
   "check_log": [
    {
     "date": "2026-11-25",
@@ -30,6 +30,11 @@
     "date": "2026-11-26",
     "searches": 5,
     "result": "No update newer than 01.002.002. Outlets dated after the 23 November patch (GTA BOOM, RetroBroker, GameSpot) still describe the Apollo Aggregates loot respawn as working. Nothing found on the Missing Persons softlock or the Donnie payment bug. Secrets mentioned in round-ups (presidential bunkers, radio-mast egg nest, ghost ship, Marbelle hotel) were already on the map."
+   },
+   {
+    "date": "2026-11-27",
+    "searches": 6,
+    "result": "No update newer than 01.002.002 and no report of a hotfix. No status change for the listed glitches; no new location-based glitch found. New secret confirmed by several outlets: the Vice City portal chain (Badger R&D tower -> 12 LPL substations -> Reactor 2 at the Turtle Head power station), added to extras_manual.json."
    }
   ]
  },

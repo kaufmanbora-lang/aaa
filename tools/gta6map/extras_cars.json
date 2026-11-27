@@ -861,14 +861,9 @@
   "f": []
  },
  {
-  "id": "xcc32-ddd97",
-  "n": "Sirius '67 Transgressor (остов)",
+  "merge_any": "o-wyman-car-001",
+  "n": "Sirius '67 Transgressor — wreck 1 of 3",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -6552,
-  "y": 3607,
-  "t": "Первый остов Transgressor '67 стоит в трейлерном парке на Tanglewood Lane, к северу от Sarena's Bargain Store, на асфальтовой площадке у загона со свиньями. Отсканируйте его через WAiNK.",
   "u": [
    [
     "pro-gamer.gg",
@@ -887,29 +882,14 @@
     "https://grom.press/en/read/899c0ac6-2531-42b3-8d1d-0045346b1c97/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "трейлерный парк на Tanglewood Lane, севернее Sarena's Bargain Store"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
-  "id": "xcc33-7bfda",
-  "n": "Sirius '67 Transgressor (остов)",
+  "merge_any": "o-wyman-car-002",
+  "n": "Sirius '67 Transgressor — wreck 2 of 3",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -6360,
-  "y": 4332,
-  "t": "Второй остов Transgressor '67 стоит у дома на Gellhorn Avenue напротив Kolt & Associates Stash House, восточнее Brooks Boatworks. Достаточно отсканировать через WAiNK.",
   "u": [
    [
     "pro-gamer.gg",
@@ -928,29 +908,14 @@
     "https://grom.press/en/read/899c0ac6-2531-42b3-8d1d-0045346b1c97/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "дом на Gellhorn Ave напротив Stash House"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
-  "id": "xcc34-78404",
-  "n": "Sirius '67 Transgressor (остов)",
+  "merge_any": "o-wyman-car-003",
+  "n": "Sirius '67 Transgressor — wreck 3 of 3",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -6393,
-  "y": 2790,
-  "t": "Третий остов Transgressor '67 находится за мотомагазином Dirt Merchants в Port Gellhorn. После трёх сканов Уайман попросит $1,500 за восстановление.",
   "u": [
    [
     "grom.press",
@@ -969,23 +934,14 @@
     "https://howtovideogame.com/gta-6-wyman-car-locations/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "Dirt Merchants"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1
+  "f": []
  },
  {
-  "merge_any": "o-vehicle-spawn-036",
+  "merge_any": "o-wyman-car-005",
   "n": "'70 Riata — wreck (Southwind)",
-  "c": "veh_standout",
+  "c": "veh_randy",
   "u": [
    [
     "gamesradar.com",
@@ -1009,14 +965,9 @@
   "f": []
  },
  {
-  "id": "xcc37-b0c68",
-  "n": "'70 Riata (остов)",
+  "merge_any": "o-wyman-car-004",
+  "n": "'70 Riata — wreck (Key Lento)",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -2418,
-  "y": -4871,
-  "t": "Остов Riata '70 лежит за заброшенной заправкой к северу от Grassrivers Cafe & Deli в Shoeless Keys (подъезд по Old Fort Road). Это зона на четыре звезды — возможен полицейский вертолёт.",
   "u": [
    [
     "gamesradar.com",
@@ -1033,34 +984,42 @@
    [
     "magicgameworld.com",
     "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/"
+   ]
+  ],
+  "v": 2,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "o-wyman-car-006",
+  "n": "'70 Riata — wreck (Shoeless Keys)",
+  "c": "veh_randy",
+  "u": [
+   [
+    "gamesradar.com",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/"
+   ],
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/"
    ],
    [
     "theclick.gg",
-    "https://www.theclick.gg/gta-6-wyman-car-locations/"
-   ]
-  ],
-  "f": [
+    "https://www.theclick.gg/gta-6-riata-locations/"
+   ],
    [
-    "Привязка на карте",
-    "Shoeless Keys"
+    "magicgameworld.com",
+    "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/"
    ]
-  ],
-  "s": [
-   "web"
   ],
   "v": 3,
   "fld": {},
-  "force_new": 1
+  "f": []
  },
  {
-  "id": "xcc38-07168",
-  "n": "'64 Mamba GT (остов)",
+  "merge_any": "o-wyman-car-007",
+  "n": "'64 Mamba GT — wreck (prison farmhouse)",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -5061,
-  "y": 1819,
-  "t": "Остов Mamba GT '64 стоит в гараже фермерского дома к северу от тюрьмы Leonida State Prison. Сломайте частные ворота напротив здания Gruppe6 и зайдите в гараж слева от дома через заднюю дверь.",
   "u": [
    [
     "pcgamer.com",
@@ -1075,24 +1034,14 @@
     "https://www.theclick.gg/gta-6-mamba-gt-locations/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "ферма к северу от Leonida State Prison"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
-  "merge_any": "xv42",
+  "merge_any": "o-wyman-car-008",
   "n": "'64 Mamba GT — wreck (Ambrosia)",
-  "c": "veh_standout",
+  "c": "veh_randy",
   "u": [
    [
     "pcgamer.com",
@@ -1112,14 +1061,9 @@
   "f": []
  },
  {
-  "id": "xcc40-98a3c",
-  "n": "'64 Mamba GT (остов)",
+  "merge_any": "o-wyman-car-010",
+  "n": "'64 Mamba GT — wreck (Thrillbilly Mud Club)",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -3994,
-  "y": 4754,
-  "t": "Остов Mamba GT '64 наполовину затоплен в небольшом пруду чуть восточнее маркера «Mud Club - Dirt Track Races». Сканировать можно прямо с берега.",
   "u": [
    [
     "pcgamer.com",
@@ -1134,28 +1078,14 @@
     "https://www.theclick.gg/gta-6-mamba-gt-locations/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "Thrillbilly Mud Club"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1
+  "f": []
  },
  {
-  "id": "xcc42-3f15e",
-  "n": "Reynolds Kit Car (остов)",
+  "merge_any": "o-wyman-car-013",
+  "n": "Reynolds Kit Car — wreck (Wild Hog Point container)",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -7574,
-  "y": 3284,
-  "t": "Остов Reynolds Kit Car заперт в контейнере SCOOP на полуострове Wild Hog Point. Чтобы срезать замок, нужен Cut-Off Tool из миссии Meet the Heders (глава 3).",
   "u": [
    [
     "gamesradar.com",
@@ -1172,38 +1102,16 @@
    [
     "pro-gamer.gg",
     "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
-   ],
-   [
-    "sportskeeda.com",
-    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
    ]
-  ],
-  "f": [
-   [
-    "Привязка на карте",
-    "Wild Hog Point"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
   ],
   "v": 3,
   "fld": {},
-  "force_new": 1
+  "f": []
  },
  {
-  "id": "xcc43-85b61",
-  "n": "Reynolds Kit Car (остов)",
+  "merge_any": "o-wyman-car-011",
+  "n": "Reynolds Kit Car — wreck (Willie's Service Center)",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -1425,
-  "y": -569,
-  "t": "Остов Reynolds Kit Car стоит в автосервисе Willie's Service Center на SW 7th Ave в Salton. Внутрь попадают через запертую боковую дверь.",
   "u": [
    [
     "pcgamer.com",
@@ -1218,33 +1126,14 @@
     "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "район Salton"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
-  "id": "xcc44-3f5c7",
-  "n": "Reynolds Kit Car (остов)",
+  "merge_any": "o-wyman-car-015",
+  "n": "Reynolds Kit Car — wreck (Capri mansion garage)",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -6831,
-  "y": 225,
-  "t": "Остов Reynolds Kit Car спрятан в гараже особняка на севере Capri, на изогнутом полуострове с домами. Придётся взломать гараж.",
   "u": [
    [
     "gamesradar.com",
@@ -1259,33 +1148,14 @@
     "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "район Capri"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
-  "id": "xcc45-07d6d",
-  "n": "Reynolds Kit Car (остов)",
+  "merge_any": "o-wyman-car-014",
+  "n": "Reynolds Kit Car — wreck (Watson Bay)",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": -4824,
-  "y": -3364,
-  "t": "Остов Reynolds Kit Car стоит за автомастерской Donnies Auto Repair в Watson Bay. Идите по гравийной дорожке вокруг дома.",
   "u": [
    [
     "gamesradar.com",
@@ -1300,29 +1170,14 @@
     "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "за автомастерской Donnies Auto Repair, Watson Bay"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
-  "id": "xcc46-984b1",
-  "n": "Reynolds Kit Car (остов)",
+  "merge_any": "o-wyman-car-012",
+  "n": "Reynolds Kit Car — wreck (Casanova Island)",
   "c": "veh_randy",
-  "r": 3,
-  "sub": "Заказ Уаймана (остов для восстановления)",
-  "x": 1250,
-  "y": 1447,
-  "t": "Остов Reynolds Kit Car стоит на подъездной дорожке особняка на Casanova Island (Rialto Islands). Отсканируйте его через WAiNK.",
   "u": [
    [
     "gamesradar.com",
@@ -1337,23 +1192,9 @@
     "https://pro-gamer.gg/where-to-find-all-3-transgressor-locations-wyman-gta-6-port-gellhorn-sirius-67-guide/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "подъезд к особняку на Casanova Island"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
   "merge_any": "o-standout-vehicle-276",
@@ -3269,14 +3110,35 @@
   "ap": 1
  },
  {
-  "id": "xcr411-3ee63",
-  "n": "Vapid '70 Riata (остов)",
-  "c": "veh_standout",
-  "r": 3,
-  "sub": "Редкая машина (по гайдам)",
-  "x": -2766,
-  "y": -6149,
-  "t": "Остов '70 Riata для коллекции Ваймана в Ки-Ленто: на Sunset Dr, в нескольких домах к юго-западу от «рождественского дома» (другой гайд: к западу от Key Lento Mini Mart, на боковой дороге у берега). Не на ходу — сканируется приложением WAiNK.",
+  "merge_any": "o-wyman-car-006",
+  "n": "Vapid '70 Riata (wreck, Wyman's Classic Car Collection)",
+  "c": "veh_randy",
+  "u": [
+   [
+    "gamesradar.com",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/"
+   ],
+   [
+    "magicgameworld.com",
+    "https://www.magicgameworld.com/gta-6-survivor-riata-locations-where-to-find-wymans-three-wrecks/"
+   ],
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/"
+   ],
+   [
+    "theclick.gg",
+    "https://www.theclick.gg/gta-6-wyman-car-locations/"
+   ]
+  ],
+  "v": 3,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "o-wyman-car-004",
+  "n": "Vapid '70 Riata (wreck, Wyman's Classic Car Collection)",
+  "c": "veh_randy",
   "u": [
    [
     "pushsquare.com",
@@ -3295,23 +3157,9 @@
     "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/"
    ]
   ],
-  "f": [
-   [
-    "Привязка на карте",
-    "рядом с Christmas House"
-   ],
-   [
-    "Расхождение в гайдах",
-    "встречаются и другие места появления — см. источники"
-   ]
-  ],
-  "s": [
-   "web"
-  ],
   "v": 3,
   "fld": {},
-  "force_new": 1,
-  "ap": 1
+  "f": []
  },
  {
   "merge_any": "i1091159",
@@ -4092,6 +3940,28 @@
    [
     "gameta.gg",
     "https://gameta.gg/gta6/map/standout-vehicles/"
+   ]
+  ],
+  "v": 2,
+  "fld": {},
+  "f": []
+ },
+ {
+  "merge_any": "o-wyman-car-013",
+  "n": "Reynolds Kit Car (wreck for Wyman's collection)",
+  "c": "veh_randy",
+  "u": [
+   [
+    "pcgamer.com",
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/"
+   ],
+   [
+    "gamesradar.com",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/"
+   ],
+   [
+    "sportskeeda.com",
+    "https://www.sportskeeda.com/gta/all-hidden-cars-shipping-containers-gta-6-find"
    ]
   ],
   "v": 2,

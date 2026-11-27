@@ -129,6 +129,7 @@ IGN_CAT = {
 # Open GTA 6 Map "type" -> category (None = skip)
 OM_CAT = {
     'Standout vehicle': 'veh_standout', 'Vehicle spawn': 'veh_standout', 'Vehicle request': 'veh_randy',
+    'Wyman Car': 'veh_randy', 'Kitty Litter Lab': 'gang', 'Waink Noflusher': 'waink_c',
     'Unique Weapon': 'weapon', 'Weapon pickup': 'wpickup', 'Safe': 'safe', 'Luxury Watch': 'valuable',
     'Easter Egg': 'secret', 'Random event': 'event', 'Yellow Loot Box': 'loot', 'Scoop Container': 'scoop',
     'Hidden package': 'package', 'Meteorite': 'meteorite', 'Treasure': 'treasure', 'Message in a bottle': 'treasure',
@@ -176,6 +177,7 @@ OM_SUB = {
     'Comics': 'Комикс', 'Comic': 'Комикс', 'Shoe shop': 'Обувь', 'Fire station': 'Пожарная часть', 'Hospital': 'Больница',
     'Gang compound': 'База банды', 'Car Meet': 'Автовстреча', 'Mini golf': 'Мини-гольф', 'Golf': 'Гольф', 'Cinema': 'Кинотеатр',
     "Smash 'n' Grab": "Smash 'n' Grab",
+    'Wyman Car': 'Остов машины для Уаймана', 'Kitty Litter Lab': 'Лаборатория Kitty Litter', 'Waink Noflusher': 'Тег No Flusher',
 }
 LABEL = {
     'Access': 'Двери', 'Security': 'Охрана', 'Tracker': 'Трекер', 'Sell Value': 'Цена продажи',
@@ -252,6 +254,11 @@ M = {
     'register': 'Регистрация делает машину личной. Цену показывает скан WAiNK; первая регистрация у Мозеса бесплатна.',
     'randy': 'Рэнди (автосалон в Balsero, с середины главы 3) покупает дорогие машины из своего списка, даже с красным трекером.',
     'moses': 'Мозес (Port Gellhorn, с главы 2) берёт только машины без трекера и не берёт угнанные рядом с его мастерской.',
+    'wyman': 'Остовы для Уаймана доступны только в Ultimate Edition: открываются во 2-й главе после задания Thrillbillies и доставки Dominator Buggy. '
+             'Остов не угоняют, а сканируют в WAiNK; когда найдены все части одной машины, её восстанавливают за плату через BuckMe. '
+             'Прогресс: Map → Exploration → Find Cars for Wyman.',
+    'kitty': 'Лаборатории Kitty Litter открываются после задания «Here, Kitty Kitty»: адреса присылает Dook. '
+             'Вход проще всего найти по фургону прачечной, который стоит рядом.',
     'unique_weapon': 'Подобрав один раз, оружие можно бесплатно вернуть в любом оружейном шкафчике (Manage Weapons → Variants). Потерять его нельзя.',
     'gang_item': 'Лежит на охраняемой территории банды: придётся красться или пробиваться. Точки банд со временем пополняются.',
     'safe': 'Сейфы открываются кодом: у части он фиксированный, у магазинов и банков случайный — ищите на месте или запугайте персонал. Можно взорвать Sticky Bomb, но это шумно и портит добычу.',

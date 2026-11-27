@@ -1,0 +1,107 @@
+[
+ {
+  "merge_any": "o-easter-egg-054",
+  "n": "Vice City portal: start",
+  "c": "secret",
+  "v": 3,
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-old-vice-city-portal-easter-egg/"
+   ],
+   [
+    "khelnow.com",
+    "https://khelnow.com/gaming/gta-6-vice-city-portal-guide-202611"
+   ],
+   [
+    "purexbox.com",
+    "https://www.purexbox.com/news/2026/11/gta-6s-most-spectacular-easter-egg-so-far-has-just-been-discovered"
+   ],
+   [
+    "gamesradar.com",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/"
+   ],
+   [
+    "intoindiegames.com",
+    "https://intoindiegames.com/walkthroughs/tips-tricks/grand-theft-auto-6-gta6-secret-vice-city-portal-time-travel-tommy-vercetti-easter-egg/"
+   ]
+  ],
+  "f": [
+   [
+    "Цепочка",
+    "Начало пасхалки «Портал в Vice City 1986»"
+   ],
+   [
+    "Порядок на 12 подстанциях LPL",
+    "D, D, точка, A, точка, A, A, A, точка, W, D, W"
+   ],
+   [
+    "Финал",
+    "Reactor 2 электростанции LPL Turtle Head, с 19:00 до 06:00"
+   ]
+  ]
+ },
+ {
+  "id": "xm-vcportal",
+  "n": "Портал в Vice City 1986 (пасхалка-головоломка)",
+  "c": "secret",
+  "r": 5,
+  "x": -1514,
+  "y": -3772,
+  "ap": 1,
+  "sub": "Финал цепочки с подстанциями LPL",
+  "s": [
+   "web"
+  ],
+  "v": 3,
+  "u": [
+   [
+    "beebom.com",
+    "https://beebom.com/gta-6-old-vice-city-portal-easter-egg/"
+   ],
+   [
+    "khelnow.com",
+    "https://khelnow.com/gaming/gta-6-vice-city-portal-guide-202611"
+   ],
+   [
+    "purexbox.com",
+    "https://www.purexbox.com/news/2026/11/gta-6s-most-spectacular-easter-egg-so-far-has-just-been-discovered"
+   ],
+   [
+    "gamesradar.com",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/"
+   ],
+   [
+    "intoindiegames.com",
+    "https://intoindiegames.com/walkthroughs/tips-tricks/grand-theft-auto-6-gta6-secret-vice-city-portal-time-travel-tommy-vercetti-easter-egg/"
+   ]
+  ],
+  "t": "Финал многоходовой пасхалки. Начните в диспетчерской на вершине вышки Badger R&D в Key Lento (рядом с Nifty Threads Island Wear): поднимите рычаг на щитке у двери — заиграет звук из старой Vice City, а на телевизоре появится логотип Malibu Club. Затем на 12 подстанциях LPL по очереди «наберите» чит 2002 года LIFEISPASSINGMEBY: D, D, точка, A, точка, A, A, A, точка, W, D, W (знак каждой подстанции подсказывает розовая лента). Быстрое перемещение и переключение на Lucia сбрасывают последовательность, ошибка — тоже. После последней подстанции придёт сообщение «U-235 REACTOR2 19-06»: с 19:00 до 06:00 войдите в Reactor 2 электростанции LPL Turtle Head к востоку от Hamlet — Jason попадёт в клуб Malibu 1986 года.",
+  "f": [
+   [
+    "Привязка на карте",
+    "электростанция T.H. Power Station (Turtle Head), блок 2 — по ориентирам GTADB"
+   ],
+   [
+    "Начало",
+    "вышка Badger R&D, Key Lento"
+   ],
+   [
+    "Когда",
+    "с 19:00 до 06:00 игрового времени"
+   ],
+   [
+    "Сообщение-подсказка",
+    "U-235 REACTOR2 19-06"
+   ],
+   [
+    "Награда",
+    "по одному из гайдов — костюм Tommy Vercetti и мотоцикл"
+   ],
+   [
+    "Подстанции",
+    "гайды расходятся в местах отдельных подстанций, поэтому на карту они не нанесены"
+   ]
+  ]
+ }
+]

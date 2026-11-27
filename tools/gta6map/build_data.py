@@ -551,6 +551,9 @@ extras = [] if args.no_extras or not os.path.exists(args.extras) else json.load(
 cars_path = os.path.join(HERE, 'extras_cars.json')
 if not args.no_extras and not args.no_cars and os.path.exists(cars_path):
     extras += json.load(open(cars_path, encoding='utf8'))
+manual_path = os.path.join(HERE, 'extras_manual.json')      # finds added by hand during the daily checks (two or more sources each)
+if not args.no_extras and os.path.exists(manual_path):
+    extras += json.load(open(manual_path, encoding='utf8'))
 _by_id = {q['id']: q for q in derived + ign_markers}
 _any_id = {q['id']: q for q in derived + ign_markers + om_markers}
 _by_name = collections.defaultdict(list)
@@ -665,6 +668,8 @@ def requirements(mk):
     q, summary = [], None
     if c == 'veh_lux':
         q.append(['keyfob', 'y', 'Дорогие машины обычно с защитой', M['lux']])
+    elif c.startswith('veh_') and re.search(r'\(остов\)|\bpart \d+/\d+|остов', mk['n'] + ' ' + (mk.get('sub') or ''), re.I):
+        q.append(['scan', 'b', 'Отсканировать остов в WAiNK', M['wyman']])      # a wreck for Wyman: nothing to break into
     elif c.startswith('veh_'):
         acc, sec, trk = [('' if '?' in fld.get(k, '') else fld.get(k, '').strip()) for k in ('Access', 'Security', 'Tracker')]
         if acc == 'Unlocked':
@@ -747,7 +752,7 @@ def requirements(mk):
         if c == 'bigbank':
             q.append(['vault', 'r', 'Хранилище — поздняя игра', M['vault']])
         else:
-            q.append(['clock', 'b', 'Когда доступно', M[ROB_NOTE[c]]])
+            q.append(['clock', 'b', 'Когда доступно', M['kitty' if 'Kitty Litter' in (mk.get('sub') or '') else ROB_NOTE[c]]])
         if c == 'gang' and fd.get('Ключевые ценности'):
             q.append(['gem', 'b', 'Ключевые ценности', fd['Ключевые ценности']])
     elif c == 'card':
