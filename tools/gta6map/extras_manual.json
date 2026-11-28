@@ -103,5 +103,70 @@
     "гайды расходятся в местах отдельных подстанций, поэтому на карту они не нанесены"
    ]
   ]
+ },
+ {
+  "merge_any": "o-unique-weapon-018",
+  "n": "Tallaloko Knife",
+  "c": "weapon",
+  "v": 3,
+  "u": [
+   [
+    "intoindiegames.com",
+    "https://intoindiegames.com/walkthroughs/tips-tricks/grand-theft-auto-6-secret-ritual-room-tallaloko-knife-landmark-symbols-easter-egg/"
+   ],
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-four-horsemen-ritual-room-code-location/"
+   ],
+   [
+    "gta6.house",
+    "https://gta6.house/guides/gta-6-lake-tallaloko-ritual-room-door-code"
+   ]
+  ],
+  "t": "Лежит в ритуальной комнате хижины на западном берегу Lake Tallaloko. Дверь открывает код 7304, но панель заработает только после того, как вы прочтёте два письма: одно на подводной станции (нужен акваланг — его продаёт Kenton в Key Lento), другое в магазине в Watson Bay. Внутри — круг призыва, ящик примерно с $67 200 и сам нож.",
+  "f": [
+   [
+    "Код",
+    "7304 (дверь хижины)"
+   ],
+   [
+    "Условие",
+    "сначала прочтите два письма: на подводной станции и в магазине в Watson Bay"
+   ],
+   [
+    "В комнате",
+    "круг призыва, ящик примерно с $67 200, Tallaloko Knife"
+   ]
+  ]
+ },
+ {
+  "merge_any": "o-safe-079",
+  "n": "Safe (Lake Tallaloko cabin)",
+  "c": "safe",
+  "v": 3,
+  "u": [
+   [
+    "intoindiegames.com",
+    "https://intoindiegames.com/walkthroughs/tips-tricks/grand-theft-auto-6-secret-ritual-room-tallaloko-knife-landmark-symbols-easter-egg/"
+   ],
+   [
+    "gamerant.com",
+    "https://gamerant.com/gta-6-four-horsemen-ritual-room-code-location/"
+   ],
+   [
+    "gta6.house",
+    "https://gta6.house/guides/gta-6-lake-tallaloko-ritual-room-door-code"
+   ]
+  ],
+  "f": [
+   [
+    "Код двери хижины",
+    "7304 — работает после двух писем (подводная станция и магазин в Watson Bay)"
+   ],
+   [
+    "По гайдам",
+    "в ритуальной комнате стоит ящик примерно с $67 200"
+   ]
+  ]
  }
 ]

@@ -48872,7 +48872,7 @@
     },
     {
         "id": "unique-weapon-001",
-        "kind": "other",
+        "kind": "weapon",
         "x": 313.9375,
         "y": 405.875,
         "name": "Basher Gorse 425",
@@ -49502,7 +49502,7 @@
     },
     {
         "id": "unique-weapon-002",
-        "kind": "other",
+        "kind": "weapon",
         "x": 312.5625,
         "y": 411.1875,
         "name": "Gutterball Moreland 850",
@@ -49512,7 +49512,7 @@
     },
     {
         "id": "unique-weapon-003",
-        "kind": "other",
+        "kind": "weapon",
         "x": 515.9375,
         "y": 500.78125,
         "name": "Quarter Mile ES9",
@@ -49522,7 +49522,7 @@
     },
     {
         "id": "unique-weapon-004",
-        "kind": "other",
+        "kind": "weapon",
         "x": 459.4375,
         "y": 573.5625,
         "name": "PTT Youngin$ K17",
@@ -49532,7 +49532,7 @@
     },
     {
         "id": "unique-weapon-005",
-        "kind": "other",
+        "kind": "weapon",
         "x": 499.8125,
         "y": 451.96875,
         "name": "San4San K17",
@@ -49552,7 +49552,7 @@
     },
     {
         "id": "unique-weapon-006",
-        "kind": "other",
+        "kind": "weapon",
         "x": 360.15625,
         "y": 352.34375,
         "name": "Hellspawn Comshot 12",
@@ -49582,7 +49582,7 @@
     },
     {
         "id": "unique-weapon-007",
-        "kind": "other",
+        "kind": "weapon",
         "x": 424.3125,
         "y": 371.03125,
         "name": "Stoner K17 MCD",
@@ -49592,7 +49592,7 @@
     },
     {
         "id": "unique-weapon-008",
-        "kind": "other",
+        "kind": "weapon",
         "x": 420.3125,
         "y": 305.34375,
         "name": "The Patriarch DRX",
@@ -49602,7 +49602,7 @@
     },
     {
         "id": "unique-weapon-009",
-        "kind": "other",
+        "kind": "weapon",
         "x": 386.6875,
         "y": 252.78125,
         "name": "Lyle's H&L .38",
@@ -49612,7 +49612,7 @@
     },
     {
         "id": "unique-weapon-010",
-        "kind": "other",
+        "kind": "weapon",
         "x": 390.46875,
         "y": 249.875,
         "name": "Dirty Drifter",
@@ -49622,7 +49622,7 @@
     },
     {
         "id": "unique-weapon-011",
-        "kind": "other",
+        "kind": "weapon",
         "x": 571.84375,
         "y": 498.96875,
         "name": "Little Friend W-10",
@@ -49632,7 +49632,7 @@
     },
     {
         "id": "unique-weapon-012",
-        "kind": "other",
+        "kind": "weapon",
         "x": 333.9375,
         "y": 561.125,
         "name": "Cold War 556",
@@ -49642,7 +49642,7 @@
     },
     {
         "id": "unique-weapon-013",
-        "kind": "other",
+        "kind": "weapon",
         "x": 429.8125,
         "y": 299.1875,
         "name": "Twin's Laird 350",
@@ -49652,7 +49652,7 @@
     },
     {
         "id": "unique-weapon-014",
-        "kind": "other",
+        "kind": "weapon",
         "x": 558.53125,
         "y": 430.21875,
         "name": "IAA SMS-01",
@@ -49662,7 +49662,7 @@
     },
     {
         "id": "unique-weapon-015",
-        "kind": "other",
+        "kind": "weapon",
         "x": 562.125,
         "y": 432.65625,
         "name": "Internal Affairs FF-SR",
@@ -49672,7 +49672,7 @@
     },
     {
         "id": "unique-weapon-016",
-        "kind": "other",
+        "kind": "weapon",
         "x": 564.75,
         "y": 439.6875,
         "name": "FIB SM-69",
@@ -49682,7 +49682,7 @@
     },
     {
         "id": "unique-weapon-017",
-        "kind": "other",
+        "kind": "weapon",
         "x": 482.375,
         "y": 541.15625,
         "name": "Deever Tech GLR40",
@@ -49692,7 +49692,7 @@
     },
     {
         "id": "unique-weapon-018",
-        "kind": "other",
+        "kind": "weapon",
         "x": 452.875,
         "y": 292.3125,
         "name": "Tallaloko Knife",
@@ -49702,7 +49702,7 @@
     },
     {
         "id": "unique-weapon-019",
-        "kind": "other",
+        "kind": "weapon",
         "x": 408.25,
         "y": 225.375,
         "name": "Shark Knife",
@@ -49712,7 +49712,7 @@
     },
     {
         "id": "unique-weapon-020",
-        "kind": "other",
+        "kind": "weapon",
         "x": 539.5,
         "y": 518.875,
         "name": "Mercenary LMG 6",
@@ -49722,7 +49722,7 @@
     },
     {
         "id": "unique-weapon-021",
-        "kind": "other",
+        "kind": "weapon",
         "x": 304.75,
         "y": 565.75,
         "name": "Soldier's Combat Knife",
@@ -49732,7 +49732,7 @@
     },
     {
         "id": "unique-weapon-022",
-        "kind": "other",
+        "kind": "weapon",
         "x": 449.71875,
         "y": 388.8125,
         "name": "Ride Free H&L .38",
@@ -49742,7 +49742,7 @@
     },
     {
         "id": "unique-weapon-023",
-        "kind": "other",
+        "kind": "weapon",
         "x": 470.28125,
         "y": 288.71875,
         "name": "Marabunta Grande Type 9",
@@ -49752,7 +49752,7 @@
     },
     {
         "id": "unique-weapon-024",
-        "kind": "other",
+        "kind": "weapon",
         "x": 459.46875,
         "y": 567.96875,
         "name": "Eris Fresh DSG",
@@ -49762,7 +49762,7 @@
     },
     {
         "id": "unique-weapon-025",
-        "kind": "other",
+        "kind": "weapon",
         "x": 345.90625,
         "y": 547.75,
         "name": "Chronic Vatra",
@@ -49772,7 +49772,7 @@
     },
     {
         "id": "unique-weapon-026",
-        "kind": "other",
+        "kind": "weapon",
         "x": 471.0625,
         "y": 489.4375,
         "name": "San4San Gorse 425",
@@ -49782,7 +49782,7 @@
     },
     {
         "id": "unique-weapon-027",
-        "kind": "other",
+        "kind": "weapon",
         "x": 426.34375,
         "y": 384.25,
         "name": "Final Chapter Shortstraw",
@@ -49792,7 +49792,7 @@
     },
     {
         "id": "unique-weapon-028",
-        "kind": "other",
+        "kind": "weapon",
         "x": 475.375,
         "y": 394.90625,
         "name": "Throttler Verro",
@@ -49802,7 +49802,7 @@
     },
     {
         "id": "unique-weapon-029",
-        "kind": "other",
+        "kind": "weapon",
         "x": 358.1875,
         "y": 590.8125,
         "name": "Hostile Super400",
@@ -49812,7 +49812,7 @@
     },
     {
         "id": "unique-weapon-030",
-        "kind": "other",
+        "kind": "weapon",
         "x": 418.40625,
         "y": 387.375,
         "name": "Final Chapter KVGA-12",
@@ -49822,7 +49822,7 @@
     },
     {
         "id": "unique-weapon-031",
-        "kind": "other",
+        "kind": "weapon",
         "x": 307.9375,
         "y": 375.65625,
         "name": "Clunker 556",
@@ -49832,7 +49832,7 @@
     },
     {
         "id": "unique-weapon-032",
-        "kind": "other",
+        "kind": "weapon",
         "x": 439.5625,
         "y": 489.59375,
         "name": "GRX 556",
@@ -49842,7 +49842,7 @@
     },
     {
         "id": "unique-weapon-033",
-        "kind": "other",
+        "kind": "weapon",
         "x": 435.40625,
         "y": 617.75,
         "name": "Marabunta Grande KZ-59",
@@ -49852,7 +49852,7 @@
     },
     {
         "id": "unique-weapon-034",
-        "kind": "other",
+        "kind": "weapon",
         "x": 473.25,
         "y": 473.65625,
         "name": "San4San KZ-59",
@@ -49862,7 +49862,7 @@
     },
     {
         "id": "unique-weapon-035",
-        "kind": "other",
+        "kind": "weapon",
         "x": 477.53125,
         "y": 499.0625,
         "name": "Guardia Brothers FRA",
@@ -49962,7 +49962,7 @@
     },
     {
         "id": "unique-weapon-037",
-        "kind": "other",
+        "kind": "weapon",
         "x": 564.625,
         "y": 469.21875,
         "name": "Vice City Heathen",
@@ -51172,7 +51172,7 @@
     },
     {
         "id": "unique-weapon-036",
-        "kind": "other",
+        "kind": "weapon",
         "x": 400.6875,
         "y": 639.4375,
         "name": "Cruel Huntsman's SM-69",
@@ -51302,7 +51302,7 @@
     },
     {
         "id": "unique-weapon-038",
-        "kind": "other",
+        "kind": "weapon",
         "x": 425.375,
         "y": 714.9375,
         "name": "Gun Nut SMS-01",
@@ -51612,7 +51612,7 @@
     },
     {
         "id": "unique-weapon-039",
-        "kind": "other",
+        "kind": "weapon",
         "x": 428.09375,
         "y": 701.25,
         "name": "Donnie's H&L .38",
@@ -51642,7 +51642,7 @@
     },
     {
         "id": "unique-weapon-040",
-        "kind": "other",
+        "kind": "weapon",
         "x": 517,
         "y": 346.5,
         "name": "President Russo's Pistol",
@@ -53442,7 +53442,7 @@
     },
     {
         "id": "unique-weapon-041",
-        "kind": "other",
+        "kind": "weapon",
         "x": 443.6875,
         "y": 318.6875,
         "name": "Hunter's Sniper Rifle (reward)",
@@ -54502,7 +54502,7 @@
     },
     {
         "id": "unique-weapon-042",
-        "kind": "other",
+        "kind": "weapon",
         "x": 351.34375,
         "y": 568.59375,
         "name": "Donnie's Knife",
@@ -54752,7 +54752,7 @@
     },
     {
         "id": "unique-weapon-045",
-        "kind": "other",
+        "kind": "weapon",
         "x": 408.9375,
         "y": 379.46875,
         "name": "Jack Sheepe H&L .38",
@@ -54762,7 +54762,7 @@
     },
     {
         "id": "unique-weapon-046",
-        "kind": "other",
+        "kind": "weapon",
         "x": 300.84375,
         "y": 515.25,
         "name": "Woodhatch Longshot",
@@ -54772,7 +54772,7 @@
     },
     {
         "id": "unique-weapon-047",
-        "kind": "other",
+        "kind": "weapon",
         "x": 445.125,
         "y": 685.03125,
         "name": "Mahi Nipper .38",
@@ -54782,7 +54782,7 @@
     },
     {
         "id": "unique-weapon-043",
-        "kind": "other",
+        "kind": "weapon",
         "x": 369.8125,
         "y": 603.03125,
         "name": "La Polilla Negra VF-G1",
@@ -54792,7 +54792,7 @@
     },
     {
         "id": "unique-weapon-044",
-        "kind": "other",
+        "kind": "weapon",
         "x": 468.4375,
         "y": 505.5625,
         "name": "The Guardian ES18",
@@ -54842,7 +54842,7 @@
     },
     {
         "id": "unique-weapon-048",
-        "kind": "other",
+        "kind": "weapon",
         "x": 473.875,
         "y": 507.84375,
         "name": "Little Cuba Hind",
@@ -54852,7 +54852,7 @@
     },
     {
         "id": "unique-weapon-049",
-        "kind": "other",
+        "kind": "weapon",
         "x": 439.15625,
         "y": 473.03125,
         "name": "Pocketblast DSG",
@@ -54862,7 +54862,7 @@
     },
     {
         "id": "unique-weapon-050",
-        "kind": "other",
+        "kind": "weapon",
         "x": 325.1875,
         "y": 369.78125,
         "name": "Nightmare KZ-59",
@@ -54872,7 +54872,7 @@
     },
     {
         "id": "unique-weapon-051",
-        "kind": "other",
+        "kind": "weapon",
         "x": 337.65625,
         "y": 557.09375,
         "name": "Shack Attack W-14",
@@ -54882,7 +54882,7 @@
     },
     {
         "id": "unique-weapon-052",
-        "kind": "other",
+        "kind": "weapon",
         "x": 413.03125,
         "y": 294.4375,
         "name": "Firebreak SM-69",
@@ -54892,7 +54892,7 @@
     },
     {
         "id": "unique-weapon-053",
-        "kind": "other",
+        "kind": "weapon",
         "x": 360.46875,
         "y": 617.40625,
         "name": "Fincredible Laird 350",
@@ -54902,7 +54902,7 @@
     },
     {
         "id": "unique-weapon-054",
-        "kind": "other",
+        "kind": "weapon",
         "x": 310.875,
         "y": 710.40625,
         "name": "Mossy Mediator",
@@ -54912,7 +54912,7 @@
     },
     {
         "id": "unique-weapon-055",
-        "kind": "other",
+        "kind": "weapon",
         "x": 455.84375,
         "y": 589.34375,
         "name": "Star Spangled 556",
@@ -54922,7 +54922,7 @@
     },
     {
         "id": "unique-weapon-056",
-        "kind": "other",
+        "kind": "weapon",
         "x": 472.5625,
         "y": 491.78125,
         "name": "Bruiser Super400",
@@ -54932,7 +54932,7 @@
     },
     {
         "id": "unique-weapon-057",
-        "kind": "other",
+        "kind": "weapon",
         "x": 431.46875,
         "y": 469,
         "name": "Nitepower AZ1200",
@@ -54942,7 +54942,7 @@
     },
     {
         "id": "unique-weapon-058",
-        "kind": "other",
+        "kind": "weapon",
         "x": 476.65625,
         "y": 470.75,
         "name": "Backdoor Hobo",
@@ -54952,7 +54952,7 @@
     },
     {
         "id": "unique-weapon-059",
-        "kind": "other",
+        "kind": "weapon",
         "x": 448.71875,
         "y": 424.0625,
         "name": "Watcher Pro Moreland 850",
@@ -54962,7 +54962,7 @@
     },
     {
         "id": "unique-weapon-060",
-        "kind": "other",
+        "kind": "weapon",
         "x": 469.28125,
         "y": 530.5625,
         "name": "Neon Sunset Type 9",
@@ -54972,7 +54972,7 @@
     },
     {
         "id": "unique-weapon-061",
-        "kind": "other",
+        "kind": "weapon",
         "x": 474.90625,
         "y": 549.375,
         "name": "Moneymaker W-10",
@@ -54982,7 +54982,7 @@
     },
     {
         "id": "unique-weapon-062",
-        "kind": "other",
+        "kind": "weapon",
         "x": 456.65625,
         "y": 589.34375,
         "name": "Honky Tonk Mustang .357",
@@ -54992,7 +54992,7 @@
     },
     {
         "id": "unique-weapon-063",
-        "kind": "other",
+        "kind": "weapon",
         "x": 503.5625,
         "y": 454.3125,
         "name": "Iron & Oak WCR-1",
@@ -55002,7 +55002,7 @@
     },
     {
         "id": "unique-weapon-064",
-        "kind": "other",
+        "kind": "weapon",
         "x": 491.15625,
         "y": 505.21875,
         "name": "Rogue Alpha DRX",
@@ -55012,7 +55012,7 @@
     },
     {
         "id": "unique-weapon-065",
-        "kind": "other",
+        "kind": "weapon",
         "x": 432.28125,
         "y": 469,
         "name": "Nite Raptor K17",
@@ -55022,7 +55022,7 @@
     },
     {
         "id": "unique-weapon-066",
-        "kind": "other",
+        "kind": "weapon",
         "x": 439.34375,
         "y": 618.34375,
         "name": "Sand Storm ES9",
@@ -55032,7 +55032,7 @@
     },
     {
         "id": "unique-weapon-067",
-        "kind": "other",
+        "kind": "weapon",
         "x": 440.15625,
         "y": 618.34375,
         "name": "The Silver 1922",
@@ -55042,7 +55042,7 @@
     },
     {
         "id": "unique-weapon-068",
-        "kind": "other",
+        "kind": "weapon",
         "x": 504.375,
         "y": 454.3125,
         "name": "Dazzler DW-9",
@@ -55452,7 +55452,7 @@
     },
     {
         "id": "unique-weapon-069",
-        "kind": "other",
+        "kind": "weapon",
         "x": 442.46875,
         "y": 680.5,
         "name": "Gun Nut SMS-01",
@@ -58132,7 +58132,7 @@
     },
     {
         "id": "unique-weapon-070",
-        "kind": "other",
+        "kind": "weapon",
         "x": 426.34375,
         "y": 701.875,
         "name": "Comshot",
@@ -58701,16 +58701,6 @@
         "screenshot": "screenshots/gta6-card-vice-city-narcos-021.webp"
     },
     {
-        "id": "magazine-091",
-        "kind": "other",
-        "x": 504.5,
-        "y": 443.28125,
-        "name": "Styling Magazine: Van Dyke",
-        "type": "Style Magazine",
-        "description": "Outside the hall to the parking garage.",
-        "screenshot": "screenshots/gta6-magazine-091.webp"
-    },
-    {
         "id": "random-event-286",
         "kind": "event",
         "x": 428.8125,
@@ -58722,7 +58712,7 @@
     },
     {
         "id": "hidden-package-165",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 289.5625,
         "y": 493.8125,
         "name": "Cocaine Flamingo: Capri #5",
@@ -58832,7 +58822,7 @@
     },
     {
         "id": "weapon-spawn-105",
-        "kind": "other",
+        "kind": "weapon",
         "x": 483.5625,
         "y": 296.1875,
         "name": "Copperheads W-14",
@@ -58902,7 +58892,7 @@
     },
     {
         "id": "hidden-package-166",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 408.84375,
         "y": 386.65625,
         "name": "Cocaine Flamingo: Ambrosia #2",
@@ -59022,7 +59012,7 @@
     },
     {
         "id": "unique-weapon-071",
-        "kind": "other",
+        "kind": "weapon",
         "x": 334.6875,
         "y": 560.6875,
         "name": "Brainwasher 1922",
@@ -59442,7 +59432,7 @@
     },
     {
         "id": "hidden-package-173",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 447.84375,
         "y": 352.65625,
         "name": "Cocaine Flamingo: Lake Leonida",
@@ -60112,7 +60102,7 @@
     },
     {
         "id": "cocaine-flamingo-001",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 503.53125,
         "y": 444.46875,
         "name": "Cocaine Flamingo: Decor District",
@@ -60252,7 +60242,7 @@
     },
     {
         "id": "unique-weapon-074",
-        "kind": "other",
+        "kind": "weapon",
         "x": 487.5625,
         "y": 374.78125,
         "name": "Pete's KZ-59",
@@ -60862,7 +60852,7 @@
     },
     {
         "id": "style-magazine-001",
-        "kind": "other",
+        "kind": "magazine",
         "x": 351.0625,
         "y": 609.71875,
         "name": "Styling Magazine: Mutton Chops",
@@ -60912,7 +60902,7 @@
     },
     {
         "id": "cafe-takeout-105",
-        "kind": "other",
+        "kind": "food",
         "x": 425.0625,
         "y": 488.75,
         "name": "Restaurant Santiago",
@@ -61222,7 +61212,7 @@
     },
     {
         "id": "cocaine-flamingo-002",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 361.09375,
         "y": 505.15625,
         "name": "Cocaine Flamingo (restrooms)",
@@ -61362,7 +61352,7 @@
     },
     {
         "id": "style-magazine-002",
-        "kind": "other",
+        "kind": "magazine",
         "x": 557.65625,
         "y": 508.28125,
         "name": "Styling Magazine: Cat Eyes (Orange Neon & Purple)",
@@ -61492,7 +61482,7 @@
     },
     {
         "id": "cocaine-flamingo-003",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 364.875,
         "y": 261.625,
         "name": "Cocaine Flamingo",
@@ -61732,7 +61722,7 @@
     },
     {
         "id": "cocaine-flamingo-004",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 330.78125,
         "y": 359.75,
         "name": "Cocaine Flamingo (island)",
@@ -61892,7 +61882,7 @@
     },
     {
         "id": "style-magazine-003",
-        "kind": "other",
+        "kind": "magazine",
         "x": 320.40625,
         "y": 375.09375,
         "name": "Styling Magazine: Smokey Blue Make-up",
@@ -62012,7 +62002,7 @@
     },
     {
         "id": "unique-weapon-072",
-        "kind": "other",
+        "kind": "weapon",
         "x": 425.125,
         "y": 231.8125,
         "name": "Island Poacher FF-50",
@@ -62122,7 +62112,7 @@
     },
     {
         "id": "cocaine-flamingo-005",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 416.53125,
         "y": 250.0625,
         "name": "Cocaine Flamingos (2)",
@@ -62222,7 +62212,7 @@
     },
     {
         "id": "cocaine-flamingo-006",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 512.5,
         "y": 563.59375,
         "name": "Cocaine Flamingo",
@@ -63202,7 +63192,7 @@
     },
     {
         "id": "cocaine-flamingo-007",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 345.34375,
         "y": 259.28125,
         "name": "Cocaine Flamingo (beach)",
@@ -63282,7 +63272,7 @@
     },
     {
         "id": "cocaine-flamingo-008",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 483.46875,
         "y": 473.5,
         "name": "Cocaine Flamingo (white house)",
@@ -63572,7 +63562,7 @@
     },
     {
         "id": "cocaine-flamingo-009",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 457.125,
         "y": 482.9375,
         "name": "Cocaine Flamingo (river)",
@@ -63622,7 +63612,7 @@
     },
     {
         "id": "cocaine-flamingo-010",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 489.46875,
         "y": 482.25,
         "name": "Cocaine Flamingo (garbage bins)",
@@ -63652,7 +63642,7 @@
     },
     {
         "id": "cafe-takeout-106",
-        "kind": "other",
+        "kind": "food",
         "x": 450.3125,
         "y": 506.9375,
         "name": "Alderney Joe's - Salton",
@@ -63692,7 +63682,7 @@
     },
     {
         "id": "cocaine-flamingo-011",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 453.75,
         "y": 579.9375,
         "name": "Cocaine Flamingo (front of the house)",
@@ -63862,7 +63852,7 @@
     },
     {
         "id": "cocaine-flamingo-012",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 427.75,
         "y": 614.5,
         "name": "Cocaine Flamingo (front of the house)",
@@ -63942,7 +63932,7 @@
     },
     {
         "id": "cafe-takeout-107",
-        "kind": "other",
+        "kind": "food",
         "x": 428.8125,
         "y": 702.4375,
         "name": "Key Lento Candy",
@@ -64032,23 +64022,13 @@
     },
     {
         "id": "cocaine-flamingo-013",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 494.375,
         "y": 479.90625,
         "name": "Cocaine Flamingo (fence)",
         "type": "Cocaine Flamingo",
         "description": "Behind the fence by the road.",
         "screenshot": null
-    },
-    {
-        "id": "magazine-101",
-        "kind": "magazine",
-        "x": 314,
-        "y": 426.1875,
-        "name": "11:59",
-        "type": "Magazine",
-        "description": "Near the entrance.",
-        "screenshot": "screenshots/gta6-magazine-101.webp"
     },
     {
         "id": "random-event-375",
@@ -64202,7 +64182,7 @@
     },
     {
         "id": "unique-weapon-079",
-        "kind": "other",
+        "kind": "weapon",
         "x": 365.9375,
         "y": 627.5625,
         "name": "Hunter's Laird 350",
@@ -64302,7 +64282,7 @@
     },
     {
         "id": "unique-weapon-073",
-        "kind": "other",
+        "kind": "weapon",
         "x": 408.9375,
         "y": 671.375,
         "name": "Mister Mangrove Laird 350",
@@ -64352,7 +64332,7 @@
     },
     {
         "id": "cocaine-flamingo-015",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 300.78125,
         "y": 392.21875,
         "name": "Cocaine Flamingo (trailer)",
@@ -64562,7 +64542,7 @@
     },
     {
         "id": "unique-weapon-080",
-        "kind": "other",
+        "kind": "weapon",
         "x": 374.53125,
         "y": 338.25,
         "name": "Midlife Crisis VF5",
@@ -64682,7 +64662,7 @@
     },
     {
         "id": "style-magazine-004",
-        "kind": "other",
+        "kind": "magazine",
         "x": 573.09375,
         "y": 455.21875,
         "name": "Styling Magazine: Pixie Cut",
@@ -64692,7 +64672,7 @@
     },
     {
         "id": "unique-weapon-081",
-        "kind": "other",
+        "kind": "weapon",
         "x": 480.5625,
         "y": 380.34375,
         "name": "Pete's KZ-59 Assault Rifle",
@@ -64802,7 +64782,7 @@
     },
     {
         "id": "cocaine-flamingo-018",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 472.0625,
         "y": 512.8125,
         "name": "Cocaine Flamingo (Little Cuba)",
@@ -64842,7 +64822,7 @@
     },
     {
         "id": "unique-weapon-082",
-        "kind": "other",
+        "kind": "weapon",
         "x": 479.125,
         "y": 595.5625,
         "name": "Candy Suxxx Bat",
@@ -64862,7 +64842,7 @@
     },
     {
         "id": "cocaine-flamingo-019",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 422.5,
         "y": 420.53125,
         "name": "Cocaine Flamingo (floating)",
@@ -64912,7 +64892,7 @@
     },
     {
         "id": "cocaine-flamingo-020",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 391.8125,
         "y": 469.78125,
         "name": "Cocaine Flamingo (small island)",
@@ -65012,7 +64992,7 @@
     },
     {
         "id": "style-magazine-005",
-        "kind": "other",
+        "kind": "magazine",
         "x": 430.125,
         "y": 491.53125,
         "name": "Styling Magazine: Lumberjack",
@@ -65042,7 +65022,7 @@
     },
     {
         "id": "cafe-takeout-108",
-        "kind": "other",
+        "kind": "food",
         "x": 482.59375,
         "y": 463.59375,
         "name": "Jeudy's Restaurant",
@@ -65242,7 +65222,7 @@
     },
     {
         "id": "cocaine-flamingo-017",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 423.59375,
         "y": 486.25,
         "name": "Cocaine Flamingo (Zotico's)",
@@ -65552,7 +65532,7 @@
     },
     {
         "id": "cocaine-flamingo-016",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 524.375,
         "y": 436.4375,
         "name": "Cocaine Flamingo (floaty)",
@@ -65792,7 +65772,7 @@
     },
     {
         "id": "cocaine-flamingo-014",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 428.625,
         "y": 378.40625,
         "name": "Cocaine Flamingo (porch)",
@@ -65972,7 +65952,7 @@
     },
     {
         "id": "cocaine-flamingo-022",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 391.96875,
         "y": 469.78125,
         "name": "Cocaine Flamingo (swamp camp)",
@@ -65982,7 +65962,7 @@
     },
     {
         "id": "unique-weapon-076",
-        "kind": "other",
+        "kind": "weapon",
         "x": 532,
         "y": 316.0625,
         "name": "Cursed Knife",
@@ -66102,7 +66082,7 @@
     },
     {
         "id": "unique-weapon-077",
-        "kind": "other",
+        "kind": "weapon",
         "x": 442.875,
         "y": 262.96875,
         "name": "Deadringer 1922",
@@ -66172,7 +66152,7 @@
     },
     {
         "id": "cocaine-flamingo-024",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 431.6875,
         "y": 259.25,
         "name": "Cocaine Flamingo (use Focus)",
@@ -66302,7 +66282,7 @@
     },
     {
         "id": "style-magazine-007",
-        "kind": "other",
+        "kind": "magazine",
         "x": 348.375,
         "y": 739.28125,
         "name": "Styling Magazine: Pop Star Make-up",
@@ -66332,7 +66312,7 @@
     },
     {
         "id": "unique-weapon-078",
-        "kind": "other",
+        "kind": "weapon",
         "x": 295.1875,
         "y": 505.84375,
         "name": "CPD Moreland 850",
@@ -66402,7 +66382,7 @@
     },
     {
         "id": "cafe-takeout-109",
-        "kind": "other",
+        "kind": "food",
         "x": 298.78125,
         "y": 503.9375,
         "name": "Sweet Releaf",
@@ -66412,7 +66392,7 @@
     },
     {
         "id": "cafe-takeout-110",
-        "kind": "other",
+        "kind": "food",
         "x": 298.53125,
         "y": 503.875,
         "name": "Janet's Bakery",
@@ -66932,7 +66912,7 @@
     },
     {
         "id": "cocaine-flamingo-025",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 400.9375,
         "y": 306.5625,
         "name": "Cocaine Flamingo (waterfall)",
@@ -68282,7 +68262,7 @@
     },
     {
         "id": "style-magazine-006",
-        "kind": "other",
+        "kind": "magazine",
         "x": 429.28125,
         "y": 497.625,
         "name": "Styling Magazine: Jason Hair Style",
@@ -68392,7 +68372,7 @@
     },
     {
         "id": "cocaine-flamingo-023",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 423,
         "y": 489.4375,
         "name": "Cocaine Flamingo",
@@ -68512,7 +68492,7 @@
     },
     {
         "id": "cocaine-flamingo-021",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 532.09375,
         "y": 320.6875,
         "name": "Cocaine Flamingo (Little Hardin Island)",
@@ -68582,7 +68562,7 @@
     },
     {
         "id": "cocaine-flamingo-026",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 293.21875,
         "y": 493.4375,
         "name": "Cocaine Flamingo (roadside shop)",
@@ -68602,7 +68582,7 @@
     },
     {
         "id": "cocaine-flamingo-027",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 362.75,
         "y": 605.3125,
         "name": "Cocaine Flamingo (front door)",
@@ -68621,18 +68601,8 @@
         "screenshot": "screenshots/gta6-meteorite-112.webp"
     },
     {
-        "id": "card-delights-022",
-        "kind": "card",
-        "x": 345.0625,
-        "y": 402.21875,
-        "name": "Delights card: Vicki (Standard)",
-        "type": "Delights card",
-        "description": "Starlet Motel: on the floor next to the toilet in the reception bathroom (main entrance, then right through the glass door). Second spot for this card.",
-        "screenshot": "screenshots/gta6-card-delights-022.webp"
-    },
-    {
         "id": "cocaine-flamingo-028",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 468.6875,
         "y": 584.59375,
         "name": "Cocaine Flamingo (Emory Ave)",
@@ -68652,7 +68622,7 @@
     },
     {
         "id": "unique-weapon-083",
-        "kind": "other",
+        "kind": "weapon",
         "x": 471.03125,
         "y": 498.1875,
         "name": "Low Point Nipper .38",
@@ -69062,7 +69032,7 @@
     },
     {
         "id": "cocaine-flamingo-030",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 351.3125,
         "y": 622.21875,
         "name": "Cocaine Flamingo (alley)",
@@ -69162,7 +69132,7 @@
     },
     {
         "id": "cocaine-flamingo-029",
-        "kind": "other",
+        "kind": "flamingo",
         "x": 499.375,
         "y": 487,
         "name": "Cocaine Flamingo (Bayside, chess game)",
@@ -69359,16 +69329,6 @@
         "type": "Americas Next Top Hooker card",
         "description": "Inside the warehouse, next to the computer. Second spot for this card.",
         "screenshot": "screenshots/gta6-card-americas-next-top-hooker-036.webp"
-    },
-    {
-        "id": "luxury-watch-037",
-        "kind": "other",
-        "x": 557.15625,
-        "y": 508.53125,
-        "name": "Luxury Watch: Crowex Submerge 'Ratface'",
-        "type": "Luxury Watch",
-        "description": "Between the bags next to the couches.",
-        "screenshot": "screenshots/gta6-luxury-watch-037.webp"
     },
     {
         "id": "scoop-container-111",

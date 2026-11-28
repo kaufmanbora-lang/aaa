@@ -129,7 +129,7 @@ IGN_CAT = {
 # Open GTA 6 Map "type" -> category (None = skip)
 OM_CAT = {
     'Standout vehicle': 'veh_standout', 'Vehicle spawn': 'veh_standout', 'Vehicle request': 'veh_randy',
-    'Wyman Car': 'veh_randy', 'Kitty Litter Lab': 'gang', 'Waink Noflusher': 'waink_c',
+    'Wyman Car': 'veh_randy', 'Kitty Litter Lab': 'gang', 'Waink Noflusher': 'waink_c', 'Cocaine Flamingo': 'package',
     'Unique Weapon': 'weapon', 'Weapon pickup': 'wpickup', 'Safe': 'safe', 'Luxury Watch': 'valuable',
     'Easter Egg': 'secret', 'Random event': 'event', 'Yellow Loot Box': 'loot', 'Scoop Container': 'scoop',
     'Hidden package': 'package', 'Meteorite': 'meteorite', 'Treasure': 'treasure', 'Message in a bottle': 'treasure',
@@ -178,6 +178,7 @@ OM_SUB = {
     'Gang compound': 'База банды', 'Car Meet': 'Автовстреча', 'Mini golf': 'Мини-гольф', 'Golf': 'Гольф', 'Cinema': 'Кинотеатр',
     "Smash 'n' Grab": "Smash 'n' Grab",
     'Wyman Car': 'Остов машины для Уаймана', 'Kitty Litter Lab': 'Лаборатория Kitty Litter', 'Waink Noflusher': 'Тег No Flusher',
+    'Cocaine Flamingo': 'Фламинго с кокаином',
 }
 LABEL = {
     'Access': 'Двери', 'Security': 'Охрана', 'Tracker': 'Трекер', 'Sell Value': 'Цена продажи',

@@ -391,6 +391,7 @@ def parse_om_desc(desc):
     return facts, '; '.join(text)
 
 
+om_unmapped = collections.Counter()      # upstream types with no category of their own: they land in 'other buildings'
 for l in OM:
     oid = l['id']
     om_ids.append(oid)
@@ -398,6 +399,8 @@ for l in OM:
         continue
     typ = l.get('type') or ''
     cat = OM_CAT[typ] if typ in OM_CAT else ('card' if typ.endswith(' card') else OM_KIND.get(l.get('kind'), 'lm_other'))
+    if typ not in OM_CAT and not typ.endswith(' card') and l.get('kind') not in OM_KIND:
+        om_unmapped[typ] += 1
     if cat is None:
         continue
     om_types[typ] = cat
@@ -544,6 +547,8 @@ for mk in ign_markers + om_markers:
                 mk.setdefault('u', []).append(['Гайд PowerPyx', ref])
             if k == 'gtadb':
                 mk.setdefault('u', []).append(['Это место в GTADB', f'https://map.gtadb.org/#VI,{ref}'])
+if om_unmapped:
+    print('WARNING: Open GTA 6 Map types without a category (shown as other buildings) - add them to OM_CAT and OM_SUB in taxonomy.py:', dict(om_unmapped))
 print('points confirmed by GTADB / PowerPyx:', confirmed)
 
 # ----------------------------------------------------------------------------- extras (research)
@@ -626,7 +631,7 @@ if os.path.exists(gp):
         return None
     GK = {'money': 'Денежный глитч', 'duplication': 'Дюп', 'out_of_bounds': 'Выход за карту', 'safe_spot': 'Безопасная точка',
           'infinite': 'Бесконечный ресурс', 'physics': 'Физика', 'interior': 'Закрытый интерьер', 'other': 'Баг'}
-    GN = [('character-switch', 'Глитч Apollo Aggregates: смена персонажа'), ('van drive', 'Глитч Apollo Aggregates: уехать на фургоне'),
+    GN = [('stash bag', 'Дюп сумки с добычей (Stash Bag)'), ('character-switch', 'Глитч Apollo Aggregates: смена персонажа'), ('van drive', 'Глитч Apollo Aggregates: уехать на фургоне'),
           ('save and reload', 'Денежный глитч Apollo Aggregates: сохранение и загрузка'),
           ("donnie's payment", 'Баг: плата Донни не появляется у трейлера')]
 
@@ -649,7 +654,7 @@ if os.path.exists(gp):
         ang = i * 2.1
         glitch_markers.append({
             'id': f'xg{i}', 'c': 'glitch', 'n': glitch_name(it['name']), 'r': 4 if it.get('verified') else 2,
-            'x': round(a['x'] + 16 * math.cos(ang)), 'y': round(a['y'] + 16 * math.sin(ang)), 't': it.get('desc_ru'),
+            'x': round(a['x'] + (16 + 9 * (i // 3)) * math.cos(ang)), 'y': round(a['y'] + (16 + 9 * (i // 3)) * math.sin(ang)), 't': it.get('desc_ru'),
             'f': facts, 'u': links, 's': ['web'], 'v': 3 if it.get('verified') else 1, 'sub': GK.get(it.get('kind'), 'Баг'),
             '_gst': st,
         })

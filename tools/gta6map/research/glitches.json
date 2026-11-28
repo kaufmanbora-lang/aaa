@@ -19,7 +19,7 @@
    "No story-mode vehicle, weapon or item duplication glitch was found in written sources; only YouTube video titles claim one.",
    "No respawning-safe, cash-register or ATM exploit other than the Apollo Aggregates warehouse was found."
   ],
-  "last_checked": "2026-11-27",
+  "last_checked": "2026-11-28",
   "check_log": [
    {
     "date": "2026-11-25",
@@ -35,6 +35,11 @@
     "date": "2026-11-27",
     "searches": 6,
     "result": "No update newer than 01.002.002 and no report of a hotfix. No status change for the listed glitches; no new location-based glitch found. New secret confirmed by several outlets: the Vice City portal chain (Badger R&D tower -> 12 LPL substations -> Reactor 2 at the Turtle Head power station), added to extras_manual.json."
+   },
+   {
+    "date": "2026-11-28",
+    "searches": 6,
+    "result": "No update newer than 01.002.002. Apollo Aggregates respawn still listed as not patched (gta6bugs, Duuro Plays, ComicBook). New glitch added: stash bag duplication (Insider Gaming, ComicBook, Game Rant, Sportskeeda). Tallaloko ritual room details (door code 7304) confirmed by three guides and attached to the existing knife and safe pins."
    }
   ]
  },
@@ -85,7 +90,7 @@
    "gives": "Repeatable cash: about $8,000-11,000 per run reported (higher claims of $12,000-15,000; PC Gamer reports about $50,000 in 15 minutes).",
    "status": "working",
    "status_basis": "post_patch_reports",
-   "last_confirmed": "2026-11-25",
+   "last_confirmed": "2026-11-27",
    "version": "01.002.002",
    "patched_in": null,
    "sources": [
@@ -106,7 +111,9 @@
     "https://gta6carte.com/en/place/l2453-apollo-aggregates",
     "https://www.gtaboom.com/gta-6-nude-glitch-and-money-exploit-survives-first-patch-cd3d",
     "https://retrobroker.com/en-US/us/blog/gta-6-teddy-bear-van-money-glitch-guide",
-    "https://www.gamespot.com/articles/gta-6-infinite-cash-money-cheat-exploit/"
+    "https://www.gamespot.com/articles/gta-6-infinite-cash-money-cheat-exploit/",
+    "https://gta6bugs.com/bugs/gta-6-money-glitch-apollo-aggregates-warehouse",
+    "https://duuro.net/blog/gta-6-infinite-money-glitch"
    ],
    "verified": true,
    "desc_ru": "Денежный глитч на складе Apollo Aggregates («красный амбар») к востоку от Хэмлета, севернее Ки-Ленто. Соберите кокаин и наличку в сумки, сложите их в багажник личной машины Джейсона, сделайте ручное сохранение и загрузите его — добыча на складе появится снова, а сумки останутся в машине (примерно $8–11 тыс. за заход). По сообщениям игроков, работает после патча 01.002.002 от 23.11.2026, но Rockstar может исправить его в любой момент.",
@@ -250,6 +257,30 @@
    "verified": true,
    "desc_ru": "Баг в спортзале: штангу для становой тяги нельзя было использовать. Исправлено в патче 01.002.002 от 23.11.2026.",
    "notes": "Patched; listed so it can be excluded. One outlet said it was still unconfirmed whether the gym fix works in play."
+  },
+  {
+   "name": "Stash bag duplication (drop and pick up while crouched)",
+   "kind": "duplication",
+   "region": "Not tied to one place; guides suggest the warehouse in South Vice-Dale County as the safest spot",
+   "area": "East of Hamlet, north of Key Lento (recommended spot only)",
+   "landmark": "Apollo Aggregates red warehouse - recommended place to fill the bags; the trick itself works wherever you hold a stash bag",
+   "spot": "Anywhere quiet. Guides use the Apollo Aggregates warehouse because the bags can be filled there.",
+   "steps": "Hold a filled stash bag, crouch, drop the bag from the items side of the weapon wheel and pick it up again without moving the character. Each pickup is reported to add the bag's original value again. One guide uses two bags at once.",
+   "gives": "Claims range from about $600,000 in under three minutes (two bags) to over $1.5 million in five minutes. Limits conflict between guides: about 12 repeats per bag, or a cap of about $130,000 per bag.",
+   "status": "working",
+   "status_basis": "post_patch_reports",
+   "last_confirmed": "2026-11-27",
+   "version": "01.002.002",
+   "patched_in": null,
+   "sources": [
+    "https://insider-gaming.com/how-to-gta-6-money-glitch-stash-bag-duplication/",
+    "https://comicbook.com/gaming/news/ultra-fast-gta-6-stash-bag-money-glitch-lets-users-make-1-5-million-in-5-minutes/",
+    "https://gamerant.com/gta-6-unlimited-money-glitch-stash-bag-duplication-grand-theft-auto-6/",
+    "https://www.sportskeeda.com/esports/new-gta-6-money-duplication-glitch-can-net-600k-three-minutes"
+   ],
+   "verified": true,
+   "desc_ru": "Дюп сумки с добычей: держа заполненную сумку (Stash Bag), присядьте, выбросьте её через раздел предметов в колесе оружия и подберите снова, не сходя с места — по сообщениям, при каждом подборе к сумме добавляется исходная стоимость сумки. Трюк не привязан к месту: метка стоит у склада Apollo Aggregates, потому что гайды советуют делать его там, где сумки легко наполнить. Пределы в гайдах расходятся — около 12 повторов на сумку либо потолок около $130 000 на сумку; заявленный доход — от $600 000 за три минуты до $1,5 млн за пять. Работает на версии 01.002.002, но Rockstar может закрыть его в любой момент.",
+   "notes": "Added 2026-11-28 from search-result summaries of four outlets; no page was opened. One site (217gs.com) describes a different mechanism and a patch date that no other source repeats - not used. Yields are unverified claims."
   }
  ],
  "unplaced": [

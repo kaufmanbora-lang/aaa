@@ -50,5 +50,9 @@
   { "id": "L3197", "reason": "Duplicate of L679 (Gas Station), 0.63 map units away; its service is merged into L679" },
   { "id": "L3283", "reason": "Duplicate of L1536 (Arrow Gas Station), 0.85 map units away; its service is merged into L1536" },
   { "id": "L3299", "reason": "Duplicate of L3116 (Bus Stop), 0.92 map units away; its service is merged into L3116" },
-  { "id": "card-americas-next-top-hooker-025", "reason": "Duplicate of card-americas-next-top-hooker-009 (America's Next Top Hooker card: Kalvyn (Standard)), 0.47 map units away" }
+  { "id": "card-americas-next-top-hooker-025", "reason": "Duplicate of card-americas-next-top-hooker-009 (America's Next Top Hooker card: Kalvyn (Standard)), 0.47 map units away" },
+  { "id": "card-delights-022", "reason": "Duplicate of card-delights-002 (same name and spot), added by a data sync" },
+  { "id": "magazine-101", "reason": "Duplicate of magazine-037 (same name and spot), added by a data sync" },
+  { "id": "luxury-watch-037", "reason": "Duplicate of luxury-watch-017 (same name and spot), added by a data sync" },
+  { "id": "magazine-091", "reason": "Duplicate of magazine-089 (same name and spot), added by a data sync" }
 ]
